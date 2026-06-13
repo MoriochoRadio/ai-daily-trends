@@ -145,6 +145,7 @@ def reddit(limit=6):
 # ---------- YouTube (AI/테크 유명 채널 최신 영상, 공개 RSS) ----------
 # 채널 ID 는 youtube.com/@handle 페이지에서 확인. 새 채널을 넣으려면 (channel_id, 표시이름) 추가.
 YT_CHANNELS = [
+    # 해외 AI/테크 채널
     ("UCbfYPyITQ-7l4upoX8nvctg", "Two Minute Papers"),
     ("UCNJ1Ymd5yFuUPtn21xtRbbw", "AI Explained"),
     ("UCHmD-oSpV0sNfAUnpYpj8KA", "Yannic Kilcher"),
@@ -154,9 +155,14 @@ YT_CHANNELS = [
     ("UCQALLeQPoZdZC4JNUboVEUg", "sentdex"),
     ("UCIgnGlGkVRhd4qNFcEwLL4A", "AI Search"),
     ("UCGkpFfEMF0eMJlh9xXj2lMw", "ColdFusion"),
+    # 한국 AI/테크 채널
+    ("UCeN2YeJcBCRJoXgzF_OU3qw", "안될공학"),
+    ("UCYaDkwVaOhuoe_LuFr3lWkA", "조코딩"),
+    ("UCt2wAAXgm87ACiQnDHQEW6Q", "테디노트"),
+    ("UC2L1DgDMD5pJ-35G47Objfw", "빵형의 개발도상국"),
 ]
 
-def youtube(limit=6):
+def youtube(limit=9):
     """각 채널의 최신 영상 1개씩 모아 게시일 기준 최신순으로 정렬해 상위 N개."""
     vids = []
     for cid, name in YT_CHANNELS:

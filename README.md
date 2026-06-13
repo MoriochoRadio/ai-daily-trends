@@ -32,7 +32,7 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 | **GitHub Trending** | HTML 스크레이핑 (daily / python / jupyter) | 오늘 가장 많은 ★를 받은 AI 저장소 |
 | **Hacker News** | [Algolia HN Search API](https://hn.algolia.com/api) | 프론트페이지의 AI 관련 핵심 논의 |
 | **Reddit** | 공개 RSS 피드 (`r/LocalLLaMA`, `r/MachineLearning`) | 커뮤니티 화제글 |
-| **YouTube** | 채널 RSS 피드 (큐레이션된 AI/테크 채널) | 유명 채널의 최신 영상 (Two Minute Papers, Lex Fridman, Karpathy, Fireship 등) |
+| **YouTube** | 채널 RSS 피드 (큐레이션된 AI/테크 채널) | 해외(Two Minute Papers, Lex Fridman, Karpathy, Fireship 등) + 국내(안될공학, 조코딩, 테디노트, 빵형의 개발도상국) 채널의 최신 영상 |
 | **화제의 SNS** | HN 내 X/Twitter 링크 추출 | 인플루언서·연구자의 화제 스레드 |
 
 > **한국어 요약:** 수집된 모든 항목은 [GitHub Models](https://github.com/marketplace/models)(무료, `gpt-4o-mini`)로 한국어 1문장 요약을 생성합니다. API 키 없이 Actions의 `GITHUB_TOKEN`만으로 동작하며, 요약 단계가 실패해도 사이트는 원문으로 정상 빌드됩니다(graceful).
