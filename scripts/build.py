@@ -45,11 +45,17 @@ for r in DATA["hackernews"]:
 
 rd_rows = []
 for r in DATA.get("reddit", []):
+    # RSS 출처에는 점수·댓글 수가 없으므로, 있으면 표시하고 없으면 작성자를 보여준다.
+    if "score" in r:
+        meta = '<span class="up">&#9650; %s</span><span>%s 댓글</span>' % (r.get("score", 0), r.get("comments", 0))
+    else:
+        author = esc(r.get("author", "")) if r.get("author") else "reddit"
+        meta = '<span class="up">u/%s</span><span>커뮤니티 화제글</span>' % author
     rd_rows.append(
         '<a class="rd" href="%s" target="_blank" rel="noopener">'
         '<div class="rd-sub">r/%s</div><div class="rd-title">%s</div>'
-        '<div class="rd-meta"><span class="up">&#9650; %s</span><span>%s 댓글</span></div></a>'
-        % (esc(r["url"]), esc(r.get("sub", "")), esc(r["title"]), r.get("score", 0), r.get("comments", 0)))
+        '<div class="rd-meta">%s</div></a>'
+        % (esc(r["url"]), esc(r.get("sub", "")), esc(r["title"]), meta))
 
 reddit_card = ""
 if rd_rows:

@@ -1,12 +1,19 @@
 #!/usr/bin/env python3
 """매일 AI 트렌드를 수집해 data/data.json 으로 저장한다.
-소스: GitHub Trending(스크레이핑), Hacker News(Algolia API), Reddit(공개 JSON), 화제의 SNS(HN의 X 링크).
+소스: GitHub Trending(스크레이핑), Hacker News(Algolia API), Reddit(공개 RSS), 화제의 SNS(HN의 X 링크).
 GitHub Actions 러너처럼 외부 네트워크가 열린 환경에서 실행하는 것을 전제로 한다.
 """
-import json, re, html as ih, urllib.request, datetime, pathlib
+import json, re, html as ih, urllib.request, urllib.error, time, datetime, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (AI-Daily-Trends bot)"}
+# Reddit 은 단순 봇 UA 의 JSON 엔드포인트를 403 으로 차단하므로, 브라우저 헤더 + 공개 RSS 를 사용한다.
+RSS_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/rss+xml,application/atom+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+}
 
 AI_KEYWORDS = ["ai", "llm", "gpt", "gemini", "claude", "openai", "anthropic", "model",
                "neural", "agent", "ml ", "machine learning", "deep learning", "rag",
@@ -70,22 +77,62 @@ def hacker_news(limit=8):
     out.sort(key=lambda x: -x["points"])
     return out[:limit]
 
-# ---------- Reddit ----------
-def reddit(limit=6):
-    out = []
-    for sub in ["LocalLLaMA", "MachineLearning"]:
+# ---------- Reddit (공개 RSS) ----------
+# RSS 에는 stickied 플래그가 없으므로, 반복되는 운영(모더레이터) 고정글을 제목·작성자로 걸러낸다.
+REDDIT_NOISE = ["self-promotion", "who's hiring", "who is hiring", "monthly", "weekly",
+                "simple questions", "discussion thread", "megathread", "rules of"]
+
+def _is_reddit_noise(title, author):
+    if author.lower().endswith("automoderator"):
+        return True
+    tl = title.lower()
+    return any(k in tl for k in REDDIT_NOISE)
+
+def _fetch_rss(url, retries=3):
+    """429(rate limit)면 잠시 쉬었다가 재시도. 실패하면 빈 문자열."""
+    for attempt in range(retries):
         try:
-            d = json.load(fetch(f"https://www.reddit.com/r/{sub}/hot.json?limit=10"))
-        except Exception:
-            continue
-        for c in d["data"]["children"]:
-            p = c["data"]
-            if p.get("stickied"):
+            req = urllib.request.Request(url, headers=RSS_HEADERS)
+            return urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < retries - 1:
+                time.sleep(5 * (attempt + 1))
                 continue
-            out.append({"title": p["title"], "sub": sub, "score": p.get("score", 0),
-                        "comments": p.get("num_comments", 0),
-                        "url": "https://www.reddit.com" + p["permalink"]})
-    out.sort(key=lambda x: -x["score"])
+            return ""
+        except Exception:
+            return ""
+    return ""
+
+def reddit(limit=6):
+    """RSS hot 피드 사용. RSS 에는 점수·댓글 수가 없으므로, reddit 의 hot 정렬 순서를
+    그대로 인기 순위로 활용하고 작성자(author)를 함께 담는다."""
+    out = []
+    subs = ["LocalLLaMA", "MachineLearning"]
+    per_sub = max(2, (limit + len(subs) - 1) // len(subs))
+    for i, sub in enumerate(subs):
+        if i:
+            time.sleep(10)  # 연속 요청 시 429 회피 (RSS rate limit 이 엄격함)
+        body = _fetch_rss(f"https://www.reddit.com/r/{sub}/hot/.rss?limit=12")
+        if not body:
+            continue
+        count = 0
+        for ent in re.split(r"<entry>", body)[1:]:
+            t = re.search(r"<title>(.*?)</title>", ent, re.S)
+            l = re.search(r'<link[^>]*href="([^"]+)"', ent)
+            a = re.search(r"<author>.*?<name>(.*?)</name>", ent, re.S)
+            if not t or not l:
+                continue
+            title = ih.unescape(t.group(1).strip())
+            # Atom author name 은 "/u/이름" 형식 → 접두어 제거해 순수 사용자명만 저장
+            author = re.sub(r"^/?u/", "", ih.unescape(a.group(1).strip())) if a else ""
+            if _is_reddit_noise(title, author):  # 고정 운영글 제외
+                continue
+            out.append({"title": title, "sub": sub,
+                        "author": author,
+                        "url": ih.unescape(l.group(1).strip())})
+            count += 1
+            if count >= per_sub:
+                break
     return out[:limit]
 
 # ---------- Social (HN 내 X/Twitter 링크) ----------
