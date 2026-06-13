@@ -1,4 +1,10 @@
+# Python
 *.pyc
 __pycache__/
+
+# OS
 .DS_Store
-ui-ux-pro-max-skill/
+Thumbs.db
+
+# UI/UX Pro Max 스킬(로컬 도구) — 저장소에는 생성 결과물(design-system/)만 포함
+.claude/
