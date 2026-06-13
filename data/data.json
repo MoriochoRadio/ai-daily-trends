@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:03:15.236848+00:00",
+  "generated_at": "2026-06-13T07:09:11.234179+00:00",
   "date_label": "2026년 6월 13일 (토)",
   "github_trending": [
     {
@@ -112,28 +112,28 @@
     {
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "points": 710,
+      "points": 716,
       "comments": 227,
       "hn_url": "https://news.ycombinator.com/item?id=48511908"
     },
     {
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "points": 339,
+      "points": 340,
       "comments": 83,
       "hn_url": "https://news.ycombinator.com/item?id=48507020"
     },
     {
       "title": "Palantir loses legal challenge against Swiss investigative magazine",
       "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "points": 291,
+      "points": 293,
       "comments": 57,
       "hn_url": "https://news.ycombinator.com/item?id=48509182"
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "points": 185,
+      "points": 186,
       "comments": 117,
       "hn_url": "https://news.ycombinator.com/item?id=48504912"
     },
@@ -147,22 +147,22 @@
     {
       "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
       "url": "https://bitboard.work/",
-      "points": 41,
+      "points": 42,
       "comments": 21,
       "hn_url": "https://news.ycombinator.com/item?id=48506545"
     },
     {
       "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "url": "https://tectonic-typesetting.github.io/en-US/",
-      "points": 39,
+      "points": 40,
       "comments": 8,
       "hn_url": "https://news.ycombinator.com/item?id=48467697"
     },
     {
       "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
       "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "points": 20,
-      "comments": 13,
+      "points": 21,
+      "comments": 15,
       "hn_url": "https://news.ycombinator.com/item?id=48513728"
     }
   ],
@@ -209,7 +209,7 @@
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "handle": "@jsrailton",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "note": "HN 370pts · 206 댓글"
+      "note": "HN 371pts · 207 댓글"
     }
   ]
 }
