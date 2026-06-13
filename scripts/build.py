@@ -44,15 +44,19 @@ for i, r in enumerate(DATA["github_trending"], 1):
            lang_dot(r.get("lang", "")), stars_label(r.get("stars_today", ""))))
 
 # ---------- Hacker News ----------
+def orig_line(r):
+    """원문 제목을 작게 보여주는 줄 (한국어 제목이 따로 있을 때만)."""
+    tko = r.get("title_ko")
+    return ('<div class="orig">%s</div>' % esc(r["title"])) if tko and tko != r["title"] else ""
+
 hn_rows = []
 for r in DATA["hackernews"]:
     summ = r.get("summary_ko", "")
     hn_rows.append(
         '<a class="post" href="%s" target="_blank" rel="noopener">'
-        '<div class="post-title">%s</div>'
-        '%s'
+        '<div class="post-title">%s</div>%s%s'
         '<div class="post-meta"><span class="pts">&#9650; %s</span><span class="cmt">%s 댓글</span><span class="hn">HN</span></div>'
-        '</a>' % (esc(r["url"]), esc(r["title"]),
+        '</a>' % (esc(r["url"]), esc(r.get("title_ko") or r["title"]), orig_line(r),
                   ('<div class="post-summary">%s</div>' % esc(summ)) if summ else "",
                   r.get("points", 0), r.get("comments", 0)))
 
@@ -67,10 +71,9 @@ for r in DATA.get("reddit", []):
         meta = '<span class="up">u/%s</span><span>커뮤니티 화제글</span>' % author
     rd_rows.append(
         '<a class="rd" href="%s" target="_blank" rel="noopener">'
-        '<div class="rd-sub">r/%s</div><div class="rd-title">%s</div>'
-        '%s'
+        '<div class="rd-sub">r/%s</div><div class="rd-title">%s</div>%s%s'
         '<div class="rd-meta">%s</div></a>'
-        % (esc(r["url"]), esc(r.get("sub", "")), esc(r["title"]),
+        % (esc(r["url"]), esc(r.get("sub", "")), esc(r.get("title_ko") or r["title"]), orig_line(r),
            ('<div class="rd-summary">%s</div>' % esc(summ)) if summ else "", meta))
 
 reddit_card = ""
@@ -88,10 +91,9 @@ for r in DATA.get("youtube", []):
     yt_rows.append(
         '<a class="yt" href="%s" target="_blank" rel="noopener">'
         '<div class="yt-channel">%s%s</div>'
-        '<div class="yt-title">%s</div>'
-        '%s'
+        '<div class="yt-title">%s</div>%s%s'
         '<div class="yt-date">%s</div></a>'
-        % (esc(r["url"]), YT_SVG, esc(r["channel"]), esc(r["title"]),
+        % (esc(r["url"]), YT_SVG, esc(r["channel"]), esc(r.get("title_ko") or r["title"]), orig_line(r),
            ('<div class="yt-summary">%s</div>' % esc(summ)) if summ else "",
            esc(r.get("published", ""))))
 
@@ -109,10 +111,9 @@ for r in DATA["social"]:
     summ = r.get("summary_ko", "")
     soc_rows.append(
         '<a class="social" href="%s" target="_blank" rel="noopener">'
-        '<div class="social-handle">%s</div><div class="social-title">%s</div>'
-        '%s'
+        '<div class="social-handle">%s</div><div class="social-title">%s</div>%s%s'
         '<div class="social-note">%s</div></a>'
-        % (esc(r["url"]), esc(r["handle"]), esc(r["title"]),
+        % (esc(r["url"]), esc(r["handle"]), esc(r.get("title_ko") or r["title"]), orig_line(r),
            ('<div class="social-summary">%s</div>' % esc(summ)) if summ else "",
            esc(r.get("note", ""))))
 
@@ -181,7 +182,8 @@ header{position:sticky;top:0;z-index:20;backdrop-filter:blur(12px);background:rg
 .post:hover{background:var(--muted)}
 .post:hover .post-title{color:var(--accent)}
 .post+.post{border-top:1px solid rgba(51,65,85,.5)}
-.post-title{font-weight:500;font-size:14.5px;transition:color .2s;line-height:1.4}
+.post-title{font-weight:600;font-size:15px;transition:color .2s;line-height:1.42}
+.orig{font-size:11.5px;color:var(--fg-dim);opacity:.6;margin-top:3px;line-height:1.35;font-style:italic}
 .post-summary{font-size:12.5px;color:var(--fg-dim);margin-top:6px;line-height:1.5}
 .post-meta{display:flex;gap:14px;font-size:12px;color:var(--fg-dim);margin-top:8px}
 .post-meta .pts{color:#FB923C;font-weight:500}
