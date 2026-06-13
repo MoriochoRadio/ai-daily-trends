@@ -103,37 +103,44 @@ def _fetch_rss(url, retries=3):
             return ""
     return ""
 
+def _parse_reddit_feed(body, sub):
+    items = []
+    for ent in re.split(r"<entry>", body)[1:]:
+        t = re.search(r"<title>(.*?)</title>", ent, re.S)
+        l = re.search(r'<link[^>]*href="([^"]+)"', ent)
+        a = re.search(r"<author>.*?<name>(.*?)</name>", ent, re.S)
+        if not t or not l:
+            continue
+        title = ih.unescape(t.group(1).strip())
+        # Atom author name 은 "/u/이름" 형식 → 접두어 제거해 순수 사용자명만 저장
+        author = re.sub(r"^/?u/", "", ih.unescape(a.group(1).strip())) if a else ""
+        if _is_reddit_noise(title, author):  # 고정 운영글 제외
+            continue
+        items.append({"title": title, "sub": sub, "author": author,
+                      "url": ih.unescape(l.group(1).strip())})
+    return items
+
 def reddit(limit=6):
-    """RSS hot 피드 사용. RSS 에는 점수·댓글 수가 없으므로, reddit 의 hot 정렬 순서를
-    그대로 인기 순위로 활용하고 작성자(author)를 함께 담는다."""
-    out = []
+    """RSS hot 피드 사용. RSS 에는 점수·댓글 수가 없으므로 reddit 의 hot 순서를 인기순위로 쓴다.
+    Reddit 은 CI 공유 IP 를 강하게 rate-limit 해서 일부 서브레딧이 막힐 수 있으므로,
+    성공한 피드들을 라운드로빈으로 섞어 빈 슬롯을 채운다(한쪽만 살아도 limit 까지 채움)."""
     subs = ["LocalLLaMA", "MachineLearning"]
-    per_sub = max(2, (limit + len(subs) - 1) // len(subs))
+    per_sub_items = []
     for i, sub in enumerate(subs):
         if i:
             time.sleep(10)  # 연속 요청 시 429 회피 (RSS rate limit 이 엄격함)
         body = _fetch_rss(f"https://www.reddit.com/r/{sub}/hot/.rss?limit=12")
-        if not body:
-            continue
-        count = 0
-        for ent in re.split(r"<entry>", body)[1:]:
-            t = re.search(r"<title>(.*?)</title>", ent, re.S)
-            l = re.search(r'<link[^>]*href="([^"]+)"', ent)
-            a = re.search(r"<author>.*?<name>(.*?)</name>", ent, re.S)
-            if not t or not l:
-                continue
-            title = ih.unescape(t.group(1).strip())
-            # Atom author name 은 "/u/이름" 형식 → 접두어 제거해 순수 사용자명만 저장
-            author = re.sub(r"^/?u/", "", ih.unescape(a.group(1).strip())) if a else ""
-            if _is_reddit_noise(title, author):  # 고정 운영글 제외
-                continue
-            out.append({"title": title, "sub": sub,
-                        "author": author,
-                        "url": ih.unescape(l.group(1).strip())})
-            count += 1
-            if count >= per_sub:
-                break
-    return out[:limit]
+        if body:
+            per_sub_items.append(_parse_reddit_feed(body, sub))
+    # 라운드로빈 병합: [L0, M0, L1, M1, ...] — 한 서브가 비어도 다른 서브가 채움
+    out = []
+    for col in range(max((len(x) for x in per_sub_items), default=0)):
+        for items in per_sub_items:
+            if col < len(items):
+                out.append(items[col])
+                if len(out) >= limit:
+                    return out
+    return out
 
 # ---------- Social (HN 내 X/Twitter 링크) ----------
 def social_from_hn(limit=3):
