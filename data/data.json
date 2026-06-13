@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T07:03:15.236848+00:00",
+  "generated_at": "2026-06-13T07:23:00.852224+00:00",
   "date_label": "2026년 6월 13일 (토)",
   "github_trending": [
     {
@@ -7,163 +7,186 @@
       "url": "https://github.com/apple/container",
       "desc": "",
       "stars_today": 3504,
-      "lang": "Swift"
+      "lang": "Swift",
+      "summary_ko": "apple/container는 Apple의 컨테이너 기술을 다루며, 클라우드 기반 개발에 주목할 만하다."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
       "stars_today": 2656,
-      "lang": "Shell"
+      "lang": "Shell",
+      "summary_ko": "addyosmani/agent-skills는 웹 성능 최적화를 위한 다양한 에이전트 기술을 제공한다."
     },
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
       "stars_today": 1026,
-      "lang": "Shell"
+      "lang": "Shell",
+      "summary_ko": "msitarzewski/agency-agents는 에이전트 기반 시스템 개발을 위한 리소스를 포함하고 있다."
     },
     {
       "repo": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "desc": "",
       "stars_today": 555,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "soxoj/maigret는 다양한 소셜 미디어 플랫폼에서 사용자 정보를 수집하는 도구다."
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
       "stars_today": 459,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "anthropics/skills는 인공지능의 다양한 기술적 스킬을 연구하고 개발하는 프로젝트이다."
     },
     {
       "repo": "shuvonsec/claude-bug-bounty",
       "url": "https://github.com/shuvonsec/claude-bug-bounty",
       "desc": "",
       "stars_today": 226,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "shuvonsec/claude-bug-bounty는 보안 취약점을 찾기 위한 버그 바운티 프로그램을 지원한다."
     },
     {
       "repo": "FareedKhan-dev/train-llm-from-scratch",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "desc": "",
       "stars_today": 224,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "FareedKhan-dev/train-llm-from-scratch는 대규모 언어 모델을 처음부터 학습시키는 방법을 제시한다."
     },
     {
       "repo": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "desc": "",
       "stars_today": 136,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "vllm-project/vllm은 효율적인 대규모 언어 모델을 위한 라이브러리로 주목받고 있다."
     },
     {
       "repo": "BerriAI/litellm",
       "url": "https://github.com/BerriAI/litellm",
       "desc": "",
       "stars_today": 118,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "BerriAI/litellm은 경량화된 언어 모델을 개발하여 다양한 응용에 활용할 수 있다."
     },
     {
       "repo": "langchain-ai/langchain",
       "url": "https://github.com/langchain-ai/langchain",
       "desc": "",
       "stars_today": 83,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "langchain-ai/langchain은 언어 모델을 활용한 애플리케이션 개발을 위한 프레임워크이다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
       "stars_today": 83,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/ai-agents-for-beginners는 초보자를 위한 AI 에이전트 개발 가이드를 제공한다."
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
       "stars_today": 50,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "davila7/claude-code-templates는 코드 작성 시 유용한 템플릿을 제공하여 생산성을 높인다."
     },
     {
       "repo": "NirDiamant/RAG_Techniques",
       "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
       "stars_today": 33,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/RAG_Techniques는 정보 검색과 생성 모델을 결합한 기술을 탐구한다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
       "stars_today": 21,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/AI-For-Beginners는 AI 기초 교육 자료를 제공하여 학습을 지원한다."
     },
     {
       "repo": "oracle-devrel/oracle-ai-developer-hub",
       "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
       "desc": "",
       "stars_today": 18,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "oracle-devrel/oracle-ai-developer-hub는 Oracle의 AI 개발자 리소스를 통합한 플랫폼이다."
     }
   ],
   "hackernews": [
     {
       "title": "Open source AI must win",
       "url": "https://opensourceaimustwin.com/?share=v2",
-      "points": 710,
-      "comments": 227,
-      "hn_url": "https://news.ycombinator.com/item?id=48511908"
+      "points": 741,
+      "comments": 230,
+      "hn_url": "https://news.ycombinator.com/item?id=48511908",
+      "summary_ko": "오픈소스 AI의 승리가 중요하다는 주장을 담고 있어 주목할 만하다."
     },
     {
       "title": "How to setup a local coding agent on macOS",
       "url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
-      "points": 339,
+      "points": 345,
       "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=48507020"
+      "hn_url": "https://news.ycombinator.com/item?id=48507020",
+      "summary_ko": "macOS에서 로컬 코딩 에이전트를 설정하는 방법을 소개해 개발자들에게 유용하다."
     },
     {
       "title": "Palantir loses legal challenge against Swiss investigative magazine",
       "url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-      "points": 291,
+      "points": 295,
       "comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=48509182"
+      "hn_url": "https://news.ycombinator.com/item?id=48509182",
+      "summary_ko": "팔란티어가 스위스 조사 잡지에 대한 법적 도전을 패소해 그 배경이 주목된다."
     },
     {
       "title": "Slightly reducing the sloppiness of AI generated front end",
       "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
-      "points": 185,
+      "points": 187,
       "comments": 117,
-      "hn_url": "https://news.ycombinator.com/item?id=48504912"
+      "hn_url": "https://news.ycombinator.com/item?id=48504912",
+      "summary_ko": "AI가 생성한 프론트엔드의 부정확성을 약간 줄이는 방법을 다뤄 흥미롭다."
     },
     {
       "title": "Show HN: Putt.day a daily mini golf game",
       "url": "https://putt.day/",
-      "points": 140,
-      "comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=48510341"
+      "points": 141,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=48510341",
+      "summary_ko": "Putt.day는 매일 즐길 수 있는 미니 골프 게임으로, 사용자들의 관심을 끌고 있다."
     },
     {
       "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
       "url": "https://bitboard.work/",
-      "points": 41,
+      "points": 43,
       "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=48506545"
+      "hn_url": "https://news.ycombinator.com/item?id=48506545",
+      "summary_ko": "BitBoard는 에이전트를 위한 분석 작업 공간으로, YC P25의 신생 스타트업이다."
     },
     {
       "title": "Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
       "url": "https://tectonic-typesetting.github.io/en-US/",
-      "points": 39,
+      "points": 42,
       "comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=48467697"
+      "hn_url": "https://news.ycombinator.com/item?id=48467697",
+      "summary_ko": "Tectonic은 현대화된 완전 자급자족 TeX/LaTeX 엔진으로, 개발자들에게 유용할 수 있다."
     },
     {
       "title": "Shepherd's Dog: A Game by the Most Dangerous AI Model",
       "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
-      "points": 20,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=48513728"
+      "points": 25,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=48513728",
+      "summary_ko": "가장 위험한 AI 모델이 만든 게임 'Shepherd's Dog'는 흥미로운 실험으로 주목받고 있다."
     }
   ],
   "reddit": [
@@ -171,37 +194,93 @@
       "title": "Friendly reminder",
       "sub": "LocalLLaMA",
       "author": "Disposable110",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/",
+      "summary_ko": "Reddit r/LocalLLaMA에서 지역 모델의 필요성을 강조하는 글이 올라왔다."
     },
     {
       "title": "Anthropic forced to abruptly disable Fable 5 & Mythos 5 globally by US Gov over a jailbreak. This is exactly why we need local models.",
       "sub": "LocalLLaMA",
       "author": "External_Mood4719",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4e1p5/anthropic_forced_to_abruptly_disable_fable_5/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4e1p5/anthropic_forced_to_abruptly_disable_fable_5/",
+      "summary_ko": "미국 정부의 지침으로 Anthropic이 Fable 5와 Mythos 5의 접근을 중단한 사건이 발생했다."
     },
     {
       "title": "Diffusion Gemma is 4x faster, but makes 6x more mistakes!",
       "sub": "LocalLLaMA",
       "author": "gladkos",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4bne8/diffusion_gemma_is_4x_faster_but_makes_6x_more/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4bne8/diffusion_gemma_is_4x_faster_but_makes_6x_more/",
+      "summary_ko": "Diffusion Gemma는 4배 빠르지만 6배 더 많은 오류를 발생시킨다는 논의가 있었다."
     },
     {
       "title": "We should set up a torrent network for open source models.",
       "sub": "LocalLLaMA",
       "author": "ShadyShroomz",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4gto1/we_should_set_up_a_torrent_network_for_open/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4gto1/we_should_set_up_a_torrent_network_for_open/",
+      "summary_ko": "오픈 소스 모델을 위한 토렌트 네트워크 구축 필요성에 대한 제안이 있었다."
     },
     {
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "sub": "LocalLLaMA",
       "author": "artisticMink",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4dur1/statement_on_the_us_government_directive_to/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4dur1/statement_on_the_us_government_directive_to/",
+      "summary_ko": "미국 정부의 Fable 5와 Mythos 5 접근 중단에 대한 공식 성명이 발표되었다."
     },
     {
       "title": "New model on huggingface",
       "sub": "LocalLLaMA",
       "author": "krzonkalla",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4fzg1/new_model_on_huggingface/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4fzg1/new_model_on_huggingface/",
+      "summary_ko": "Hugging Face에서 새로운 모델이 공개되었다는 소식이 전해졌다."
+    }
+  ],
+  "youtube": [
+    {
+      "title": "Measuring the entropy of English",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/-7etvZSBxlk",
+      "published": "2026-06-12",
+      "desc": "Full video: https://youtu.be/l6DKRf-fAAM",
+      "summary_ko": "Andrej Karpathy의 영상은 영어의 엔트로피 측정에 대한 내용을 다루고 있어 언어학적 통찰을 제공합니다."
+    },
+    {
+      "title": "Claude Fable 5 is here!",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=GUEE9OA4keo",
+      "published": "2026-06-11",
+      "desc": "Claude Mythos 5 / Fable 5 review. Fable 5 vs GPT 5.5. #ai #aitools #ainews #llm #singularity #aiagent #agi Thanks to our sponsor Hubspot. Access the free Claude Code for Marketing Guide https://clickhubspot.com/20bb67 0:00 Claude Fable 5 intro 0:26 Find the frog 2:00 Ray tracing ",
+      "summary_ko": "Claude Fable 5의 리뷰 영상으로, Fable 5와 GPT 5.5의 비교를 통해 최신 AI 도구의 발전을 보여줍니다."
+    },
+    {
+      "title": "Claude Fable 5 - Full 319 page Breakdown",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "published": "2026-06-10",
+      "desc": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. https://assemblyai.com/aiexplained Plus two worrying trends inside ",
+      "summary_ko": "Fable 5의 319페이지 시스템 카드에서 20개 이상의 핵심 정보를 추출하여 AI의 성능과 경향을 분석합니다."
+    },
+    {
+      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/shorts/82m7YqosdgU",
+      "published": "2026-06-06",
+      "desc": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested",
+      "summary_ko": "AI 에이전트가 게임 마스터 역할을 할 수 있는 가능성을 탐구하며, 비선형 내러티브 생성에 대한 논의를 제공합니다."
+    },
+    {
+      "title": "Anti-matter & nuclear weapons: Why technology is always a double-edge sword | Don Lincoln",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=EyjMQUXra74",
+      "published": "2026-06-04",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=1M3Vdl6DRkU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9845-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Don Lin",
+      "summary_ko": "Lex Fridman의 팟캐스트에서 Don Lincoln이 기술의 양면성을 논의하며, 반물질과 핵무기에 대한 통찰을 공유합니다."
+    },
+    {
+      "title": "Losing my mind learning that everything I know about color is wrong",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=ALsDVmzCots",
+      "published": "2026-05-30",
+      "desc": "Watch my new videos ad free on Patreon: https://www.patreon.com/c/Jabrils --- Play My Turn Based Fighting Game Ultra Bouters- Android: https://play.google.com/store/apps/details?id=com.hax.ultrabouters&hl=en_US iOS: https://apps.apple.com/us/app/ultra-bouters/id6584514015?ct=Tap7",
+      "summary_ko": "색상에 대한 기존 지식이 잘못되었음을 깨닫고, 새로운 학습을 통해 색채 이론에 대한 이해를 심화합니다."
     }
   ],
   "social": [
@@ -209,7 +288,8 @@
       "title": "Malware developers added nuclear and biological weapons text to to their spyware",
       "handle": "@jsrailton",
       "url": "https://twitter.com/jsrailton/status/2064661778978533571",
-      "note": "HN 370pts · 206 댓글"
+      "note": "HN 372pts · 209 댓글",
+      "summary_ko": "악성코드 개발자들이 스파이웨어에 핵 및 생물학 무기 관련 텍스트를 추가하여 주목받고 있다."
     }
   ]
 }

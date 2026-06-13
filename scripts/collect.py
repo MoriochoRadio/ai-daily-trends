@@ -142,6 +142,45 @@ def reddit(limit=6):
                     return out
     return out
 
+# ---------- YouTube (AI/테크 유명 채널 최신 영상, 공개 RSS) ----------
+# 채널 ID 는 youtube.com/@handle 페이지에서 확인. 새 채널을 넣으려면 (channel_id, 표시이름) 추가.
+YT_CHANNELS = [
+    ("UCbfYPyITQ-7l4upoX8nvctg", "Two Minute Papers"),
+    ("UCNJ1Ymd5yFuUPtn21xtRbbw", "AI Explained"),
+    ("UCHmD-oSpV0sNfAUnpYpj8KA", "Yannic Kilcher"),
+    ("UCYO_jab_esuFRV4b17AJtAw", "Andrej Karpathy"),
+    ("UC2Xd-TjJByJyK2w1zNwY0zQ", "Fireship"),
+    ("UCJIfeSCssxSC_Dhc5s7woww", "Lex Fridman"),
+    ("UCQALLeQPoZdZC4JNUboVEUg", "sentdex"),
+    ("UCIgnGlGkVRhd4qNFcEwLL4A", "AI Search"),
+    ("UCGkpFfEMF0eMJlh9xXj2lMw", "ColdFusion"),
+]
+
+def youtube(limit=6):
+    """각 채널의 최신 영상 1개씩 모아 게시일 기준 최신순으로 정렬해 상위 N개."""
+    vids = []
+    for cid, name in YT_CHANNELS:
+        body = _fetch_rss(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
+        if not body:
+            continue
+        ent = re.split(r"<entry>", body)[1:2]  # 최신 1개
+        if not ent:
+            continue
+        ent = ent[0]
+        t = re.search(r"<title>(.*?)</title>", ent, re.S)
+        l = re.search(r'<link[^>]*rel="alternate"[^>]*href="([^"]+)"', ent) or \
+            re.search(r'<link[^>]*href="([^"]+)"', ent)
+        p = re.search(r"<published>(.*?)</published>", ent)
+        d = re.search(r"<media:description>(.*?)</media:description>", ent, re.S)
+        if not t or not l:
+            continue
+        desc = ih.unescape(re.sub(r"\s+", " ", d.group(1)).strip())[:280] if d else ""
+        vids.append({"title": ih.unescape(t.group(1).strip()), "channel": name,
+                     "url": ih.unescape(l.group(1).strip()),
+                     "published": p.group(1)[:10] if p else "", "desc": desc})
+    vids.sort(key=lambda v: v["published"], reverse=True)
+    return vids[:limit]
+
 # ---------- Social (HN 내 X/Twitter 링크) ----------
 def social_from_hn(limit=3):
     data = json.load(fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=60"))
@@ -166,13 +205,15 @@ def main():
         "github_trending": github_trending(),
         "hackernews": hacker_news(),
         "reddit": reddit(),
+        "youtube": youtube(),
         "social": social_from_hn(),
     }
     (ROOT / "data").mkdir(exist_ok=True)
     (ROOT / "data" / "data.json").write_text(
         json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"수집 완료: GitHub {len(data['github_trending'])} · "
-          f"HN {len(data['hackernews'])} · Reddit {len(data['reddit'])} · SNS {len(data['social'])}")
+          f"HN {len(data['hackernews'])} · Reddit {len(data['reddit'])} · "
+          f"YouTube {len(data['youtube'])} · SNS {len(data['social'])}")
 
 if __name__ == "__main__":
     main()
