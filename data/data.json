@@ -1,173 +1,164 @@
 {
-  "generated_at": "2026-06-13T22:13:12.879827+00:00",
-  "date_label": "2026년 6월 14일 (일)",
+  "generated_at": "2026-06-14T22:18:35.344151+00:00",
+  "date_label": "2026년 6월 15일 (월)",
   "github_trending": [
-    {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "desc": "",
-      "stars_today": 1507,
-      "lang": "Shell",
-      "summary_ko": "addyosmani/agent-skills는 웹 개발에 필요한 다양한 에이전트 기술을 다룹니다."
-    },
-    {
-      "repo": "apple/container",
-      "url": "https://github.com/apple/container",
-      "desc": "",
-      "stars_today": 1471,
-      "lang": "Swift",
-      "summary_ko": "apple/container는 애플의 컨테이너 기술을 활용한 개발 환경을 제공합니다."
-    },
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 375,
-      "lang": "Python",
-      "summary_ko": "anthropics/skills는 인공지능의 윤리적 사용을 위한 기술과 방법론을 연구합니다."
-    },
-    {
-      "repo": "kenn-io/agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "desc": "",
-      "stars_today": 187,
-      "lang": "Go",
-      "summary_ko": "kenn-io/agentsview는 에이전트의 성능을 시각적으로 분석할 수 있는 도구입니다."
-    },
-    {
-      "repo": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "desc": "",
-      "stars_today": 133,
-      "lang": "Python",
-      "summary_ko": "shareAI-lab/learn-claude-code는 Claude AI 모델을 학습하는 데 필요한 자료를 제공합니다."
-    },
     {
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "desc": "",
-      "stars_today": 132,
+      "stars_today": 290,
       "lang": "Python",
-      "summary_ko": "andrewyng/aisuite는 다양한 AI 도구와 라이브러리를 통합한 개발 환경을 제공합니다."
+      "summary_ko": "andrewyng/aisuite는 AI 관련 다양한 도구를 제공하는 프로젝트로 주목받고 있다."
     },
     {
-      "repo": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "repo": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "desc": "",
-      "stars_today": 107,
-      "lang": "",
-      "summary_ko": "x1xhlol/system-prompts-and-models-of-ai-tools는 AI 도구의 프롬프트와 모델을 정리합니다."
-    },
-    {
-      "repo": "hexo-ai/sia",
-      "url": "https://github.com/hexo-ai/sia",
-      "desc": "",
-      "stars_today": 72,
+      "stars_today": 136,
       "lang": "Python",
-      "summary_ko": "hexo-ai/sia는 Hexo 블로그 플랫폼을 위한 AI 기반 콘텐츠 생성 도구입니다."
+      "summary_ko": "FareedKhan-dev/train-llm-from-scratch는 LLM을 처음부터 학습하는 방법을 다룬다."
     },
     {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 60,
+      "stars_today": 71,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/happy-llm은 사용자 친화적인 LLM을 개발하여 쉽게 사용할 수 있도록 합니다."
+      "summary_ko": "patchy631/ai-engineering-hub는 AI 엔지니어링 관련 자료를 모은 허브로 유용하다."
     },
     {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 21,
+      "stars_today": 55,
       "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant/GenAI_Agents는 생성적 AI 에이전트를 위한 다양한 리소스를 제공합니다."
+      "summary_ko": "lyogavin/airllm은 경량화된 LLM을 다루며 효율성을 강조한다."
     },
     {
-      "repo": "datawhalechina/self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
+      "repo": "GokuMohandas/Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
       "desc": "",
-      "stars_today": 20,
+      "stars_today": 50,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/self-llm은 자가 학습이 가능한 LLM을 개발하는 프로젝트입니다."
+      "summary_ko": "GokuMohandas/Made-With-ML은 ML 프로젝트를 위한 다양한 자료를 제공한다."
     },
     {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "repo": "AUTOMATIC1111/stable-diffusion-webui",
+      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
       "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "mrdbourke/zero-to-mastery-ml은 머신러닝을 처음 배우는 이들을 위한 교육 자료입니다."
+      "stars_today": 32,
+      "lang": "Python",
+      "summary_ko": "AUTOMATIC1111/stable-diffusion-webui는 안정적인 확산 모델을 위한 웹 UI를 제공한다."
     },
     {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 6,
+      "stars_today": 23,
       "lang": "Jupyter Notebook",
-      "summary_ko": "GoogleCloudPlatform/generative-ai는 구글 클라우드에서 제공하는 생성적 AI 솔루션입니다."
+      "summary_ko": "microsoft/AI-For-Beginners는 AI 기초를 배우고자 하는 이들을 위한 자료를 포함한다."
     },
     {
-      "repo": "evidentlyai/evidently",
-      "url": "https://github.com/evidentlyai/evidently",
+      "repo": "fastai/fastbook",
+      "url": "https://github.com/fastai/fastbook",
+      "desc": "",
+      "stars_today": 4,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "fastai/fastbook은 딥러닝을 쉽게 배우기 위한 교재로 인기가 높다."
+    },
+    {
+      "repo": "guidance-ai/guidance",
+      "url": "https://github.com/guidance-ai/guidance",
       "desc": "",
       "stars_today": 2,
       "lang": "Jupyter Notebook",
-      "summary_ko": "evidentlyai/evidently는 AI 모델의 성능을 모니터링하고 분석하는 도구입니다."
+      "summary_ko": "guidance-ai/guidance는 AI 모델을 쉽게 사용할 수 있도록 돕는 도구이다."
     },
     {
-      "repo": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
+      "repo": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
       "desc": "",
-      "stars_today": 931,
-      "lang": "Shell",
-      "summary_ko": "obra/superpowers는 AI 기반의 생산성 도구를 통해 작업 효율성을 높입니다."
+      "stars_today": 1531,
+      "lang": "TypeScript",
+      "summary_ko": "iptv-org/iptv는 다양한 IPTV 스트리밍 링크를 제공하는 프로젝트다."
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "desc": "",
+      "stars_today": 962,
+      "lang": "Python",
+      "summary_ko": "NVIDIA/SkillSpector는 AI 기술을 활용한 스킬 분석 도구로 주목받고 있다."
+    },
+    {
+      "repo": "chatwoot/chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "desc": "",
+      "stars_today": 399,
+      "lang": "Ruby",
+      "summary_ko": "chatwoot/chatwoot은 오픈소스 고객 지원 플랫폼으로 많은 기업에서 활용된다."
+    },
+    {
+      "repo": "GorvGoyl/Clone-Wars",
+      "url": "https://github.com/GorvGoyl/Clone-Wars",
+      "desc": "",
+      "stars_today": 337,
+      "lang": "",
+      "summary_ko": "GorvGoyl/Clone-Wars는 AI 기반의 게임 개발 프로젝트로 흥미롭다."
+    },
+    {
+      "repo": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "desc": "",
+      "stars_today": 276,
+      "lang": "TeX",
+      "summary_ko": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots는 자율 로봇에 대한 기초 자료를 제공한다."
+    },
+    {
+      "repo": "LMCache/LMCache",
+      "url": "https://github.com/LMCache/LMCache",
+      "desc": "",
+      "stars_today": 271,
+      "lang": "Python",
+      "summary_ko": "LMCache/LMCache는 LLM의 캐시 시스템을 최적화하는 프로젝트로 주목받고 있다."
     }
   ],
   "hackernews": [
     {
-      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-      "points": 385,
-      "comments": 302,
-      "hn_url": "https://news.ycombinator.com/item?id=48519092",
-      "title_ko": "아마존 CEO, 미국 정부와의 대화로 앤트로픽 모델 단속 촉발",
-      "summary_ko": "아마존 CEO의 정부 관계자와의 대화가 앤트로픽 모델에 대한 단속을 촉발했다."
+      "title": "Not everyone is using AI for everything",
+      "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+      "points": 387,
+      "comments": 414,
+      "hn_url": "https://news.ycombinator.com/item?id=48527700",
+      "title_ko": "모두가 AI를 모든 일에 사용하는 것은 아니다",
+      "summary_ko": "AI 사용에 대한 다양한 관점을 다룬 글로, 기술의 활용도를 재조명한다."
     },
     {
-      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-      "url": "https://github.com/tensorzero/tensorzero",
-      "points": 220,
-      "comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=48516504",
-      "title_ko": "AI 오픈소스 도구 레포, 730만 달러 시드 펀딩 후 아카이브로 전환",
-      "summary_ko": "730만 달러의 시드 펀딩을 받은 AI 오픈소스 도구 레포가 갑작스럽게 아카이브 상태로 전환되었다."
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "points": 234,
+      "comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=48528371",
+      "title_ko": "리우데자네이루의 \"자생적\" LLM, 기존 모델 통합으로 보인다",
+      "summary_ko": "리우데자네이루에서 개발된 LLM의 배경과 특징을 분석한 기사이다."
     },
     {
-      "title": "AI coding at home without going broke",
-      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-      "points": 188,
-      "comments": 173,
-      "hn_url": "https://news.ycombinator.com/item?id=48518969",
-      "title_ko": "AI 코딩, 비용 걱정 없이 집에서 하기",
-      "summary_ko": "비용 부담 없이 집에서 AI 코딩을 하는 방법에 대한 정보가 소개되었다."
+      "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "points": 222,
+      "comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=48528029",
+      "title_ko": "M1 Max 컴퓨터와 로컬 ML 모델로 669GB의 GoPro 비디오 색인화",
+      "summary_ko": "GoPro 비디오를 효율적으로 관리하기 위한 개인적인 프로젝트를 소개한다."
     },
     {
-      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-      "url": "https://github.com/Paca-AI/paca",
-      "points": 123,
-      "comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=48515385",
-      "title_ko": "Show HN: 파카 – 인간-AI 협업을 위한 경량 Jira 대안",
-      "summary_ko": "파카는 인간과 AI의 협업을 지원하는 경량 Jira 대안으로 주목받고 있다."
-    },
-    {
-      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-      "points": 80,
-      "comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=48520807",
-      "title_ko": "경찰관, 여러 사건에서 AI로 '증거' 생성해 조사받아",
-      "summary_ko": "한 경찰관이 여러 사건에서 AI를 사용해 증거를 생성한 혐의로 조사를 받고 있다."
+      "title": "Inverse Rubric Optimization: A testbed for agent science",
+      "url": "https://fulcrum.inc/2026/06/09/inverse-rubric-optimization.html",
+      "points": 17,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48485277",
+      "title_ko": "역방향 루브릭 최적화: 에이전트 과학을 위한 테스트베드",
+      "summary_ko": "에이전트 과학 연구를 위한 새로운 최적화 방법론을 제안하는 글이다."
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -176,7 +167,7 @@
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958",
       "title_ko": "Npm-scan: npm 생태계를 위한 현대적 공급망 보안",
-      "summary_ko": "Npm-scan은 npm 생태계를 위한 현대적인 공급망 보안 솔루션을 제공한다."
+      "summary_ko": "npm 생태계의 보안을 강화하기 위한 도구인 Npm-scan을 소개한다."
     },
     {
       "title": "SnapState - Persistent state for AI agent workflows",
@@ -184,8 +175,17 @@
       "points": 6,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=47759400",
-      "title_ko": "SnapState - AI 에이전트 워크플로우를 위한 지속 상태 관리",
-      "summary_ko": "SnapState는 AI 에이전트의 워크플로우에서 지속적인 상태 관리를 지원한다."
+      "title_ko": "SnapState - AI 에이전트 워크플로우의 지속적 상태 관리",
+      "summary_ko": "AI 에이전트의 상태를 지속적으로 관리하는 SnapState의 기능을 설명한다."
+    },
+    {
+      "title": "Why Is Claude Turning into an a**Hole?",
+      "url": "https://bramcohen.com/p/why-is-claude-turning-into-an-asshole",
+      "points": 3,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48533308",
+      "title_ko": "클로드가 왜 문제를 일으키고 있는가?",
+      "summary_ko": "AI 모델인 클로드의 행동 변화에 대한 논의와 그 배경을 탐구한다."
     },
     {
       "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
@@ -193,69 +193,96 @@
       "points": 0,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48424103",
-      "title_ko": "Mbodi AI (YC P25), 창립 기계 학습 엔지니어 채용 중",
-      "summary_ko": "Mbodi AI가 로봇 공학 분야의 창립 기계 학습 엔지니어를 채용하고 있다."
+      "title_ko": "Mbodi AI (YC P25) 창립 기계 학습 엔지니어 채용 중",
+      "summary_ko": "Mbodi AI에서 로봇 공학 분야의 기계 학습 엔지니어를 모집한다."
     }
   ],
   "reddit": [
     {
-      "title": "This is coming to Chinese open source models pretty soon. - prepare yourself.",
+      "title": "Introducing the Heretic Grimoire: The takedown-resilient, local-first backup system that keeps uncensored models available forever",
       "sub": "LocalLLaMA",
-      "author": "MLExpert000",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4wy3p/this_is_coming_to_chinese_open_source_models/",
-      "title_ko": "중국 오픈소스 모델이 곧 출시됩니다. 준비하세요.",
-      "summary_ko": "중국의 오픈소스 모델이 곧 출시될 예정으로, 사용자들은 이에 대비해야 합니다."
+      "author": "-p-e-w-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5lmge/introducing_the_heretic_grimoire_the/",
+      "title_ko": "헤레틱 그리모어 소개: 검열 없는 모델을 영구적으로 보관하는 로컬 우선 백업 시스템",
+      "summary_ko": "헤레틱 그리모어는 검열에 강한 로컬 백업 시스템으로, 모델을 영구적으로 유지할 수 있다."
     },
     {
-      "title": "when fable gets banned but it's ok because you've about to download qwen3.7_67b_21a_mythos_father_fable_mother_distilled_ablated_ablitereted_uncensored_agi_sparse_attention_MTP_SuperHOT_q6_maybe_q7_AGI_FINAL.gguf from huggingface",
-      "sub": "LocalLLaMA",
-      "author": "visionsmemories",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4l98a/when_fable_gets_banned_but_its_ok_because_youve/",
-      "title_ko": "Fable이 금지되었지만 qwen3.7 모델을 다운로드할 준비가 되었습니다.",
-      "summary_ko": "Fable이 금지되었지만, 사용자는 Hugging Face에서 qwen3.7 모델을 다운로드할 수 있습니다."
+      "title": "ICML Poster [D]",
+      "sub": "MachineLearning",
+      "author": "misplacedlion",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u5y6il/icml_poster_d/",
+      "title_ko": "ICML 포스터 [D]",
+      "summary_ko": "ICML 포스터는 최신 기계 학습 연구를 공유하는 중요한 자료이다."
     },
     {
-      "title": "Pi Setup that pretty much replaced Claude Code for me",
+      "title": "z.ai Poll on X: MIT-licensed open weights are losing",
       "sub": "LocalLLaMA",
-      "author": "abhinand05",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4ow2h/pi_setup_that_pretty_much_replaced_claude_code/",
-      "title_ko": "Claude Code를 대체한 Pi 설정",
-      "summary_ko": "사용자가 Claude Code 대신 Pi 설정을 활용하고 있다는 내용을 다룹니다."
+      "author": "MadPelmewka",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5wous/zai_poll_on_x_mitlicensed_open_weights_are_losing/",
+      "title_ko": "z.ai X에서의 설문조사: MIT 라이센스 오픈 가중치가 감소 중",
+      "summary_ko": "z.ai의 설문조사는 MIT 라이센스 오픈 가중치의 인기가 줄어드는 경향을 보여준다."
     },
     {
-      "title": "Friendly reminder",
-      "sub": "LocalLLaMA",
-      "author": "Disposable110",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4epzr/friendly_reminder/",
-      "title_ko": "친절한 알림",
-      "summary_ko": "사용자에게 중요한 정보를 상기시키는 내용입니다."
+      "title": "Coherent Context Can Silently Shift LLMs Into a Different Internal Regime — And Current Safety Systems Are Blind To It [D]",
+      "sub": "MachineLearning",
+      "author": "PresentSituation8736",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u5xnxg/coherent_context_can_silently_shift_llms_into_a/",
+      "title_ko": "일관된 맥락이 LLM을 다른 내부 체제로 조용히 전환시킬 수 있음 — 현재 안전 시스템은 이를 인식하지 못함 [D]",
+      "summary_ko": "이 연구는 LLM의 내부 체제 전환과 현재 안전 시스템의 한계를 다룬다."
     },
     {
-      "title": "Anthropic forced to abruptly disable Fable 5 & Mythos 5 globally by US Gov over a jailbreak. This is exactly why we need local models.",
+      "title": "Nex claims Rio 3.5 is Nex 2.5 PRO in trench coat",
       "sub": "LocalLLaMA",
-      "author": "External_Mood4719",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u4e1p5/anthropic_forced_to_abruptly_disable_fable_5/",
-      "title_ko": "미국 정부의 개입으로 Fable 5와 Mythos 5가 전 세계적으로 중단되었습니다.",
-      "summary_ko": "미국 정부의 개입으로 Fable 5와 Mythos 5가 중단되었고, 이는 로컬 모델의 필요성을 강조합니다."
+      "author": "Specter_Origin",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u5pkg1/nex_claims_rio_35_is_nex_25_pro_in_trench_coat/",
+      "title_ko": "넥스, 리오 3.5는 넥스 2.5 PRO의 트렌치 코트라고 주장",
+      "summary_ko": "넥스는 리오 3.5가 넥스 2.5 PRO의 변형이라고 주장하며 주목받고 있다."
     },
     {
-      "title": "Not looking good for GLM 5.2 Air... but maybe a flash model?",
-      "sub": "LocalLLaMA",
-      "author": "temperature_5",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1u501by/not_looking_good_for_glm_52_air_but_maybe_a_flash/",
-      "title_ko": "GLM 5.2 Air의 상황이 좋지 않지만 플래시 모델이 있을 수 있습니다.",
-      "summary_ko": "GLM 5.2 Air의 상황이 좋지 않지만, 플래시 모델의 가능성이 제기되고 있습니다."
+      "title": "I’m building a free bilingual machine-learning notebook course — looking for feedback on structure and coverage [R]",
+      "sub": "MachineLearning",
+      "author": "abolfazl1363",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1u4zbld/im_building_a_free_bilingual_machinelearning/",
+      "title_ko": "무료 이중 언어 기계 학습 노트북 코스를 만들고 있습니다 — 구조와 내용에 대한 피드백 요청 [R]",
+      "summary_ko": "이 프로젝트는 무료 이중 언어 기계 학습 코스를 개발 중이며 피드백을 구하고 있다."
     }
   ],
   "youtube": [
     {
-      "title": "이제 Zoom에서 Google Meet로? 구글 실시간 번역 기술 ㄷㄷ",
+      "title": "NVIDIA's New Free Al - A Gift To All Of Us",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=zJvN8PDX1is",
+      "published": "2026-06-14",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Nemotron 3 Ultra paper is available here: https://research.nvidia.com/labs/nemotron/Nemotron-3-Ultra/ Free Rendering course and source code: https://users.cg.tuwien.ac.at/zsolnai/gfx/renderin",
+      "title_ko": "NVIDIA의 새로운 무료 AI - 우리 모두를 위한 선물",
+      "summary_ko": "NVIDIA가 제공하는 무료 AI 서비스에 대한 소개와 관련 연구 논문을 다룬 영상이다."
+    },
+    {
+      "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "published": "2026-06-14",
+      "desc": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-ext",
+      "title_ko": "Claude Fable 차단 - 다음 단계에 대한 11가지 조용한 세부사항",
+      "summary_ko": "Claude Fable 5의 금지와 관련된 여러 세부사항을 통해 AI의 미래를 전망하는 영상이다."
+    },
+    {
+      "title": "RIP Claude Fable, open-source AI unleashed, full body avatars, new Google models, new TTS: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=SxiRANj0xLs",
+      "published": "2026-06-14",
+      "desc": "HUGE AI NEWS: GLM 5.2, Kimi K2.7, Claude Fable Mythos banned, SCAIL 2, Minimax M3 & more. Thanks to our sponsor Luma AI. Try Luma Agents today https://lumalabs.ai/aisearch-agents #ainews #ai #aitools #agi #singularity 0:00 AI news intro 0:50 SCAIL 2 3:16 Actionable World 4:30 Osc",
+      "title_ko": "RIP Claude Fable, 오픈소스 AI 해방, 풀바디 아바타, 구글의 새로운 모델들",
+      "summary_ko": "AI 관련 최신 뉴스와 함께 다양한 AI 모델의 발전 상황을 소개하는 영상이다."
+    },
+    {
+      "title": "구글 TPU에 삼성 2nm? 삼성 파운드리 본격 부활의 핵심은 칩렛, 메모리 인터페이스 | AI 칩이 쪼개지는 이유",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/uYF8dtaF-zg",
-      "published": "2026-06-13",
-      "desc": "",
-      "title_ko": "Zoom에서 Google Meet로? 구글 실시간 번역 기술",
-      "summary_ko": "구글의 실시간 번역 기술을 활용한 Zoom과 Google Meet의 비교를 다룬 영상이다."
+      "url": "https://www.youtube.com/watch?v=9AIcehpbpgA",
+      "published": "2026-06-14",
+      "desc": "삼성과 구글 TPU 관련 보도를 단순한 파운드리 수주전이 아니라, AI 칩 구조 변화의 관점에서 살펴봤습니다. 이번 보도에서 삼성은 TPU 전체가 아니라 메모리 인터페이스 컴포넌트 후보로 거론됐습니다. 하지만 AI 가속기에서 메모리 인터페이스는 단순한 주변부가 아니라, 컴퓨트 다이와 HBM 사이의 병목을 좌우하는 중요한 영역입니다. NVIDIA V100의 거대한 다이 사이즈와 레티클 리밋 이야기를 통해, 왜 AI 칩이 더 이상 단일 다이만으로 커지기 어려운지도 짚어봤습니다. 칩이 커질수록 수율, ",
+      "title_ko": "구글 TPU에 삼성 2nm? 삼성 파운드리 부활의 핵심은 칩렛",
+      "summary_ko": "삼성과 구글 TPU의 관계를 AI 칩 구조 변화 관점에서 분석한 영상이다."
     },
     {
       "title": "Measuring the entropy of English",
@@ -264,16 +291,7 @@
       "published": "2026-06-12",
       "desc": "Full video: https://youtu.be/l6DKRf-fAAM",
       "title_ko": "영어의 엔트로피 측정하기",
-      "summary_ko": "영어의 엔트로피를 측정하는 과정을 설명하는 Andrej Karpathy의 영상이다."
-    },
-    {
-      "title": "Claude Fable 5 is here!",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=GUEE9OA4keo",
-      "published": "2026-06-11",
-      "desc": "Claude Mythos 5 / Fable 5 review. Fable 5 vs GPT 5.5. #ai #aitools #ainews #llm #singularity #aiagent #agi Thanks to our sponsor Hubspot. Access the free Claude Code for Marketing Guide https://clickhubspot.com/20bb67 0:00 Claude Fable 5 intro 0:26 Find the frog 2:00 Ray tracing ",
-      "title_ko": "Claude Fable 5 출시!",
-      "summary_ko": "Claude Fable 5의 리뷰와 GPT 5.5와의 비교를 다룬 AI 관련 영상이다."
+      "summary_ko": "영어의 엔트로피를 측정하는 방법에 대한 내용을 다룬 영상이다."
     },
     {
       "title": "204. AI 시대 반드시 알아야 할 저작권 및 기타 법적 리스크 (정지우 변호사)",
@@ -281,17 +299,8 @@
       "url": "https://www.youtube.com/watch?v=LsyN2HkQus8",
       "published": "2026-06-11",
       "desc": "생성형 AI를 활용한 생성물의 저작권은 누구의 것인가 AI 생성물과 관련하여 부정경쟁방지법, AI 기본법 등 다양한 실무적 쟁점을 알아본다 그밖에 디지털 환경에서 알아야 할 저작권 문제들을 폭넓게 이해해본다 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000",
-      "title_ko": "AI 시대 저작권 및 법적 리스크",
-      "summary_ko": "생성형 AI의 저작권 문제와 관련 법적 쟁점을 다룬 정지우 변호사의 강연이다."
-    },
-    {
-      "title": "Claude Fable 5 - Full 319 page Breakdown",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
-      "published": "2026-06-10",
-      "desc": "Fable 5 is out - and it’s good, very good. But beyond the splashy demos, I want to bring you the 20+ nuggets from the 319 page system card, which I read in full, all day, plus benchmarks you may not have noticed. https://assemblyai.com/aiexplained Plus two worrying trends inside ",
-      "title_ko": "Claude Fable 5 - 319페이지 분석",
-      "summary_ko": "Fable 5의 시스템 카드를 상세히 분석한 영상으로, 주요 기능과 벤치마크를 소개한다."
+      "title_ko": "AI 시대 저작권 및 법적 리스크 알아야 할 사항",
+      "summary_ko": "생성형 AI와 관련된 저작권 문제 및 법적 쟁점을 폭넓게 설명하는 영상이다."
     },
     {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
@@ -299,17 +308,8 @@
       "url": "https://www.youtube.com/watch?v=DPJI1ELQxgI",
       "published": "2026-06-10",
       "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv26_prelive - 지원 기간 : ~2026.06.29 (월) 오후 11시까지 - 교육 기간 : 2026.06.30 (화) ~ 2026.12.10 (목)",
-      "title_ko": "백엔드 Java&Spring 부트캠프 사전설명회",
-      "summary_ko": "백엔드 Java&Spring 부트캠프의 지원 및 교육 일정에 대한 설명회를 다룬 영상이다."
-    },
-    {
-      "title": "AI Agents as \"Games Masters\"? 🎮🔥",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/shorts/82m7YqosdgU",
-      "published": "2026-06-06",
-      "desc": "Check the pinned comment for the link to the full interview. Could AI agents eventually become the \"Games Master\" driving your gaming storylines? We explore the concept of AI assisting players or creating dynamic, non-scripted narratives. Discover how AI is currently being tested",
-      "title_ko": "AI 에이전트가 게임 마스터가 될 수 있을까?",
-      "summary_ko": "AI 에이전트가 게임 스토리를 이끌어갈 가능성을 탐구하는 영상이다."
+      "title_ko": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
+      "summary_ko": "백엔드 Java&Spring 부트캠프에 대한 사전 설명회를 소개하는 영상이다."
     },
     {
       "title": "Anti-matter & nuclear weapons: Why technology is always a double-edge sword | Don Lincoln",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/watch?v=EyjMQUXra74",
       "published": "2026-06-04",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=1M3Vdl6DRkU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9845-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Don Lin",
-      "title_ko": "반물질과 핵무기: 기술의 양면성",
-      "summary_ko": "기술의 양면성을 다룬 Lex Fridman의 팟캐스트 에피소드이다."
+      "title_ko": "반물질과 핵무기: 기술은 항상 양날의 검이다",
+      "summary_ko": "기술의 이중성을 다룬 Lex Fridman의 팟캐스트 에피소드를 소개하는 영상이다."
     },
     {
       "title": "Losing my mind learning that everything I know about color is wrong",
@@ -326,18 +326,9 @@
       "url": "https://www.youtube.com/watch?v=ALsDVmzCots",
       "published": "2026-05-30",
       "desc": "Watch my new videos ad free on Patreon: https://www.patreon.com/c/Jabrils --- Play My Turn Based Fighting Game Ultra Bouters- Android: https://play.google.com/store/apps/details?id=com.hax.ultrabouters&hl=en_US iOS: https://apps.apple.com/us/app/ultra-bouters/id6584514015?ct=Tap7",
-      "title_ko": "색에 대한 모든 것이 잘못되었다는 사실",
-      "summary_ko": "색에 대한 기존 지식의 오류를 다룬 sentdex의 영상이다."
+      "title_ko": "색에 대한 모든 것이 잘못되었다는 사실을 배우며 미쳐가고 있다",
+      "summary_ko": "색에 대한 잘못된 인식을 깨닫는 과정을 담은 개인적인 이야기 영상이다."
     }
   ],
-  "social": [
-    {
-      "title": "GLM 5.2 Is Out",
-      "handle": "@jietang",
-      "url": "https://twitter.com/jietang/status/2065784751345287314",
-      "note": "HN 213pts · 98 댓글",
-      "title_ko": "GLM 5.2 출시",
-      "summary_ko": "GLM 5.2 버전이 출시되어 많은 관심을 받고 있다."
-    }
-  ]
+  "social": []
 }
