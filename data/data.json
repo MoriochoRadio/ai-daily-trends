@@ -1,191 +1,173 @@
 {
-  "generated_at": "2026-06-21T22:19:57.108906+00:00",
-  "date_label": "2026년 6월 22일 (월)",
+  "generated_at": "2026-06-22T22:50:57.815629+00:00",
+  "date_label": "2026년 6월 23일 (화)",
   "github_trending": [
-    {
-      "repo": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "desc": "",
-      "stars_today": 1029,
-      "lang": "C",
-      "summary_ko": "DeusData/codebase-memory-mcp는 코드베이스의 메모리 관리를 위한 프로젝트로, 개발자들에게 유용할 수 있다."
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "desc": "",
-      "stars_today": 711,
-      "lang": "Python",
-      "summary_ko": "NousResearch/hermes-agent는 AI 기반의 에이전트로, 다양한 작업을 자동화하는 데 주목할 만하다."
-    },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 519,
+      "stars_today": 1560,
       "lang": "Python",
-      "summary_ko": "ZhuLinsen/daily_stock_analysis는 일일 주식 분석 도구로, 투자자들에게 유용한 정보를 제공한다."
+      "summary_ko": "ZhuLinsen/daily_stock_analysis는 주식 분석을 위한 데이터 처리 도구로 주목받고 있다."
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
       "desc": "",
-      "stars_today": 453,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm은 경량화된 LLM(대형 언어 모델)로, 효율적인 AI 모델 개발에 기여할 수 있다."
+      "stars_today": 1186,
+      "lang": "C",
+      "summary_ko": "DeusData/codebase-memory-mcp는 코드베이스의 메모리 관리를 위한 혁신적인 솔루션이다."
     },
     {
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "desc": "",
-      "stars_today": 445,
+      "stars_today": 957,
       "lang": "Python",
-      "summary_ko": "mukul975/Anthropic-Cybersecurity-Skills는 사이버 보안 기술을 학습할 수 있는 자료로, 보안 전문가에게 유익하다."
+      "summary_ko": "mukul975/Anthropic-Cybersecurity-Skills는 사이버 보안 기술 향상을 위한 교육 자료를 제공한다."
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 253,
+      "stars_today": 187,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "lyogavin/airllm은 공기 질 데이터 분석을 위한 AI 모델 개발에 중점을 두고 있다."
+    },
+    {
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "desc": "",
+      "stars_today": 157,
       "lang": "Python",
-      "summary_ko": "Alishahryar1/free-claude-code는 Claude AI와 관련된 무료 코드 리소스를 제공하여 개발자들에게 도움이 된다."
+      "summary_ko": "unclecode/crawl4ai는 AI 데이터 수집을 위한 웹 크롤링 도구로 유용하다."
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "desc": "",
+      "stars_today": 63,
+      "lang": "TypeScript",
+      "summary_ko": "JCodesMore/ai-website-cloner-template는 AI 기반 웹사이트 복제 템플릿을 제공하여 개발을 지원한다."
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "desc": "",
+      "stars_today": 52,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI4Finance-Foundation/FinGPT는 금융 분야에 특화된 GPT 모델로 주목받고 있다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 53,
+      "stars_today": 48,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 Claude AI의 활용법을 담은 자료로, 사용자들에게 실용적인 정보를 제공한다."
+      "summary_ko": "anthropics/claude-cookbooks는 AI 모델을 활용한 다양한 요리 레시피를 공유하는 프로젝트이다."
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "desc": "",
+      "stars_today": 44,
+      "lang": "Python",
+      "summary_ko": "virattt/ai-hedge-fund는 AI를 활용한 헤지펀드 운영을 위한 플랫폼으로 관심을 끌고 있다."
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 36,
+      "stars_today": 29,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 배우기 위한 인터랙티브 튜토리얼로, 학습에 유용하다."
+      "summary_ko": "anthropics/prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 위한 인터랙티브 교육 자료를 제공한다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
       "desc": "",
-      "stars_today": 32,
+      "stars_today": 23,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/AI-For-Beginners는 AI 기초를 배우고자 하는 사람들을 위한 자료로, 초보자에게 적합하다."
+      "summary_ko": "NirDiamant/agents-towards-production은 AI 에이전트를 실제 환경에 배포하기 위한 가이드를 제공한다."
     },
     {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 20,
       "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models는 LLM을 실습할 수 있는 자료로, 실무 경험을 쌓는 데 도움이 된다."
-    },
-    {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
-      "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/agents는 다양한 AI 에이전트를 개발하기 위한 자료로, 연구자들에게 유용할 수 있다."
+      "summary_ko": "chiphuyen/aie-book은 AI 교육을 위한 종합적인 자료로 학습에 도움을 준다."
     },
     {
       "repo": "ed-donner/llm_engineering",
       "url": "https://github.com/ed-donner/llm_engineering",
       "desc": "",
-      "stars_today": 7,
+      "stars_today": 19,
       "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/llm_engineering은 LLM 엔지니어링에 관한 자료로, 기술적 이해를 높이는 데 기여할 수 있다."
+      "summary_ko": "ed-donner/llm_engineering은 대형 언어 모델의 엔지니어링 기법을 다루는 프로젝트이다."
     },
     {
-      "repo": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
+      "repo": "anthropics/courses",
+      "url": "https://github.com/anthropics/courses",
       "desc": "",
-      "stars_today": 2617,
-      "lang": "Python",
-      "summary_ko": "chopratejas/headroom은 AI 모델의 성능을 최적화하는 도구로, 개발자들에게 유용할 수 있다."
+      "stars_today": 12,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "anthropics/courses는 AI 관련 다양한 온라인 강의를 제공하여 학습 기회를 확대한다."
     },
     {
-      "repo": "tw93/Pake",
-      "url": "https://github.com/tw93/Pake",
+      "repo": "openai/CLIP",
+      "url": "https://github.com/openai/CLIP",
       "desc": "",
-      "stars_today": 1850,
-      "lang": "Rust",
-      "summary_ko": "tw93/Pake는 크로스 플랫폼 애플리케이션을 쉽게 만들 수 있는 도구로, 개발자들에게 편리함을 제공한다."
-    },
-    {
-      "repo": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "desc": "",
-      "stars_today": 1829,
-      "lang": "Swift",
-      "summary_ko": "palmier-io/palmier-pro는 고급 AI 기능을 제공하는 플랫폼으로, 기업의 AI 활용도를 높일 수 있다."
+      "stars_today": 11,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "openai/CLIP은 이미지와 텍스트를 연결하는 혁신적인 AI 모델로 주목받고 있다."
     }
   ],
   "hackernews": [
     {
-      "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-      "url": "https://github.com/mysk-research/loupe",
-      "points": 502,
-      "comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=48608645",
-      "title_ko": "루프 – 네이티브 앱의 접근 권한 인식 앱",
-      "summary_ko": "루프는 iOS 앱으로 네이티브 앱이 어떤 정보를 볼 수 있는지 인식시키는 기능을 제공합니다."
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "points": 252,
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=48630535",
+      "title_ko": "Claude Code의 '확장된 사고' 출력 텍스트",
+      "summary_ko": "Claude Code의 새로운 출력 방식인 '확장된 사고'에 대한 논의가 이루어졌다."
     },
     {
-      "title": "Identity verification on Claude",
-      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-      "points": 465,
-      "comments": 425,
-      "hn_url": "https://news.ycombinator.com/item?id=48618455",
-      "title_ko": "클로드의 신원 확인 기능",
-      "summary_ko": "클로드에서 신원 확인 기능이 도입되어 사용자 인증이 더욱 강화되었습니다."
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "points": 199,
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=48630171",
+      "title_ko": "Moebius: 10B급 성능의 0.2B 이미지 인페인팅 모델",
+      "summary_ko": "Moebius는 10B급 성능을 자랑하는 최신 이미지 인페인팅 모델이다."
     },
     {
-      "title": "Slow breathing modulates brain function and risk behavior",
-      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-      "points": 373,
-      "comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=48613555",
-      "title_ko": "느린 호흡이 뇌 기능과 위험 행동에 미치는 영향",
-      "summary_ko": "느린 호흡이 뇌 기능을 조절하고 위험 행동을 줄이는 데 긍정적인 영향을 미친다는 연구 결과가 발표되었습니다."
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "points": 125,
+      "comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=48631726",
+      "title_ko": "Show HN: Oak – 에이전트를 위한 Git 대안",
+      "summary_ko": "Oak는 에이전트에 최적화된 Git 대안으로 주목받고 있다."
     },
     {
-      "title": "JSON-LD Explained for Personal Websites",
-      "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
-      "points": 121,
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=48621517",
-      "title_ko": "개인 웹사이트를 위한 JSON-LD 설명",
-      "summary_ko": "JSON-LD를 활용하여 개인 웹사이트의 구조화된 데이터를 효과적으로 설명하는 방법을 다룹니다."
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "url": "https://spur.us/blog/smart-tv-apps-residential-proxy-sdks",
+      "points": 82,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=48635954",
+      "title_ko": "LG 스마트 TV 앱의 거의 절반이 주거용 프록시 SDK 포함",
+      "summary_ko": "LG 스마트 TV 앱의 상당수가 주거용 프록시 SDK를 포함하고 있어 우려를 낳고 있다."
     },
     {
-      "title": "Apertus – Open Foundation Model for Sovereign AI",
-      "url": "https://apertvs.ai/",
-      "points": 48,
-      "comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=48622778",
-      "title_ko": "아펄투스 – 주권 AI를 위한 오픈 파운데이션 모델",
-      "summary_ko": "아펄투스는 주권 AI 개발을 위한 오픈 소스 기반의 모델을 제공합니다."
-    },
-    {
-      "title": "Stop wasting tokens and re explaining your project between sessions",
-      "url": "https://github.com/raiyanyahya/recall",
-      "points": 24,
-      "comments": 17,
-      "hn_url": "https://news.ycombinator.com/item?id=48622590",
-      "title_ko": "세션 간 프로젝트 설명 반복 중단하기",
-      "summary_ko": "프로젝트 설명을 반복하지 않고 효율적으로 관리할 수 있는 방법에 대한 제안입니다."
-    },
-    {
-      "title": "Cocktail Optimization, an Integer Programming Problem",
-      "url": "https://bunkum.us/2026/06/18/cocktail-ingredients-milp",
-      "points": 22,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48597592",
-      "title_ko": "칵테일 최적화: 정수 프로그래밍 문제",
-      "summary_ko": "칵테일 최적화 문제를 정수 프로그래밍 관점에서 접근하는 방법을 설명합니다."
+      "title": "Blogger defeats photographer's copyright claim",
+      "url": "https://blog.ericgoldman.org/archives/2026/06/blogger-defeats-photographers-copyright-claim-sokolskyfilm-v-messiah.htm",
+      "points": 80,
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=48632859",
+      "title_ko": "블로거, 사진작가의 저작권 주장에 승소",
+      "summary_ko": "한 블로거가 사진작가의 저작권 주장에 대해 법원에서 승소했다."
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -193,8 +175,26 @@
       "points": 9,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958",
-      "title_ko": "npm-scan: npm 생태계를 위한 현대적 공급망 보안",
-      "summary_ko": "npm 생태계를 위한 보안 솔루션인 npm-scan이 현대적 공급망 보안을 제공합니다."
+      "title_ko": "Npm-scan: npm 생태계를 위한 현대적 공급망 보안",
+      "summary_ko": "Npm-scan은 npm 생태계의 보안을 강화하기 위한 새로운 도구이다."
+    },
+    {
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "url": "https://snapstate.dev",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=47759400",
+      "title_ko": "SnapState - AI 에이전트 워크플로우의 지속적 상태 관리",
+      "summary_ko": "SnapState는 AI 에이전트의 워크플로우를 위한 지속적 상태 관리 솔루션이다."
+    },
+    {
+      "title": "Wildcard (YC W25) is hiring an applied ML engineer",
+      "url": "https://www.ycombinator.com/companies/wildcard/jobs/SEmo4di-founding-applied-ml-engineer",
+      "points": 0,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48620504",
+      "title_ko": "Wildcard (YC W25)에서 적용 ML 엔지니어 채용",
+      "summary_ko": "스타트업 Wildcard가 적용 머신러닝 엔지니어를 채용하고 있다."
     }
   ],
   "reddit": [
@@ -204,58 +204,76 @@
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uaebfe/best_local_agents_jun_2026/",
       "title_ko": "최고의 로컬 에이전트 - 2026년 6월",
-      "summary_ko": "2026년 6월의 최고의 로컬 에이전트에 대한 Reddit 글입니다."
+      "summary_ko": "2026년 6월의 최고의 로컬 에이전트에 대한 Reddit r/LocalLLaMA 글이다."
     },
     {
-      "title": "Tokenomics",
+      "title": "DeepSeek raises $7.4B USD at $60B valuation. Remarkably, Liang Wenfeng invests $3B in DeepSeek himself.",
       "sub": "LocalLLaMA",
-      "author": "HOLUPREDICTIONS",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubrcwj/tokenomics/",
-      "title_ko": "토큰 이코노미",
-      "summary_ko": "토큰 이코노미에 대한 Reddit 글로, 관련 정보가 담겨 있습니다."
+      "author": "FullOf_Bad_Ideas",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucwyes/deepseek_raises_74b_usd_at_60b_valuation/",
+      "title_ko": "DeepSeek, 74억 달러 유치 및 600억 달러 가치 평가",
+      "summary_ko": "DeepSeek가 74억 달러를 유치하고, 리앙 웬펑이 30억 달러를 직접 투자했다는 소식이다."
     },
     {
-      "title": "Vercel CEO: \"Almost shocked\" by how good GLM-5.2 is at coding",
+      "title": "Chinese Hackers Latest Masterpiece with NVIDIA",
       "sub": "LocalLLaMA",
-      "author": "BuildwithVignesh",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubk57k/vercel_ceo_almost_shocked_by_how_good_glm52_is_at/",
-      "title_ko": "Vercel CEO: GLM-5.2의 코딩 능력에 \"거의 충격받았다\"",
-      "summary_ko": "Vercel CEO가 GLM-5.2의 뛰어난 코딩 능력에 대해 언급한 Reddit 글입니다."
+      "author": "General_Vermicelli53",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucokod/chinese_hackers_latest_masterpiece_with_nvidia/",
+      "title_ko": "중국 해커의 NVIDIA 최신 작품",
+      "summary_ko": "중국 해커들이 NVIDIA와 관련된 최신 작품을 선보였다는 Reddit 글이다."
     },
     {
-      "title": "Not a new model, just a Happy Father's Day and a thank you.",
+      "title": "GLM5.2 @7tg on 4x3090 + 192GB on budget motherboard + cpu",
       "sub": "LocalLLaMA",
-      "author": "Wrong_Mushroom_7350",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubzzib/not_a_new_model_just_a_happy_fathers_day_and_a/",
-      "title_ko": "새로운 모델이 아니라 아버지의 날 기념 및 감사 인사",
-      "summary_ko": "아버지의 날을 기념하며 감사의 메시지를 전하는 Reddit 글입니다."
+      "author": "Important_Quote_1180",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucknck/glm52_7tg_on_4x3090_192gb_on_budget_motherboard/",
+      "title_ko": "GLM5.2 @7tg, 4x3090 + 192GB 예산 메인보드 + CPU",
+      "summary_ko": "GLM5.2를 4x3090과 192GB 메모리로 예산 메인보드에서 실행한 사례를 다룬 글이다."
     },
     {
-      "title": "Qwen is never going to open source Qwen 3.7, aren't they?",
+      "title": "been tracking EU DDR5 data for 25 days: Prices are dropping, and the DE vs. NL gap is wild (good news for local LLM builders in EU)",
       "sub": "LocalLLaMA",
-      "author": "DistanceSolar1449",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubjnh5/qwen_is_never_going_to_open_source_qwen_37_arent/",
-      "title_ko": "Qwen은 Qwen 3.7을 오픈 소스하지 않을 것인가?",
-      "summary_ko": "Qwen 3.7의 오픈 소스 여부에 대한 논의가 담긴 Reddit 글입니다."
+      "author": "egudegi",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucixz9/been_tracking_eu_ddr5_data_for_25_days_prices_are/",
+      "title_ko": "EU DDR5 데이터 25일 추적: 가격 하락과 DE vs. NL 격차",
+      "summary_ko": "EU에서 DDR5 가격이 하락하고 있으며, DE와 NL 간의 격차가 크다는 소식이다."
     },
     {
-      "title": "I pretrained and post trained a 500M parameter LLM and 330M parameter Image generator from scratch",
+      "title": "Top-N-Sigma: Remove unconditional softmax+sort by TimNN · Pull Request #22645 · ggml-org/llama.cpp",
       "sub": "LocalLLaMA",
-      "author": "Altruistic-Tea-5612",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ubuy8w/i_pretrained_and_post_trained_a_500m_parameter/",
-      "title_ko": "500M 파라미터 LLM과 330M 파라미터 이미지 생성기를 처음부터 학습시켰다",
-      "summary_ko": "500M 파라미터 LLM과 330M 이미지 생성기를 학습한 경험을 공유하는 Reddit 글입니다."
+      "author": "pmttyji",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ucqs1k/topnsigma_remove_unconditional_softmaxsort_by/",
+      "title_ko": "Top-N-Sigma: 무조건적인 softmax 제거 및 TimNN 정렬",
+      "summary_ko": "Top-N-Sigma에 대한 Pull Request #22645로, 무조건적인 softmax를 제거하는 내용을 담고 있다."
     }
   ],
   "youtube": [
+    {
+      "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
+      "published": "2026-06-22",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.21548 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, Benji Rabhan, B Shang, Ca",
+      "title_ko": "딥시크, AI의 10억 달러 문제를 해결하다",
+      "summary_ko": "딥시크가 AI의 중요한 문제를 해결한 내용을 다룬 영상이다."
+    },
+    {
+      "title": "📣2026, 마케터로 취업할 마지막 기회",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=HqASxdXMjhQ",
+      "published": "2026-06-22",
+      "desc": "감에 의존하는 마케팅은 그만! 데이터/AI 기반 마케팅 실무 경험을 쌓고 싶다면 확실하게 취업 준비할 수 있는 멋쟁이사자처럼 그로스 마케팅 부트캠프로 오세요. 💰 내일배움카드 보유 시 교육비 최대 100% 지원 ✅ 인당 360만원 규모 취업 지원 혜택 ✅ 정규직 전환형 인턴십 기회 제공 ✅ 실제 기업 과제 기반 연계 프로젝트 ✅ 내일배움카드 소지 시 교육비 최대 100% 지원 ✅ 매월 최대 90만 원 훈련장려금 지급 올 해 마지막 그로스 마케팅 부트캠프, 조기 마감 전 빠르게 지원서를 제출해 보세",
+      "title_ko": "📣2026, 마케터로 취업할 마지막 기회",
+      "summary_ko": "데이터 기반 마케팅 실무 경험을 쌓고 취업 준비를 할 수 있는 부트캠프를 소개한다."
+    },
     {
       "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=kkLlzQqa7MY",
       "published": "2026-06-21",
       "desc": "HUGE AI NEWS: Boogu Image, GLM 5.2, LTX2 Trainer, Midjourney Medical. Thanks to our sponsor Higgsfield. Unlock unlimited Seedance: https://higgsfield.ai/s/seedance-2-0-theaisearch-GfUvtg #ai #ainews #aitools #aivideo #agi #singularity DreamX World https://amap-ml.github.io/DreamX",
-      "title_ko": "새로운 로봇 와이프, GLM 5.2 열풍, AI 스파, 새로운 세계 모델 및 과학 에이전트: AI 뉴스",
-      "summary_ko": "AI 관련 최신 소식과 기술 발전을 다룬 유튜브 영상입니다."
+      "title_ko": "로봇 와이프, GLM 5.2 열풍, AI 스파 등 AI 뉴스",
+      "summary_ko": "최신 AI 뉴스와 다양한 기술 발전을 소개하는 영상이다."
     },
     {
       "title": "짐 켈러가 퀄컴으로? 퀄컴 × 텐스토렌트 100억 달러 인수설 | '서버용 스냅드래곤' 등장하나",
@@ -263,8 +281,8 @@
       "url": "https://www.youtube.com/watch?v=Nr83fYFJVyM",
       "published": "2026-06-21",
       "desc": "퀄컴이 AI 칩 스타트업 텐스토렌트를 최대 100억 달러에 인수하려 한다는 소식이 전해졌습니다. 매출이 크지 않은 회사에 이만한 금액이 거론되는 이유를 짚어봤습니다. 텐스토렌트를 이끄는 '반도체 설계의 전설' 짐 켈러가 누구인지, 그가 만든 RISC-V CPU와 Tensix AI 가속기가 무엇인지 살펴봅니다. 과거 누비아 인수로 CPU 주도권을 되찾았던 퀄컴의 전략과 이번 인수설이 어떻게 연결되는지 정리했습니다. 알파웨이브, 벤타나에 이어 텐스토렌트까지, 퀄컴이 모으고 있는 조각들이 어떤 그림을 ",
-      "title_ko": "짐 켈러가 퀄컴으로? 퀄컴 × 텐스토렌트 100억 달러 인수설",
-      "summary_ko": "퀄컴이 AI 스타트업 텐스토렌트를 인수할 가능성에 대한 분석을 제공합니다."
+      "title_ko": "짐 켈러가 퀄컴으로? 100억 달러 인수설",
+      "summary_ko": "퀄컴이 AI 스타트업 텐스토렌트를 인수할 가능성에 대한 소식과 배경을 다룬다."
     },
     {
       "title": "Making a space app because this NASA photo breaks my brain",
@@ -272,17 +290,8 @@
       "url": "https://www.youtube.com/watch?v=2KDSkUrVrOw",
       "published": "2026-06-20",
       "desc": "Why is it that after such an amazing historic event like a Lunar Flyby, the only thing NASA gives us to relive the event is just... a photo album? Let's change that! Shout out to @hankschannel for the inspiration. Try the tool here: https://artemis2timeline.netlify.app/ (working ",
-      "title_ko": "NASA 사진이 내 뇌를 흔들어 놓아서 우주 앱을 만들다",
-      "summary_ko": "NASA의 역사적인 사건을 기념하기 위한 새로운 앱 개발 아이디어를 소개합니다."
-    },
-    {
-      "title": "Scientists Found A Better Language For AI Agents",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=dUmT0OIGoqE",
-      "published": "2026-06-19",
-      "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://recursivemas.github.io/ https://github.com/RecursiveMAS/RecursiveMAS Brain reading video: https://www.youtube.com/watch?v=IUg-t609byg 🙏 We would like to ",
-      "title_ko": "과학자들이 AI 에이전트를 위한 더 나은 언어를 발견하다",
-      "summary_ko": "AI 에이전트를 위한 새로운 언어 개발에 관한 연구 결과를 공유합니다."
+      "title_ko": "NASA 사진으로 우주 앱 만들기",
+      "summary_ko": "NASA의 역사적인 사건을 더 잘 경험하기 위한 앱 개발 아이디어를 제안하는 영상이다."
     },
     {
       "title": "100 random chords, how many intersections?",
@@ -290,8 +299,8 @@
       "url": "https://www.youtube.com/shorts/wGffBCfrAsE",
       "published": "2026-06-16",
       "desc": "Part of a series of monthly puzzles done in collaboration with MoMath.",
-      "title_ko": "100개의 무작위 코드, 얼마나 많은 교차점이 있을까?",
-      "summary_ko": "수학 퍼즐 시리즈의 일환으로 무작위 코드의 교차점을 탐구합니다."
+      "title_ko": "100개의 랜덤 코드, 몇 개의 교차점?",
+      "summary_ko": "랜덤 코드와 관련된 퍼즐을 다룬 영상 시리즈의 일환이다."
     },
     {
       "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
@@ -299,17 +308,8 @@
       "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
       "published": "2026-06-14",
       "desc": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-ext",
-      "title_ko": "Claude Fable 차단 - 다음 단계에 대한 11가지 조용한 세부사항",
-      "summary_ko": "Claude Fable 5의 차단과 관련된 주요 정보를 다룹니다."
-    },
-    {
-      "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=DPJI1ELQxgI",
-      "published": "2026-06-10",
-      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv26_prelive - 지원 기간 : ~2026.06.29 (월) 오후 11시까지 - 교육 기간 : 2026.06.30 (화) ~ 2026.12.10 (목)",
-      "title_ko": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
-      "summary_ko": "백엔드 개발자를 위한 Java&Spring 부트캠프의 사전 설명회를 안내합니다."
+      "title_ko": "클로드 파블 차단 - 다음 단계에 대한 11가지 조용한 세부사항",
+      "summary_ko": "클로드 파블의 차단과 관련된 배경 정보를 제공하는 영상이다."
     },
     {
       "title": "하네스를 쓰면 어려운 과제에서 차이가 납니다 #shorts",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/shorts/OunzQLhJjKU",
       "published": "2026-06-10",
       "desc": "AI프렌즈 203회 하네스 엔지니어링 60분 스팀팩 하이라이트 원본: https://www.youtube.com/live/_20mengjS78 #Shorts #AI프렌즈 #하네스엔지니어링 #ClaudeCode #AI에이전트",
-      "title_ko": "하네스를 쓰면 어려운 과제에서 차이가 납니다 #shorts",
-      "summary_ko": "하네스 엔지니어링의 효과를 다룬 짧은 하이라이트 영상을 소개합니다."
+      "title_ko": "하네스를 쓰면 어려운 과제에서 차이가 난다 #shorts",
+      "summary_ko": "하네스 엔지니어링의 효과를 보여주는 짧은 하이라이트 영상이다."
     },
     {
       "title": "Anti-matter & nuclear weapons: Why technology is always a double-edge sword | Don Lincoln",
@@ -326,8 +326,8 @@
       "url": "https://www.youtube.com/watch?v=EyjMQUXra74",
       "published": "2026-06-04",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=1M3Vdl6DRkU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9845-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Don Lin",
-      "title_ko": "반물질과 핵무기: 기술이 항상 양날의 검인 이유 | 돈 링컨",
-      "summary_ko": "기술의 이중성을 다룬 Lex Fridman 팟캐스트 에피소드를 소개합니다."
+      "title_ko": "반물질과 핵무기: 기술은 항상 양날의 검이다 | 돈 링컨",
+      "summary_ko": "기술의 이중성을 탐구하는 Lex Fridman의 팟캐스트 에피소드이다."
     }
   ],
   "social": []
