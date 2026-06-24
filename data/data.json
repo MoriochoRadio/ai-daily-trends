@@ -1,200 +1,200 @@
 {
-  "generated_at": "2026-06-23T22:19:24.686761+00:00",
-  "date_label": "2026년 6월 24일 (수)",
+  "generated_at": "2026-06-24T22:23:26.729962+00:00",
+  "date_label": "2026년 6월 25일 (목)",
   "github_trending": [
     {
-      "repo": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "repo": "apple/container",
+      "url": "https://github.com/apple/container",
       "desc": "",
-      "stars_today": 1299,
-      "lang": "C",
-      "summary_ko": "DeusData/codebase-memory-mcp는 코드베이스의 메모리 관리를 위한 프로젝트로, 개발자들에게 유용할 수 있다."
+      "stars_today": 1746,
+      "lang": "Swift",
+      "summary_ko": "apple/container는 애플의 컨테이너 기술로, 효율적인 애플리케이션 배포를 지원한다."
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 1121,
+      "stars_today": 1461,
       "lang": "Python",
-      "summary_ko": "ZhuLinsen/daily_stock_analysis는 일일 주식 분석을 자동화하는 도구로, 투자자들에게 도움이 될 수 있다."
-    },
-    {
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "desc": "",
-      "stars_today": 1040,
-      "lang": "Python",
-      "summary_ko": "mukul975/Anthropic-Cybersecurity-Skills는 사이버 보안 기술을 학습하는 자료로, 보안 전문가들에게 유익하다."
+      "summary_ko": "ZhuLinsen/daily_stock_analysis는 일일 주식 분석을 자동화하여 투자 결정을 돕는다."
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 933,
+      "stars_today": 1174,
       "lang": "Python",
-      "summary_ko": "NousResearch/hermes-agent는 AI 기반의 에이전트로, 다양한 작업을 수행할 수 있는 가능성을 보여준다."
+      "summary_ko": "NousResearch/hermes-agent는 AI 기반의 대화형 에이전트로, 사용자와의 상호작용을 개선한다."
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "",
+      "stars_today": 1073,
+      "lang": "Python",
+      "summary_ko": "mukul975/Anthropic-Cybersecurity-Skills는 사이버 보안 기술을 학습할 수 있는 자료를 제공한다."
     },
     {
       "repo": "JCodesMore/ai-website-cloner-template",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "desc": "",
-      "stars_today": 827,
+      "stars_today": 693,
       "lang": "TypeScript",
-      "summary_ko": "JCodesMore/ai-website-cloner-template는 웹사이트 복제 템플릿으로, 개발자들이 쉽게 웹사이트를 만들 수 있도록 돕는다."
+      "summary_ko": "JCodesMore/ai-website-cloner-template는 웹사이트 복제를 위한 AI 템플릿을 제공하여 개발을 용이하게 한다."
     },
     {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
+      "repo": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
       "desc": "",
-      "stars_today": 433,
-      "lang": "Python",
-      "summary_ko": "anthropics/skills는 AI의 다양한 기술을 다루는 자료로, 연구자들에게 참고가 될 수 있다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 372,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm은 LLM을 활용한 프로젝트로, 자연어 처리 분야에서의 응용 가능성을 제시한다."
-    },
-    {
-      "repo": "shanraisshan/claude-code-best-practice",
-      "url": "https://github.com/shanraisshan/claude-code-best-practice",
-      "desc": "",
-      "stars_today": 329,
-      "lang": "HTML",
-      "summary_ko": "shanraisshan/claude-code-best-practice는 코드 작성의 모범 사례를 제시하여 개발자들에게 유용하다."
+      "stars_today": 387,
+      "lang": "TypeScript",
+      "summary_ko": "stablyai/orca는 AI 모델의 성능을 향상시키기 위한 연구 프로젝트로 주목받고 있다."
     },
     {
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 66,
+      "stars_today": 352,
       "lang": "Python",
-      "summary_ko": "anthropics/claude-plugins-official은 다양한 플러그인을 제공하여 AI의 기능을 확장할 수 있다."
+      "summary_ko": "anthropics/claude-plugins-official은 Claude AI의 공식 플러그인으로 기능 확장을 지원한다."
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
       "desc": "",
-      "stars_today": 60,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 AI 활용을 위한 요리책 형식의 자료로, 실용적인 가이드를 제공한다."
+      "stars_today": 152,
+      "lang": "Python",
+      "summary_ko": "interviewstreet/hiring-agent는 채용 프로세스를 자동화하여 인사팀의 효율성을 높인다."
     },
     {
-      "repo": "AI4Finance-Foundation/FinGPT",
-      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "repo": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
       "desc": "",
-      "stars_today": 46,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI4Finance-Foundation/FinGPT는 금융 분야에 특화된 GPT 모델로, 투자 분석에 활용될 수 있다."
+      "stars_today": 152,
+      "lang": "Python",
+      "summary_ko": "BerriAI/litellm은 경량화된 언어 모델로, 다양한 애플리케이션에 쉽게 통합할 수 있다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 46,
+      "stars_today": 100,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/AI-For-Beginners는 AI 입문자를 위한 자료로, 기초 지식을 쌓는 데 도움이 된다."
+      "summary_ko": "lyogavin/airllm은 클라우드 기반의 LLM으로, 대규모 데이터 처리에 적합하다."
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 89,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/ai-agents-for-beginners는 초보자를 위한 AI 에이전트 개발 가이드를 제공한다."
+    },
+    {
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "",
+      "stars_today": 43,
+      "lang": "Python",
+      "summary_ko": "wshobson/agents는 다양한 AI 에이전트를 구축할 수 있는 프레임워크를 제공한다."
+    },
+    {
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "desc": "",
+      "stars_today": 21,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "GoogleCloudPlatform/generative-ai는 생성형 AI 모델을 활용한 다양한 서비스와 도구를 제공한다."
     },
     {
       "repo": "SakanaAI/AI-Scientist",
       "url": "https://github.com/SakanaAI/AI-Scientist",
       "desc": "",
-      "stars_today": 39,
+      "stars_today": 14,
       "lang": "Jupyter Notebook",
-      "summary_ko": "SakanaAI/AI-Scientist는 AI 연구를 위한 도구로, 연구자들에게 유용한 자원이 될 수 있다."
+      "summary_ko": "SakanaAI/AI-Scientist는 AI를 활용해 과학적 연구를 지원하는 프로젝트로 주목받고 있다."
     },
     {
       "repo": "ed-donner/agents",
       "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 16,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/agents는 다양한 에이전트 기술을 다루는 자료로, AI 개발에 관심 있는 이들에게 유익하다."
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
       "stars_today": 14,
       "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/llm_engineering은 LLM 엔지니어링에 관한 자료로, 기술적 이해를 돕는 데 기여할 수 있다."
+      "summary_ko": "ed-donner/agents는 다양한 도메인에서 활용 가능한 AI 에이전트 개발을 위한 리소스를 제공한다."
     }
   ],
   "hackernews": [
     {
-      "title": "Madison Square Garden compiled a list of activists against facial recognition",
-      "url": "https://www.404media.co/madison-square-garden-made-dossier-on-activists-who-opposed-facial-recognition/",
-      "points": 280,
-      "comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=48644781",
-      "title_ko": "매디슨 스퀘어 가든, 얼굴 인식 반대 활동가 목록 공개",
-      "summary_ko": "매디슨 스퀘어 가든이 얼굴 인식 기술에 반대하는 활동가들의 목록을 발표해 주목받고 있다."
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "points": 395,
+      "comments": 269,
+      "hn_url": "https://news.ycombinator.com/item?id=48663324",
+      "title_ko": "OpenAI, 브로드컴과 함께 첫 맞춤형 칩 공개",
+      "summary_ko": "OpenAI가 브로드컴과 협력하여 첫 번째 맞춤형 칩을 공개해 주목받고 있다."
     },
     {
-      "title": "Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "points": 208,
-      "comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=48648039",
-      "title_ko": "클로드 태그",
-      "summary_ko": "클로드 태그는 최근 화제가 되고 있는 새로운 기술로, 많은 관심을 받고 있다."
-    },
-    {
-      "title": "AI's Affordability Crisis",
-      "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-      "points": 192,
-      "comments": 249,
-      "hn_url": "https://news.ycombinator.com/item?id=48646276",
-      "title_ko": "AI의 가격 접근성 위기",
-      "summary_ko": "AI 기술의 가격이 급등하면서 접근성 문제가 심각해지고 있다는 우려가 제기되고 있다."
-    },
-    {
-      "title": "FUTO Swipe – A new swipe typing model",
-      "url": "https://swipe.futo.tech/",
-      "points": 150,
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "url": "https://rubyllm.com/",
+      "points": 315,
       "comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=48648619",
-      "title_ko": "FUTO 스와이프 – 새로운 스와이프 타이핑 모델",
-      "summary_ko": "FUTO 스와이프는 혁신적인 스와이프 타이핑 모델로, 사용자 편의성을 높이고 있다."
+      "hn_url": "https://news.ycombinator.com/item?id=48660711",
+      "title_ko": "RubyLLM: 주요 AI 제공자를 위한 루비 프레임워크",
+      "summary_ko": "RubyLLM은 모든 주요 AI 제공자를 지원하는 루비 기반 프레임워크로 주목받고 있다."
     },
     {
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "url": "https://www.bluewin.ch/en/news/german-rail-service-suspended-due-to-radio-interference-li.3295297",
-      "points": 89,
-      "comments": 29,
-      "hn_url": "https://news.ycombinator.com/item?id=48651613",
-      "title_ko": "독일 기차 서비스, 라디오 간섭으로 중단",
-      "summary_ko": "라디오 간섭으로 인해 독일의 모든 기차 서비스가 중단되어 큰 혼잡이 발생하고 있다."
+      "title": "Krea 2: SOTA open-weights 12B image model",
+      "url": "https://www.krea.ai/blog/krea-2-technical-report",
+      "points": 300,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=48646659",
+      "title_ko": "Krea 2: 최신 오픈 가중치 12B 이미지 모델",
+      "summary_ko": "Krea 2는 최신 오픈 가중치를 적용한 12B 이미지 모델로 관심을 끌고 있다."
     },
     {
-      "title": "Apple is going to raise device prices, but when?",
-      "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-      "points": 85,
-      "comments": 72,
-      "hn_url": "https://news.ycombinator.com/item?id=48643079",
-      "title_ko": "애플, 기기 가격 인상 예정, 언제일까?",
-      "summary_ko": "애플이 기기 가격 인상을 계획하고 있지만, 구체적인 시점은 아직 공개되지 않았다."
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "points": 181,
+      "comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=48658300",
+      "title_ko": "NSA, Anthropic 분쟁 중 Mythos 접근 권한 상실",
+      "summary_ko": "NSA가 Anthropic과의 분쟁 중 Mythos에 대한 접근 권한을 잃어 주목받고 있다."
     },
     {
-      "title": "Don't verify email addresses by sending spam to them",
-      "url": "https://milek7.pl/mailverifyspam/",
-      "points": 84,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=48650837",
-      "title_ko": "스팸으로 이메일 주소 검증하지 마세요",
-      "summary_ko": "이메일 주소 검증을 위해 스팸을 보내는 것은 잘못된 방법이라는 경고가 나왔다."
+      "title": "Thomann takes legal action against Fender",
+      "url": "https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/",
+      "points": 156,
+      "comments": 94,
+      "hn_url": "https://news.ycombinator.com/item?id=48664384",
+      "title_ko": "Thomann, Fender에 대한 법적 조치 취해",
+      "summary_ko": "Thomann이 Fender를 상대로 법적 조치를 취해 이목을 끌고 있다."
     },
     {
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "url": "https://english.news.cn/20260624/65f1b6192cd947e28849776a5aef05c6/c.html",
-      "points": 68,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=48651552",
-      "title_ko": "독일, 기차 라디오 통신 중단으로 모든 기차 서비스 중단",
-      "summary_ko": "독일에서 기차 라디오 통신의 중단으로 인해 모든 기차 서비스가 중단되었다."
+      "title": "PR spam today looks like email spam in the early 2000s",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "points": 145,
+      "comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=48660579",
+      "title_ko": "현재 PR 스팸, 2000년대 초 이메일 스팸과 유사",
+      "summary_ko": "현재의 PR 스팸이 2000년대 초 이메일 스팸과 유사하다는 분석이 주목받고 있다."
+    },
+    {
+      "title": "Computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "points": 123,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=48662999",
+      "title_ko": "Gemini 3.5 Flash에서의 컴퓨터 사용",
+      "summary_ko": "Gemini 3.5 Flash에서의 컴퓨터 사용에 대한 새로운 정보가 공개되어 관심을 모으고 있다."
+    },
+    {
+      "title": "Big AI labs are hiring philosophers",
+      "url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+      "points": 88,
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=48662452",
+      "title_ko": "대형 AI 연구소, 철학자 채용 중",
+      "summary_ko": "대형 AI 연구소들이 철학자를 채용하고 있어 이목이 집중되고 있다."
     }
   ],
   "reddit": [
@@ -204,58 +204,76 @@
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uaebfe/best_local_agents_jun_2026/",
       "title_ko": "2026년 6월 최고의 로컬 에이전트",
-      "summary_ko": "레딧 r/LocalLLaMA에서 2026년 최고의 로컬 에이전트에 대한 논의가 이루어졌다."
+      "summary_ko": "Reddit r/LocalLLaMA에서 2026년 6월의 최고의 로컬 에이전트에 대한 논의가 이루어졌다."
     },
     {
-      "title": "7 Chinese companies are already shipping H100/H200-class AI chips, most IPO'd in the last 6 months. I mapped all of them.",
+      "title": "The Swiss Federal Supreme Court is evaluating Heretic",
       "sub": "LocalLLaMA",
-      "author": "awfulalexey",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udkxde/7_chinese_companies_are_already_shipping/",
-      "title_ko": "7개 중국 기업, H100/H200급 AI 칩 출하 시작",
-      "summary_ko": "최근 6개월 내 상장된 7개 중국 기업이 H100/H200급 AI 칩을 출하하고 있다."
+      "author": "-p-e-w-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ueeund/the_swiss_federal_supreme_court_is_evaluating/",
+      "title_ko": "스위스 연방 최고 법원이 헤레틱을 평가 중",
+      "summary_ko": "스위스 연방 최고 법원이 헤레틱에 대한 평가를 진행하고 있다는 소식이다."
     },
     {
-      "title": "Not ironclad confirmation, but..",
+      "title": "Unlimited-OCR is now on ModelScope! A 3.3B multilingual OCR model for one-shot parsing across single images, multi-page documents, and PDFs. License: MIT",
       "sub": "LocalLLaMA",
-      "author": "Kodix",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udo9il/not_ironclad_confirmation_but/",
-      "title_ko": "확실한 확인은 아니지만..",
-      "summary_ko": "레딧 r/LocalLLaMA에서 불확실한 정보에 대한 논의가 진행되고 있다."
+      "author": "Sporeboss",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ue51uk/unlimitedocr_is_now_on_modelscope_a_33b/",
+      "title_ko": "Unlimited-OCR, ModelScope에 출시!",
+      "summary_ko": "3.3B 다국어 OCR 모델 Unlimited-OCR이 ModelScope에서 출시되어 주목받고 있다."
     },
     {
-      "title": "Krea 2 released on Hugging Face",
+      "title": "Gefen is a drop-in replacement for the AdamW optimizer, claims 8x memory reduction in training (GitHub available)",
       "sub": "LocalLLaMA",
-      "author": "paf1138",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udk2oi/krea_2_released_on_hugging_face/",
-      "title_ko": "Krea 2, Hugging Face에 출시",
-      "summary_ko": "Krea 2가 Hugging Face 플랫폼에 새롭게 출시되었다."
+      "author": "indicava",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uep96s/gefen_is_a_dropin_replacement_for_the_adamw/",
+      "title_ko": "Gefen, AdamW 옵티마이저의 대체품",
+      "summary_ko": "Gefen은 AdamW 옵티마이저의 대체품으로, 훈련 시 8배 메모리 절약을 주장한다."
     },
     {
-      "title": "What are the top Chinese GPU rental platforms?",
+      "title": "The Bank of Korea just released a report about AI productivity",
       "sub": "LocalLLaMA",
-      "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udsph1/what_are_the_top_chinese_gpu_rental_platforms/",
-      "title_ko": "중국의 주요 GPU 렌탈 플랫폼은?",
-      "summary_ko": "레딧 r/LocalLLaMA에서 중국의 GPU 렌탈 플랫폼에 대한 정보가 공유되고 있다."
+      "author": "UsedMorning9886",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uecytz/the_bank_of_korea_just_released_a_report_about_ai/",
+      "title_ko": "한국은행, AI 생산성 보고서 발표",
+      "summary_ko": "한국은행이 AI 생산성에 관한 새로운 보고서를 발표하여 관심을 끌고 있다."
     },
     {
-      "title": "OpenMythos benchmarks",
+      "title": "I reverse engineered Windows Copilot into a free OpenAI compatible API (GPT-4, no API key, no billing)",
       "sub": "LocalLLaMA",
-      "author": "RealKingNish",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1udq2ac/openmythos_benchmarks/",
-      "title_ko": "OpenMythos 벤치마크",
-      "summary_ko": "OpenMythos에 대한 벤치마크 결과가 레딧 r/LocalLLaMA에서 논의되고 있다."
+      "author": "whatisonearth",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uekiyp/i_reverse_engineered_windows_copilot_into_a_free/",
+      "title_ko": "Windows Copilot을 무료 OpenAI 호환 API로 역설계",
+      "summary_ko": "Windows Copilot을 역설계하여 무료 OpenAI 호환 API를 제공하는 소식이 전해졌다."
     }
   ],
   "youtube": [
     {
-      "title": "엔비디아가 800V를 꺼낸 이유... GPU보다 먼저 전기가 막혔다 | 800VDC와 한국 전력기업의 기회",
+      "title": "New top local AI image generator is here! Already uncensored",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=1U8dJ94QFNc",
+      "published": "2026-06-24",
+      "desc": "Krea 2 review and installation tutorial. Best open-source AI image generator. Free & uncensored. How to use Krea 2 in ComfyUI. Thanks to our sponsor Luma. Try Luma Agents & Luma Skills today https://lumalabs.ai/aisearch-agents30 Krea 2 models for ComfyUI https://huggingface.co/Co",
+      "title_ko": "새로운 로컬 AI 이미지 생성기 등장! 이미 검열 해제됨",
+      "summary_ko": "Krea 2의 리뷰와 설치 방법을 소개하며, 최고의 오픈소스 AI 이미지 생성기로 주목받고 있습니다."
+    },
+    {
+      "title": "샌디스크 특허 충격... HBM 다음 HBF? 쉽지는 않습니다 DRAM이 아니라 NAND거든요",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=ozj0cU8339o",
-      "published": "2026-06-23",
-      "desc": "AI 데이터센터의 경쟁이 GPU 확보를 넘어 전력 공급 경쟁으로 이동하고 있습니다. AI 랙의 소비전력이 수백 kW까지 높아지면서 기존 54V 전력 구조도 한계에 부딪히고 있습니다. 엔비디아가 차세대 AI 데이터센터에 800VDC 구조를 도입하려는 이유를 살펴봅니다. 전압을 높이면 전류와 배전 손실, 케이블과 냉각 부담을 어떻게 줄일 수 있는지 설명합니다. 반대로 고전압 직류에서 발생하는 아크와 차단, 절연, 핫스왑 문제도 함께 짚어봅니다. TI와 인피니언 등 전력반도체 기업들이 AI 인프라의 핵",
-      "title_ko": "엔비디아가 800VDC를 도입한 이유와 기회",
-      "summary_ko": "AI 데이터센터의 전력 공급 경쟁에서 엔비디아가 800VDC 구조를 도입한 이유를 설명합니다."
+      "url": "https://www.youtube.com/watch?v=S86P-vnX_Xg",
+      "published": "2026-06-24",
+      "desc": "HBM 다음 메모리로 거론되는 HBF, 하이 밴드위스 플래시를 살펴봅니다. 샌디스크와 SK하이닉스가 HBF 표준화에 나선 배경과 삼성전자의 공개 전략 차이를 정리했습니다. 느린 낸드가 채널, 다이, 뱅크, 플레인 병렬화를 통해 어떻게 높은 대역폭을 만드는지 설명합니다. TLC와 QLC의 용량을 포기하고 SLC 또는 pSLC 방식으로 속도와 수명을 높일 가능성도 다룹니다. 낸드가 전하의 양을 기준 전압으로 구분해 데이터를 저장하는 원리를 쉽게 풀어봤습니다. 반복적인 쓰기가 인듀어런스를 소모하고, 시",
+      "title_ko": "샌디스크의 충격적인 특허... HBM 다음은 HBF?",
+      "summary_ko": "HBM 다음 메모리로 거론되는 HBF에 대해 샌디스크와 SK하이닉스의 표준화 배경을 설명합니다."
+    },
+    {
+      "title": "[AWS 클라우드 부트캠프] 이번 기수 한정, 총 6천만 원 혜택 제공🎁",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=KRL4QzCfums",
+      "published": "2026-06-24",
+      "desc": "🔥총 6천만 원 취업 지원 혜택🔥 이번 기수 한정 역대급 수강 혜택으로 준비된 AWS 클라우드 엔지니어링 부트캠프, 부담 없이 지금 바로 지원하세요! 5개월 만에 클라우드 엔지니어가 될 수 있어요! ✅ 내일배움카드 소지 시 교육비 최대 100% 지원 ✅ 대규모 트래픽 서버 운영 및 처리 경험 ✅ 총 6천만 원 상당의 취업 지원 혜택 ✅ 온프레미스+AWS 하이브리드 인프라 구축 지금 지원하면 24시간 내 결과 확인 가능! 지금 바로 지원해 보세요🔥",
+      "title_ko": "[AWS 클라우드 부트캠프] 이번 기수 한정 6천만 원 혜택 제공🎁",
+      "summary_ko": "AWS 클라우드 엔지니어링 부트캠프에서 총 6천만 원의 취업 지원 혜택을 제공합니다."
     },
     {
       "title": "DeepSeek Just Solved AI's Billion Dollar Problem",
@@ -263,26 +281,8 @@
       "url": "https://www.youtube.com/watch?v=mG4SmhWyeFA",
       "published": "2026-06-22",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2602.21548 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, Benji Rabhan, B Shang, Ca",
-      "title_ko": "DeepSeek, AI의 10억 달러 문제 해결",
-      "summary_ko": "DeepSeek가 AI의 중요한 문제를 해결한 내용을 다룬 영상입니다."
-    },
-    {
-      "title": "📣2026, 마케터로 취업할 마지막 기회",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=HqASxdXMjhQ",
-      "published": "2026-06-22",
-      "desc": "감에 의존하는 마케팅은 그만! 데이터/AI 기반 마케팅 실무 경험을 쌓고 싶다면 확실하게 취업 준비할 수 있는 멋쟁이사자처럼 그로스 마케팅 부트캠프로 오세요. 💰 내일배움카드 보유 시 교육비 최대 100% 지원 ✅ 인당 360만원 규모 취업 지원 혜택 ✅ 정규직 전환형 인턴십 기회 제공 ✅ 실제 기업 과제 기반 연계 프로젝트 ✅ 내일배움카드 소지 시 교육비 최대 100% 지원 ✅ 매월 최대 90만 원 훈련장려금 지급 올 해 마지막 그로스 마케팅 부트캠프, 조기 마감 전 빠르게 지원서를 제출해 보세",
-      "title_ko": "2026년, 마케터로 취업할 마지막 기회",
-      "summary_ko": "데이터 기반 마케팅 실무 경험을 쌓을 수 있는 부트캠프 프로그램을 소개합니다."
-    },
-    {
-      "title": "New robot waifus, GLM 5.2 craze, AI spas, new world models, new science agents: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=kkLlzQqa7MY",
-      "published": "2026-06-21",
-      "desc": "HUGE AI NEWS: Boogu Image, GLM 5.2, LTX2 Trainer, Midjourney Medical. Thanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/s/seedance-2-0-theaisearch-GfUvtg #ai #ainews #aitools #aivideo #agi #singularity DreamX World https://amap-ml.github.io/DreamX_World/ Perma",
-      "title_ko": "새로운 로봇, GLM 5.2, AI 스파 등 AI 뉴스",
-      "summary_ko": "최신 AI 기술과 소식을 전하는 영상으로 다양한 주제를 다룹니다."
+      "title_ko": "DeepSeek, AI의 10억 달러 문제를 해결하다",
+      "summary_ko": "DeepSeek가 AI의 큰 문제를 해결한 내용을 다루며, 관련 논문을 소개합니다."
     },
     {
       "title": "Making a space app because this NASA photo breaks my brain",
@@ -290,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=2KDSkUrVrOw",
       "published": "2026-06-20",
       "desc": "Why is it that after such an amazing historic event like a Lunar Flyby, the only thing NASA gives us to relive the event is just... a photo album? Let's change that! Shout out to @hankschannel for the inspiration. Try the tool here: https://artemis2timeline.netlify.app/ (working ",
-      "title_ko": "NASA 사진을 활용한 우주 앱 만들기",
-      "summary_ko": "NASA의 역사적인 사건을 재조명하기 위한 우주 앱 개발 아이디어를 소개합니다."
+      "title_ko": "NASA 사진이 뇌를 자극해 만든 우주 앱",
+      "summary_ko": "NASA의 역사적인 사건을 기념하기 위해 사진 앨범 대신 우주 앱을 만들고자 하는 아이디어를 공유합니다."
     },
     {
       "title": "100 random chords, how many intersections?",
@@ -299,8 +299,8 @@
       "url": "https://www.youtube.com/shorts/wGffBCfrAsE",
       "published": "2026-06-16",
       "desc": "Part of a series of monthly puzzles done in collaboration with MoMath.",
-      "title_ko": "100개의 랜덤 코드, 교차점은 몇 개일까?",
-      "summary_ko": "랜덤 코드와 관련된 퍼즐을 다룬 영상입니다."
+      "title_ko": "100개의 랜덤 코드, 몇 개의 교차점이 있을까?",
+      "summary_ko": "MoMath와 협력하여 진행되는 월간 퍼즐 시리즈의 일환으로, 랜덤 코드의 교차점을 탐구합니다."
     },
     {
       "title": "Claude Fable Blocked - 11 Quiet Details on What’s Next",
@@ -308,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
       "published": "2026-06-14",
       "desc": "Claude Fable 5 banned, but what’s the bigger story. We go through 11 under-reported details, so you have the context to see what’s coming next for your use of AI. From whether the ban will last, what the possible motives are, what the model can actually do, and some wild over-ext",
-      "title_ko": "Claude Fable 차단 - 향후 전망 11가지",
-      "summary_ko": "Claude Fable 5의 차단과 관련된 여러 세부 사항을 설명합니다."
+      "title_ko": "Claude Fable 차단 - 다음 단계에 대한 11가지 세부사항",
+      "summary_ko": "Claude Fable 5의 차단과 관련된 11가지 세부사항을 통해 AI 사용의 향후 방향을 살펴봅니다."
     },
     {
       "title": "하네스를 쓰면 어려운 과제에서 차이가 납니다 #shorts",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/shorts/OunzQLhJjKU",
       "published": "2026-06-10",
       "desc": "AI프렌즈 203회 하네스 엔지니어링 60분 스팀팩 하이라이트 원본: https://www.youtube.com/live/_20mengjS78 #Shorts #AI프렌즈 #하네스엔지니어링 #ClaudeCode #AI에이전트",
-      "title_ko": "하네스를 사용하면 어려운 과제가 쉬워진다",
-      "summary_ko": "하네스 엔지니어링의 효과를 보여주는 짧은 하이라이트 영상입니다."
+      "title_ko": "하네스를 쓰면 어려운 과제에서 차이가 납니다 #shorts",
+      "summary_ko": "AI프렌즈 203회에서 하네스 엔지니어링의 하이라이트를 소개합니다."
     },
     {
       "title": "Anti-matter & nuclear weapons: Why technology is always a double-edge sword | Don Lincoln",
@@ -326,26 +326,18 @@
       "url": "https://www.youtube.com/watch?v=EyjMQUXra74",
       "published": "2026-06-04",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=1M3Vdl6DRkU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9845-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Don Lin",
-      "title_ko": "반물질과 핵무기: 기술의 양날의 검",
-      "summary_ko": "기술이 항상 양날의 검임을 설명하는 Lex Fridman의 팟캐스트 에피소드입니다."
+      "title_ko": "반물질과 핵무기: 기술은 항상 양날의 검이다 | 돈 링컨",
+      "summary_ko": "Lex Fridman 팟캐스트에서 반물질과 핵무기의 기술적 이중성을 논의합니다."
     }
   ],
   "social": [
     {
-      "title": "Fired by Google for creating the Google workspace CLI",
-      "handle": "@JPoehnelt",
-      "url": "https://twitter.com/JPoehnelt/status/2069482265953087602",
-      "note": "HN 147pts · 100 댓글",
-      "title_ko": "구글, Google Workspace CLI 개발자로 해고",
-      "summary_ko": "구글이 Google Workspace CLI를 개발한 JPoehnelt를 해고한 사건이 주목받고 있다."
-    },
-    {
-      "title": "Swift Package Index joins Apple",
-      "handle": "@blog",
-      "url": "https://swiftpackageindex.com/blog/swift-package-index-joins-apple",
-      "note": "HN 138pts · 44 댓글",
-      "title_ko": "Swift Package Index, 애플에 합류",
-      "summary_ko": "Swift Package Index가 애플에 합류하면서 개발자 생태계에 긍정적인 영향을 미칠 것으로 기대된다."
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "handle": "@ID_AA_Carmack",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "note": "HN 450pts · 223 댓글",
+      "title_ko": "초기 시절의 실수들 돌아보기",
+      "summary_ko": "@ID_AA_Carmack이 초기 개발 시절의 실수에 대해 회고한 글이 주목받고 있다."
     }
   ]
 }
