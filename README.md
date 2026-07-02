@@ -21,6 +21,7 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 - **완전 자동화** — 사람 손 없이 매일 데이터를 수집·요약하고 사이트를 빌드·배포합니다.
 - **🇰🇷 한국어 제목 + 핵심 요약** — 각 글의 제목을 한국어로 크게 번역해 보여주고(원문은 작게 병기), "무엇이고 왜 중요한지"를 1문장 한국어로 요약합니다. (무료 LLM — GitHub Models)
 - **AI 특화 큐레이션** — 키워드 필터로 AI/LLM/에이전트 관련 콘텐츠만 골라냅니다.
+- **🔍 검색 · 소스 필터 · 테마 전환** — 키워드로 전 항목을 즉시 검색(`/` 키로 포커스)하고, 소스별(GitHub·HN·Reddit·YouTube·SNS)로 필터링하며, 다크/라이트 테마를 전환(브라우저에 저장)할 수 있습니다. 상단 하이라이트로 오늘의 최다 ★ 저장소를 강조하고, HN 항목은 기사와 토론 링크를 분리 제공합니다. 이 기능들은 **경량 바닐라 JS의 점진적 향상**으로, JS가 꺼져 있어도 모든 콘텐츠는 그대로 보입니다.
 - **5개 소스 통합** — GitHub·Hacker News·Reddit·YouTube·X(트위터)를 한 화면에서. 더는 사이트마다 따로 들어가 찾아볼 필요가 없습니다.
 - **정적 사이트** — 빌드 결과물은 의존성 없는 단일 `index.html`. 빠르고, 무료로 호스팅됩니다.
 - **반응형 + 접근성** — 모바일~데스크톱 대응, `prefers-reduced-motion`·키보드 포커스 등 준수.
@@ -109,7 +110,7 @@ python3 scripts/build.py       # index.html 생성
 ## 🛠️ 기술 스택
 
 - **언어:** Python 3 (표준 라이브러리만 사용 — `urllib`, `re`, `json`)
-- **프런트엔드:** 순수 HTML/CSS (빌드 타임 생성, 런타임 JS 의존성 없음)
+- **프런트엔드:** 순수 HTML/CSS + 경량 바닐라 JS (빌드 타임 생성 · 외부 런타임 의존성 없음 · 검색·필터·테마는 점진적 향상)
 - **요약 LLM:** [GitHub Models](https://github.com/marketplace/models) `gpt-4o-mini` (무료, 키 불필요)
 - **CI/CD:** GitHub Actions
 - **호스팅:** GitHub Pages
