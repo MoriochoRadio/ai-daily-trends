@@ -6,12 +6,20 @@ on:
   workflow_dispatch:        # 수동 실행 버튼
 
 permissions:
-  contents: write
-  models: read          # GitHub Models(무료 LLM) 호출용 — 한국어 요약 생성
+  contents: read
+
+# 지연된 스케줄 실행과 수동 실행이 겹치면 push·배포가 경합하므로 직렬화
+concurrency:
+  group: daily-trends
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+      models: read          # GitHub Models(무료 LLM) 호출용 — 한국어 요약 생성
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
@@ -30,12 +38,22 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/data.json index.html
-          git diff --staged --quiet || git commit -m "chore: 트렌드 자동 갱신 ($(date -u +%Y-%m-%d))"
-          git push
+          git diff --staged --quiet || {
+            git commit -m "chore: 트렌드 자동 갱신 ($(TZ=Asia/Seoul date +%Y-%m-%d))"
+            git pull --rebase origin main
+            git push
+          }
+      # 아티팩트 업로드는 build 잡에서 수행한다 — deploy 잡만 실패했을 때
+      # rerun --failed가 아티팩트를 중복 업로드("Multiple artifacts")하지 않고 배포만 재시도되도록.
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: '.'
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     permissions:
       pages: write
       id-token: write
@@ -43,12 +61,11 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v6
-        with:
-          ref: main
-      - uses: actions/configure-pages@v6
-      - uses: actions/upload-pages-artifact@v5
-        with:
-          path: '.'
       - id: deployment
+        uses: actions/deploy-pages@v5
+        continue-on-error: true # Pages 일시 장애("try again later")는 1회 재시도로 흡수
+      - if: steps.deployment.outcome == 'failure'
+        run: sleep 120
+      - id: deployment-retry
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5

@@ -63,8 +63,27 @@ def github_trending(limit=15):
     return rows[:limit]
 
 # ---------- Hacker News ----------
+_HN_CACHE = None
+
+def _hn_front_page(retries=3):
+    """HN front page 검색 결과(hacker_news·social_from_hn 공용, 1회만 호출).
+    일시 장애면 백오프 재시도 후 빈 결과 — 실행 전체를 죽이지 않는다."""
+    global _HN_CACHE
+    if _HN_CACHE is None:
+        for attempt in range(retries):
+            try:
+                _HN_CACHE = json.load(fetch(
+                    "https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=60"))
+                break
+            except Exception:
+                if attempt < retries - 1:
+                    time.sleep(5 * (attempt + 1))
+        else:
+            _HN_CACHE = {}
+    return _HN_CACHE
+
 def hacker_news(limit=8):
-    data = json.load(fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=60"))
+    data = _hn_front_page()
     out = []
     for h in data.get("hits", []):
         title = h.get("title", "")
@@ -189,7 +208,7 @@ def youtube(limit=9):
 
 # ---------- Social (HN 내 X/Twitter 링크) ----------
 def social_from_hn(limit=3):
-    data = json.load(fetch("https://hn.algolia.com/api/v1/search?tags=front_page&hitsPerPage=60"))
+    data = _hn_front_page()
     out = []
     for h in data.get("hits", []):
         url = h.get("url") or ""

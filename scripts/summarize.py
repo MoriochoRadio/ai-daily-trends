@@ -9,7 +9,7 @@
 
 다른 LLM(예: Anthropic Claude)으로 바꾸려면 _post() 한 함수만 교체하면 된다.
 """
-import json, os, subprocess, urllib.request, urllib.error, pathlib
+import json, os, subprocess, time, urllib.request, urllib.error, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ENDPOINT = "https://models.github.ai/inference/chat/completions"
@@ -59,9 +59,18 @@ def _post(token, system, contexts, max_tokens):
     req = urllib.request.Request(
         ENDPOINT, data=json.dumps(payload).encode("utf-8"),
         headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"})
-    with urllib.request.urlopen(req, timeout=90) as r:
-        body = json.load(r)
-    return json.loads(body["choices"][0]["message"]["content"])
+    # 429/일시 5xx 한 번에 그날 요약이 통째로 빠지지 않도록 2회 백오프 재시도
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=90) as r:
+                body = json.load(r)
+            return json.loads(body["choices"][0]["message"]["content"])
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
+            code = getattr(e, "code", None)
+            if attempt < 2 and (code is None or code == 429 or code >= 500):
+                time.sleep(10 * (attempt + 1))
+                continue
+            raise
 
 
 def translate_and_summarize(token, items, context_fn, label):
