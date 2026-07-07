@@ -1,94 +1,94 @@
 {
-  "generated_at": "2026-07-06T22:19:57.645052+00:00",
-  "date_label": "2026년 7월 7일 (화)",
+  "generated_at": "2026-07-07T22:17:12.421982+00:00",
+  "date_label": "2026년 7월 8일 (수)",
   "github_trending": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "",
+      "stars_today": 2402,
+      "lang": "TypeScript",
+      "summary_ko": "MadsLorentzen/ai-job-search는 AI 기반의 직업 검색 도구로, 구직자에게 유용할 수 있다."
+    },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 1114,
-      "lang": "Shell",
-      "summary_ko": "addyosmani/agent-skills는 AI 에이전트의 기술을 다루는 리포지토리로, 개발자에게 유용한 자원이다."
-    },
-    {
-      "repo": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
-      "desc": "",
-      "stars_today": 910,
+      "stars_today": 1311,
       "lang": "JavaScript",
-      "summary_ko": "openai/codex-plugin-cc는 코드 작성에 도움을 주는 플러그인으로, 개발 생산성을 높일 수 있다."
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "desc": "",
-      "stars_today": 611,
-      "lang": "Python",
-      "summary_ko": "alirezarezvani/claude-skills는 Claude AI의 다양한 기술을 소개하며, 활용 가능성을 확장한다."
-    },
-    {
-      "repo": "hesreallyhim/awesome-claude-code",
-      "url": "https://github.com/hesreallyhim/awesome-claude-code",
-      "desc": "",
-      "stars_today": 562,
-      "lang": "Python",
-      "summary_ko": "hesreallyhim/awesome-claude-code는 Claude AI 관련 코드 예제를 모아둔 자료로, 학습에 도움이 된다."
+      "summary_ko": "addyosmani/agent-skills는 웹 개발자를 위한 에이전트 기술을 제공하여 효율성을 높인다."
     },
     {
       "repo": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "desc": "",
-      "stars_today": 539,
+      "stars_today": 953,
       "lang": "Python",
-      "summary_ko": "bradautomates/claude-video는 Claude AI를 활용한 비디오 자동화 기술을 다루고 있어 흥미롭다."
+      "summary_ko": "bradautomates/claude-video는 Claude AI를 활용한 비디오 생성 도구로, 콘텐츠 제작에 도움을 준다."
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "desc": "",
+      "stars_today": 802,
+      "lang": "C#",
+      "summary_ko": "iOfficeAI/OfficeCLI는 사무실 작업을 자동화하는 CLI 도구로, 업무 효율성을 증대시킨다."
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "",
+      "stars_today": 688,
+      "lang": "Python",
+      "summary_ko": "NousResearch/hermes-agent는 다양한 작업을 수행하는 AI 에이전트로, 활용도가 높다."
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "desc": "",
+      "stars_today": 545,
+      "lang": "Python",
+      "summary_ko": "alirezarezvani/claude-skills는 Claude AI의 다양한 기술을 모아놓은 리포지토리로, 학습에 유용하다."
+    },
+    {
+      "repo": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "desc": "",
+      "stars_today": 510,
+      "lang": "Python",
+      "summary_ko": "kyutai-labs/pocket-tts는 휴대용 텍스트 음성 변환 도구로, 이동 중에도 텍스트를 음성으로 들을 수 있다."
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "",
+      "stars_today": 426,
+      "lang": "Python",
+      "summary_ko": "anthropics/skills는 AI의 다양한 기술을 정리한 자료로, 연구 및 개발에 참고할 수 있다."
     },
     {
       "repo": "cheahjs/free-llm-api-resources",
       "url": "https://github.com/cheahjs/free-llm-api-resources",
       "desc": "",
-      "stars_today": 422,
+      "stars_today": 412,
       "lang": "Python",
-      "summary_ko": "cheahjs/free-llm-api-resources는 무료 LLM API 자원을 정리한 자료로, 개발자에게 유용하다."
+      "summary_ko": "cheahjs/free-llm-api-resources는 무료 LLM API 자원을 모아놓은 자료로, 개발자에게 유용하다."
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
+      "repo": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "desc": "",
-      "stars_today": 321,
+      "stars_today": 227,
       "lang": "Python",
-      "summary_ko": "TauricResearch/TradingAgents는 거래 에이전트 개발을 위한 리포지토리로, 금융 분야에 관심 있는 개발자에게 적합하다."
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "",
-      "stars_today": 207,
-      "lang": "Python",
-      "summary_ko": "Alishahryar1/free-claude-code는 Claude AI 관련 무료 코드 자원을 제공하여 학습을 지원한다."
-    },
-    {
-      "repo": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "desc": "",
-      "stars_today": 104,
-      "lang": "Python",
-      "summary_ko": "anthropics/financial-services는 금융 서비스에 특화된 AI 기술을 다루고 있어 주목할 만하다."
+      "summary_ko": "hesreallyhim/awesome-claude-code는 Claude AI와 관련된 코드 예제를 모은 리포지토리로, 실습에 도움이 된다."
     },
     {
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "desc": "",
-      "stars_today": 104,
+      "stars_today": 111,
       "lang": "Python",
-      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude AI의 다양한 기술을 정리한 자료로, 활용도를 높인다."
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 97,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트 입문자를 위한 자료로, 초보자에게 유익하다."
+      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude AI의 기술 목록을 정리하여 활용도를 높인다."
     },
     {
       "repo": "Lordog/dive-into-llms",
@@ -96,105 +96,105 @@
       "desc": "",
       "stars_today": 91,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms는 LLM에 대한 심층적인 이해를 돕는 자료로, 연구자에게 유용하다."
+      "summary_ko": "Lordog/dive-into-llms는 LLM에 대한 심층적인 자료를 제공하여 이해를 돕는다."
     },
     {
-      "repo": "karpathy/nanoGPT",
-      "url": "https://github.com/karpathy/nanoGPT",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 88,
+      "stars_today": 86,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트에 대한 기초 자료를 제공하여 초보자에게 유익하다."
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "",
+      "stars_today": 85,
       "lang": "Python",
-      "summary_ko": "karpathy/nanoGPT는 경량화된 GPT 모델을 다룬 리포지토리로, 효율적인 AI 개발에 기여한다."
+      "summary_ko": "anthropics/claude-plugins-official은 Claude AI의 공식 플러그인 자료로, 기능 확장에 도움이 된다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 67,
+      "stars_today": 62,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 Claude AI 활용을 위한 요리책 형식의 자료로, 실용적이다."
-    },
-    {
-      "repo": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "desc": "",
-      "stars_today": 57,
-      "lang": "Python",
-      "summary_ko": "jamwithai/production-agentic-rag-course는 생산적인 AI 에이전트 개발을 위한 교육 과정을 제공한다."
+      "summary_ko": "anthropics/claude-cookbooks는 Claude AI의 활용법을 정리한 자료로, 실용적인 가이드를 제공한다."
     }
   ],
   "hackernews": [
     {
-      "title": "Real-time map of Great Britain's rail network",
-      "url": "https://www.map.signalbox.io",
-      "points": 368,
-      "comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=48802535",
-      "title_ko": "영국 철도망 실시간 지도",
-      "summary_ko": "영국의 철도망을 실시간으로 확인할 수 있는 지도 서비스가 주목받고 있다."
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "points": 346,
+      "comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=48818311",
+      "title_ko": "Chat Control 1.0과 2.0 설명",
+      "summary_ko": "Chat Control의 두 가지 버전이 어떻게 작동하는지 설명하는 글이다."
     },
     {
-      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-      "points": 248,
-      "comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=48805624",
-      "title_ko": "AMD 라이젠 AI 헤일로 – 4천 달러 AI 개발 키트",
-      "summary_ko": "AMD가 4천 달러에 판매하는 AI 개발 키트인 라이젠 AI 헤일로를 출시했다."
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "points": 274,
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=48819608",
+      "title_ko": "30papers.com – 초보자를 위한 필수 ML 논문 30편",
+      "summary_ko": "초보자가 이해하기 쉽게 정리된 30개의 머신러닝 논문을 소개한다."
     },
     {
-      "title": "A global workspace in language models",
-      "url": "https://www.anthropic.com/research/global-workspace",
-      "points": 190,
-      "comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=48808002",
-      "title_ko": "언어 모델을 위한 글로벌 작업 공간",
-      "summary_ko": "언어 모델을 활용한 글로벌 작업 공간의 필요성이 강조되고 있다."
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "points": 137,
+      "comments": 317,
+      "hn_url": "https://news.ycombinator.com/item?id=48815982",
+      "title_ko": "독일로 오는 숙련 노동자와 그들이 떠나는 이유",
+      "summary_ko": "독일에서 숙련 노동자들이 왜 이탈하는지에 대한 분석을 다룬 글이다."
     },
     {
-      "title": "Kani: A Model Checker for Rust",
-      "url": "https://arxiv.org/abs/2607.01504",
-      "points": 114,
-      "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=48806410",
-      "title_ko": "카니: 러스트용 모델 체커",
-      "summary_ko": "러스트 프로그래밍 언어를 위한 모델 체커인 카니가 주목받고 있다."
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "points": 110,
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=48821848",
+      "title_ko": "Show HN: Davit, Apple Containers UI",
+      "summary_ko": "Apple Containers를 위한 새로운 사용자 인터페이스인 Davit을 소개하는 글이다."
     },
     {
-      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "points": 90,
-      "comments": 25,
-      "hn_url": "https://news.ycombinator.com/item?id=48807225",
-      "title_ko": "OfficeCLI: AI 에이전트를 위한 오피스 스위트",
-      "summary_ko": "AI 에이전트가 Microsoft Office 파일을 읽고 편집할 수 있는 OfficeCLI가 등장했다."
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "points": 84,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=48818937",
+      "title_ko": "AI 자동화의 미래",
+      "summary_ko": "AI 기술의 자동화가 어떻게 진행되고 있는지를 탐구하는 글이다."
     },
     {
-      "title": "Show HN: Pulpie – Models for Cleaning the Web",
-      "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-      "points": 76,
-      "comments": 17,
-      "hn_url": "https://news.ycombinator.com/item?id=48806575",
-      "title_ko": "Show HN: 펄피 – 웹 청소를 위한 모델",
-      "summary_ko": "웹 청소를 위한 모델인 펄피가 Hacker News에서 소개되었다."
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "points": 58,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "title_ko": "AI와 암호학의 만남 1: Cloudflare의 Circl에서 발견한 AI",
+      "summary_ko": "Cloudflare의 Circl에서 AI가 발견한 내용을 다룬 암호학 관련 글이다."
     },
     {
-      "title": "Pruning RAG context down to what the answer actually needs",
-      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
-      "points": 12,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48809354",
-      "title_ko": "RAG 컨텍스트를 실제 필요에 맞게 다듬기",
-      "summary_ko": "RAG 컨텍스트를 필요한 정보로 축소하는 방법이 논의되고 있다."
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "points": 52,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "title_ko": "Show HN: Rowboat – 오픈소스, 로컬 우선 Claude Desktop 대안",
+      "summary_ko": "Claude Desktop의 오픈소스 대안인 Rowboat을 소개하는 글이다."
     },
     {
-      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "url": "https://github.com/lateos-ai/npm-scan",
-      "points": 9,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958",
-      "title_ko": "npm-scan: 현대적 공급망 보안 도구",
-      "summary_ko": "npm 생태계를 위한 현대적인 공급망 보안 도구인 npm-scan이 주목받고 있다."
+      "title": "Men's average testosterone levels have halved in last 50 years",
+      "url": "https://www.theguardian.com/society/2026/jul/07/mens-average-testosterone-levels-have-halved-in-last-50-years-say-scientists",
+      "points": 41,
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=48823368",
+      "title_ko": "남성의 평균 테스토스테론 수치, 50년간 절반으로 감소",
+      "summary_ko": "최근 50년간 남성의 평균 테스토스테론 수치가 절반으로 줄어든 현상을 다룬 글이다."
     }
   ],
   "reddit": [
@@ -204,76 +204,85 @@
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
       "title_ko": "2026년 7월 최고의 로컬 VLM",
-      "summary_ko": "2026년 7월에 발표된 최고의 로컬 VLM에 대한 Reddit 글입니다."
+      "summary_ko": "2026년 7월 기준 최고의 로컬 VLM에 대한 정보를 공유하는 Reddit 글이다."
     },
     {
-      "title": "So... anyone copped one of these?",
+      "title": "Beijing IS NOT looking at curbing overseas access to China's top AI models (Debunking the Reuters report)",
       "sub": "LocalLLaMA",
-      "author": "entsnack",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1up9x38/so_anyone_copped_one_of_these/",
-      "title_ko": "이거 구매한 사람 있나요?",
-      "summary_ko": "구매 경험에 대한 질문을 담은 Reddit 글입니다."
+      "author": "Stannis_Loyalist",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upvw37/beijing_is_not_looking_at_curbing_overseas_access/",
+      "title_ko": "베이징, 해외 접근 제한 계획 없음 (로이터 보도 반박)",
+      "summary_ko": "베이징이 중국의 주요 AI 모델에 대한 해외 접근 제한을 고려하지 않고 있다는 내용을 다룬 Reddit 글이다."
     },
     {
-      "title": "ThinkingCap-Qwen3.6-27B: same accuracy as base Qwen3.6 with ~50% fewer thinking",
+      "title": "I tested Anthropic’s new Jacobian Lens on open models, then it turned into a local-model hallucination router",
       "sub": "LocalLLaMA",
-      "author": "paf1138",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1up3mui/thinkingcapqwen3627b_same_accuracy_as_base_qwen36/",
-      "title_ko": "ThinkingCap-Qwen3.6-27B: 기본 Qwen3.6와 동일한 정확도, 생각하는 시간 50% 감소",
-      "summary_ko": "ThinkingCap-Qwen3.6-27B의 성능 개선에 대한 Reddit 글입니다."
+      "author": "RenewAi",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upy31x/i_tested_anthropics_new_jacobian_lens_on_open/",
+      "title_ko": "앤트로픽의 새로운 Jacobian Lens 테스트 결과",
+      "summary_ko": "앤트로픽의 Jacobian Lens를 테스트한 결과, 로컬 모델 환각 라우터로 변모한 내용을 다룬 Reddit 글이다."
     },
     {
-      "title": "Kyutai's Pocket TTS clones a voice from 5 seconds of audio, on CPU, under MIT. Benchmarked against Kokoro, Supertonic, and Inflect-Nano for Eng. TTS",
+      "title": "Beijing is looking at curbing overseas access to China's top AI models (Reuters)",
       "sub": "LocalLLaMA",
-      "author": "gvij",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1up07mk/kyutais_pocket_tts_clones_a_voice_from_5_seconds/",
-      "title_ko": "Kyutai의 포켓 TTS, 5초 오디오로 목소리 복제",
-      "summary_ko": "Kyutai의 포켓 TTS가 CPU에서 작동하며 목소리 복제 성능을 보여줍니다."
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uprmso/beijing_is_looking_at_curbing_overseas_access_to/",
+      "title_ko": "베이징, 해외 접근 제한 계획 (로이터)",
+      "summary_ko": "베이징이 중국의 주요 AI 모델에 대한 해외 접근을 제한할 계획이라는 로이터 보도를 다룬 Reddit 글이다."
     },
     {
-      "title": "I told Gemma 4 12B (Q8_0, no cache quant) to write a single-file 3D bowling simulator in WebGL. It's terrible, but honestly better than I expected.",
+      "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-BF16 · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "_TheWolfOfWalmart_",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1up78iv/i_told_gemma_4_12b_q8_0_no_cache_quant_to_write_a/",
-      "title_ko": "Gemma 4 12B로 WebGL 3D 볼링 시뮬레이터 작성",
-      "summary_ko": "Gemma 4 12B가 생성한 3D 볼링 시뮬레이터에 대한 리뷰입니다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1upsdmi/nvidianvidianemotronlabs3puzzle75ba9bbf16_hugging/",
+      "title_ko": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-BF16 · 허깅페이스",
+      "summary_ko": "NVIDIA의 Nemotron Labs 관련 프로젝트에 대한 정보를 담은 Reddit 글이다."
     },
     {
-      "title": "Qwen & Gemma on deadlock situation (For Benchmarks Numbers)?",
+      "title": "GLM-5.2 on 8xB200: the deployment math nobody spells out - NVFP4 + 2x TP=4 replicas should beat TP=8 by ~2x. Full config guidance inside.",
       "sub": "LocalLLaMA",
-      "author": "pmttyji",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoppuz/qwen_gemma_on_deadlock_situation_for_benchmarks/",
-      "title_ko": "Qwen과 Gemma의 교착 상태 상황",
-      "summary_ko": "Qwen과 Gemma의 성능 비교를 위한 교착 상태 분석에 대한 Reddit 글입니다."
+      "author": "qubridInc",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uq4oeg/glm52_on_8xb200_the_deployment_math_nobody_spells/",
+      "title_ko": "GLM-5.2의 배포 수학",
+      "summary_ko": "GLM-5.2의 배포에 대한 수학적 분석과 구성 가이드를 제공하는 Reddit 글이다."
     }
   ],
   "youtube": [
     {
-      "title": "The most controversial Roman emperor - Justinian's wars of conquest | Anthony Kaldellis",
+      "title": "DeepSeek's New AI Speed Hack Is Amazing",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
+      "published": "2026-07-07",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek paper is available here: https://arxiv.org/abs/2607.05147v1 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, Benji Rabhan, ",
+      "title_ko": "DeepSeek의 새로운 AI 속도 해킹 기술",
+      "summary_ko": "DeepSeek의 혁신적인 AI 속도 해킹 기술을 소개하는 영상입니다."
+    },
+    {
+      "title": "Persian Empire vs Roman Empire: The war that destroyed both empires | Anthony Kaldellis",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=Pm-mIFJrhYc",
-      "published": "2026-07-06",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9887-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
-      "title_ko": "가장 논란이 많은 로마 황제 - 유스티니아누스의 정복 전쟁",
-      "summary_ko": "Lex Fridman의 팟캐스트에서 유스티니아누스 황제의 전쟁과 논란을 다룹니다."
+      "url": "https://www.youtube.com/watch?v=Qr-ShgxKDdY",
+      "published": "2026-07-07",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9891-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
+      "title_ko": "페르시아 제국 vs 로마 제국: 두 제국을 파괴한 전쟁",
+      "summary_ko": "페르시아와 로마 제국 간의 전쟁을 다룬 Lex Fridman의 팟캐스트 영상입니다."
     },
     {
-      "title": "아이돌 외모의 중국 가정용 로봇 출시",
+      "title": "5G가 빠른 이유",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/tpJKwMsYFjI",
-      "published": "2026-07-06",
-      "desc": "중국에서 출시된 약 2억 원 상당의 '반려로봇'이 아이돌 수준의 외모와 가사 노동 지원, 정서적 교감 기능을 앞세워 폭발적인 반응을 얻고 있습니다. 유비테크 창업자 저우젠은 이 로봇의 제조 공정이 인류 역사상 보기 드문 수준임을 강조하며, 가사 노동과 정서적 만족이라는 가치를 고려할 때 2억 원이라는 가격은 충분한 경쟁력이 있다고 평가했습니다.",
-      "title_ko": "아이돌 외모의 중국 가정용 로봇 출시",
-      "summary_ko": "중국에서 출시된 2억 원 상당의 반려로봇이 아이돌 외모와 다양한 기능으로 큰 인기를 끌고 있습니다."
+      "url": "https://www.youtube.com/shorts/ZCQF7om5Y_s",
+      "published": "2026-07-07",
+      "desc": "",
+      "title_ko": "5G가 빠른 이유",
+      "summary_ko": "5G의 빠른 속도의 원인을 설명하는 영상입니다."
     },
     {
-      "title": "방학 동안 AI 엔지니어 스펙 쌓는 법!",
+      "title": "비전공자의 멋쟁이사자처럼 해커톤 준비 과정, 코딩 못해도 괜찮을까?",
       "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/yKduX_n5xIk",
-      "published": "2026-07-06",
-      "desc": "여름 방학 동안 NLP 단기 심화 부트캠프 듣고 AI 엔지니어로 취업하실 분을 구합니다🙌 ⛳️수료 후 취업까지 이어지는 AI NLP 엔지니어 부트캠프 LLM 이해부터 AI 에이전트 개발까지 실제 채용 시장에 딱 맞는 커리큘럼을 배우고 전문 기업이 참여하여 피드백까지 받을 수 있어요. ✅ 수료생 전원 100% 인턴십 기회 제공 ✅ 클라우드 및 Google Colab Pro+ 전액 지원 ✅ 매월 훈련장려금 최대 80만원 지급 ✅ 전문 기업 참여 실무 프로젝트 & 현직자 피드백 11주 뒤 AI 엔지니어",
-      "title_ko": "방학 동안 AI 엔지니어 스펙 쌓는 법!",
-      "summary_ko": "여름 방학 동안 AI NLP 엔지니어 부트캠프를 통해 취업 기회를 제공하는 프로그램이 소개됩니다."
+      "url": "https://www.youtube.com/shorts/ZZ_JE8DKcbE",
+      "published": "2026-07-07",
+      "desc": "🦁 #멋쟁이사자처럼 #서포터즈 활동으로 제작된 콘텐츠입니다 - “코딩 못하는데 해커톤 나가도 되나요?” 이번 여름에는 프로그래밍 전공도 아닌, 디자인 전공도 아닌 제가 기획·디자인 트랙으로 첫 해커톤에 도전합니다! 아이디어를 실제 서비스로 만드는 과정은 아직 낯설고, 어떤것부터 준비해야 할지도 막막해서 같은 트랙 친구들과 작은 ’생존 스터디‘를 시작했어요. 오늘의 퀘스트는 🔍 구글 머티리얼 분석하기 📝 토이프로젝트 피드백 하기 🍃 완벽주의 내려놓기 잘 만든 서비스를 하나씩 뜯어보고, 지난 프로젝트",
+      "title_ko": "비전공자의 해커톤 준비 과정",
+      "summary_ko": "코딩 비전공자가 해커톤에 도전하는 과정을 담은 영상입니다."
     },
     {
       "title": "Full body waifus, Claude Fable is back, LongCat 2.0, mind-reading AI, live video editing: AI NEWS",
@@ -281,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=qtzzN8w2TvU",
       "published": "2026-07-05",
       "desc": "HUGE AI news: LongCat 2.0, Claude Fable 5, Sonnet 5, Agents A1, Gemini Omni Flash, Brain2Qwerty #ai #ainews #aitools #agi #singularity Thanks to our sponsor Hi3D. Try it for free! For a limited time, get up to 80% off and BOGO: https://www.hi3d.ai/?utm_source=koc_kol_YTB&utm_medi",
-      "title_ko": "풀 바디 와이푸, 클로드 페이블 복귀, 롱캣 2.0 등 AI 뉴스",
-      "summary_ko": "AI 관련 최신 소식으로 롱캣 2.0과 클로드 페이블 5의 출시 소식이 포함되어 있습니다."
+      "title_ko": "AI 뉴스: Claude Fable, LongCat 2.0 등",
+      "summary_ko": "AI 관련 최신 소식을 전하는 영상으로 다양한 AI 도구와 기술을 소개합니다."
     },
     {
       "title": "에이전트 AI 시대, K-공문서의 두 가지 부채  깨지는 양식과 법적회색지대",
@@ -290,17 +299,8 @@
       "url": "https://www.youtube.com/watch?v=Vdhm_hxN9_U",
       "published": "2026-07-04",
       "desc": "30년 묵은 양식 부채: 개조식 ㅁ/ㅇ/-/·와 제목 없는 구조는 어디서 왔나 (타자기·활판·디지털이 표현을 길들인 과정) 법적 회색지대와 폰트 종속: 저작권 폰트로 깨지는 공문서, 메트릭 호환 폰트(MCF)와 저작권의 회색지대 미래를 위한 실천안: 제목 중심 구조·결정론적 조판, 공공양식 오픈포맷 확인제도와 사전법적확신 메커니즘 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https",
-      "title_ko": "에이전트 AI 시대, K-공문서의 두 가지 부채",
-      "summary_ko": "K-공문서의 양식과 법적 회색지대 문제를 다루며 미래의 실천안을 제시합니다."
-    },
-    {
-      "title": "They Said This Will Never Run In Real Time",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=uO5cvkzh3P0",
-      "published": "2026-07-03",
-      "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://arxiv.org/abs/2506.06494 Sources: https://www.youtube.com/shorts/Tx7167DXr8U https://www.youtube.com/watch?v=55F9dY2Y1zc 🙏 We would like to thank our gen",
-      "title_ko": "이것은 실제 시간에 실행되지 않을 것이라고 말했다",
-      "summary_ko": "AI 관련 연구를 다룬 영상으로, 새로운 기술의 가능성을 탐구합니다."
+      "title_ko": "에이전트 AI 시대의 K-공문서 문제",
+      "summary_ko": "K-공문서의 형식과 법적 회색지대를 다룬 영상입니다."
     },
     {
       "title": "Fable 5 vs GPT 5.6 Sol: The Early Results",
@@ -309,7 +309,7 @@
       "published": "2026-07-02",
       "desc": "Fable 5 (newly re-released) vs GPT 5.6 Sol, what comparisons can we unearth? Plus, Sonnet 5, a 5% equity seizure by US Govt, the ‘largest heist’, Beetlejuice and more… Exclusive Vids in AI Insiders ($9!): https://www.patreon.com/AIExplained Chapters: 00:00 - Introduction 01:06 - ",
       "title_ko": "Fable 5 vs GPT 5.6 Sol: 초기 결과",
-      "summary_ko": "Fable 5와 GPT 5.6 Sol의 비교 결과를 분석한 영상입니다."
+      "summary_ko": "Fable 5와 GPT 5.6 Sol의 비교 결과를 분석하는 영상입니다."
     },
     {
       "title": "Making a space app because this NASA photo breaks my brain",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/watch?v=2KDSkUrVrOw",
       "published": "2026-06-20",
       "desc": "Why is it that after such an amazing historic event like a Lunar Flyby, the only thing NASA gives us to relive the event is just... a photo album? Let's change that! Shout out to @hankschannel for the inspiration. Try the tool here: https://artemis2timeline.netlify.app/ (working ",
-      "title_ko": "우주 앱 만들기 - NASA 사진이 뇌를 자극하다",
-      "summary_ko": "NASA의 역사적인 사건을 기념하기 위해 새로운 우주 앱 개발을 제안하는 영상입니다."
+      "title_ko": "NASA 사진으로 우주 앱 만들기",
+      "summary_ko": "NASA의 역사적인 사건을 재현하기 위한 우주 앱 개발 과정을 다룬 영상입니다."
     },
     {
       "title": "100 random chords, how many intersections?",
@@ -326,18 +326,9 @@
       "url": "https://www.youtube.com/shorts/wGffBCfrAsE",
       "published": "2026-06-16",
       "desc": "Part of a series of monthly puzzles done in collaboration with MoMath.",
-      "title_ko": "100개의 랜덤 코드, 몇 개의 교차점?",
-      "summary_ko": "모Math와 협력하여 진행되는 월간 퍼즐 시리즈의 일환으로, 코드의 교차점을 탐구합니다."
+      "title_ko": "100개의 무작위 코드, 교차점은 몇 개일까?",
+      "summary_ko": "무작위 코드의 교차점을 찾는 퍼즐을 다룬 영상입니다."
     }
   ],
-  "social": [
-    {
-      "title": "Resetting Xbox",
-      "handle": "@en-us",
-      "url": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
-      "note": "HN 406pts · 359 댓글",
-      "title_ko": "엑스박스 초기화",
-      "summary_ko": "엑스박스 초기화에 대한 X(트위터)에서의 화제 글을 다룹니다."
-    }
-  ]
+  "social": []
 }
