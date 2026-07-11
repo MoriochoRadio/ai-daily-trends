@@ -1,200 +1,200 @@
 {
-  "generated_at": "2026-07-10T22:11:27.033933+00:00",
-  "date_label": "2026년 7월 11일 (토)",
+  "generated_at": "2026-07-11T21:56:08.690482+00:00",
+  "date_label": "2026년 7월 12일 (일)",
   "github_trending": [
     {
-      "repo": "iOfficeAI/OfficeCLI",
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "desc": "",
-      "stars_today": 1210,
-      "lang": "C#",
-      "summary_ko": "iOfficeAI/OfficeCLI는 사무실 작업을 자동화하는 도구로 주목받고 있다."
+      "stars_today": 900,
+      "lang": "TypeScript",
+      "summary_ko": "DesktopCommanderMCP는 데스크톱 관리 도구로, 사용자 편의성을 높이는 기능을 제공합니다."
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "desc": "",
-      "stars_today": 1114,
-      "lang": "JavaScript",
-      "summary_ko": "addyosmani/agent-skills는 웹 개발을 위한 다양한 에이전트 기술을 제공한다."
+      "stars_today": 519,
+      "lang": "Python",
+      "summary_ko": "awesome-llm-apps는 다양한 LLM 애플리케이션을 모아놓은 리스트로, 개발자에게 유용한 자원을 제공합니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 614,
+      "stars_today": 322,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 Claude AI 모델을 활용한 요리 레시피를 공유하는 프로젝트이다."
-    },
-    {
-      "repo": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "desc": "",
-      "stars_today": 349,
-      "lang": "TypeScript",
-      "summary_ko": "wonderwhy-er/DesktopCommanderMCP는 데스크탑 관리 및 자동화를 위한 툴로 관심을 끌고 있다."
-    },
-    {
-      "repo": "tailscale/tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "desc": "",
-      "stars_today": 183,
-      "lang": "Go",
-      "summary_ko": "tailscale/tailscale은 안전한 VPN 연결을 제공하는 서비스로 주목받고 있다."
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "desc": "",
-      "stars_today": 134,
-      "lang": "TypeScript",
-      "summary_ko": "TencentCloud/TencentDB-Agent-Memory는 데이터베이스 관리의 효율성을 높이는 도구이다."
-    },
-    {
-      "repo": "AUTOMATIC1111/stable-diffusion-webui",
-      "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
-      "desc": "",
-      "stars_today": 117,
-      "lang": "Python",
-      "summary_ko": "AUTOMATIC1111/stable-diffusion-webui는 이미지 생성 모델을 웹에서 쉽게 사용할 수 있게 해준다."
-    },
-    {
-      "repo": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "desc": "",
-      "stars_today": 106,
-      "lang": "Python",
-      "summary_ko": "agentscope-ai/agentscope는 AI 에이전트를 관리하고 최적화하는 플랫폼이다."
+      "summary_ko": "claude-cookbooks는 Claude 모델을 활용한 요리 레시피 생성 가이드를 제공합니다."
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
-      "stars_today": 104,
+      "stars_today": 230,
       "lang": "Python",
-      "summary_ko": "davila7/claude-code-templates는 Claude AI를 활용한 코드 템플릿을 제공한다."
+      "summary_ko": "claude-code-templates는 Claude 모델을 위한 코드 템플릿을 제공하여 개발 효율성을 높입니다."
+    },
+    {
+      "repo": "FoundationAgents/OpenManus",
+      "url": "https://github.com/FoundationAgents/OpenManus",
+      "desc": "",
+      "stars_today": 217,
+      "lang": "Python",
+      "summary_ko": "OpenManus는 AI 기반의 문서 작성 도구로, 협업을 지원합니다."
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 167,
+      "lang": "Python",
+      "summary_ko": "claude-code는 Claude 모델을 활용한 코드 생성 및 수정 기능을 제공합니다."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 125,
+      "lang": "Python",
+      "summary_ko": "free-claude-code는 무료로 사용할 수 있는 Claude 모델 관련 코드 리소스를 제공합니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 94,
+      "stars_today": 113,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms는 대형 언어 모델에 대한 깊이 있는 분석을 다룬다."
+      "summary_ko": "dive-into-llms는 LLM에 대한 깊이 있는 탐구 자료를 제공하여 학습을 지원합니다."
     },
     {
-      "repo": "openai/openai-python",
-      "url": "https://github.com/openai/openai-python",
+      "repo": "PolymathicAI/the_well",
+      "url": "https://github.com/PolymathicAI/the_well",
       "desc": "",
-      "stars_today": 92,
+      "stars_today": 99,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "the_well은 AI와 관련된 다양한 주제를 다루는 플랫폼으로, 정보 공유를 촉진합니다."
+    },
+    {
+      "repo": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "desc": "",
+      "stars_today": 85,
       "lang": "Python",
-      "summary_ko": "openai/openai-python은 OpenAI API를 쉽게 사용할 수 있도록 돕는 라이브러리이다."
+      "summary_ko": "langflow는 언어 모델을 시각적으로 구성하고 관리할 수 있는 도구입니다."
+    },
+    {
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "",
+      "stars_today": 75,
+      "lang": "JavaScript",
+      "summary_ko": "openai/plugins는 OpenAI의 기능을 확장할 수 있는 플러그인 시스템을 제공합니다."
+    },
+    {
+      "repo": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "desc": "",
+      "stars_today": 74,
+      "lang": "TypeScript",
+      "summary_ko": "next-ai-draw-io는 AI를 활용한 다이어그램 작성 도구로, 시각적 작업을 지원합니다."
+    },
+    {
+      "repo": "cognizant-ai-lab/neuro-san-studio",
+      "url": "https://github.com/cognizant-ai-lab/neuro-san-studio",
+      "desc": "",
+      "stars_today": 29,
+      "lang": "Python",
+      "summary_ko": "neuro-san-studio는 신경망 모델을 쉽게 구축하고 실험할 수 있는 플랫폼입니다."
     },
     {
       "repo": "microsoft/agent-governance-toolkit",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "desc": "",
-      "stars_today": 81,
+      "stars_today": 28,
       "lang": "Python",
-      "summary_ko": "microsoft/agent-governance-toolkit은 AI 에이전트의 거버넌스를 위한 도구 모음이다."
+      "summary_ko": "agent-governance-toolkit은 AI 에이전트의 거버넌스를 위한 도구 모음입니다."
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "openai/openai-python",
+      "url": "https://github.com/openai/openai-python",
       "desc": "",
-      "stars_today": 41,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm은 경량화된 LLM을 제공하여 다양한 환경에서 활용할 수 있도록 한다."
-    },
-    {
-      "repo": "GokuMohandas/Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "desc": "",
-      "stars_today": 34,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "GokuMohandas/Made-With-ML은 머신러닝 프로젝트를 위한 리소스와 튜토리얼을 제공한다."
-    },
-    {
-      "repo": "microsoft/graphrag",
-      "url": "https://github.com/microsoft/graphrag",
-      "desc": "",
-      "stars_today": 33,
+      "stars_today": 26,
       "lang": "Python",
-      "summary_ko": "microsoft/graphrag는 그래프 데이터 관리를 위한 혁신적인 도구로 주목받고 있다."
+      "summary_ko": "openai-python은 OpenAI API를 Python에서 쉽게 사용할 수 있도록 돕는 라이브러리입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Write code like a human will maintain it",
-      "url": "https://unstack.io/write-code-like-a-human-will-maintain-it",
-      "points": 314,
-      "comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=48859701",
-      "title_ko": "사람이 유지보수할 코드를 작성하라",
-      "summary_ko": "코드 작성 시 유지보수를 고려해야 한다는 주제를 다룬 글이다."
+      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "points": 1536,
+      "comments": 863,
+      "hn_url": "https://news.ycombinator.com/item?id=48865019",
+      "title_ko": "애플, 오픈AI 상대 소송 제기 - 전 직원의 영업비밀 도용 혐의",
+      "summary_ko": "애플이 오픈AI를 상대로 전 직원이 영업비밀을 훔쳤다고 주장하며 소송을 제기했다."
     },
     {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "points": 228,
-      "comments": 208,
-      "hn_url": "https://news.ycombinator.com/item?id=48863490",
-      "title_ko": "GPT-5.6 Sol Ultra, Cycle Double Cover Conjecture 증명 [pdf]",
-      "summary_ko": "GPT-5.6 Sol Ultra가 Cycle Double Cover Conjecture를 증명한 내용을 담고 있다."
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "points": 176,
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=48873692",
+      "title_ko": "미국 여성 조정 선수, 캘리포니아에서 하와이까지의 역사적인 단독 항해 완료",
+      "summary_ko": "미국의 한 여성 조정 선수가 캘리포니아에서 하와이까지의 단독 항해를 성공적으로 마쳤다."
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-      "points": 135,
-      "comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=48862252",
-      "title_ko": "달팽이의 이가 거미줄보다 강한 자연의 재료",
-      "summary_ko": "달팽이의 이가 자연에서 가장 강한 재료로 주목받고 있다는 연구 결과를 소개한다."
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "points": 152,
+      "comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=48873424",
+      "title_ko": "현대 인테리어가 사람의 뇌에 부담을 줄 수 있다",
+      "summary_ko": "현대적인 인테리어 디자인이 사람의 인지에 부정적인 영향을 미칠 수 있다는 연구 결과가 주목받고 있다."
     },
     {
-      "title": "How the terrorist group Boko Haram uses frontier AI",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "points": 111,
-      "comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=48863707",
-      "title_ko": "테러 집단 보코하람의 최전선 AI 활용법",
-      "summary_ko": "보코하람이 최첨단 AI를 어떻게 활용하는지를 분석한 글이다."
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "points": 146,
+      "comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=48874200",
+      "title_ko": "AI 2040과 지능의 컬트",
+      "summary_ko": "AI의 미래와 지능에 대한 새로운 관점을 제시하는 'AI 2040'에 대한 논의가 활발하다."
     },
     {
-      "title": "GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "points": 94,
-      "comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=48865093",
-      "title_ko": "GPT-5.6, Grok 4.5, Claude, Muse Spark가 동일한 4개 앱 구축",
-      "summary_ko": "최신 AI 모델들이 동일한 애플리케이션을 개발하는 과정을 비교한다."
-    },
-    {
-      "title": "Show HN: Reverse-engineering web apps into agent tools",
-      "url": "https://news.ycombinator.com/item?id=48847834",
-      "points": 77,
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "points": 73,
       "comments": 29,
-      "hn_url": "https://news.ycombinator.com/item?id=48847834",
-      "title_ko": "Show HN: 웹 앱을 에이전트 도구로 리버스 엔지니어링",
-      "summary_ko": "웹 애플리케이션을 에이전트 도구로 변환하는 방법을 소개하는 프로젝트이다."
+      "hn_url": "https://news.ycombinator.com/item?id=48873855",
+      "title_ko": "리버스 센타우르, AI 패러독스의 해답",
+      "summary_ko": "리버스 센타우르 개념이 AI의 패러독스를 해결할 수 있는 가능성을 제시하고 있다."
     },
     {
-      "title": "Don't discontinue Gemini 2.5 Flash",
-      "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-      "points": 62,
-      "comments": 39,
-      "hn_url": "https://news.ycombinator.com/item?id=48864507",
-      "title_ko": "Gemini 2.5 Flash를 중단하지 말라",
-      "summary_ko": "Gemini 2.5 Flash의 지속적인 지원 필요성을 강조하는 글이다."
+      "title": "Who manages the agents?",
+      "url": "https://www.off-policy.com/dont-go-quietly-into-the-ai-night/",
+      "points": 65,
+      "comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=48874182",
+      "title_ko": "누가 에이전트를 관리하는가?",
+      "summary_ko": "AI 에이전트 관리의 중요성과 그 책임 주체에 대한 논의가 진행되고 있다."
     },
     {
-      "title": "Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "points": 53,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48865431",
-      "title_ko": "애플, 오픈AI를 상대로 회사 비밀 절도 혐의로 고소",
-      "summary_ko": "애플이 오픈AI를 상대로 비밀을 훔쳤다는 혐의로 소송을 제기했다."
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "points": 43,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=48865903",
+      "title_ko": "AI, 스러스트 게임 재현 불가하지만 이해를 돕는 데 도움",
+      "summary_ko": "AI가 스러스트 게임을 재현할 수는 없지만, 이를 이해하는 데 도움을 줄 수 있다는 연구가 소개되었다."
+    },
+    {
+      "title": "Show HN: Reame – a CPU inference server that gets faster as it runs",
+      "url": "https://github.com/swellweb/reame",
+      "points": 24,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=48873417",
+      "title_ko": "Show HN: Reame – 실행할수록 빨라지는 CPU 추론 서버",
+      "summary_ko": "Reame는 실행할수록 성능이 향상되는 CPU 추론 서버로 주목받고 있다."
     }
   ],
   "reddit": [
@@ -204,76 +204,94 @@
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
       "title_ko": "2026년 7월 최고의 로컬 VLM",
-      "summary_ko": "2026년 7월 기준 최고의 로컬 VLM에 대한 논의가 이루어졌다."
+      "summary_ko": "2026년 7월에 추천하는 최고의 로컬 VLM에 대한 Reddit 글이다."
     },
     {
-      "title": "2.5x faster Qwen3.6 NVFP4 Unsloth quants",
+      "title": "I created a super harmful model ! :D (by tweaking it's J-Space!!!)",
       "sub": "LocalLLaMA",
-      "author": "danielhanchen",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1usniqh/25x_faster_qwen36_nvfp4_unsloth_quants/",
-      "title_ko": "2.5배 빠른 Qwen3.6 NVFP4 Unsloth 양자화",
-      "summary_ko": "Qwen3.6 NVFP4의 성능 개선에 대한 새로운 양자화 기술이 소개되었다."
+      "author": "Extraaltodeus",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utpxo6/i_created_a_super_harmful_model_d_by_tweaking_its/",
+      "title_ko": "해로운 모델을 만들었습니다! :D (J-Space 조정으로)",
+      "summary_ko": "J-Space를 조정하여 만든 해로운 모델에 대한 Reddit 글이다."
     },
     {
-      "title": "Training an LLM from scratch on 1800's texts (160GB dataset)",
+      "title": "Qwen3.6 35B-A3B (Q8_0, no KV quant) single prompt in opencode: \"Create a beautiful, relaxing flight simulator in a single html file with mountains, clouds, and endless procedural terrain\"",
       "sub": "LocalLLaMA",
-      "author": "Remarkable-Trick-177",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uswlq8/training_an_llm_from_scratch_on_1800s_texts_160gb/",
-      "title_ko": "1800년대 텍스트로 LLM 훈련하기 (160GB 데이터셋)",
-      "summary_ko": "1800년대의 텍스트를 기반으로 한 LLM 훈련 연구가 진행되었다."
+      "author": "_TheWolfOfWalmart_",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utb6io/qwen36_35ba3b_q8_0_no_kv_quant_single_prompt_in/",
+      "title_ko": "Qwen3.6 35B-A3B: 아름다운 비행 시뮬레이터 생성",
+      "summary_ko": "Qwen3.6 35B-A3B를 이용해 HTML 파일로 비행 시뮬레이터를 만드는 방법을 다룬 글이다."
     },
     {
-      "title": "Tencent-HY3 is the real deal on 128GB!",
+      "title": "The U.S. tech industry is increasingly anxious about the rising power and competitive price of open-source AI models from China — and whether the Trump administration will respond with yet another executive order | Politico",
       "sub": "LocalLLaMA",
-      "author": "returnity",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1usy9ie/tencenthy3_is_the_real_deal_on_128gb/",
-      "title_ko": "128GB에서 진짜 성능을 발휘하는 Tencent-HY3",
-      "summary_ko": "Tencent-HY3가 128GB 환경에서 뛰어난 성능을 보여주고 있다."
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uthozd/the_us_tech_industry_is_increasingly_anxious/",
+      "title_ko": "미국 기술 산업, 중국 오픈소스 AI 모델의 위협 우려",
+      "summary_ko": "미국 기술 산업이 중국의 오픈소스 AI 모델에 대한 우려를 표명한 Politico 기사이다."
     },
     {
-      "title": "NVIDIA Readies GeForce RTX 5090 SE Graphics Card - TPU",
+      "title": "Why are MoE models so belittled?",
       "sub": "LocalLLaMA",
-      "author": "panchovix",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ustlrg/nvidia_readies_geforce_rtx_5090_se_graphics_card/",
-      "title_ko": "NVIDIA, GeForce RTX 5090 SE 그래픽 카드 준비 중",
-      "summary_ko": "NVIDIA가 차세대 GeForce RTX 5090 SE 그래픽 카드를 준비하고 있다는 소식이다."
+      "author": "ParaboloidalCrest",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1utkqfg/why_are_moe_models_so_belittled/",
+      "title_ko": "MoE 모델이 경시되는 이유는?",
+      "summary_ko": "MoE 모델이 왜 경시되는지에 대한 논의를 담은 Reddit 글이다."
     },
     {
-      "title": "At most my Strix Halo uses $0.48 a day",
+      "title": "I benched quad 5060Tis for code generation with Qwen3.6-27B so you don't have to (it's really good)",
       "sub": "LocalLLaMA",
-      "author": "Forward_Jackfruit813",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ussasa/at_most_my_strix_halo_uses_048_a_day/",
-      "title_ko": "내 Strix Halo는 하루에 최대 $0.48 사용",
-      "summary_ko": "Strix Halo의 전력 소비가 하루에 $0.48에 불과하다는 보고가 있다."
+      "author": "starkruzr",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uturng/i_benched_quad_5060tis_for_code_generation_with/",
+      "title_ko": "Qwen3.6-27B로 코드 생성 성능 테스트",
+      "summary_ko": "Qwen3.6-27B를 사용한 코드 생성 성능 테스트 결과를 공유하는 Reddit 글이다."
     }
   ],
   "youtube": [
+    {
+      "title": "스마트폰 발열 문제의 답은?",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/VwiN_8N6KiQ",
+      "published": "2026-07-11",
+      "desc": "",
+      "title_ko": "스마트폰 발열 문제의 해답은?",
+      "summary_ko": "유튜브 채널 안될공학에서 스마트폰의 발열 문제를 다룹니다."
+    },
+    {
+      "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
+      "channel": "테디노트",
+      "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
+      "published": "2026-07-11",
+      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
+      "title_ko": "[브레인크루 X 테디노트] 2026 크루 채용 설명회",
+      "summary_ko": "브레인크루가 AI 제품 개발과 채용 계획을 소개하는 유튜브 LIVE 방송입니다."
+    },
+    {
+      "title": "칩 설계에 스며드는 LLM과 AI 에이전트(박지우 / Ricursive Intelligence)",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/watch?v=qL-CB5Bn2gk",
+      "published": "2026-07-11",
+      "desc": "0:00 연사소개 5:16 아젠다 14:03 RTL & Synthesis 24:54 Physical Design 52:00 Q&A 생성형 AI와 반도체 설계: LLM과 생성형 AI가 변화시키는 차세대 칩 설계 * AI 기반 설계 자동화: RTL 생성, 레이아웃 최적화, 강화학습 기반 EDA * EDA 데이터 사이언스: 하드웨어 데이터와 AI 적용의 핵심 과제 * 산업과 미래: 실제 적용 사례와 AI 기반 반도체 설계의 미래 방향",
+      "title_ko": "칩 설계에 스며드는 LLM과 AI 에이전트",
+      "summary_ko": "AI가 반도체 설계를 혁신하는 방법을 다룬 박지우의 강연 영상입니다."
+    },
     {
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
       "channel": "AI Explained",
       "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
       "published": "2026-07-10",
       "desc": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure ",
-      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5, 메타 뮤즈가 규칙을 바꾸다",
-      "summary_ko": "GPT 5.6과 Grok 4.5, 메타 뮤즈가 AI 시장의 경쟁 구도를 변화시키고 있습니다."
+      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5와 메타 뮤즈의 변화",
+      "summary_ko": "AI 분야의 최신 모델들이 경쟁하는 상황을 분석한 유튜브 영상입니다."
     },
     {
-      "title": "GPT 5.6 is here!",
+      "title": "GPT 5.6 is a BEAST",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=SettwwX2cCI",
       "published": "2026-07-10",
       "desc": "GPT 5.6 review. GPT 5.6 vs Claude Fable. #ai #aitools #ainews #llm #openai #agi #singularity Thanks to our sponsor Hubspot. Access GPT at Work for free https://clickhubspot.com/e36db8 GPT 5.6 https://openai.com/index/gpt-5-6/ Codex app https://developers.openai.com/codex/app 0:00",
-      "title_ko": "GPT 5.6 출시!",
-      "summary_ko": "GPT 5.6의 리뷰와 Claude Fable과의 비교를 다룬 영상입니다."
-    },
-    {
-      "title": "화웨이 아직 멀었다! 칩 성능 개선의 진실",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/4r-ZCvjhCkM",
-      "published": "2026-07-10",
-      "desc": "",
-      "title_ko": "화웨이 아직 멀었다! 칩 성능 개선의 진실",
-      "summary_ko": "화웨이의 칩 성능 개선에 대한 진실을 다룬 영상입니다."
+      "title_ko": "GPT 5.6은 괴물이다",
+      "summary_ko": "GPT 5.6의 성능을 Claude Fable와 비교한 리뷰 영상입니다."
     },
     {
       "title": "신입 마케터가 처음 겪은 역대급 회사 행사 #직장인 #직장인브이로그 #멋쟁이사자처럼",
@@ -281,26 +299,8 @@
       "url": "https://www.youtube.com/shorts/ic3Nggi49qk",
       "published": "2026-07-10",
       "desc": "출근했는데 다들 운동복을 입고 있다…? 🏃 멋쟁이사자처럼 생일을 맞아 AI 대회부터 퀴즈, 간식, 메달 수여까지 알차게 즐긴 하루! #직장인브이로그 #직장인 #멋쟁이사자처럼 #IT회사 #회사브이로그 #회사원",
-      "title_ko": "신입 마케터가 처음 겪은 역대급 회사 행사",
-      "summary_ko": "멋쟁이사자처럼의 생일을 맞아 다양한 활동이 진행된 회사 행사 브이로그입니다."
-    },
-    {
-      "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
-      "channel": "테디노트",
-      "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
-      "published": "2026-07-09",
-      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "브레인크루의 AI 제품 개발과 2026년 하반기 대규모 채용을 소개하는 설명회입니다."
-    },
-    {
-      "title": "칩 설계에 스며드는 LLM과 AI 에이전트(박지우 / Ricursive Intelligence)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=qL-CB5Bn2gk",
-      "published": "2026-07-09",
-      "desc": "생성형 AI와 반도체 설계: LLM과 생성형 AI가 변화시키는 차세대 칩 설계 * AI 기반 설계 자동화: RTL 생성, 레이아웃 최적화, 강화학습 기반 EDA * EDA 데이터 사이언스: 하드웨어 데이터와 AI 적용의 핵심 과제 * 산업과 미래: 실제 적용 사례와 AI 기반 반도체 설계의 미래 방향 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com",
-      "title_ko": "칩 설계에 스며드는 LLM과 AI 에이전트",
-      "summary_ko": "LLM과 생성형 AI가 반도체 설계에 미치는 영향을 다룬 영상입니다."
+      "title_ko": "신입 마케터의 역대급 회사 행사 경험",
+      "summary_ko": "AI 대회와 다양한 활동으로 가득한 멋쟁이사자처럼의 회사 행사 브이로그입니다."
     },
     {
       "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
@@ -309,7 +309,7 @@
       "published": "2026-07-08",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9888-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
       "title_ko": "로마 제국의 성생활 | 앤서니 칼델리스와 렉스 프리드먼",
-      "summary_ko": "렉스 프리드먼 팟캐스트의 로마 제국의 성생활에 관한 에피소드입니다."
+      "summary_ko": "렉스 프리드먼의 팟캐스트에서 로마 제국의 성생활을 다룹니다."
     },
     {
       "title": "DeepSeek's Absolutely Insane AI Speed Hack",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/watch?v=1yBU41auQhw",
       "published": "2026-07-07",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek paper is available here: https://arxiv.org/abs/2607.05147v1 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, Benji Rabhan, ",
-      "title_ko": "딥시크의 믿을 수 없는 AI 속도 해킹",
-      "summary_ko": "딥시크의 AI 속도 해킹 기술을 소개하는 영상입니다."
+      "title_ko": "DeepSeek의 놀라운 AI 속도 해킹",
+      "summary_ko": "DeepSeek 논문을 통해 AI 속도를 혁신하는 방법을 소개하는 영상입니다."
     },
     {
       "title": "Making a space app because this NASA photo breaks my brain",
@@ -326,8 +326,8 @@
       "url": "https://www.youtube.com/watch?v=2KDSkUrVrOw",
       "published": "2026-06-20",
       "desc": "Why is it that after such an amazing historic event like a Lunar Flyby, the only thing NASA gives us to relive the event is just... a photo album? Let's change that! Shout out to @hankschannel for the inspiration. Try the tool here: https://artemis2timeline.netlify.app/ (working ",
-      "title_ko": "우주 앱 만들기: NASA 사진이 내 뇌를 흔든 이유",
-      "summary_ko": "NASA의 역사적인 이벤트를 기념하기 위한 우주 앱 개발 아이디어를 다룬 영상입니다."
+      "title_ko": "우주 앱 만들기: NASA 사진이 나를 혼란스럽게 해",
+      "summary_ko": "NASA의 역사적인 사건을 더 잘 기억하기 위한 앱 개발 아이디어를 다룬 영상입니다."
     }
   ],
   "social": []
