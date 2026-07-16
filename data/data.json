@@ -1,200 +1,200 @@
 {
-  "generated_at": "2026-07-15T22:07:51.589736+00:00",
-  "date_label": "2026년 7월 16일 (목)",
+  "generated_at": "2026-07-16T22:09:05.822706+00:00",
+  "date_label": "2026년 7월 17일 (금)",
   "github_trending": [
-    {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "desc": "",
-      "stars_today": 1278,
-      "lang": "Python",
-      "summary_ko": "Shubhamsaboo의 awesome-llm-apps는 다양한 LLM 애플리케이션을 모아둔 리포지토리로 주목받고 있습니다."
-    },
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "desc": "",
-      "stars_today": 1119,
+      "stars_today": 3181,
       "lang": "CSS",
-      "summary_ko": "Nutlope의 hallmark는 마케팅 자동화를 위한 도구로, 효율성을 높이는 데 도움을 줍니다."
+      "summary_ko": "Nutlope/hallmark는 AI 기반의 개인화된 메시지 생성 도구로 주목받고 있다."
     },
     {
-      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "desc": "",
-      "stars_today": 729,
-      "lang": "TypeScript",
-      "summary_ko": "HenryNdubuaku의 maths-cs-ai-compendium은 수학, 컴퓨터 과학, 인공지능 관련 자료를 정리한 유용한 자원입니다."
-    },
-    {
-      "repo": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "desc": "",
-      "stars_today": 390,
-      "lang": "JavaScript",
-      "summary_ko": "coreyhaines31의 marketingskills는 마케팅 기술을 향상시키기 위한 자료를 제공하여 실무에 도움이 됩니다."
-    },
-    {
-      "repo": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "desc": "",
-      "stars_today": 275,
+      "stars_today": 935,
       "lang": "Python",
-      "summary_ko": "datawhalechina의 hello-agents는 AI 에이전트 개발을 위한 기초 자료를 제공하여 학습에 유용합니다."
+      "summary_ko": "Shubhamsaboo/awesome-llm-apps는 다양한 LLM 애플리케이션을 모은 리포지토리로 유용하다."
     },
     {
-      "repo": "moeru-ai/airi",
-      "url": "https://github.com/moeru-ai/airi",
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 144,
-      "lang": "TypeScript",
-      "summary_ko": "moeru-ai의 airi 프로젝트는 AI 기반의 대화형 시스템 개발을 위한 프레임워크로 주목받고 있습니다."
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 138,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog의 dive-into-llms는 대형 언어 모델에 대한 심층적인 탐구를 위한 자료를 제공합니다."
-    },
-    {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "desc": "",
-      "stars_today": 103,
+      "stars_today": 578,
       "lang": "Python",
-      "summary_ko": "vllm-project의 vllm은 대형 언어 모델을 효율적으로 운영하기 위한 라이브러리로 관심을 받고 있습니다."
+      "summary_ko": "NousResearch/hermes-agent는 지능형 에이전트 개발을 위한 프레임워크로 주목할 만하다."
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "desc": "",
-      "stars_today": 95,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin의 airllm은 경량화된 LLM을 위한 프로젝트로, 성능과 효율성을 동시에 추구합니다."
-    },
-    {
-      "repo": "FareedKhan-dev/all-agentic-architectures",
-      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-      "desc": "",
-      "stars_today": 69,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "FareedKhan-dev의 all-agentic-architectures는 다양한 에이전트 아키텍처를 비교하고 분석하는 자료입니다."
-    },
-    {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "desc": "",
-      "stars_today": 63,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "GoogleCloudPlatform의 generative-ai는 생성적 AI 기술을 활용한 다양한 솔루션을 제공하여 주목받고 있습니다."
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 24,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM의 Hands-On-Large-Language-Models는 LLM을 실습할 수 있는 자료로 학습에 도움을 줍니다."
+      "stars_today": 323,
+      "lang": "Shell",
+      "summary_ko": "PrismML-Eng/Bonsai-demo는 AI 모델을 쉽게 시각화하고 실험할 수 있는 데모를 제공한다."
     },
     {
       "repo": "NirDiamant/GenAI_Agents",
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 18,
+      "stars_today": 57,
       "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant의 GenAI_Agents는 생성적 AI 에이전트 개발을 위한 자료를 제공하여 실용적입니다."
+      "summary_ko": "NirDiamant/GenAI_Agents는 생성형 AI 에이전트의 다양한 활용 사례를 보여준다."
     },
     {
-      "repo": "PrimeIntellect-ai/prime-rl",
-      "url": "https://github.com/PrimeIntellect-ai/prime-rl",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 13,
+      "stars_today": 45,
       "lang": "Python",
-      "summary_ko": "PrimeIntellect-ai의 prime-rl은 강화 학습을 위한 프레임워크로, 연구 및 개발에 유용합니다."
+      "summary_ko": "anthropics/knowledge-work-plugins는 지식 작업을 지원하는 플러그인 모음으로 유용하다."
     },
     {
-      "repo": "CompVis/stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "desc": "",
-      "stars_today": 10,
+      "stars_today": 30,
       "lang": "Jupyter Notebook",
-      "summary_ko": "CompVis의 stable-diffusion은 이미지 생성 모델로, 예술 및 디자인 분야에서 큰 관심을 받고 있습니다."
+      "summary_ko": "GoogleCloudPlatform/generative-ai는 구글 클라우드의 생성형 AI 도구를 소개한다."
+    },
+    {
+      "repo": "FareedKhan-dev/all-agentic-architectures",
+      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+      "desc": "",
+      "stars_today": 16,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "FareedKhan-dev/all-agentic-architectures는 다양한 에이전트 아키텍처를 탐색할 수 있는 자료를 제공한다."
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "desc": "",
+      "stars_today": 15,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models는 대형 언어 모델의 실습 자료를 제공하여 학습에 도움을 준다."
+    },
+    {
+      "repo": "oracle-devrel/oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "desc": "",
+      "stars_today": 2,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "oracle-devrel/oracle-ai-developer-hub는 오라클의 AI 개발자 리소스를 모아놓은 허브이다."
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "url": "https://github.com/OpenCut-app/OpenCut",
+      "desc": "",
+      "stars_today": 3290,
+      "lang": "TypeScript",
+      "summary_ko": "OpenCut-app/OpenCut는 비디오 편집을 위한 AI 도구로 주목받고 있다."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "",
+      "stars_today": 2073,
+      "lang": "Shell",
+      "summary_ko": "mattpocock/skills는 AI 모델의 기술적 역량을 평가할 수 있는 자료를 제공한다."
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "desc": "",
+      "stars_today": 1138,
+      "lang": "Python",
+      "summary_ko": "Graphify-Labs/graphify는 데이터 시각화를 위한 그래프 생성 도구로 유용하다."
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "",
+      "stars_today": 797,
+      "lang": "Python",
+      "summary_ko": "HKUDS/Vibe-Trading은 AI 기반의 거래 시스템을 개발하는 프로젝트로 주목받고 있다."
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "",
+      "stars_today": 697,
+      "lang": "HTML",
+      "summary_ko": "hasaneyldrm/exercises-dataset은 다양한 AI 연습 문제를 모은 데이터셋으로 학습에 유용하다."
     }
   ],
   "hackernews": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
-      "points": 440,
+      "title": "NotebookLM is now Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+      "points": 189,
       "comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=48924912",
-      "title_ko": "잉클링: 우리의 오픈 가중치 모델",
-      "summary_ko": "잉클링은 오픈 가중치 모델을 소개하며, AI 개발에 대한 새로운 접근 방식을 제시한다."
+      "hn_url": "https://news.ycombinator.com/item?id=48936451",
+      "title_ko": "NotebookLM이 이제 Gemini Notebook으로 변경",
+      "summary_ko": "NotebookLM이 Gemini Notebook으로 이름을 변경하며 주목받고 있다."
     },
     {
-      "title": "Briar is in maintenance mode",
-      "url": "https://briarproject.org/news/2026-maintenance-mode/",
-      "points": 133,
+      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "points": 158,
+      "comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=48933310",
+      "title_ko": "LLM 비평가들의 주장이 맞다. 나는 여전히 LLM을 사용한다",
+      "summary_ko": "LLM 비평가들의 의견에 동의하지만 여전히 LLM을 사용하는 이유를 설명한다."
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
+      "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+      "points": 122,
       "comments": 89,
-      "hn_url": "https://news.ycombinator.com/item?id=48919869",
-      "title_ko": "브라이어, 유지보수 모드로 전환",
-      "summary_ko": "브라이어는 현재 유지보수 모드로 전환되어 향후 업데이트가 제한될 예정이다."
+      "hn_url": "https://news.ycombinator.com/item?id=48936880",
+      "title_ko": "고전 기계 학습으로 LLM 생성 텍스트 탐지하기",
+      "summary_ko": "고전 기계 학습 기법을 활용해 LLM이 생성한 텍스트를 탐지하는 방법을 다룬다."
     },
     {
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "url": "https://github.com/vshulcz/deja-vu/",
-      "points": 94,
+      "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+      "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+      "points": 81,
+      "comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=48935687",
+      "title_ko": "구형 리눅스 데스크탑에서 6GB VRAM으로 생성 AI 킥 드럼 모델 훈련하기",
+      "summary_ko": "오래된 리눅스 시스템에서 AI 킥 드럼 모델을 훈련하는 방법을 소개한다."
+    },
+    {
+      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "points": 65,
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=48939524",
+      "title_ko": "$100 AI 뮤직 비디오: Claude Fable 5 대 GPT-5.6 Sol",
+      "summary_ko": "Claude Fable 5와 GPT-5.6 Sol의 AI 뮤직 비디오를 비교하는 흥미로운 실험이다."
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "points": 65,
       "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=48923111",
-      "title_ko": "SSH로 동기화된 오픈소스 메모리 코딩 에이전트",
-      "summary_ko": "SSH를 통해 동기화되는 오픈소스 메모리 시스템이 코딩 에이전트의 효율성을 높인다."
+      "hn_url": "https://news.ycombinator.com/item?id=48939662",
+      "title_ko": "LM Studio Bionic: 오픈 모델을 위한 AI 에이전트",
+      "summary_ko": "LM Studio Bionic이 오픈 모델을 위한 AI 에이전트로 주목받고 있다."
     },
     {
-      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://brainless.swerdlow.dev",
-      "points": 50,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=48926085",
-      "title_ko": "브레인리스: Claude Code, Codex, Grok처럼 보이는 Shadcn 컴포넌트",
-      "summary_ko": "브레인리스는 다양한 AI 모델처럼 보이는 Shadcn 컴포넌트를 제공하여 개발자에게 유용하다."
-    },
-    {
-      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-      "url": "https://coasty.ai/docs",
-      "points": 27,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48922706",
-      "title_ko": "런치 HN: Coasty (YC S26) – 컴퓨터 사용 에이전트를 위한 API",
-      "summary_ko": "Coasty는 컴퓨터 사용 에이전트를 위한 API를 제공하며, 효율적인 개발을 지원한다."
-    },
-    {
-      "title": "Designing APIs for Agents",
-      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+      "url": "https://news.ycombinator.com/item?id=48937020",
       "points": 20,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=48894874",
-      "title_ko": "에이전트를 위한 API 설계",
-      "summary_ko": "에이전트를 위한 API 설계에 대한 논의가 진행되어, 개발자들에게 중요한 통찰을 제공한다."
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=48937020",
+      "title_ko": "Launch HN: Traceforce (YC S26) – AI 앱을 위한 회사 전체 보안 모니터링",
+      "summary_ko": "Traceforce가 AI 앱의 보안을 모니터링하는 혁신적인 솔루션을 출시했다."
     },
     {
-      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
-      "url": "https://github.com/projectargus-cc/libargus.cc",
-      "points": 15,
+      "title": "Show HN: BambooGrid – Open-source web UI for power grid modeling and power flow",
+      "url": "https://bamboo.kickstage.com",
+      "points": 12,
       "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=48907681",
-      "title_ko": "쇼 HN: OpenJDK Panama FFM을 통한 저지연 로컬 LLM 실행기",
-      "summary_ko": "OpenJDK Panama FFM을 이용한 저지연 로컬 LLM 실행기가 개발되었다."
-    },
-    {
-      "title": "Speculative Growth and the AI \"Bubble\" [pdf]",
-      "url": "https://economics.mit.edu/sites/default/files/2026-07/speculative_growth_AI_public.pdf",
-      "points": 11,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48927409",
-      "title_ko": "투기적 성장과 AI \"버블\" [pdf]",
-      "summary_ko": "AI 산업의 투기적 성장과 관련된 논문이 발표되어 주목받고 있다."
+      "hn_url": "https://news.ycombinator.com/item?id=48936271",
+      "title_ko": "Show HN: BambooGrid – 전력망 모델링 및 전력 흐름을 위한 오픈소스 웹 UI",
+      "summary_ko": "BambooGrid가 전력망 모델링을 위한 오픈소스 웹 UI를 제공한다."
     }
   ],
   "reddit": [
@@ -204,58 +204,76 @@
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
       "title_ko": "2026년 7월 최고의 로컬 VLM",
-      "summary_ko": "로컬 LLaMA 관련 Reddit 글에서 2026년 7월의 최고의 VLM을 다룹니다."
+      "summary_ko": "2026년 7월 최고의 로컬 VLM에 대한 Reddit r/LocalLLaMA 글이다."
     },
     {
-      "title": "Looking for JEPA devil advocates [R]",
-      "sub": "MachineLearning",
-      "author": "Amazing-Coat5160",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uxcryc/looking_for_jepa_devil_advocates_r/",
-      "title_ko": "JEPA에 대한 비판적 의견을 찾습니다 [R]",
-      "summary_ko": "MachineLearning Reddit에서 JEPA에 대한 비판적 의견을 구하는 글입니다."
-    },
-    {
-      "title": "Linus Torvalds tells people to stop attacking others for using AI",
+      "title": "Kimi K3 Benchmarks",
       "sub": "LocalLLaMA",
-      "author": "Illustrious_Car344",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uxbrw4/linus_torvalds_tells_people_to_stop_attacking/",
-      "title_ko": "리누스 토발즈, AI 사용에 대한 공격 중단 요청",
-      "summary_ko": "AI 사용자를 공격하지 말라는 리누스 토발즈의 발언이 주목받고 있습니다."
+      "author": "WhyLifeIs4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy9cft/kimi_k3_benchmarks/",
+      "title_ko": "Kimi K3 벤치마크",
+      "summary_ko": "Kimi K3의 성능 벤치마크에 대한 Reddit r/LocalLLaMA 글이다."
     },
     {
-      "title": "Mechanistic interpretability: a first paper on disentangling a convolutional neuron [R]",
-      "sub": "MachineLearning",
-      "author": "narang_27",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uwya70/mechanistic_interpretability_a_first_paper_on/",
-      "title_ko": "기계적 해석 가능성: 컨볼루션 뉴런 분리 첫 논문 [R]",
-      "summary_ko": "MachineLearning Reddit에서 발표된 컨볼루션 뉴런 분리에 관한 첫 번째 논문을 소개합니다."
-    },
-    {
-      "title": "The best model is the one you can actually run",
+      "title": "Kimi K3 achieves 3rd Place on ArtificalAnalysis, beating out Claude Opus 4.8",
       "sub": "LocalLLaMA",
-      "author": "OneFanFare",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ux9xze/the_best_model_is_the_one_you_can_actually_run/",
-      "title_ko": "실제로 실행 가능한 모델이 최고다",
-      "summary_ko": "로컬 LLaMA 관련 Reddit 글에서 실행 가능한 모델의 중요성을 강조합니다."
+      "author": "MagicZhang",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uycepz/kimi_k3_achieves_3rd_place_on_artificalanalysis/",
+      "title_ko": "Kimi K3, ArtificalAnalysis에서 3위 달성",
+      "summary_ko": "Kimi K3가 Claude Opus 4.8를 제치고 3위를 기록했다는 Reddit r/LocalLLaMA 글이다."
     },
     {
-      "title": "AI/ML Research - What Does it Really Take? [D]",
-      "sub": "MachineLearning",
-      "author": "Consistent_Sundae540",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-      "title_ko": "AI/ML 연구 - 실제로 필요한 것은 무엇인가? [D]",
-      "summary_ko": "MachineLearning Reddit에서 AI/ML 연구에 필요한 요소를 논의하는 글입니다."
+      "title": "KIMI K3 Beats Claude Fable and GPT 5.6 sol in arena.ai!!!",
+      "sub": "LocalLLaMA",
+      "author": "Gohab2001",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uydii0/kimi_k3_beats_claude_fable_and_gpt_56_sol_in/",
+      "title_ko": "KIMI K3, Claude Fable 및 GPT 5.6 솔루션을 이기다",
+      "summary_ko": "KIMI K3가 arena.ai에서 Claude Fable과 GPT 5.6 솔루션을 이겼다는 Reddit r/LocalLLaMA 글이다."
+    },
+    {
+      "title": "Kimi K3 weights to be released on the 27th.",
+      "sub": "LocalLLaMA",
+      "author": "Different_Fix_2217",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uyb88e/kimi_k3_weights_to_be_released_on_the_27th/",
+      "title_ko": "Kimi K3 가중치 27일 공개 예정",
+      "summary_ko": "Kimi K3의 가중치가 27일에 공개될 예정이라는 Reddit r/LocalLLaMA 글이다."
+    },
+    {
+      "title": "Kimi K3 released on web and app",
+      "sub": "LocalLLaMA",
+      "author": "External_Mood4719",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uy3a0q/kimi_k3_released_on_web_and_app/",
+      "title_ko": "Kimi K3 웹 및 앱 출시",
+      "summary_ko": "Kimi K3가 웹과 앱에서 출시되었다는 Reddit r/LocalLLaMA 글이다."
     }
   ],
   "youtube": [
     {
-      "title": "Claude's Brain Has A Secret... And Scientists Found It",
+      "title": "Claude Just Revealed AI's Biggest Problem",
       "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=0CqLVnx-2UM",
-      "published": "2026-07-15",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://transformer-circuits.pub/2025/linebreaks/index.html Paper for reindeer vision change - https://royalsocietypublishing.org/rspb/article/280/1773/20132451/50765",
-      "title_ko": "클로드의 뇌에 숨겨진 비밀... 과학자들이 발견하다",
-      "summary_ko": "유튜브 채널 Two Minute Papers에서 클로드의 뇌와 관련된 흥미로운 연구를 소개합니다."
+      "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
+      "published": "2026-07-16",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Brid",
+      "title_ko": "클로드가 밝힌 AI의 가장 큰 문제",
+      "summary_ko": "유튜브 채널 Two Minute Papers에서 AI의 주요 문제를 다룬 영상이다."
+    },
+    {
+      "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
+      "published": "2026-07-16",
+      "desc": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for supporters: https://3b1b.co/support Home page: https://www.3blue1brown.com Manim animations by Aaron Gostein and Grant Sanderso",
+      "title_ko": "교차 엔트로피란 무엇인가? | 압축은 지능이다 2부",
+      "summary_ko": "LLM 훈련의 손실 함수 출처를 설명하는 Andrej Karpathy의 영상이다."
+    },
+    {
+      "title": "법령 합성어 띄어쓰기",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/df3MiToSGc4",
+      "published": "2026-07-16",
+      "desc": "법령 합성어 띄어쓰기 눈에 들어오니 원본 영상: https://www.youtube.com/watch?v=Vdhm_hxN9_U #AI #AI프렌즈 #AIFrenz #Shorts",
+      "title_ko": "법령 합성어 띄어쓰기",
+      "summary_ko": "법령 합성어의 띄어쓰기를 다룬 빵형의 개발도상국 영상이다."
     },
     {
       "title": "SSD가 잘 팔리는데 왜 메모리가 부족할까 … 저장장치가 부른 뜻밖의 품귀",
@@ -263,17 +281,8 @@
       "url": "https://www.youtube.com/watch?v=bI8kiH8puxk",
       "published": "2026-07-15",
       "desc": "SSD가 많이 팔리면 낸드플래시 수요가 는다는 건 익숙한 이야기죠. 그런데 한물갔다던 DDR4 D램 가격이 다시 뛰고 있고, 그 배경 중 하나로 뜻밖에 기업용 SSD가 지목됐습니다. 낸드는 같은 자리에 곧바로 덮어쓸 수 없어서, 수정된 데이터의 실제 위치가 계속 바뀝니다. 그래서 SSD는 '논리 주소와 실제 낸드 위치'를 연결하는 주소표를 관리해야 하고, 고성능 기업용 SSD는 이 방대한 주소표를 빠르게 조회하기 위해 전용 D램을 사용합니다. 업계에는 낸드 1테라바이트당 D램 약 1기가바이트라는 ",
-      "title_ko": "SSD가 잘 팔리는데 왜 메모리가 부족할까? 뜻밖의 품귀 현상",
-      "summary_ko": "SSD 수요 증가로 인해 메모리 부족 현상이 발생하고 있는 이유를 분석한 영상입니다."
-    },
-    {
-      "title": "칩 설계 실제 경험",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/xVSyi-MhspA",
-      "published": "2026-07-15",
-      "desc": "칩 설계 실제 개발 경험 공유 원본 영상: https://www.youtube.com/watch?v=qL-CB5Bn2gk #AI #AI프렌즈 #AIFrenz #Shorts",
-      "title_ko": "칩 설계 실제 경험 공유",
-      "summary_ko": "칩 설계에 대한 실제 개발 경험을 공유하는 유튜브 영상입니다."
+      "title_ko": "SSD 판매 증가에도 메모리 부족 원인",
+      "summary_ko": "SSD 판매 증가와 DDR4 D램 가격 상승의 배경을 분석한 안될공학 영상이다."
     },
     {
       "title": "Girlfriend simulators, GPT 5.6, Grok 4.5, Seedream 5.0, Muse Spark, robot surgery: AI NEWS",
@@ -281,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=Ti1V7OI2Rro",
       "published": "2026-07-12",
       "desc": "HUGE AI NEWS: GPT 5.6, Grok 4.5, GPT Live, LingBot World 2, Seedream 5, Muse Spark, Muse Image #ai #ainews #aitools #agi #singularity Thanks to our sponsor Hubspot. Access the free Agents Course: https://clickhubspot.com/63eb20 0:00 AI news intro 1:06 ABot World 2:28 ProxyPose 4:",
-      "title_ko": "AI 뉴스: Girlfriend 시뮬레이터, GPT 5.6 등",
-      "summary_ko": "최신 AI 소식으로 GPT 5.6, Grok 4.5 등 다양한 모델의 발전을 다루고 있습니다."
+      "title_ko": "여자친구 시뮬레이터, GPT 5.6 등 AI 뉴스",
+      "summary_ko": "최신 AI 소식을 전하는 AI Search 채널의 영상이다."
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
@@ -291,7 +300,7 @@
       "published": "2026-07-11",
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
       "title_ko": "브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "AI 스타트업 브레인크루의 2026년 대규모 채용 설명회를 소개하는 영상입니다."
+      "summary_ko": "브레인크루의 AI 제품 개발과 2026년 대규모 채용을 소개하는 영상이다."
     },
     {
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
@@ -299,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
       "published": "2026-07-10",
       "desc": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure ",
-      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5와 메타 뮤즈의 변화",
-      "summary_ko": "AI 분야에서 GPT 5.6과 Grok 4.5의 경쟁력을 분석하는 영상입니다."
+      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5와 메타 뮤즈",
+      "summary_ko": "최신 AI 모델들의 경쟁을 다룬 AI Explained의 영상이다."
     },
     {
       "title": "신입 마케터가 처음 겪은 역대급 회사 행사 #직장인 #직장인브이로그 #멋쟁이사자처럼",
@@ -309,7 +318,7 @@
       "published": "2026-07-10",
       "desc": "출근했는데 다들 운동복을 입고 있다…? 🏃 멋쟁이사자처럼 생일을 맞아 AI 대회부터 퀴즈, 간식, 메달 수여까지 알차게 즐긴 하루! #직장인브이로그 #직장인 #멋쟁이사자처럼 #IT회사 #회사브이로그 #회사원",
       "title_ko": "신입 마케터의 역대급 회사 행사 경험",
-      "summary_ko": "신입 마케터가 경험한 특별한 회사 행사와 일상을 담은 브이로그입니다."
+      "summary_ko": "조코딩이 전하는 멋쟁이사자처럼의 특별한 회사 행사 브이로그이다."
     },
     {
       "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
@@ -318,16 +327,7 @@
       "published": "2026-07-08",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9888-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
       "title_ko": "로마 제국의 성생활 | 앤서니 칼델리스와 렉스 프리드먼",
-      "summary_ko": "렉스 프리드먼 팟캐스트에서 로마 제국의 성생활에 대해 심도 있게 이야기합니다."
-    },
-    {
-      "title": "Making a space app because this NASA photo breaks my brain",
-      "channel": "sentdex",
-      "url": "https://www.youtube.com/watch?v=2KDSkUrVrOw",
-      "published": "2026-06-20",
-      "desc": "Why is it that after such an amazing historic event like a Lunar Flyby, the only thing NASA gives us to relive the event is just... a photo album? Let's change that! Shout out to @hankschannel for the inspiration. Try the tool here: https://artemis2timeline.netlify.app/ (working ",
-      "title_ko": "NASA 사진으로 우주 앱 만들기",
-      "summary_ko": "NASA의 역사적인 사건을 기념하기 위해 우주 앱 개발을 시도하는 영상입니다."
+      "summary_ko": "렉스 프리드먼 팟캐스트의 로마 제국 성생활에 관한 에피소드이다."
     }
   ],
   "social": []
