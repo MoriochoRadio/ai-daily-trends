@@ -1,164 +1,164 @@
 {
-  "generated_at": "2026-07-18T21:56:43.386530+00:00",
-  "date_label": "2026년 7월 19일 (일)",
+  "generated_at": "2026-07-19T21:59:06.869757+00:00",
+  "date_label": "2026년 7월 20일 (월)",
   "github_trending": [
     {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
+      "repo": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
       "desc": "",
-      "stars_today": 312,
+      "stars_today": 1734,
       "lang": "Python",
-      "summary_ko": "anthropics/skills는 AI 기술 향상을 위한 교육 자료를 제공한다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 242,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm은 경량화된 LLM을 활용한 프로젝트로 주목받고 있다."
+      "summary_ko": "bojieli/ai-agent-book은 AI 에이전트에 대한 포괄적인 자료를 제공하는 프로젝트입니다."
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 240,
+      "stars_today": 507,
       "lang": "Python",
-      "summary_ko": "rohitg00/ai-engineering-from-scratch는 AI 엔지니어링의 기초를 다룬다."
-    },
-    {
-      "repo": "datawhalechina/hello-agents",
-      "url": "https://github.com/datawhalechina/hello-agents",
-      "desc": "",
-      "stars_today": 145,
-      "lang": "Python",
-      "summary_ko": "datawhalechina/hello-agents는 에이전트 기반 AI 시스템을 소개한다."
-    },
-    {
-      "repo": "NirDiamant/agents-towards-production",
-      "url": "https://github.com/NirDiamant/agents-towards-production",
-      "desc": "",
-      "stars_today": 55,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant/agents-towards-production은 실제 생산 환경에서의 AI 에이전트 활용을 다룬다."
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
-      "stars_today": 54,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant/GenAI_Agents는 생성 AI 에이전트의 개발 및 활용 방안을 제시한다."
+      "summary_ko": "rohitg00/ai-engineering-from-scratch는 AI 엔지니어링의 기초부터 시작할 수 있는 리소스를 제공합니다."
     },
     {
       "repo": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "desc": "",
-      "stars_today": 48,
+      "stars_today": 418,
       "lang": "Python",
-      "summary_ko": "MoonshotAI/kimi-cli는 CLI 기반의 AI 도구로 개발자에게 유용하다."
+      "summary_ko": "MoonshotAI/kimi-cli는 AI 모델을 쉽게 사용할 수 있도록 돕는 커맨드라인 도구입니다."
     },
     {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 33,
+      "stars_today": 374,
       "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant/RAG_Techniques는 정보 검색과 생성 AI의 통합 기법을 설명한다."
+      "summary_ko": "lyogavin/airllm은 경량화된 LLM을 위한 라이브러리로, 성능 최적화를 목표로 합니다."
     },
     {
-      "repo": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "repo": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
       "desc": "",
-      "stars_today": 25,
+      "stars_today": 328,
       "lang": "Python",
-      "summary_ko": "aws/agent-toolkit-for-aws는 AWS 환경에서 AI 에이전트를 구축하는 도구를 제공한다."
+      "summary_ko": "kvcache-ai/ktransformers는 캐시를 활용한 효율적인 트랜스포머 모델 구현을 제공합니다."
     },
     {
-      "repo": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
+      "repo": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
       "desc": "",
-      "stars_today": 19,
+      "stars_today": 96,
       "lang": "Python",
-      "summary_ko": "agentscope-ai/agentscope는 다양한 AI 에이전트를 관리하는 플랫폼이다."
+      "summary_ko": "Canner/WrenAI는 AI 모델을 쉽게 배포하고 관리할 수 있는 플랫폼입니다."
     },
     {
-      "repo": "anthropics/courses",
-      "url": "https://github.com/anthropics/courses",
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "desc": "",
-      "stars_today": 19,
+      "stars_today": 50,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/courses는 AI 관련 교육 과정을 제공하여 학습 기회를 확대한다."
+      "summary_ko": "GoogleCloudPlatform/generative-ai는 구글 클라우드에서 생성 AI 관련 도구와 리소스를 제공합니다."
     },
     {
       "repo": "datawhalechina/llm-universe",
       "url": "https://github.com/datawhalechina/llm-universe",
       "desc": "",
-      "stars_today": 16,
+      "stars_today": 43,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/llm-universe는 다양한 LLM 모델을 비교하고 분석하는 자료를 제공한다."
+      "summary_ko": "datawhalechina/llm-universe는 다양한 LLM 모델과 그 활용 사례를 모아놓은 프로젝트입니다."
     },
     {
-      "repo": "pathwaycom/llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 12,
+      "stars_today": 33,
       "lang": "Jupyter Notebook",
-      "summary_ko": "pathwaycom/llm-app은 LLM을 활용한 애플리케이션 개발을 지원한다."
+      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models는 대형 언어 모델에 대한 실습 자료를 제공합니다."
     },
     {
-      "repo": "datawhalechina/self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
-      "stars_today": 11,
+      "stars_today": 28,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/self-llm은 개인화된 LLM 모델 개발을 위한 자료를 제공한다."
+      "summary_ko": "NirDiamant/RAG_Techniques는 정보 검색과 생성 AI를 결합한 기술을 다룹니다."
     },
     {
-      "repo": "oracle-devrel/oracle-ai-developer-hub",
-      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 2,
+      "stars_today": 15,
       "lang": "Jupyter Notebook",
-      "summary_ko": "oracle-devrel/oracle-ai-developer-hub는 Oracle의 AI 개발자 리소스를 모아놓은 허브이다."
+      "summary_ko": "ed-donner/agents는 다양한 AI 에이전트를 개발하고 테스트할 수 있는 리포지토리입니다."
+    },
+    {
+      "repo": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "desc": "",
+      "stars_today": 13,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "mrdbourke/zero-to-mastery-ml은 기계 학습을 처음부터 끝까지 배울 수 있는 자료를 제공합니다."
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "desc": "",
+      "stars_today": 9,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI4Finance-Foundation/FinRL은 금융 데이터에 특화된 강화 학습 라이브러리입니다."
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 3,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "higgsfield-ai/higgsfield는 AI 연구를 위한 다양한 자료와 튜토리얼을 제공합니다."
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "",
+      "stars_today": 930,
+      "lang": "Python",
+      "summary_ko": "Robbyant/lingbot-map은 언어 모델을 활용한 대화형 봇 개발을 지원하는 도구입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "points": 459,
-      "comments": 294,
-      "hn_url": "https://news.ycombinator.com/item?id=48957779",
-      "title_ko": "GPT-5.6, 30년 간의 볼록 최적화 격차를 메우다",
-      "summary_ko": "GPT-5.6이 볼록 최적화 분야에서 30년 간의 격차를 해소한 사례를 다룹니다."
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "points": 345,
+      "comments": 458,
+      "hn_url": "https://news.ycombinator.com/item?id=48966569",
+      "title_ko": "클로드 코드, 러스트로 작성된 번 사용",
+      "summary_ko": "클로드 코드가 러스트로 작성된 번을 사용하기 시작해 주목받고 있다."
     },
     {
-      "title": "What AI did to stackoverflow in a graph",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-      "points": 332,
-      "comments": 392,
-      "hn_url": "https://news.ycombinator.com/item?id=48956949",
-      "title_ko": "AI가 스택오버플로우에 미친 영향 그래프",
-      "summary_ko": "AI가 스택오버플로우에 미친 영향을 시각적으로 분석한 그래프를 소개합니다."
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "points": 273,
+      "comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=48965850",
+      "title_ko": "OpenAI, Codex 모델 컨텍스트 크기 372k에서 272k로 축소",
+      "summary_ko": "OpenAI가 Codex 모델의 컨텍스트 크기를 대폭 줄여 효율성을 높였다."
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/",
-      "points": 192,
-      "comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=48956879",
-      "title_ko": "Fable 5와 GPT-5.6 Sol의 NP-하드 문제 비교: /goal의 효과는?",
-      "summary_ko": "Fable 5와 GPT-5.6 Sol의 NP-하드 문제 해결 성능을 비교합니다."
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "points": 157,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=48969291",
+      "title_ko": "문샷 AI, Kimi K3 수요로 신규 구독 중단",
+      "summary_ko": "문샷 AI가 Kimi K3의 높은 수요로 인해 신규 구독을 일시 중단했다."
     },
     {
-      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://ykdojo.github.io/claude-controls-mac/",
-      "points": 145,
-      "comments": 102,
-      "hn_url": "https://news.ycombinator.com/item?id=48959392",
-      "title_ko": "여분의 Mac으로 Claude Code 설정하기: 단계별 가이드",
-      "summary_ko": "여분의 Mac을 Claude Code 제어용으로 설정하는 방법을 단계별로 안내합니다."
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "url": "https://dornsife.usc.edu/news/stories/heavy-tv-watching-associated-with-smaller-brain-structures/",
+      "points": 69,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=48971418",
+      "title_ko": "TV 시청 과다, 뇌 구조 축소와 연관된 연구 결과",
+      "summary_ko": "연구에 따르면 과도한 TV 시청이 뇌 구조의 축소와 관련이 있다는 결과가 나왔다."
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -167,7 +167,16 @@
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958",
       "title_ko": "Npm-scan: npm 생태계를 위한 현대적 공급망 보안",
-      "summary_ko": "Npm-scan은 npm 생태계의 보안을 강화하기 위한 도구입니다."
+      "summary_ko": "Npm-scan이 npm 생태계의 보안을 강화하는 현대적 솔루션으로 주목받고 있다."
+    },
+    {
+      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
+      "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48971738",
+      "title_ko": "AI 조언, 사람들의 정확도 3배 감소하지만 자신감 2배 증가",
+      "summary_ko": "연구 결과 AI 조언이 사람들의 정확도를 낮추면서도 자신감을 높인 것으로 나타났다."
     },
     {
       "title": "SnapState - Persistent state for AI agent workflows",
@@ -175,8 +184,8 @@
       "points": 6,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=47759400",
-      "title_ko": "SnapState - AI 에이전트 워크플로우를 위한 지속적인 상태 관리",
-      "summary_ko": "SnapState는 AI 에이전트의 워크플로우에서 지속적인 상태 관리를 제공합니다."
+      "title_ko": "SnapState - AI 에이전트 워크플로우를 위한 지속적 상태",
+      "summary_ko": "SnapState가 AI 에이전트의 워크플로우에서 지속적인 상태 관리를 지원한다."
     },
     {
       "title": "Manufact (YC S25) Is Hiring a Senior infra engineer to build the MCP cloud",
@@ -184,70 +193,79 @@
       "points": 0,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48947100",
-      "title_ko": "Manufact (YC S25), MCP 클라우드를 구축할 시니어 인프라 엔지니어 채용 중",
-      "summary_ko": "Manufact가 MCP 클라우드 구축을 위한 시니어 인프라 엔지니어를 채용합니다."
-    },
-    {
-      "title": "Jiga (YC W21) is hiring the best people to make manufacturing great again",
-      "url": "https://jiga.io/about-us/",
-      "points": 0,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48919510",
-      "title_ko": "Jiga (YC W21), 제조업 혁신을 위한 인재를 찾습니다",
-      "summary_ko": "Jiga가 제조업의 혁신을 위해 최고의 인재를 모집하고 있습니다."
+      "title_ko": "Manufact (YC S25), MCP 클라우드 구축을 위한 선임 인프라 엔지니어 채용",
+      "summary_ko": "Manufact가 MCP 클라우드를 구축할 선임 인프라 엔지니어를 채용 중이다."
     }
   ],
   "reddit": [
     {
-      "title": "Best Local VLMs - July 2026",
+      "title": "Prepare your (v)ram - Qwen3.8 is coming!",
       "sub": "LocalLLaMA",
-      "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uoalfq/best_local_vlms_july_2026/",
-      "title_ko": "2026년 7월 최고의 로컬 VLM",
-      "summary_ko": "2026년 7월에 발표된 최고의 로컬 VLM에 대한 Reddit 글이다."
+      "author": "xw1y",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0lewq/prepare_your_vram_qwen38_is_coming/",
+      "title_ko": "(v)ram 준비하세요 - Qwen3.8가 곧 출시됩니다!",
+      "summary_ko": "Qwen3.8의 출시가 임박했으며, 사용자들은 준비가 필요합니다."
     },
     {
-      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
-      "sub": "MachineLearning",
-      "author": "TheWerkmeister",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
-      "title_ko": "AI 슬롭이 25K USD 딥마인드 / 캐글 그랜드 프라이즈를 수상했나?",
-      "summary_ko": "AI 슬롭이 25,000달러의 상금을 수상했는지에 대한 논의가 담긴 Reddit 글이다."
-    },
-    {
-      "title": "What kind of dark magic is Deepseek using?",
+      "title": "HuggingFace security incident report: \"the attacker was bound by no usage policy, while our own forensic work was blocked by the guardrails\"",
       "sub": "LocalLLaMA",
-      "author": "Fuckinglivemealone",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1uzqspl/what_kind_of_dark_magic_is_deepseek_using/",
-      "title_ko": "딥시크가 사용하는 어두운 마법은 무엇인가?",
-      "summary_ko": "딥시크의 기술적 비밀에 대한 궁금증을 다룬 Reddit 글이다."
+      "author": "Umr_at_Tawil",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0ywoi/huggingface_security_incident_report_the_attacker/",
+      "title_ko": "HuggingFace 보안 사고 보고서: \"공격자는 사용 정책에 구속되지 않았고, 우리의 포렌식 작업은 차단되었습니다\"",
+      "summary_ko": "HuggingFace의 보안 사고에 대한 보고서가 공개되어 주목받고 있습니다."
     },
     {
-      "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
-      "sub": "MachineLearning",
-      "author": "Limp-Contest-7309",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
-      "title_ko": "GPT-2 Small의 '트럼프' 임베딩 기하학",
-      "summary_ko": "GPT-2 Small의 '트럼프'와 관련된 임베딩 기하학을 분석한 Reddit 글이다."
-    },
-    {
-      "title": "[OC] Too Dangerous",
+      "title": "Please Qwen, can we have more 3.x-35B-a3B please 🙏",
       "sub": "LocalLLaMA",
-      "author": "chocolateUI",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v082vd/oc_too_dangerous/",
-      "title_ko": "[OC] 너무 위험하다",
-      "summary_ko": "위험성을 경고하는 내용을 담은 Reddit 글이다."
+      "author": "JLeonsarmiento",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t1g2/please_qwen_can_we_have_more_3x35ba3b_please/",
+      "title_ko": "제발 Qwen, 3.x-35B-a3B를 더 주세요 🙏",
+      "summary_ko": "사용자들이 Qwen의 3.x-35B-a3B 모델 추가를 요청하고 있습니다."
     },
     {
-      "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
-      "sub": "MachineLearning",
-      "author": "teraRockstar",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
-      "title_ko": "딥러닝이 단일 세포 분석에 도전하다",
-      "summary_ko": "단일 세포 분석을 위한 딥러닝의 활용에 대한 조사 결과를 다룬 Reddit 글이다."
+      "title": "Hey Qwen Team: We Need a 100B MoE Model for Spark!",
+      "sub": "LocalLLaMA",
+      "author": "absurd-dream-studio",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0sheg/hey_qwen_team_we_need_a_100b_moe_model_for_spark/",
+      "title_ko": "Qwen 팀에게: Spark를 위한 100B MoE 모델이 필요합니다!",
+      "summary_ko": "사용자들이 Spark를 위한 대규모 MoE 모델의 필요성을 강조하고 있습니다."
+    },
+    {
+      "title": "Ahem! Qwen is on the move again",
+      "sub": "LocalLLaMA",
+      "author": "Lowkey_LokiSN",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0kqnn/ahem_qwen_is_on_the_move_again/",
+      "title_ko": "어헴! Qwen이 다시 움직이고 있습니다",
+      "summary_ko": "Qwen의 새로운 움직임이 사용자들 사이에서 화제가 되고 있습니다."
+    },
+    {
+      "title": "How long before Chinese models fully surpass US models?",
+      "sub": "LocalLLaMA",
+      "author": "seoulsrvr",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v0t6w4/how_long_before_chinese_models_fully_surpass_us/",
+      "title_ko": "중국 모델이 미국 모델을 완전히 초월하기까지 얼마나 걸릴까?",
+      "summary_ko": "중국 AI 모델이 미국 모델을 초월할 시점에 대한 논의가 진행되고 있습니다."
     }
   ],
   "youtube": [
+    {
+      "title": "Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
+      "published": "2026-07-19",
+      "desc": "HUGE AI NEWS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/mcp-theaisearch-GiXvHr 00:00 AI news intro 01:00 Ardy 02:44 MobileWan 04:23 PiD v1.5 05:38 Audio to MIDI 08:34 WanD",
+      "title_ko": "Kimi K3, 춤추는 와이푸, 로봇 UFC 등 AI 뉴스",
+      "summary_ko": "Kimi K3와 다양한 AI 도구에 대한 최신 소식을 전하는 유튜브 영상입니다."
+    },
+    {
+      "title": "아바타 광고부터 미래 서울까지 | Gemini Playground 체험기",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=ziT8B_8lSvI",
+      "published": "2026-07-19",
+      "desc": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. Google과 YouTube가 마련한 Google AI for Business - Creator Lounge의 Gemini Playground에 다녀왔습니다. 이번 행사는 구글 마케팅 라이브와 연계해 AI가 실제 업무와 창작에 어떻게 활용되는지를 직접 체험하는 공간으로 구성됐습니다. Google Ads를 활용한 광고 제작부터 헬스케어, 여행 스타일 추천, 미디어와 금융, 로보틱스까지 다양한 사례를 살펴봤습니다. 사진 한 ",
+      "title_ko": "아바타 광고와 미래 서울 | Gemini Playground 체험기",
+      "summary_ko": "구글의 Gemini Playground에서 AI의 실제 활용을 체험한 경험을 공유하는 영상입니다."
+    },
     {
       "title": "공문서 의견 대변 감사",
       "channel": "빵형의 개발도상국",
@@ -255,16 +273,7 @@
       "published": "2026-07-18",
       "desc": "이들 의견 대변 통킨 감사 원본 영상: https://www.youtube.com/watch?v=Vdhm_hxN9_U #AI #AI프렌즈 #AIFrenz #Shorts",
       "title_ko": "공문서 의견 대변 감사",
-      "summary_ko": "유튜브 채널 빵형의 개발도상국 관련 영상으로, 의견 대변 통킨 감사 내용을 다룹니다."
-    },
-    {
-      "title": "New #1 open source AI model is here! FABLE LEVEL",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=bEnE5pbpe_Q",
-      "published": "2026-07-17",
-      "desc": "Kimi K3 review. Best open source AI model. #ai #ainews #aitools #agi #llm #singularity Thanks to our sponsor Luma. Try Luma today: https://lumalabs.ai/aisearch-agents20 Kimi K3: https://www.kimi.com/ Kimi attention residual explainer: https://youtu.be/2IfAVV7ewO0 Also see: GLM 5.",
-      "title_ko": "최고의 오픈 소스 AI 모델 FABLE LEVEL 출시",
-      "summary_ko": "Kimi K3 리뷰를 통해 최고의 오픈 소스 AI 모델을 소개하는 유튜브 영상입니다."
+      "summary_ko": "AI 관련 의견을 대변하는 내용을 담은 유튜브 영상입니다."
     },
     {
       "title": "Claude Just Revealed AI's Biggest Problem",
@@ -273,7 +282,7 @@
       "published": "2026-07-16",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Brid",
       "title_ko": "Claude가 밝힌 AI의 가장 큰 문제",
-      "summary_ko": "Lambda의 GPU 클라우드와 관련된 연구 논문을 소개하며 AI의 문제점을 논의합니다."
+      "summary_ko": "AI의 코딩 기술 지원에 관한 연구 논문을 소개하는 영상입니다."
     },
     {
       "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
@@ -281,17 +290,8 @@
       "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
       "published": "2026-07-16",
       "desc": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for supporters: https://3b1b.co/support Home page: https://www.3blue1brown.com Part 1: https://youtu.be/l6DKRf-fAAM Manim animation",
-      "title_ko": "크로스 엔트로피란? | 압축은 지능 Part 2",
-      "summary_ko": "LLM 훈련의 손실 함수 기원을 설명하는 Andrej Karpathy의 유튜브 영상입니다."
-    },
-    {
-      "title": "SSD가 잘 팔리는데 왜 메모리가 부족할까 … 저장장치가 부른 뜻밖의 품귀",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=bI8kiH8puxk",
-      "published": "2026-07-15",
-      "desc": "SSD가 많이 팔리면 낸드플래시 수요가 는다는 건 익숙한 이야기죠. 그런데 한물갔다던 DDR4 D램 가격이 다시 뛰고 있고, 그 배경 중 하나로 뜻밖에 기업용 SSD가 지목됐습니다. 낸드는 같은 자리에 곧바로 덮어쓸 수 없어서, 수정된 데이터의 실제 위치가 계속 바뀝니다. 그래서 SSD는 '논리 주소와 실제 낸드 위치'를 연결하는 주소표를 관리해야 하고, 고성능 기업용 SSD는 이 방대한 주소표를 빠르게 조회하기 위해 전용 D램을 사용합니다. 업계에는 낸드 1테라바이트당 D램 약 1기가바이트라는 ",
-      "title_ko": "SSD 판매 증가에도 메모리 부족 현상",
-      "summary_ko": "SSD 수요 증가와 DDR4 D램 가격 상승의 배경을 분석한 유튜브 영상입니다."
+      "title_ko": "크로스 엔트로피란? | 압축은 지능이다 2부",
+      "summary_ko": "LLM 훈련을 위한 손실 함수의 출처를 설명하는 교육 영상입니다."
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
@@ -299,8 +299,8 @@
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
       "published": "2026-07-11",
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "AI 제품을 개발하는 스타트업 브레인크루의 대규모 채용 설명회를 다룬 영상입니다."
+      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
+      "summary_ko": "AI 스타트업 브레인크루의 채용 설명회를 다룬 유튜브 라이브 영상입니다."
     },
     {
       "title": "A Model Explosion: GPT 5.6 Sol, Grok 4.5 and Meta Muse Rewrite the Rules",
@@ -308,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
       "published": "2026-07-10",
       "desc": "What a week in AI, for real. GPT 5.6 may actually beat Claude Fable, in what you get for your money, while the new Grok 4.5 and Meta Muse Spark 1.1 make the choice even harder. Uncovering a dozen nuggets of gold you may have missed from all the viral headlines, I can also assure ",
-      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5, Meta Muse의 변화",
-      "summary_ko": "최근 AI 모델들의 경쟁 상황을 분석하며 시장의 변화를 다룬 유튜브 영상입니다."
+      "title_ko": "모델 폭발: GPT 5.6, Grok 4.5와 Meta Muse의 규칙 재정립",
+      "summary_ko": "최신 AI 모델들의 경쟁력을 분석하는 흥미로운 영상입니다."
     },
     {
       "title": "신입 마케터가 처음 겪은 역대급 회사 행사 #직장인 #직장인브이로그 #멋쟁이사자처럼",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/shorts/ic3Nggi49qk",
       "published": "2026-07-10",
       "desc": "출근했는데 다들 운동복을 입고 있다…? 🏃 멋쟁이사자처럼 생일을 맞아 AI 대회부터 퀴즈, 간식, 메달 수여까지 알차게 즐긴 하루! #직장인브이로그 #직장인 #멋쟁이사자처럼 #IT회사 #회사브이로그 #회사원",
-      "title_ko": "신입 마케터의 역대급 회사 행사 경험",
-      "summary_ko": "AI 대회와 다양한 활동을 즐긴 직장인의 브이로그를 담은 유튜브 영상입니다."
+      "title_ko": "신입 마케터가 겪은 역대급 회사 행사 #직장인브이로그",
+      "summary_ko": "AI 대회와 다양한 활동을 즐긴 직장인의 브이로그 영상입니다."
     },
     {
       "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
@@ -327,8 +327,33 @@
       "published": "2026-07-08",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9888-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
       "title_ko": "로마 제국의 성생활 | Anthony Kaldellis와 Lex Fridman",
-      "summary_ko": "Lex Fridman 팟캐스트에서 로마 제국의 성생활에 대해 논의하는 에피소드입니다."
+      "summary_ko": "Lex Fridman 팟캐스트의 전체 에피소드를 소개하는 영상입니다."
     }
   ],
-  "social": []
+  "social": [
+    {
+      "title": "Qwen 3.8",
+      "handle": "@Alibaba_Qwen",
+      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
+      "note": "HN 706pts · 504 댓글",
+      "title_ko": "Qwen 3.8",
+      "summary_ko": "Qwen 3.8에 대한 Alibaba Qwen의 X(트위터)에서 화제가 된 글이다."
+    },
+    {
+      "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+      "handle": "@kimi_moonshot",
+      "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+      "note": "HN 157pts · 54 댓글",
+      "title_ko": "Moonshot AI, Kimi K3 수요로 신규 구독 중단",
+      "summary_ko": "Moonshot AI가 Kimi K3의 높은 수요로 인해 신규 구독을 중단했다는 소식이다."
+    },
+    {
+      "title": "The Last MPEG-4 Visual Patent Has Expired",
+      "handle": "@news",
+      "url": "https://www.phoronix.com/news/Last-MPEG-4-Patent-Expired",
+      "note": "HN 112pts · 27 댓글",
+      "title_ko": "마지막 MPEG-4 비주얼 특허 만료",
+      "summary_ko": "MPEG-4 비주얼의 마지막 특허가 만료되어 주목받고 있다."
+    }
+  ]
 }
