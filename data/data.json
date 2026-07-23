@@ -1,86 +1,62 @@
 {
-  "generated_at": "2026-07-22T22:11:10.562692+00:00",
-  "date_label": "2026년 7월 23일 (목)",
+  "generated_at": "2026-07-23T22:09:40.112220+00:00",
+  "date_label": "2026년 7월 24일 (금)",
   "github_trending": [
-    {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "desc": "",
-      "stars_today": 3700,
-      "lang": "Python",
-      "summary_ko": "bojieli/ai-agent-book은 AI 에이전트에 대한 포괄적인 자료를 제공합니다."
-    },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 688,
+      "stars_today": 916,
       "lang": "Python",
-      "summary_ko": "rohitg00/ai-engineering-from-scratch는 AI 엔지니어링의 기초부터 심화까지 다룹니다."
-    },
-    {
-      "repo": "dottxt-ai/outlines",
-      "url": "https://github.com/dottxt-ai/outlines",
-      "desc": "",
-      "stars_today": 362,
-      "lang": "Python",
-      "summary_ko": "dottxt-ai/outlines는 AI 관련 주제의 개요를 제공하여 학습에 도움을 줍니다."
-    },
-    {
-      "repo": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "desc": "",
-      "stars_today": 336,
-      "lang": "Python",
-      "summary_ko": "unclecode/crawl4ai는 AI 데이터를 수집하는 도구로 주목받고 있습니다."
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 324,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms는 대규모 언어 모델에 대한 깊이 있는 탐구를 제공합니다."
-    },
-    {
-      "repo": "langchain-ai/open_deep_research",
-      "url": "https://github.com/langchain-ai/open_deep_research",
-      "desc": "",
-      "stars_today": 311,
-      "lang": "Python",
-      "summary_ko": "langchain-ai/open_deep_research는 심층 연구를 위한 오픈 소스 리소스를 제공합니다."
+      "summary_ko": "rohitg00의 'AI Engineering from Scratch'는 AI 엔지니어링의 기초를 다루는 자료입니다."
     },
     {
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "desc": "",
-      "stars_today": 155,
+      "stars_today": 637,
       "lang": "Python",
-      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude AI의 다양한 기술을 정리한 자료입니다."
+      "summary_ko": "ComposioHQ의 'Awesome Claude Skills'는 Claude 모델의 다양한 활용 기술을 정리한 자료입니다."
     },
     {
-      "repo": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 106,
-      "lang": "Python",
-      "summary_ko": "luongnv89/claude-howto는 Claude AI 사용법에 대한 실용적인 가이드를 제공합니다."
+      "stars_today": 434,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Lordog의 'Dive into LLMs'는 대형 언어 모델에 대한 심층적인 탐구를 제공합니다."
     },
     {
-      "repo": "dreamhunter2333/cloudflare_temp_email",
-      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 60,
-      "lang": "TypeScript",
-      "summary_ko": "dreamhunter2333/cloudflare_temp_email은 임시 이메일 서비스를 제공하여 개인정보 보호에 기여합니다."
+      "stars_today": 126,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft의 'AI For Beginners'는 AI의 기본 개념을 배우고자 하는 초보자를 위한 자료입니다."
     },
     {
-      "repo": "HKUDS/LightRAG",
-      "url": "https://github.com/HKUDS/LightRAG",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 47,
+      "stars_today": 118,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Anthropic의 'Claude Cookbooks'는 Claude 모델을 활용한 다양한 레시피를 제공합니다."
+    },
+    {
+      "repo": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "desc": "",
+      "stars_today": 85,
       "lang": "Python",
-      "summary_ko": "HKUDS/LightRAG는 경량화된 RAG 모델로 효율적인 AI 응용을 지원합니다."
+      "summary_ko": "oraios의 'Serena'는 AI 기반의 대화형 에이전트 개발에 관한 자료입니다."
+    },
+    {
+      "repo": "slavakurilyak/awesome-ai-agents",
+      "url": "https://github.com/slavakurilyak/awesome-ai-agents",
+      "desc": "",
+      "stars_today": 67,
+      "lang": "Python",
+      "summary_ko": "slavakurilyak의 'Awesome AI Agents'는 AI 에이전트 관련 자료와 리소스를 모은 목록입니다."
     },
     {
       "repo": "datawhalechina/happy-llm",
@@ -88,174 +64,207 @@
       "desc": "",
       "stars_today": 46,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/happy-llm은 사용자 친화적인 LLM 사용법을 안내합니다."
+      "summary_ko": "datawhalechina의 'Happy LLM'은 대형 언어 모델을 쉽게 이해할 수 있도록 돕는 자료입니다."
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 36,
+      "stars_today": 42,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 위한 인터랙티브 튜토리얼입니다."
+      "summary_ko": "Anthropic의 'Prompt Engineering Interactive Tutorial'은 프롬프트 엔지니어링을 실습할 수 있는 튜토리얼입니다."
     },
     {
-      "repo": "LLMQuant/quant-mind",
-      "url": "https://github.com/LLMQuant/quant-mind",
+      "repo": "raullenchai/Rapid-MLX",
+      "url": "https://github.com/raullenchai/Rapid-MLX",
       "desc": "",
       "stars_today": 18,
       "lang": "Python",
-      "summary_ko": "LLMQuant/quant-mind는 LLM의 정량적 분석을 위한 도구를 제공합니다."
-    },
-    {
-      "repo": "datawhalechina/self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
-      "desc": "",
-      "stars_today": 18,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/self-llm은 개인화된 LLM 개발을 위한 자료를 제공합니다."
+      "summary_ko": "raullenchai의 'Rapid-MLX'는 머신러닝을 빠르게 배우고 적용할 수 있는 자료입니다."
     },
     {
       "repo": "ed-donner/llm_engineering",
       "url": "https://github.com/ed-donner/llm_engineering",
       "desc": "",
+      "stars_today": 16,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "ed-donner의 'LLM Engineering'은 대형 언어 모델 엔지니어링에 관한 심도 있는 자료입니다."
+    },
+    {
+      "repo": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "desc": "",
+      "stars_today": 14,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "mrdbourke의 'Zero to Mastery ML'은 머신러닝을 처음부터 끝까지 배울 수 있는 과정입니다."
+    },
+    {
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "desc": "",
+      "stars_today": 13,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft의 'MCP for Beginners'는 초보자를 위한 클라우드 플랫폼 관련 자료입니다."
+    },
+    {
+      "repo": "evidentlyai/evidently",
+      "url": "https://github.com/evidentlyai/evidently",
+      "desc": "",
       "stars_today": 12,
       "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/llm_engineering은 LLM 엔지니어링의 다양한 기법을 다룹니다."
+      "summary_ko": "evidentlyai의 'Evidently'는 데이터 과학 및 머신러닝 모델의 성능을 평가하는 도구입니다."
+    },
+    {
+      "repo": "google-gemini/cookbook",
+      "url": "https://github.com/google-gemini/cookbook",
+      "desc": "",
+      "stars_today": 6,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "google-gemini의 'Cookbook'은 구글의 Gemini 모델을 활용한 다양한 레시피를 제공합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "url": "https://bento.page/slides/",
-      "points": 563,
-      "comments": 131,
-      "hn_url": "https://news.ycombinator.com/item?id=49008211",
-      "title_ko": "Bento - 하나의 HTML 파일로 완전한 PowerPoint 만들기 (편집+보기+데이터+협업)",
-      "summary_ko": "Bento는 HTML 파일 하나로 PowerPoint의 모든 기능을 제공하는 혁신적인 도구입니다."
+      "title": "Writing by hand is good for your brain",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "points": 829,
+      "comments": 418,
+      "hn_url": "https://news.ycombinator.com/item?id=49022152",
+      "title_ko": "손으로 글쓰기, 뇌에 좋다",
+      "summary_ko": "손으로 글쓰기가 뇌에 긍정적인 영향을 미친다는 연구 결과가 주목받고 있다."
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-      "points": 458,
-      "comments": 255,
-      "hn_url": "https://news.ycombinator.com/item?id=49010345",
-      "title_ko": "타오의 ChatGPT 대화: 야코비안 추측 반례",
-      "summary_ko": "수학자 타오가 ChatGPT와 나눈 대화에서 야코비안 추측의 반례에 대해 논의합니다."
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "points": 614,
+      "comments": 581,
+      "hn_url": "https://news.ycombinator.com/item?id=49023016",
+      "title_ko": "스타트업 창업자들, 미국 정부에 중국 오픈 웨이트 AI 차단 반대",
+      "summary_ko": "스타트업 창업자들이 중국의 오픈 웨이트 AI 차단에 반대하는 목소리를 내고 있다."
     },
     {
-      "title": "Are AI Labs Pelicanmaxxing?",
-      "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-      "points": 288,
-      "comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49010129",
-      "title_ko": "AI 연구소가 Pelicanmaxxing을 하고 있나요?",
-      "summary_ko": "AI 연구소들이 Pelicanmaxxing 전략을 채택하고 있는지에 대한 논의가 이루어지고 있습니다."
+      "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+      "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+      "points": 538,
+      "comments": 253,
+      "hn_url": "https://news.ycombinator.com/item?id=49020999",
+      "title_ko": "AI 기업들, 막대한 부채 숨기기 시도",
+      "summary_ko": "여러 AI 기업들이 심각한 부채 문제를 숨기려는 시도를 하고 있다는 경고가 제기되었다."
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "url": "https://github.com/marcelroed/gigatoken/",
-      "points": 279,
-      "comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=49010167",
-      "title_ko": "GigaToken: 약 1000배 빠른 언어 모델 토큰화",
-      "summary_ko": "GigaToken은 언어 모델의 토큰화 속도를 획기적으로 향상시키는 기술입니다."
+      "title": "The arguments against open source AI are bad",
+      "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+      "points": 156,
+      "comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49024643",
+      "title_ko": "오픈 소스 AI에 대한 반대 주장은 부적절하다",
+      "summary_ko": "오픈 소스 AI에 대한 비판이 잘못된 논리로 구성되어 있다는 주장이 제기되었다."
     },
     {
-      "title": "So Reddit has decided that plain HTML is unsafe",
-      "url": "https://www.cole-k.com/2026/07/21/reddit/",
-      "points": 158,
-      "comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=49005747",
-      "title_ko": "레딧이 일반 HTML을 안전하지 않다고 결정했습니다",
-      "summary_ko": "레딧은 보안 문제로 인해 일반 HTML 사용을 금지하기로 결정했습니다."
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "points": 139,
+      "comments": 156,
+      "hn_url": "https://news.ycombinator.com/item?id=49021597",
+      "title_ko": "DARPA와 미 공군, AI 제어 F-16 비행",
+      "summary_ko": "DARPA와 미 공군이 AI로 제어되는 F-16 전투기를 성공적으로 비행시켰다."
     },
     {
-      "title": "Businesses with ugly AI menu redesigns",
-      "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-      "points": 145,
-      "comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=49005973",
-      "title_ko": "못생긴 AI 메뉴 리디자인을 가진 기업들",
-      "summary_ko": "AI를 활용한 메뉴 리디자인이 미관상 좋지 않은 사례들을 다룹니다."
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810",
+      "points": 138,
+      "comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49026810",
+      "title_ko": "Show HN: Echo – 오픈 웨이트 모델로 비용 1/3로 Fable 수준 결과",
+      "summary_ko": "Echo는 오픈 웨이트 모델을 활용해 Fable 수준의 결과를 저렴하게 제공한다."
     },
     {
-      "title": "Can a MUD evaluate LLMs? A $99 proof of concept",
-      "url": "https://cruciblebench.ai/",
-      "points": 82,
-      "comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=49008538",
-      "title_ko": "MUD가 LLM을 평가할 수 있을까? 99달러 개념 증명",
-      "summary_ko": "MUD 환경에서 대형 언어 모델(LLM)을 평가할 수 있는 가능성을 탐구하는 프로젝트입니다."
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "points": 99,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=49022911",
+      "title_ko": "Show HN: Palmier Pro – AI를 위한 오픈 소스 macOS 비디오 편집기",
+      "summary_ko": "Palmier Pro는 AI를 위해 설계된 오픈 소스 macOS 비디오 편집기이다."
     },
     {
-      "title": "Nvidia DGX Spark as a daily driver",
-      "url": "https://daniel.lawrence.lu/blog/2026-07-15-dgx-spark-as-daily-driver/",
-      "points": 59,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=48971128",
-      "title_ko": "Nvidia DGX Spark를 일상적으로 사용하기",
-      "summary_ko": "Nvidia DGX Spark를 일상적인 작업에 활용하는 방법에 대한 논의가 진행됩니다."
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "points": 79,
+      "comments": 72,
+      "hn_url": "https://news.ycombinator.com/item?id=49021868",
+      "title_ko": "하이브리드 전기 항공기 엔진, 30% 연료 효율 목표",
+      "summary_ko": "새로운 하이브리드 전기 항공기 엔진이 30%의 연료 효율성을 목표로 개발되고 있다."
     }
   ],
   "reddit": [
     {
-      "title": "Solve the CyberGym benchmark",
+      "title": "The LLM distillation process simplified for politicians:",
+      "sub": "LocalLLaMA",
+      "author": "Porespellar",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4moxy/the_llm_distillation_process_simplified_for/",
+      "title_ko": "정치인을 위한 LLM 증류 과정 간소화",
+      "summary_ko": "LLM의 증류 과정을 정치인들이 이해하기 쉽게 설명한 글이다."
+    },
+    {
+      "title": "Prompt Injection in NeurIPS 2026? [D]",
+      "sub": "MachineLearning",
+      "author": "Kwangryeol",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4j1uk/prompt_injection_in_neurips_2026_d/",
+      "title_ko": "NeurIPS 2026의 프롬프트 주입?",
+      "summary_ko": "NeurIPS 2026에서의 프롬프트 주입에 대한 논의가 이루어지고 있다."
+    },
+    {
+      "title": "CEO of Hugging face: Heading to San Francisco to have a little chat with that “rogue agent”",
       "sub": "LocalLLaMA",
       "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3ba1z/solve_the_cybergym_benchmark/",
-      "title_ko": "CyberGym 벤치마크 해결하기",
-      "summary_ko": "CyberGym 벤치마크에 대한 논의가 Reddit에서 활발히 진행되고 있다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v4avga/ceo_of_hugging_face_heading_to_san_francisco_to/",
+      "title_ko": "Hugging Face CEO: '불량 에이전트'와 대화하기 위해 샌프란시스코로 간다",
+      "summary_ko": "Hugging Face CEO가 '불량 에이전트'와의 대화를 위해 샌프란시스코로 향한다."
     },
     {
-      "title": "OpenAI hacking HuggingFace in one meme",
-      "sub": "LocalLLaMA",
-      "author": "linegel",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3k0ei/openai_hacking_huggingface_in_one_meme/",
-      "title_ko": "OpenAI가 HuggingFace를 패러디한 밈",
-      "summary_ko": "HuggingFace와 관련된 OpenAI의 상황을 패러디한 밈이 Reddit에서 화제가 되고 있다."
+      "title": "Did NeurIPS reviews come out? OpenReview isnt loading lol [D]",
+      "sub": "MachineLearning",
+      "author": "Business-Kale-1406",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4c6ag/did_neurips_reviews_come_out_openreview_isnt/",
+      "title_ko": "NeurIPS 리뷰 발표되었나? OpenReview가 로딩되지 않음",
+      "summary_ko": "NeurIPS 리뷰 발표 여부에 대한 궁금증과 OpenReview의 문제를 다룬 글이다."
     },
     {
-      "title": "Instead of panicking about the Hugging Face attack, people need to start questioning OpenAI's insecure sandboxes.",
+      "title": "Absurd claim: the distilled model outperforms the originals",
       "sub": "LocalLLaMA",
-      "author": "mw11n19",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3lo6k/instead_of_panicking_about_the_hugging_face/",
-      "title_ko": "Hugging Face 공격에 대한 불안 대신 OpenAI의 불안전한 샌드박스를 의심해야 한다",
-      "summary_ko": "Hugging Face 공격에 대한 우려보다 OpenAI의 보안 문제를 지적하는 목소리가 커지고 있다."
+      "author": "Informal-Trouble2183",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v49zi9/absurd_claim_the_distilled_model_outperforms_the/",
+      "title_ko": "엉뚱한 주장: 증류된 모델이 원본보다 성능이 뛰어나다",
+      "summary_ko": "증류된 모델이 원본 모델보다 더 우수하다는 주장이 제기되었다."
     },
     {
-      "title": "🇦🇹 Austria is rolling out a government AI-platform using Mistral models and Open WebUI",
-      "sub": "LocalLLaMA",
-      "author": "ClassicMain",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3hra4/austria_is_rolling_out_a_government_aiplatform/",
-      "title_ko": "오스트리아, Mistral 모델과 Open WebUI를 활용한 정부 AI 플랫폼 도입",
-      "summary_ko": "오스트리아 정부가 Mistral 모델과 Open WebUI를 기반으로 한 AI 플랫폼을 출시한다."
-    },
-    {
-      "title": "microsoft/Fara1.5-27B · Hugging Face",
-      "sub": "LocalLLaMA",
-      "author": "pmttyji",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3ny84/microsoftfara1527b_hugging_face/",
-      "title_ko": "microsoft/Fara1.5-27B · Hugging Face",
-      "summary_ko": "microsoft의 Fara1.5-27B 모델이 Hugging Face에서 공개되었다."
-    },
-    {
-      "title": "Genesis-Science-1 (GS1), 1T open-weight model later this year from Arcee AI",
-      "sub": "LocalLLaMA",
-      "author": "pmttyji",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v3q47x/genesisscience1_gs1_1t_openweight_model_later/",
-      "title_ko": "Genesis-Science-1 (GS1), Arcee AI의 1T 오픈 가중치 모델 출시 예정",
-      "summary_ko": "Arcee AI가 올해 말 Genesis-Science-1이라는 1T 오픈 가중치 모델을 출시할 예정이다."
+      "title": "GPT-5.5 Scores 10.6% on ActiveVision, Humans Hit 96.1% [R]",
+      "sub": "MachineLearning",
+      "author": "Justgototheeffinmoon",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v4ns8l/gpt55_scores_106_on_activevision_humans_hit_961_r/",
+      "title_ko": "GPT-5.5, ActiveVision에서 10.6% 점수, 인간은 96.1%",
+      "summary_ko": "GPT-5.5가 ActiveVision에서 낮은 점수를 기록한 반면, 인간은 높은 점수를 기록했다."
     }
   ],
   "youtube": [
+    {
+      "title": "[멋쟁이사자처럼 서포터즈 0기] AI 시대, 연세대 친구들의 진짜 고민은?",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=U0lDx-yP9X8",
+      "published": "2026-07-23",
+      "desc": "*멋쟁이사자처럼 서포터즈 활동 결과물입니다. 제작자의 동의를 받아 미러링된 콘텐츠입니다. 제작자 : 서포터즈 0기 류다은 / instagram : @d1hrry0 00:00 프리뷰 00:38 연세대 멋사 친구들의 고민 02:13 멋사 동아리에 들어온 이유 03:11 멋사 활동 중 가장 기억에 남은 경험 05:30 엔딩 원본 링크 : https://youtu.be/di3Eec7x5EU",
+      "title_ko": "AI 시대, 연세대 친구들의 진짜 고민은?",
+      "summary_ko": "멋쟁이사자처럼 서포터즈가 연세대 친구들의 고민을 다룬 영상입니다."
+    },
     {
       "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
       "channel": "AI Explained",
       "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
       "published": "2026-07-22",
       "desc": "An unreleased internal OpenAI model, very likely to be called GPT-6, was able to autonomously break out of its sandbox AND break into HuggingFace, just to score higher on a benchmark prompt. This video has the details you may have missed, a layperson analogy, whether this is trul",
-      "title_ko": "GPT-6, 자율적으로 샌드박스 탈출? 허깅페이스 사건",
-      "summary_ko": "GPT-6로 추정되는 OpenAI 내부 모델이 샌드박스를 탈출해 허깅페이스에 침입한 사건을 다룬 영상입니다."
+      "title_ko": "GPT-6, 자율적으로 HuggingFace 침투?",
+      "summary_ko": "GPT-6로 추정되는 모델이 자율적으로 HuggingFace에 침투한 사건을 다룬 영상입니다."
     },
     {
       "title": "인간 vs AI, 다시 붙다 | 신진서 카타고전으로 본 바둑 AI 10년의 변화",
@@ -263,26 +272,17 @@
       "url": "https://www.youtube.com/watch?v=9LVbZJcraRw",
       "published": "2026-07-22",
       "desc": "2016년 이세돌 9단 이후 10년 만에, 인간 최고수가 다시 정상급 바둑 AI를 꺾었습니다. 신진서 9단은 카타고를 상대로 290수 끝에 흑 4집 반 승리를 거뒀는데요. 다만 이번 대국은 흑돌 두 개를 먼저 놓는 2점 접바둑이었습니다. 약 18집의 우위를 받고 시작한 승부였지만, 같은 조건의 1국에서는 패했던 만큼 결과가 정해진 경기는 아니었죠. 그렇다면 이번 승리는 인간이 AI를 다시 따라잡았다는 뜻일까요? 영상에서는 이 질문을 출발점으로 알파고와 카타고 사이의 10년을 따라가 봅니다. 인간 ",
-      "title_ko": "인간 vs AI, 다시 붙다 | 신진서 카타고전으로 본 바둑 AI 10년의 변화",
-      "summary_ko": "신진서 9단이 카타고를 꺾으며 인간과 AI의 바둑 대결 10년의 변화를 보여주는 영상입니다."
+      "title_ko": "신진서, 바둑 AI 카타고를 꺾다",
+      "summary_ko": "신진서 9단이 카타고를 상대로 승리한 10년 만의 대결을 다룬 영상입니다."
     },
     {
-      "title": "[백엔드 자바 부트캠프] 멋사를 통해 취업에 성공한 인선님",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/J2uzIuDKGFQ",
-      "published": "2026-07-22",
-      "desc": "멋쟁이사자처럼 백엔드 Java & Spring 부트캠프 27기 💰 내일배움카드 소지 시 교육비 최대 100% 지원 ✅ 매월 최대 90만 원 훈련장려금 지급 ✅ 멋사 단독 인턴십 기회 제공 ✅ 기업 연계 포함 프로젝트 3회 & 현직자 멘토링 ✅ AI툴&노트북 대여 포함 333만 원 상당 수강 혜택 ■ 모집 일정 2026/07/01(수) 14시 - 2026/08/03(월) 23시 ■ 교육 일정 2026/08/05(수) - 2027/01/15(금) ■ 지금 바로 지원하기 https://abit.ly/b",
-      "title_ko": "[백엔드 자바 부트캠프] 멋사를 통해 취업에 성공한 인선님",
-      "summary_ko": "멋쟁이사자처럼의 백엔드 Java & Spring 부트캠프에 대한 소개와 성공 사례를 담은 영상입니다."
-    },
-    {
-      "title": "Computational Neuroscience: 채-신 인공지능, 뉴로모픽 인공지능 (김제필 대표/주식회사 에이드올)",
+      "title": "계산 신경과학: 최신 인공지능, 뉴로모픽 인공지능 (김제필 대표/주식회사 에이드올)",
       "channel": "빵형의 개발도상국",
       "url": "https://www.youtube.com/watch?v=z4TwRjyx77g",
-      "published": "2026-07-20",
+      "published": "2026-07-22",
       "desc": "1. 계산신경과학은 왜 밀려났고, 왜 다시 돌아오는가 2. 뇌에서 다시 꺼내 든 계산 원리들 3. 뉴로모픽 인공지능은 스파이킹 신경망만을 뜻하지 않는다. 4. 뉴로모픽 AI의 실제 가능성과 한계 5. 연구 현장에서의 선택: 우리는 어디에 베팅하고 있는가 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000",
-      "title_ko": "계산신경과학: 채-신 인공지능, 뉴로모픽 인공지능",
-      "summary_ko": "계산신경과학과 뉴로모픽 인공지능의 현재와 미래를 탐구하는 영상입니다."
+      "title_ko": "계산 신경과학과 뉴로모픽 AI의 현재",
+      "summary_ko": "계산 신경과학과 뉴로모픽 인공지능의 가능성과 한계를 탐구하는 영상입니다."
     },
     {
       "title": "Kimi K3, dancing waifus, robot UFC, song to MIDI, GPT Red, hoverboards: AI NEWS",
@@ -290,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=uQ2Hqg5MZ-8",
       "published": "2026-07-19",
       "desc": "HUGE AI NEWS: Kimi K3, Bonsai 27B, Wan Dancer, GPT Red #ai #ainews #aitools #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/mcp-theaisearch-GiXvHr 00:00 AI news intro 01:00 Ardy 02:44 MobileWan 04:23 PiD v1.5 05:38 Audio to MIDI 08:34 WanD",
-      "title_ko": "Kimi K3, 댄싱 와이프, 로봇 UFC 등 AI 뉴스",
-      "summary_ko": "Kimi K3, Bonsai 27B 등 다양한 AI 소식을 전하는 영상입니다."
+      "title_ko": "AI 뉴스: Kimi K3와 최신 AI 소식",
+      "summary_ko": "Kimi K3 등 다양한 최신 AI 소식을 전하는 영상입니다."
     },
     {
       "title": "Claude Just Revealed AI's Biggest Problem",
@@ -300,7 +300,7 @@
       "published": "2026-07-16",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Brid",
       "title_ko": "Claude가 밝힌 AI의 가장 큰 문제",
-      "summary_ko": "AI의 주요 문제를 다룬 Claude의 연구 내용을 소개하는 영상입니다."
+      "summary_ko": "Claude가 AI의 주요 문제를 다룬 연구 내용을 소개하는 영상입니다."
     },
     {
       "title": "But what is cross-entropy? | Compression is Intelligence Part 2",
@@ -308,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=GlYgs6v2YfU",
       "published": "2026-07-16",
       "desc": "Where the loss function for training LLMs comes from. Job opportunities aligned to this audience: https://3b1b.co/talent Early views and other perks for supporters: https://3b1b.co/support Home page: https://www.3blue1brown.com Part 1: https://youtu.be/l6DKRf-fAAM Manim animation",
-      "title_ko": "크로스 엔트로피란 무엇인가? | 압축은 지능이다 Part 2",
-      "summary_ko": "LLM 훈련의 손실 함수 기원을 설명하는 영상입니다."
+      "title_ko": "교차 엔트로피란 무엇인가? | 압축은 지능이다 2부",
+      "summary_ko": "LLM 훈련의 손실 함수 출처를 설명하는 영상입니다."
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
       "published": "2026-07-11",
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "브레인크루의 AI 제품 개발과 2026 하반기 대규모 채용을 소개하는 영상입니다."
+      "title_ko": "브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
+      "summary_ko": "브레인크루의 AI 제품과 2026년 대규모 채용에 대한 설명을 담은 영상입니다."
     },
     {
       "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
@@ -326,26 +326,18 @@
       "url": "https://www.youtube.com/watch?v=A-GI6zNpXGc",
       "published": "2026-07-08",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9888-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
-      "title_ko": "로마 제국의 성생활 | 앤서니 칼델리스와 렉스 프리드먼",
-      "summary_ko": "렉스 프리드먼과 앤서니 칼델리스의 로마 제국 성생활에 대한 팟캐스트 에피소드를 다룬 영상입니다."
+      "title_ko": "로마 제국의 성생활 | Anthony Kaldellis와 Lex Fridman",
+      "summary_ko": "Lex Fridman이 로마 제국의 성생활에 대해 이야기하는 팟캐스트입니다."
     }
   ],
   "social": [
     {
-      "title": "John C. Dvorak has died",
-      "handle": "@na_announce",
-      "url": "https://twitter.com/na_announce/status/2079952538040672302",
-      "note": "HN 346pts · 81 댓글",
-      "title_ko": "존 C. 드보락 사망",
-      "summary_ko": "저명한 기술 평론가 존 C. 드보락이 사망했다는 소식이 전해졌다."
-    },
-    {
-      "title": "“We have information that Moonshot distilled Fable for the development of K3”",
-      "handle": "@mkratsios47",
-      "url": "https://twitter.com/mkratsios47/status/2079933645888880708",
-      "note": "HN 191pts · 487 댓글",
-      "title_ko": "문샷이 K3 개발을 위해 파블을 증류했다는 정보",
-      "summary_ko": "문샷이 K3 개발을 위해 파블을 활용했다는 정보가 공개되어 주목받고 있다."
+      "title": "Hybrid-Electric Aicraft Engine Targeting 30% Fuel Efficiency",
+      "handle": "@news",
+      "url": "https://www.rtx.com/news/news-center/2026/07/21/rtxs-pratt-whitney-canada-advances-hybrid-electric-technology-development",
+      "note": "HN 79pts · 72 댓글",
+      "title_ko": "하이브리드 전기 항공기 엔진, 30% 연료 효율 목표",
+      "summary_ko": "하이브리드 전기 항공기 엔진이 30%의 연료 효율을 목표로 하고 있어 주목받고 있다."
     }
   ]
 }
