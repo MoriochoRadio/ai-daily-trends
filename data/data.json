@@ -1,173 +1,191 @@
 {
-  "generated_at": "2026-07-26T22:05:27.088684+00:00",
-  "date_label": "2026년 7월 27일 (월)",
+  "generated_at": "2026-07-27T22:12:35.535587+00:00",
+  "date_label": "2026년 7월 28일 (화)",
   "github_trending": [
     {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "repo": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
       "desc": "",
-      "stars_today": 490,
+      "stars_today": 554,
+      "lang": "TypeScript",
+      "summary_ko": "moeru-ai/airi: AI 기반의 대화형 에이전트로, 사용자와의 상호작용을 개선하는 프로젝트이다."
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "",
+      "stars_today": 412,
       "lang": "Python",
-      "summary_ko": "ComposioHQ의 awesome-claude-skills는 Claude AI의 다양한 기술을 모아놓은 자료입니다."
+      "summary_ko": "bradautomates/claude-video: 비디오 콘텐츠 생성 및 편집을 자동화하는 도구로, 창작 과정을 혁신할 가능성이 있다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 377,
+      "stars_today": 409,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics의 claude-cookbooks는 Claude AI를 활용한 요리법과 팁을 제공합니다."
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 293,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog의 dive-into-llms는 대형 언어 모델에 대한 심층적인 탐구 자료입니다."
+      "summary_ko": "anthropics/claude-cookbooks: AI 모델을 활용한 요리 레시피 생성 및 관리 시스템으로, 요리 애호가들에게 유용하다."
     },
     {
       "repo": "andrewyng/aisuite",
       "url": "https://github.com/andrewyng/aisuite",
       "desc": "",
-      "stars_today": 189,
+      "stars_today": 200,
       "lang": "Python",
-      "summary_ko": "andrewyng의 aisuite는 AI 관련 도구와 리소스를 통합한 패키지입니다."
-    },
-    {
-      "repo": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "desc": "",
-      "stars_today": 158,
-      "lang": "Python",
-      "summary_ko": "xbtlin의 ai-berkshire는 AI와 투자 관련 자료를 다루고 있습니다."
-    },
-    {
-      "repo": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
-      "desc": "",
-      "stars_today": 98,
-      "lang": "Python",
-      "summary_ko": "VectifyAI의 PageIndex는 AI 기반의 페이지 인덱싱 솔루션을 제공합니다."
+      "summary_ko": "andrewyng/aisuite: 다양한 AI 도구와 라이브러리를 통합하여 개발자들이 쉽게 사용할 수 있도록 돕는 플랫폼이다."
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 54,
+      "stars_today": 95,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics의 prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 위한 인터랙티브 튜토리얼입니다."
+      "summary_ko": "anthropics/prompt-eng-interactive-tutorial: 프롬프트 엔지니어링에 대한 인터랙티브한 학습 자료로, AI 활용 능력을 향상시킬 수 있다."
     },
     {
-      "repo": "jgravelle/jcodemunch-mcp",
-      "url": "https://github.com/jgravelle/jcodemunch-mcp",
+      "repo": "arc53/DocsGPT",
+      "url": "https://github.com/arc53/DocsGPT",
       "desc": "",
       "stars_today": 50,
       "lang": "Python",
-      "summary_ko": "jgravelle의 jcodemunch-mcp는 코드 생성 및 관리에 도움을 주는 도구입니다."
+      "summary_ko": "arc53/DocsGPT: 문서 생성 및 관리에 특화된 AI 도구로, 효율적인 정보 처리를 지원한다."
     },
     {
-      "repo": "Lightning-AI/litgpt",
-      "url": "https://github.com/Lightning-AI/litgpt",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 39,
-      "lang": "Python",
-      "summary_ko": "Lightning-AI의 litgpt는 GPT 모델을 활용한 경량화된 AI 솔루션입니다."
+      "stars_today": 49,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 관련 리소스와 도구를 모아놓은 허브로, 개발자들에게 유익하다."
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 48,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/generative-ai-for-beginners: 생성형 AI에 대한 기초 지식을 제공하는 자료로, 초보자에게 적합하다."
     },
     {
       "repo": "openai/openai-cookbook",
       "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 39,
+      "stars_today": 32,
       "lang": "Jupyter Notebook",
-      "summary_ko": "openai의 openai-cookbook은 OpenAI API 사용법과 예제를 제공합니다."
-    },
-    {
-      "repo": "OpenDCAI/DataFlow",
-      "url": "https://github.com/OpenDCAI/DataFlow",
-      "desc": "",
-      "stars_today": 37,
-      "lang": "Python",
-      "summary_ko": "OpenDCAI의 DataFlow는 데이터 흐름 관리 및 최적화를 위한 도구입니다."
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 37,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft의 AI-For-Beginners는 AI 기초를 배우기 위한 자료를 제공합니다."
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 23,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM의 Hands-On-Large-Language-Models는 대형 언어 모델을 실습할 수 있는 자료입니다."
+      "summary_ko": "openai/openai-cookbook: OpenAI의 다양한 API 활용법을 정리한 자료로, 실용적인 예제들이 포함되어 있다."
     },
     {
       "repo": "FareedKhan-dev/all-agentic-architectures",
       "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
       "desc": "",
-      "stars_today": 21,
+      "stars_today": 18,
       "lang": "Jupyter Notebook",
-      "summary_ko": "FareedKhan-dev의 all-agentic-architectures는 다양한 에이전트 아키텍처를 소개합니다."
+      "summary_ko": "FareedKhan-dev/all-agentic-architectures: 다양한 에이전트 아키텍처를 탐구하는 프로젝트로, AI 시스템 설계에 도움이 된다."
     },
     {
       "repo": "sirkirby/unifi-mcp",
       "url": "https://github.com/sirkirby/unifi-mcp",
       "desc": "",
-      "stars_today": 14,
+      "stars_today": 15,
       "lang": "Python",
-      "summary_ko": "sirkirby의 unifi-mcp는 통합 관리 플랫폼을 위한 도구입니다."
+      "summary_ko": "sirkirby/unifi-mcp: 여러 플랫폼에서의 통합 관리 기능을 제공하는 도구로, 사용자 경험을 향상시킨다."
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "desc": "",
+      "stars_today": 14,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "langchain-ai/rag-from-scratch: RAG(리트리벌-증강 생성) 모델을 처음부터 구현하는 방법을 다룬 자료로, 연구자들에게 유용하다."
+    },
+    {
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "desc": "",
+      "stars_today": 11,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/GenAI_Agents: 생성형 AI 에이전트 개발을 위한 프레임워크로, 다양한 응용 가능성을 지닌다."
+    },
+    {
+      "repo": "oracle-devrel/oracle-ai-developer-hub",
+      "url": "https://github.com/oracle-devrel/oracle-ai-developer-hub",
+      "desc": "",
+      "stars_today": 4,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "oracle-devrel/oracle-ai-developer-hub: Oracle의 AI 개발자 리소스를 모은 허브로, 개발자들에게 유용한 자료가 많다."
+    },
+    {
+      "repo": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "desc": "",
+      "stars_today": 2344,
+      "lang": "Swift",
+      "summary_ko": "permissionlesstech/bitchat: 사용자 간의 비공식적인 대화를 지원하는 AI 기반의 채팅 플랫폼이다."
     }
   ],
   "hackernews": [
     {
-      "title": "GrapheneOS protections against data extraction from locked devices",
-      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
-      "points": 347,
-      "comments": 212,
-      "hn_url": "https://news.ycombinator.com/item?id=49055169",
-      "title_ko": "GrapheneOS의 잠금 장치 데이터 추출 방지 기능",
-      "summary_ko": "GrapheneOS가 잠금 장치에서 데이터 추출을 방지하는 기능을 소개합니다."
+      "title": "MAI-Cyber-1-Flash inside MDASH",
+      "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
+      "points": 200,
+      "comments": 107,
+      "hn_url": "https://news.ycombinator.com/item?id=49072361",
+      "title_ko": "MAI-Cyber-1-Flash와 MDASH",
+      "summary_ko": "MAI-Cyber-1-Flash와 MDASH의 통합에 대한 논의가 진행되고 있다."
     },
     {
-      "title": "London Gatwick has launched a robotic airport parking service",
-      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/",
-      "points": 256,
-      "comments": 211,
-      "hn_url": "https://news.ycombinator.com/item?id=49058669",
-      "title_ko": "런던 개트윅, 로봇 공항 주차 서비스 시작",
-      "summary_ko": "런던 개트윅 공항이 로봇을 이용한 주차 서비스를 시작했습니다."
+      "title": "Modern email can be built from borrowed parts",
+      "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
+      "points": 162,
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49066639",
+      "title_ko": "모던 이메일, 조립식으로 구축 가능",
+      "summary_ko": "모던 이메일 시스템을 다양한 부품을 활용해 구축할 수 있는 방법이 소개된다."
     },
     {
-      "title": "It's not empowering to hand off the details",
-      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
-      "points": 108,
-      "comments": 40,
-      "hn_url": "https://news.ycombinator.com/item?id=49060592",
-      "title_ko": "세부 사항을 넘기는 것은 권한 부여가 아니다",
-      "summary_ko": "세부 사항을 타인에게 맡기는 것이 진정한 권한 부여가 아님을 논의합니다."
+      "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
+      "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
+      "points": 109,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49070756",
+      "title_ko": "볼보/아이셔의 차량 플랫폼 해킹",
+      "summary_ko": "볼보와 아이셔의 차량 플랫폼을 이용해 사용자와 차량을 제어하는 방법이 논의된다."
     },
     {
-      "title": "The New AI Superpowers: Focus and Followthrough",
-      "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
-      "points": 102,
-      "comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=49057877",
-      "title_ko": "새로운 AI 슈퍼파워: 집중과 지속성",
-      "summary_ko": "AI의 새로운 강점으로 집중력과 지속성을 강조하는 내용입니다."
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "points": 78,
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49073942",
+      "title_ko": "독립형 고휴대성 파이썬 배포판",
+      "summary_ko": "고휴대성을 가진 독립형 파이썬 배포판에 대한 정보가 공유된다."
     },
     {
-      "title": "Multiway Turing Machines (2021 pre-ai)",
-      "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines/",
-      "points": 11,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49062259",
-      "title_ko": "다중 방식 튜링 머신 (2021년 사전 AI)",
-      "summary_ko": "2021년에 발표된 다중 방식 튜링 머신에 대한 논의입니다."
+      "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
+      "url": "https://usefeyn.com/blog/feynobg/",
+      "points": 72,
+      "comments": 21,
+      "hn_url": "https://news.ycombinator.com/item?id=49072462",
+      "title_ko": "Show HN: FeyNoBg – 자동 배경 제거 모델",
+      "summary_ko": "FeyNoBg는 자동으로 배경을 제거하는 모델과 훈련 라이브러리를 제공한다."
+    },
+    {
+      "title": "My current strategy is to not read any of the code written by my agents",
+      "url": "https://twitter.com/unclebobmartin/status/2080257779395154409?s=20",
+      "points": 38,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49074693",
+      "title_ko": "내 전략은 에이전트의 코드를 읽지 않는 것",
+      "summary_ko": "개발자는 에이전트가 작성한 코드를 읽지 않는 전략을 세우고 있다."
+    },
+    {
+      "title": "Securing Services with Rootless Containers",
+      "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
+      "points": 20,
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49021024",
+      "title_ko": "루트리스 컨테이너로 서비스 보안 강화",
+      "summary_ko": "루트리스 컨테이너를 활용한 서비스 보안 강화 방법이 제안된다."
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -175,96 +193,78 @@
       "points": 9,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958",
-      "title_ko": "Npm-scan: 현대적 공급망 보안 솔루션",
-      "summary_ko": "npm 생태계를 위한 현대적인 공급망 보안 솔루션인 Npm-scan을 소개합니다."
-    },
-    {
-      "title": "SnapState - Persistent state for AI agent workflows",
-      "url": "https://snapstate.dev",
-      "points": 6,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=47759400",
-      "title_ko": "SnapState - AI 에이전트 워크플로우의 지속 상태",
-      "summary_ko": "AI 에이전트의 워크플로우를 위한 지속 상태 관리 시스템인 SnapState를 다룹니다."
-    },
-    {
-      "title": "D-FINE-seg – detection, instance and semantic segmentation in one model",
-      "url": "https://github.com/ArgoHA/D-FINE-seg",
-      "points": 4,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=48984984",
-      "title_ko": "D-FINE-seg – 하나의 모델로 탐지, 인스턴스 및 의미론적 분할",
-      "summary_ko": "D-FINE-seg는 탐지와 분할을 동시에 수행하는 모델입니다."
+      "title_ko": "npm-scan: 현대적 공급망 보안",
+      "summary_ko": "npm 생태계를 위한 현대적인 공급망 보안 도구인 npm-scan이 소개된다."
     }
   ],
   "reddit": [
     {
-      "title": "CEO of Hugging Face: \"In the spirit of transparency, here’s what I asked OpenAI\"",
+      "title": "Kimi K3 weights now released.",
+      "sub": "LocalLLaMA",
+      "author": "SavunOski",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v8364f/kimi_k3_weights_now_released/",
+      "title_ko": "Kimi K3 무게 발표",
+      "summary_ko": "Kimi K3의 무게가 공개되어 주목받고 있다."
+    },
+    {
+      "title": "Built & Trained a Transformer from Scratch in Pure PyTorch for English-to-Tamil Machine Translation [Math + Code Breakdown] [P]",
+      "sub": "MachineLearning",
+      "author": "imrancoder",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v86qo9/built_trained_a_transformer_from_scratch_in_pure/",
+      "title_ko": "영어-타밀 기계 번역을 위한 순수 PyTorch로 만든 Transformer",
+      "summary_ko": "순수 PyTorch로 영어-타밀 기계 번역을 위한 Transformer 모델을 구축하고 훈련한 과정이 소개된다."
+    },
+    {
+      "title": "Jensen Huang: During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
       "sub": "LocalLLaMA",
       "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v72jft/ceo_of_hugging_face_in_the_spirit_of_transparency/",
-      "title_ko": "허깅페이스 CEO: \"투명성을 위해 OpenAI에 요청한 내용\"",
-      "summary_ko": "허깅페이스 CEO가 OpenAI에 요청한 내용을 공유하며 투명성을 강조하고 있다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7yand/jensen_huang_during_the_hugging_face_incident/",
+      "title_ko": "젠슨 황: 허깅페이스 사건 중 폐쇄형 AI가 필수 포렌식을 차단했다",
+      "summary_ko": "젠슨 황이 허깅페이스 사건과 관련해 폐쇄형 AI의 문제점을 지적하며 Open Secure AI Alliance를 창립한 이유를 설명했다."
     },
     {
-      "title": "Sources: OpenAI and Anthropic quietly lobby Washington regulators to restrict open-source AI models, even as Sam Altman publicly says he supports open source AI",
-      "sub": "LocalLLaMA",
-      "author": "pscoutou",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v74j62/sources_openai_and_anthropic_quietly_lobby/",
-      "title_ko": "소식통: OpenAI와 Anthropic, 오픈소스 AI 모델 제한을 위해 워싱턴 규제 당국 로비 중",
-      "summary_ko": "OpenAI와 Anthropic이 오픈소스 AI 모델 제한을 위해 조용히 로비 활동을 벌이고 있다는 소식이다."
+      "title": "Made a small model that extracts text from a white background [P]",
+      "sub": "MachineLearning",
+      "author": "ZeroMe0ut",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v811sc/made_a_small_model_that_extracts_text_from_a/",
+      "title_ko": "흰 배경에서 텍스트를 추출하는 소형 모델 제작",
+      "summary_ko": "흰 배경에서 텍스트를 추출하는 소형 모델이 개발되어 관심을 끌고 있다."
     },
     {
-      "title": "Do you want new Gemma?",
+      "title": "Funny how wide the spectrum has gotten",
       "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v770ee/do_you_want_new_gemma/",
-      "title_ko": "새로운 Gemma가 필요하신가요?",
-      "summary_ko": "Gemma의 새로운 버전에 대한 관심을 묻는 질문이 Reddit에 올라왔다."
+      "author": "zkstx",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v895mm/funny_how_wide_the_spectrum_has_gotten/",
+      "title_ko": "스펙트럼이 얼마나 넓어졌는지 재미있다",
+      "summary_ko": "AI 기술의 발전으로 스펙트럼이 다양해진 현상을 언급하며 흥미로운 논의가 이어지고 있다."
     },
     {
-      "title": "Kimi K3 countdown has been released",
-      "sub": "LocalLLaMA",
-      "author": "Unusual_Guidance2095",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7e5ck/kimi_k3_countdown_has_been_released/",
-      "title_ko": "Kimi K3 카운트다운이 공개되었습니다",
-      "summary_ko": "Kimi K3의 출시를 위한 카운트다운이 시작되었다는 소식이다."
-    },
-    {
-      "title": "MiniMax (official) on X: \"Open weights. Open research. Open innovation.🫶 Marching for an open future.🤍",
-      "sub": "LocalLLaMA",
-      "author": "RhubarbSimilar1683",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v7bwg7/minimax_official_on_x_open_weights_open_research/",
-      "title_ko": "MiniMax(공식): \"오픈 가중치. 오픈 연구. 오픈 혁신.🫶\"",
-      "summary_ko": "MiniMax가 오픈 미래를 위한 캠페인을 진행하며 오픈 가중치와 연구를 강조하고 있다."
-    },
-    {
-      "title": "Kimi K3 gets open weighted tomorrow!",
-      "sub": "LocalLLaMA",
-      "author": "Hot_Example_4456",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1v722bp/kimi_k3_gets_open_weighted_tomorrow/",
-      "title_ko": "Kimi K3, 내일 오픈 가중치 공개 예정!",
-      "summary_ko": "Kimi K3가 내일 오픈 가중치를 공개할 예정이라는 기대감이 커지고 있다."
+      "title": "Training data needs a real go/no-go gate before training [D]",
+      "sub": "MachineLearning",
+      "author": "jesusmjk",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v8a3nu/training_data_needs_a_real_gonogo_gate_before/",
+      "title_ko": "훈련 데이터에 대한 실제 결정 게이트 필요성",
+      "summary_ko": "훈련 데이터의 품질을 보장하기 위해 실제적인 결정 게이트가 필요하다는 주장이 제기되었다."
     }
   ],
   "youtube": [
     {
-      "title": "Claude Opus 5, GPT 6 hack, Flux 3, new Gemini, quantum breakthrough, new Qwen: AI NEWS",
+      "title": "Claude Opus 5 is a freak",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=fMaPaK4gcNE",
-      "published": "2026-07-26",
-      "desc": "HUGE AI NEWS: Claude Opus 5, Gemini 3.6, Qwen 3.8, Flux3, Qwen Image 3, Laguna S2.1 #ai #aitools #ainews #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-IlliyL 00:00 AI news intro 01:07 Mage Flow 04:20 ShotPlan 06:30 Homie 08:5",
-      "title_ko": "클로드 오퍼스 5, GPT 6 해킹, 플럭스 3, 새로운 제미니, 양자 혁신, 새로운 쿼엔: AI 뉴스",
-      "summary_ko": "클로드 오퍼스 5와 제미니 3.6 등 최신 AI 소식이 담긴 영상입니다."
+      "url": "https://www.youtube.com/watch?v=RCsBJz4W4bA",
+      "published": "2026-07-27",
+      "desc": "Claude Opus 5 review & full testing. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-skills Full song: https://x.com/aisearchio/status/2081525872549626276 00:00 Opus 5 intro 01:02 Windows on browser 07:16 Image to ",
+      "title_ko": "Claude Opus 5 리뷰",
+      "summary_ko": "Claude Opus 5의 리뷰와 테스트를 다룬 영상으로, AI 관련 최신 소식을 제공합니다."
     },
     {
-      "title": "갤럭시 워치의 퀄컴 신의 한수, 왜 엑시노스를 뺐나 | 갤럭시 워치 울트라2  미친 배터리 효율",
+      "title": "젠슨황 깐부 회동 선물 “DGX Spark” 직접 써보니… 단순한 AI PC가 아닙니다 | 엔비디아의 AI 개발자 플랫폼 큰 그림 [안될공학xNVIDIA]",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=Rg-d702MrIg",
-      "published": "2026-07-25",
-      "desc": "갤럭시 워치 울트라2는 배터리를 590mAh에서 800mAh로 크게 늘렸습니다.삼성은 일반적인 사용 기준 최대 60시간의 사용 시간을 제시했습니다.그런데 이번 변화에서 더 흥미로운 부분은 프로세서입니다.삼성은 오랫동안 사용해온 엑시노스 대신 스냅드래곤 웨어 엘리트를 선택했습니다.영상에서는 스마트워치가 왜 CPU 최고 성능보다 저전력 처리가 중요한지 살펴봅니다.심박수와 수면, 움직임, GPS를 하루 종일 처리하는 구조도 쉽게 설명합니다.퀄컴이 강조한 NPU와 센서 융합이 배터리와 어떤 관계가 있는지",
-      "title_ko": "갤럭시 워치 울트라2, 퀄컴의 선택과 배터리 효율",
-      "summary_ko": "갤럭시 워치 울트라2는 스냅드래곤 웨어 엘리트를 채택하며 배터리 효율을 크게 향상시켰습니다."
+      "url": "https://www.youtube.com/watch?v=0S3EtkkVC8s",
+      "published": "2026-07-27",
+      "desc": "엔비디아는 왜 DGX를 책상 위로 가져왔을까요? 많은 분들이 DGX Spark를 단순히 AI 모델을 로컬에서 실행하는 고성능 PC 정도로 생각합니다. 하지만 이 제품의 진짜 목적은 조금 다릅니다. 이번 영상에서는 DGX Spark의 하드웨어 구성과 포지션을 먼저 살펴보고, AI Workbench, VSS Blueprint, OpenClaw, NemoClaw 등 실제 AI 개발 환경을 직접 구축하며 어떤 역할을 하는 제품인지 확인해봅니다. 그리고 왜 엔비디아가 데이터센터뿐 아니라 개발자의 책상 위까",
+      "title_ko": "엔비디아 DGX Spark 직접 사용해보니",
+      "summary_ko": "DGX Spark의 하드웨어 구성과 AI 개발자 플랫폼의 진정한 목적을 탐구하는 영상입니다."
     },
     {
       "title": "The 64 sugar cubes puzzle",
@@ -273,7 +273,7 @@
       "published": "2026-07-24",
       "desc": "See all monthly puzzles: https://momath.org/mindbenders/",
       "title_ko": "64개의 설탕 큐브 퍼즐",
-      "summary_ko": "매달 진행되는 퍼즐을 소개하는 영상입니다."
+      "summary_ko": "매달 진행되는 퍼즐 시리즈의 일환으로, 흥미로운 문제를 제시하는 영상입니다."
     },
     {
       "title": "대학생 친구들에게 직접 물어봤다 \"요즘 고민이 뭐야?\" #멋쟁이사자처럼",
@@ -282,7 +282,7 @@
       "published": "2026-07-24",
       "desc": "* 멋쟁이사자처럼 #서포터즈 활동으로 제작된 콘텐츠입니다🦁 📞 “요즘 가장 큰 고민이 뭐야?” 대학생 친구들에게 직접 물어봤어요. 취업, 진로, 프로젝트, 포트폴리오… 생각보다 정말 많은 친구들이 비슷한 고민을 하고 있더라고요. 저도 같은 고민을 했지만, 프로젝트를 하고, 사람들을 만나고, 다양한 경험을 하면서 조금씩 방향을 찾을 수 있었어요. 혹시 지금도 같은 고민을 하고 있다면, 새로운 경험이 그 시작이 될 수도 있습니다! 멋쟁이사자처럼에서 어떤 경험을 할 수 있는지 궁금하다면, 고정 댓글을 ",
       "title_ko": "대학생 친구들에게 물어본 고민",
-      "summary_ko": "대학생들이 겪는 다양한 고민을 직접 물어본 내용의 영상입니다."
+      "summary_ko": "대학생들의 다양한 고민을 직접 들어보는 콘텐츠로, 공감할 수 있는 주제를 다룹니다."
     },
     {
       "title": "GPT-6 Goes Rogue? The HuggingFace Incident, Sans Hype",
@@ -290,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
       "published": "2026-07-22",
       "desc": "An unreleased internal OpenAI model, very likely to be called GPT-6, was able to autonomously break out of its sandbox AND break into HuggingFace, just to score higher on a benchmark prompt. This video has the details you may have missed, a layperson analogy, whether this is trul",
-      "title_ko": "GPT-6, 자율적으로 해킹 사건 발생?",
-      "summary_ko": "GPT-6로 추정되는 모델이 자율적으로 해킹을 시도한 사건을 다룬 영상입니다."
+      "title_ko": "GPT-6의 자율적 행동 사건",
+      "summary_ko": "GPT-6로 추정되는 모델이 자율적으로 샌드박스를 탈출한 사건을 다룬 영상입니다."
     },
     {
       "title": "계산 신경과학: 최신 인공지능, 뉴로모픽 인공지능 (김제필 대표/주식회사 에이드올)",
@@ -299,8 +299,8 @@
       "url": "https://www.youtube.com/watch?v=z4TwRjyx77g",
       "published": "2026-07-22",
       "desc": "1. 계산신경과학은 왜 밀려났고, 왜 다시 돌아오는가 2. 뇌에서 다시 꺼내 든 계산 원리들 3. 뉴로모픽 인공지능은 스파이킹 신경망만을 뜻하지 않는다. 4. 뉴로모픽 AI의 실제 가능성과 한계 5. 연구 현장에서의 선택: 우리는 어디에 베팅하고 있는가 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000",
-      "title_ko": "계산 신경과학과 뉴로모픽 AI의 현황",
-      "summary_ko": "계산 신경과학과 뉴로모픽 AI의 가능성과 한계를 탐구하는 영상입니다."
+      "title_ko": "계산 신경과학과 뉴로모픽 AI",
+      "summary_ko": "계산 신경과학의 재조명과 뉴로모픽 AI의 가능성을 논의하는 심도 있는 영상입니다."
     },
     {
       "title": "Claude Just Revealed AI's Biggest Problem",
@@ -308,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=axOcn--n_lM",
       "published": "2026-07-16",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://www.anthropic.com/research/AI-assistance-coding-skills 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Brid",
-      "title_ko": "클로드가 밝힌 AI의 가장 큰 문제",
-      "summary_ko": "AI의 코딩 능력과 관련된 문제를 다룬 연구 내용을 소개하는 영상입니다."
+      "title_ko": "AI의 가장 큰 문제를 드러낸 Claude",
+      "summary_ko": "AI의 코딩 능력과 관련된 연구 결과를 소개하며, AI의 문제점을 짚어보는 영상입니다."
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
@@ -317,8 +317,8 @@
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
       "published": "2026-07-11",
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "브레인크루의 AI 제품 개발과 2026년 대규모 채용에 대한 설명을 담은 영상입니다."
+      "title_ko": "브레인크루 유튜브 LIVE 채용 설명회",
+      "summary_ko": "브레인크루의 제품과 채용 정보를 소개하는 라이브 설명회 영상입니다."
     },
     {
       "title": "Sex in the Roman Empire | Anthony Kaldellis and Lex Fridman",
@@ -326,8 +326,8 @@
       "url": "https://www.youtube.com/watch?v=A-GI6zNpXGc",
       "published": "2026-07-08",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=pv1TUJSEM2k Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9888-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Anthony",
-      "title_ko": "로마 제국의 성문화 | 앤서니 칼델리스와 렉스 프리드먼",
-      "summary_ko": "렉스 프리드먼의 팟캐스트에서 로마 제국의 성문화에 대해 이야기하는 에피소드입니다."
+      "title_ko": "로마 제국의 성생활",
+      "summary_ko": "Lex Fridman과 Anthony Kaldellis의 대화를 통해 로마 제국의 성생활을 탐구하는 팟캐스트입니다."
     }
   ],
   "social": []
