@@ -1,230 +1,237 @@
 {
-  "generated_at": "2026-07-30T22:13:27.600105+00:00",
-  "date_label": "2026년 7월 31일 (금)",
+  "generated_at": "2026-07-31T22:11:05.864867+00:00",
+  "date_label": "2026년 8월 1일 (토)",
   "github_trending": [
     {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 1257,
-      "lang": "Python"
+      "stars_today": 1592,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "different-ai/openwork",
       "url": "https://github.com/different-ai/openwork",
       "desc": "",
-      "stars_today": 916,
+      "stars_today": 796,
       "lang": "TypeScript"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "",
+      "stars_today": 595,
+      "lang": "Python"
     },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 583,
+      "stars_today": 503,
       "lang": "Python"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
+      "repo": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
       "desc": "",
-      "stars_today": 368,
+      "stars_today": 142,
+      "lang": "Python"
+    },
+    {
+      "repo": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "desc": "",
+      "stars_today": 129,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 103,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
       "desc": "",
-      "stars_today": 115,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 84,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "desc": "",
-      "stars_today": 73,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "desc": "",
-      "stars_today": 72,
+      "stars_today": 78,
       "lang": "Python"
     },
     {
       "repo": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
-      "stars_today": 60,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 53,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ScrapeGraphAI/Scrapegraph-ai",
-      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
-      "desc": "",
-      "stars_today": 44,
-      "lang": "Python"
-    },
-    {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "desc": "",
-      "stars_today": 39,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 19,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Infrasys-AI/AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
-      "desc": "",
-      "stars_today": 19,
+      "stars_today": 55,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "Infrasys-AI/AISystem",
       "url": "https://github.com/Infrasys-AI/AISystem",
       "desc": "",
-      "stars_today": 16,
+      "stars_today": 30,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "langchain-ai/agents-from-scratch",
+      "url": "https://github.com/langchain-ai/agents-from-scratch",
+      "desc": "",
+      "stars_today": 25,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "trailofbits/skills",
+      "url": "https://github.com/trailofbits/skills",
+      "desc": "",
+      "stars_today": 18,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "desc": "",
+      "stars_today": 13,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRobot",
+      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "desc": "",
+      "stars_today": 13,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "figma/mcp-server-guide",
+      "url": "https://github.com/figma/mcp-server-guide",
+      "desc": "",
+      "stars_today": 6,
+      "lang": "Python"
     }
   ],
   "hackernews": [
     {
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-      "points": 426,
-      "comments": 280,
-      "hn_url": "https://news.ycombinator.com/item?id=49112867"
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "points": 267,
+      "comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49127306"
     },
     {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
-      "points": 419,
-      "comments": 372,
-      "hn_url": "https://news.ycombinator.com/item?id=49111237"
+      "title": "Is AI reasoning right for the wrong reasons?",
+      "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+      "points": 92,
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49124358"
     },
     {
-      "title": "We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447",
-      "url": "https://www.bottlenecklabs.com/blog/autonomously-run-businesses",
-      "points": 244,
-      "comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=49113059"
+      "title": "Golang proposal: container/: generic collection types",
+      "url": "https://github.com/golang/go/issues/80590",
+      "points": 83,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49127031"
     },
     {
-      "title": "GCC steering committee announces AI policy",
-      "url": "https://lwn.net/Articles/1086041/",
-      "points": 210,
-      "comments": 236,
-      "hn_url": "https://news.ycombinator.com/item?id=49108685"
+      "title": "Everyone is building LLM routers, we deprecated ours",
+      "url": "https://manifest.build/blog/why-we-deprecated-our-llm-router/",
+      "points": 69,
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49126630"
     },
     {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "url": "https://obryant.dev/p/2x-not-10x/",
-      "points": 158,
-      "comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49047839"
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can/",
+      "points": 43,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49083599"
     },
     {
-      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
-      "url": "https://github.com/AminBlg/SimpleEnglish",
-      "points": 76,
-      "comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49114639"
+      "title": "Using the railway network as a flatbed scanner [video]",
+      "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+      "points": 36,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49126919"
     },
     {
-      "title": "Show HN: Optimize and serve models with Fable quality at half the cost",
-      "url": "https://github.com/experientiallabs/world-model-optimizer",
-      "points": 59,
-      "comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=49063454"
+      "title": "Orca-Bench: How Ready Are Language Model Agents for Oncall?",
+      "url": "https://arxiv.org/abs/2607.28545",
+      "points": 20,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49126943"
     },
     {
-      "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "points": 52,
-      "comments": 40,
-      "hn_url": "https://news.ycombinator.com/item?id=49113599"
+      "title": "Just brute force your embeddings",
+      "url": "https://softwaredoug.com/blog/2026/07/29/just-brute-force-embeddings",
+      "points": 11,
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=49119065"
     }
   ],
   "reddit": [
     {
-      "title": "Inkling-Small by thinkingmachines",
+      "title": "The Chinese LLM release carousel never stops. Place your bets for MiniMax next week.",
       "sub": "LocalLLaMA",
-      "author": "rerri",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb16gj/inklingsmall_by_thinkingmachines/"
+      "author": "Mountain_Patience231",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbr5zj/the_chinese_llm_release_carousel_never_stops/"
     },
     {
-      "title": "Think of the children, another excuse for them to go after open source AI",
+      "title": "DeepSeek V4 Flash GA ranks the same as Sonnet 5 and Grok 4.5 on DeepSWE",
       "sub": "LocalLLaMA",
-      "author": "MaruluVR",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vapsbz/think_of_the_children_another_excuse_for_them_to/"
+      "author": "sdexca",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbx39u/deepseek_v4_flash_ga_ranks_the_same_as_sonnet_5/"
     },
     {
-      "title": "LG AI Research releases K-EXAONE 2.0 750B A37B",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731 on Huggingface",
       "sub": "LocalLLaMA",
-      "author": "AlphaLemonMint",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazdxp/lg_ai_research_releases_kexaone_20_750b_a37b/"
+      "author": "cgs019283",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbp7kb/deepseekaideepseekv4flash0731_on_huggingface/"
     },
     {
-      "title": "Software Engineers: Do you honestly get anything useful out of LLMs?",
+      "title": "Unsloth Deepseek V4 0731 GGUF's are UP!",
       "sub": "LocalLLaMA",
-      "author": "ParaboloidalCrest",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vavh2h/software_engineers_do_you_honestly_get_anything/"
+      "author": "BlackBeardAI",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbtdok/unsloth_deepseek_v4_0731_ggufs_are_up/"
     },
     {
-      "title": "America Needs An Open-Source AI Strategy — CNBC",
+      "title": "DeepSeek-V4-Flash has been updated, \"The official release of DeepSeek-V4-Pro will follow soon\"",
       "sub": "LocalLLaMA",
-      "author": "Recoil42",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vb332c/america_needs_an_opensource_ai_strategy_cnbc/"
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbidkp/deepseekv4flash_has_been_updated_the_official/"
     },
     {
-      "title": "The real Flash？AntLing 3.0 flash VS. MiniMax M2.7 VS. Step 3.7 flash",
+      "title": "New DeepSeek V4-Flash achieves 50 on ArtificalAnalysis Index, 1 point below GLM-5.2 and GPT-5.6 Luna",
       "sub": "LocalLLaMA",
-      "author": "niacolhealth",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vazgc0/the_real_flashantling_30_flash_vs_minimax_m27_vs/"
+      "author": "MagicZhang",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vbk5ob/new_deepseek_v4flash_achieves_50_on/"
     }
   ],
   "youtube": [
     {
-      "title": "Confederate flag explained by historian | Gary Gallagher and Lex Fridman",
+      "title": "What caused the American Civil War? | Gary Gallagher and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=OgfmMlLY1dU",
-      "published": "2026-07-30",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9933-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
+      "url": "https://www.youtube.com/watch?v=tJ5gJvZPRtg",
+      "published": "2026-07-31",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9902-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
     },
     {
-      "title": "한국을 거대한 AI 공장으로… 엔비디아가 한국 전체를 AI로 묶는 이유 | 삼성·SK·현대차·네이버의 역할 | 샌프란시스코 AI Summit",
+      "title": "돈만 쓰던 빅테크, 이제 본격적 회수가 시작됩니다 | AI 클라우드 재계약의 비밀 | 구글·마소·AWS 실적으로 본 공급 부족",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=Of_LDvvZmYA",
-      "published": "2026-07-30",
-      "desc": "샌프란시스코에 엔비디아와 한국 주요 기업의 리더들이 한자리에 모였습니다. 이번 영상에서는 각 기업의 발표를 나열하는 대신, 이 협력들이 하나의 구조로 어떻게 연결되는지 살펴봅니다. 네이버는 데이터와 모델, AI 에이전트와 공간 AI를 담당합니다. SK텔레콤은 이를 학습하고 운영할 대규모 AI 팩토리를 구축하려고 합니다. 현대차는 공장과 자동차, 로봇에서 현실의 성공과 실패 데이터를 만들어냅니다. 지난 서울 네모트론 행사에서 공개된 한국형 합성 데이터와 페르소나 사례도 함께 짚어봅니다. 하이퍼클로바"
+      "url": "https://www.youtube.com/watch?v=gf0cPrinP9w",
+      "published": "2026-07-31",
+      "desc": "구글과 마이크로소프트, 아마존은 AI 데이터센터에 막대한 돈을 쏟아붓고 있습니다. 투자 규모가 너무 커지면서 시장에서는 빅테크가 AI로 제대로 돈을 벌지 못할 수 있다는 우려도 커졌습니다. 하지만 기술주 투자자 Gavin Baker는 현재 상황을 조금 다르게 보고 있습니다. 지금의 강한 AI 컴퓨팅 수요가 과거에 체결된 낮은 가격의 장기계약에 묶여 있어, 하이퍼스케일러들이 잠재력보다 적게 벌고 있을 수 있다는 주장입니다. 영상에서는 AI 시대 이전의 클라우드 계약과 현재 GPU 클라우드 계약이 어"
     },
     {
-      "title": "파일명 자동정리: 조트무브가 해준다 #Shorts",
+      "title": "세계 최초 조만장자 #일론머스크, 단 10여일 만에 무슨 일이?",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/Ks6HQz5kKf8",
+      "published": "2026-07-31",
+      "desc": "조만장자 '였던' 일론머스크가 #스페이스X 상장 이후 10여일 만에 타이틀을 반납하게 된 이유는? #멋쟁이사자처럼 #멋사"
+    },
+    {
+      "title": "논문 비교: 한 편만 읽지 않는다 #Shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/6c5tXAB3q-0",
-      "published": "2026-07-30",
-      "desc": "이 조튼 부분은 그냥 세팅을 해놔요. 규칙을 만들어요. 나는 PDF의 파일명을 저 같은 경우는 1저자의 성 언더스코어 출판된 연독 언더스코어 논문 제목 처음 50자 이렇게 해놓거든요. 그러면 웬만한 것들은 다 다른 파일로 분류가 되죠. 그러면 조태로에다가 제가 넣은 논문들 서지 정보에다가 PDF 파일을 붙이면 조트무브가 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
+      "url": "https://www.youtube.com/shorts/LzfdCKctUxg",
+      "published": "2026-07-31",
+      "desc": "왜 그러냐면 나중에 광고했던 기능이 논문 이미지를 넣으면 GPT-4의 멀티모덜리티를 이용해서 해석을 한다, 표랑 이런 거 한다라고 이게 홈페이지에 가보시면 광고같이 되어 있었기 때문에 GPT-4가 나오고 업그레이드가 되고 그랬습니다. 그리고 여기 아리아의 굉장히 좋은 것 중에 하나는 논문 두 개를 집어다가 넣고 그 논문을 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
     },
     {
       "title": "Kimi K3 Just Broke The Economics Of AI",
@@ -232,13 +239,6 @@
       "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
       "published": "2026-07-29",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2607.24653 Try Kimi K3 (subject to availability): https://www.kimi.com/ Links: https://macos27.kimi.page/ https://x.com/mweinbach/status/2077878"
-    },
-    {
-      "title": "아이디어는 있는데 같이 만들 사람이 없을 때 #멋쟁이사자처럼",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/7-Wjqx9dftg",
-      "published": "2026-07-28",
-      "desc": "*멋쟁이사자처럼 #서포터즈 활동으로 제작된 컨텐츠입니다* 아 그니까 같이 만들자니까 🥺🥺"
     },
     {
       "title": "Claude Opus 5 is a freak",
