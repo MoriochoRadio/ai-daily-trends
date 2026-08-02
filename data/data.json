@@ -1,148 +1,134 @@
 {
-  "generated_at": "2026-08-01T22:01:30.442064+00:00",
-  "date_label": "2026년 8월 2일 (일)",
+  "generated_at": "2026-08-02T22:01:09.746319+00:00",
+  "date_label": "2026년 8월 3일 (월)",
   "github_trending": [
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 869,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "desc": "",
-      "stars_today": 473,
-      "lang": "Python"
-    },
-    {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "desc": "",
-      "stars_today": 342,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 104,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ashishpatel26/500-AI-Agents-Projects",
-      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
-      "desc": "",
-      "stars_today": 75,
-      "lang": "Python"
-    },
-    {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "desc": "",
-      "stars_today": 73,
-      "lang": "Python"
-    },
-    {
-      "repo": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "desc": "",
-      "stars_today": 53,
-      "lang": "Python"
-    },
-    {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "desc": "",
-      "stars_today": 51,
+      "stars_today": 2617,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 44,
+      "stars_today": 963,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 40,
+      "stars_today": 645,
+      "lang": "Python"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "desc": "",
+      "stars_today": 604,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 588,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "",
+      "stars_today": 472,
+      "lang": "Python"
+    },
+    {
+      "repo": "abus-aikorea/voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "desc": "",
+      "stars_today": 401,
+      "lang": "Python"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "desc": "",
+      "stars_today": 319,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "pathwaycom/llm-app",
+      "url": "https://github.com/pathwaycom/llm-app",
+      "desc": "",
+      "stars_today": 88,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 80,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "desc": "",
+      "stars_today": 20,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "Infrasys-AI/AISystem",
       "url": "https://github.com/Infrasys-AI/AISystem",
       "desc": "",
-      "stars_today": 28,
+      "stars_today": 17,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "AI4Finance-Foundation/FinRL",
       "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "desc": "",
-      "stars_today": 14,
+      "stars_today": 12,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "AI4Finance-Foundation/FinRobot",
-      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "repo": "atilaahmettaner/tradingview-mcp",
+      "url": "https://github.com/atilaahmettaner/tradingview-mcp",
       "desc": "",
       "stars_today": 11,
-      "lang": "Jupyter Notebook"
+      "lang": "Python"
     },
     {
-      "repo": "Infrasys-AI/AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 10,
+      "stars_today": 8,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "url": "https://microsoft.github.io/flint-chart/",
-      "points": 239,
-      "comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=49130604"
+      "title": "'Crush this lady': how eBay harassment campaign led to $56M payout",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2",
+      "points": 90,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49147435"
     },
     {
-      "title": "Explorative modeling: Train on the best of K guesses",
-      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-      "points": 62,
-      "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49135245"
+      "title": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://frogs.vaguespac.es/",
+      "points": 55,
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49147622"
     },
     {
-      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-      "url": "https://kaisel.dev/",
-      "points": 46,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49135985"
-    },
-    {
-      "title": "The Burau representation of the braid group is faithful for n = 4",
-      "url": "https://arxiv.org/abs/2607.05283",
-      "points": 33,
-      "comments": 16,
-      "hn_url": "https://news.ycombinator.com/item?id=49077209"
-    },
-    {
-      "title": "Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "url": "https://trufflesecurity.com/blog/scanning-7-6-petabytes-of-ai-training-data-for-secrets",
-      "points": 18,
-      "comments": 4,
-      "hn_url": "https://news.ycombinator.com/item?id=49136955"
+      "title": "AI Mania: From Tulips to Tokens",
+      "url": "https://seanhelvey.com/tools-and-their-tools/",
+      "points": 35,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49148159"
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -150,6 +136,13 @@
       "points": 9,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958"
+    },
+    {
+      "title": "Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://github.com/paoloanzn/microcodex",
+      "points": 7,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49147842"
     },
     {
       "title": "SnapState - Persistent state for AI agent workflows",
@@ -168,49 +161,70 @@
   ],
   "reddit": [
     {
-      "title": "DeepSeek-V4-Flash-0731: Models you can run locally now have the intelligence score of the top frontier model from March 2026",
+      "title": "DeepSeek-V4-Flash-0731: surpasses Fable-5, Sol & Kimi-K3 on Chess Benchmark",
       "sub": "LocalLLaMA",
-      "author": "joorklee",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vchoua/deepseekv4flash0731_models_you_can_run_locally/"
+      "author": "mrwang89",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdq8en/deepseekv4flash0731_surpasses_fable5_sol_kimik3/"
     },
     {
-      "title": "EU AI Act takes effect tomorrow, August 2, 2026. 🤡",
+      "title": "llama.cpp just added MTP / DSpark support for DeepSeek V4 Flash",
       "sub": "LocalLLaMA",
-      "author": "xoxaxo",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcqpn4/eu_ai_act_takes_effect_tomorrow_august_2_2026/"
+      "author": "rmhubbert",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdhgq9/llamacpp_just_added_mtp_dspark_support_for/"
     },
     {
-      "title": "Deepseek v4 flash 0731 still not holding up.",
+      "title": "Conclusion: r/LocalLLaMA still has brilliant open-weight research, but finding it requires wading through endless benchmark drama, non-local Discussion Points and repetitive hardware flexes.",
       "sub": "LocalLLaMA",
-      "author": "Juulk9087",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vct09w/deepseek_v4_flash_0731_still_not_holding_up/"
+      "author": "Long_War8748",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdku4r/conclusion_rlocalllama_still_has_brilliant/"
     },
     {
-      "title": "Fix for Deep Seek v4 Flash 0731 tool calling has been added to llama cpp",
+      "title": "Setting up of a 16xGB10 (DGX Spark) cluster",
       "sub": "LocalLLaMA",
-      "author": "kwizzle",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcwaag/fix_for_deep_seek_v4_flash_0731_tool_calling_has/"
+      "author": "ciprianveg",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdcgpm/setting_up_of_a_16xgb10_dgx_spark_cluster/"
     },
     {
-      "title": "DeepSeek-V4-Flash-0731 UD-IQ3_S 12.5 tok/s on RTX 3090 +128GB DDR5",
+      "title": "Vacuum 16T",
       "sub": "LocalLLaMA",
-      "author": "Ok_Ninja7526",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcz61x/deepseekv4flash0731_udiq3_s_125_toks_on_rtx_3090/"
+      "author": "alerikaisattera",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vdh1us/vacuum_16t/"
     },
     {
-      "title": "New DeepSeek V4 Flash 0731 vs ChatGPT Luna comparison",
+      "title": "China’s DFSX Offers 2x The Memory Bandwidth Of NVIDIA’s GB200",
       "sub": "LocalLLaMA",
-      "author": "perelmanych",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vcj0hh/new_deepseek_v4_flash_0731_vs_chatgpt_luna/"
+      "author": "MundanePercentage674",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vduej3/chinas_dfsx_offers_2x_the_memory_bandwidth_of/"
     }
   ],
   "youtube": [
     {
-      "title": "Greatest speech in American history | Gary Gallagher and Lex Fridman",
+      "title": "NVIDIA's AI Learns Why Copying Humans Isn't Enough",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=8B05cy3UuSE",
+      "published": "2026-08-02",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://jiashunwang.github.io/HIL/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, Benji Rabhan, B Shang, "
+    },
+    {
+      "title": "Extreme political division in US - Are we on the verge of a Civil War? | Gary Gallagher",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=Gw50KOG7srg",
-      "published": "2026-08-01",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9908-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
+      "url": "https://www.youtube.com/watch?v=ZX9XNDT0dgQ",
+      "published": "2026-08-02",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9935-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
+    },
+    {
+      "title": "New Deepseek, Seedance 2.5, Minimax H3, Gemini Robotics, AMD models: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=OrcBSpADCGk",
+      "published": "2026-08-02",
+      "desc": "HUGE AI NEWS: Deepseek V4 Flash, Seedance 2.5, Minimax H3, Kimi K3 & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Higgsfield. Try Seedance 2.0 4K today https://higgsfield.ai/s/theaisearch-BTFzlL 00:00 AI news intro 00:46 ID V2V 01:47 Crisper Whisper 04:08 Deepsee"
+    },
+    {
+      "title": "미리 쪼개기: 빠르지만 비싸다 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/WZCFpEe2Z1E",
+      "published": "2026-08-02",
+      "desc": "그렇게 했고요. 그래서 일단 제 방식의 장단점을 말씀을 드리면 일단 빨라요. 미리 다 쪼개 놓은 거에서 찾아서 갖고 오는 거기 때문에 내가 질의를 했을 때 카파시키는 PDF를 중공하면서 돌다가 나오는데 저는 거의 실시간으로 나옵니다. 다만 단점이 뭐냐. 일단 비싸요. 모든 논문들을 다 쪼개 놓으니까 거기에 다 이제 API 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
     },
     {
       "title": "구글 로봇 경쟁자는 테슬라가 아닙니다... Gemini Robotics 2에서 밝혀진, 로봇판 안드로이드 등장",
@@ -225,27 +239,6 @@
       "url": "https://www.youtube.com/shorts/7jVw2rGN790",
       "published": "2026-08-01",
       "desc": "\"미래에는 저축이 의미없어질 수 있다\" 진짜일까요? 일론 머스크의 해당 발언 배경에는 어떤 이야기가 있을지 확인해 보세요! #멋쟁이사자처럼 #멋사"
-    },
-    {
-      "title": "검색과 그래프: 쌓아도 찾아야 한다 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/MDOOzcsRHeM",
-      "published": "2026-08-01",
-      "desc": "새로운 논문을 중심으로 그래프가 새롭게 그려집니다 왔다갔다 왔다갔다 하면서 볼 수 있는 일종의 그래프를 다 미리 만들어 놓고 거기를 다니는 컨셉입니다 그리고 논문 검색하는 거 당연히 있어야겠죠. 논문 이렇게 쌓아놓고 못 찾으면 안 되니까. 여기다가 키워드 넣으면 이런 식으로 쪼로로 나와서 논문 편수가, 카테고리 편수가 확 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
-    },
-    {
-      "title": "Kimi K3 Just Broke The Economics Of AI",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=Xj-QdEUxJkE",
-      "published": "2026-07-29",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The paper is available here: https://arxiv.org/abs/2607.24653 Try Kimi K3 (subject to availability): https://www.kimi.com/ Links: https://macos27.kimi.page/ https://x.com/mweinbach/status/2077878"
-    },
-    {
-      "title": "Claude Opus 5 is a freak",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=RCsBJz4W4bA",
-      "published": "2026-07-27",
-      "desc": "Claude Opus 5 review & full testing. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-skills Full song: https://x.com/aisearchio/status/2081525872549626276 00:00 Opus 5 intro 01:02 Windows on browser 07:16 Image to "
     },
     {
       "title": "The 64 sugar cubes puzzle",
@@ -269,5 +262,12 @@
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
     }
   ],
-  "social": []
+  "social": [
+    {
+      "title": "Karpathy’s Pelican",
+      "handle": "@karpathy",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "note": "HN 315pts · 255 댓글"
+    }
+  ]
 }
