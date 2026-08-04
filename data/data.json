@@ -1,210 +1,231 @@
 {
-  "generated_at": "2026-08-03T22:12:44.320752+00:00",
-  "date_label": "2026년 8월 4일 (화)",
+  "generated_at": "2026-08-04T22:18:11.013483+00:00",
+  "date_label": "2026년 8월 5일 (수)",
   "github_trending": [
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 1716,
+      "lang": "Jupyter Notebook"
+    },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 1902,
+      "stars_today": 1195,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "desc": "",
-      "stars_today": 1091,
+      "stars_today": 1138,
       "lang": "TypeScript"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 1081,
-      "lang": "Jupyter Notebook"
     },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 1052,
+      "stars_today": 951,
       "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 776,
+      "stars_today": 784,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 616,
+      "stars_today": 647,
       "lang": "Python"
     },
     {
       "repo": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "desc": "",
-      "stars_today": 291,
+      "stars_today": 449,
       "lang": "Python"
-    },
-    {
-      "repo": "pathwaycom/llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "desc": "",
-      "stars_today": 160,
-      "lang": "Jupyter Notebook"
     },
     {
       "repo": "livekit/agents",
       "url": "https://github.com/livekit/agents",
       "desc": "",
-      "stars_today": 129,
+      "stars_today": 432,
       "lang": "Python"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "",
+      "stars_today": 365,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 232,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 144,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "desc": "",
-      "stars_today": 103,
+      "stars_today": 126,
       "lang": "Python"
     },
     {
-      "repo": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
+      "repo": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
       "desc": "",
-      "stars_today": 47,
+      "stars_today": 85,
       "lang": "Python"
     },
     {
-      "repo": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
       "desc": "",
-      "stars_today": 42,
-      "lang": "Python"
+      "stars_today": 30,
+      "lang": "TypeScript"
     },
     {
-      "repo": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "repo": "Infrasys-AI/AIInfra",
+      "url": "https://github.com/Infrasys-AI/AIInfra",
       "desc": "",
-      "stars_today": 40,
-      "lang": "Python"
-    },
-    {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "desc": "",
-      "stars_today": 23,
+      "stars_today": 21,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "invoke-ai/InvokeAI",
-      "url": "https://github.com/invoke-ai/InvokeAI",
-      "desc": "",
-      "stars_today": 17,
-      "lang": "Python"
     }
   ],
   "hackernews": [
     {
-      "title": "SQLite Critical CVEs or LLM Slop?",
-      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
-      "points": 686,
-      "comments": 338,
-      "hn_url": "https://news.ycombinator.com/item?id=49154332"
+      "title": "There Will Come Soft Rains (1950) [pdf]",
+      "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
+      "points": 332,
+      "comments": 365,
+      "hn_url": "https://news.ycombinator.com/item?id=49162653"
     },
     {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
-      "points": 346,
-      "comments": 286,
-      "hn_url": "https://news.ycombinator.com/item?id=49153374"
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "points": 299,
+      "comments": 227,
+      "hn_url": "https://news.ycombinator.com/item?id=49170479"
     },
     {
-      "title": "Bonsai: Janestreet's UI Library",
-      "url": "https://github.com/janestreet/bonsai",
-      "points": 275,
-      "comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=49152842"
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "points": 230,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49171268"
     },
     {
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm",
-      "points": 174,
-      "comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=49154228"
+      "title": "Keyv and friends compromised in active Shai-Hulud supply chain attack",
+      "url": "https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack",
+      "points": 220,
+      "comments": 110,
+      "hn_url": "https://news.ycombinator.com/item?id=49166874"
     },
     {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "points": 134,
-      "comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49161518"
+      "title": "Oxide Computer raises $445M (SEC Form D)",
+      "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+      "points": 103,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49174407"
     },
     {
-      "title": "DDoS against Norwegian government IT infrastructure – status",
-      "url": "https://status.digdir.no/incidents/d7hvqmf2yr3l",
-      "points": 72,
-      "comments": 50,
-      "hn_url": "https://news.ycombinator.com/item?id=49160631"
+      "title": "The Warp Agent CLI",
+      "url": "https://www.warp.dev/blog/introducing-the-warp-agent-cli-coding-agent",
+      "points": 86,
+      "comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=49171766"
     },
     {
-      "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-      "url": "https://hoplite.sh",
-      "points": 40,
-      "comments": 46,
-      "hn_url": "https://news.ycombinator.com/item?id=49157997"
+      "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+      "url": "https://arxiv.org/abs/2602.16763",
+      "points": 63,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49170915"
     },
     {
-      "title": "Show HN: Product analytics (and evals) for agent sessions on your MCP",
-      "url": "https://armature.tech/",
-      "points": 33,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49157807"
+      "title": "Blackmail Fail (2013)",
+      "url": "https://gwern.net/blackmail",
+      "points": 26,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49172597"
     }
   ],
   "reddit": [
     {
-      "title": "The Chinese labs everyone lumps together are making four pretty different bets. I work at one of them.",
+      "title": "Kimi K3 full model running on 16x GB10 cluster at 20+tps",
       "sub": "LocalLLaMA",
-      "author": "AcanthisittaOk1699",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1veipya/the_chinese_labs_everyone_lumps_together_are/"
+      "author": "ciprianveg",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfl525/kimi_k3_full_model_running_on_16x_gb10_cluster_at/"
     },
     {
-      "title": "It's time to desk reject papers that don't include code that can reproduce the results [D]",
-      "sub": "MachineLearning",
-      "author": "Flaky-Ambition5900",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vei12v/its_time_to_desk_reject_papers_that_dont_include/"
-    },
-    {
-      "title": "I CANNOT believe I've got DeepSeek-V4-Flash-0731, a frontier model, running on my home PC. Insane!",
+      "title": "Hugging Face CEO says China is winning the AI race and dominating on open models",
       "sub": "LocalLLaMA",
-      "author": "mintybadgerme",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vehn87/i_cannot_believe_ive_got_deepseekv4flash0731_a/"
+      "author": "Miriel_z",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3q7/hugging_face_ceo_says_china_is_winning_the_ai/"
     },
     {
-      "title": "NeurIPS 2026: If the rebuttal addresses your concern, please raise your score [D]",
-      "sub": "MachineLearning",
-      "author": "undesirable_12",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vefwvh/neurips_2026_if_the_rebuttal_addresses_your/"
-    },
-    {
-      "title": "Qwen3.8-Max matches Kimi K3 and DeepSeek V4 Flash",
+      "title": "No more SLM open-source??",
       "sub": "LocalLLaMA",
-      "author": "davidthesong",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vellf2/qwen38max_matches_kimi_k3_and_deepseek_v4_flash/"
+      "author": "Capital-Remove-6150",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfhhpq/no_more_slm_opensource/"
     },
     {
-      "title": "Bad but typical NeurIPS experience? [D]",
-      "sub": "MachineLearning",
-      "author": "WhiteBear2018",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1veg84o/bad_but_typical_neurips_experience_d/"
+      "title": "Has anyone tried Mach-1 Additive? 95% of performance of Qwen 3.6 35B while being 10x smaller",
+      "sub": "LocalLLaMA",
+      "author": "MuzafferMahi",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfirld/has_anyone_tried_mach1_additive_95_of_performance/"
+    },
+    {
+      "title": "SK hynix, In Collaboration With SanDisk, Unveils The New High Bandwidth Flash (HBF) Standard, Helping To Resolve AI Inference Bottlenecks, Targeting Up To 3TB/s Bandwidth",
+      "sub": "LocalLLaMA",
+      "author": "giveen",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfa3tq/sk_hynix_in_collaboration_with_sandisk_unveils/"
+    },
+    {
+      "title": "Introducing Shieldstral. | Mistral AI",
+      "sub": "LocalLLaMA",
+      "author": "tengo_harambe",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vfj3me/introducing_shieldstral_mistral_ai/"
     }
   ],
   "youtube": [
+    {
+      "title": "How the Civil War ended | Gary Gallagher and Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=Zdq7Aj3ihEo",
+      "published": "2026-08-04",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9928-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
+    },
+    {
+      "title": "HBM4 가격은 왜 오를까? | DDR5부터 베이스 다이까지, 제조사의 계산법",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=yCmLJYxYPjk",
+      "published": "2026-08-04",
+      "desc": "HBM4는 HBM3E보다 얼마나 비싸질까요? 이번 영상에서는 단순히 제조원가를 계산하는 것이 아니라, 메모리 제조사의 관점에서 HBM4 가격이 어떻게 결정되는지 직접 역산해봤습니다. HBM이 일반 D램보다 훨씬 많은 웨이퍼 생산능력을 사용하는 이유와, 12단 적층 구조, KGD 검사, 초기 수율 부담을 차례대로 살펴봅니다. 또한 HBM4에서 새롭게 중요해진 로직 베이스 다이와 2,048비트 인터페이스가 왜 제조 난이도와 비용을 높이는지도 함께 설명합니다. 최근 서버용 DDR5 가격 상승이 HBM4"
+    },
+    {
+      "title": "파이썬 스크립트: 서지정보를 다룬다 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/jN6EpgGJ1AM",
+      "published": "2026-08-04",
+      "desc": "네 맞아요 그리고 아까 파이썬으로 스크립트를 엮는 거 말씀했었는데 사실 그것도 따지면 순서가 저는 클로드 코드가 나오기 전에 파이썬 가지고서 서지 정보를 다루는 일들을 먼저 원래 하고 있었어요. 그래서 어떻게 보면 베이스 코드가 좀 있었어요. 이거를 여기다가 PDF를 가지고 오는 게 큰 숙제였는데 그게 일거에 해결이 되면 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
+    },
     {
       "title": "Another DeepSeek Moment Has Arrived",
       "channel": "Two Minute Papers",
@@ -213,32 +234,11 @@
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek v4 Flash 0731: https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731 DeepSeek API: https://platform.deepseek.com/ 🙏 We would like to thank our generous Patreon supporters who make Tw"
     },
     {
-      "title": "The military genius of Robert E. Lee in the Civil War | Gary Gallagher and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=HZYJriW_BAs",
-      "published": "2026-08-03",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9925-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
-    },
-    {
       "title": "New BEST AI video generator is here!",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=Vpvne2istKg",
       "published": "2026-08-03",
       "desc": "Seedance 2.5 vs Minimax H3. Top AI video generators #ai #aivideo #aitools #agi Thanks to our sponsor Abacus AI. Try ChatLLM today: http://chatllm.abacus.ai/?token=aisearch Lumina https://byteplus.pxf.io/n4BX7x Minimax https://hailuoai.pxf.io/0G19e3 00:00 Intro 00:23 Multimodal an"
-    },
-    {
-      "title": "HBM 후발주자 치욕 딛고, 다시 왕좌 찾는 삼성 | HBM4부터 핵심은 베이스다이가 된 기술적 이유 | 삼성 파운드리 vs tsmc",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=5Sce0mThJE4",
-      "published": "2026-08-03",
-      "desc": "HBM은 여러 장의 DRAM을 쌓아 만드는 메모리로 알려져 있지만, HBM4부터는 맨 아래의 베이스다이가 성능을 좌우하는 핵심 요소로 떠오르고 있습니다. 이번 영상에서는 베이스다이가 실제로 어떤 역할을 하는지, TSV와 PHY, 메모리 컨트롤러는 어떻게 다른지부터 차근차근 살펴봤습니다. 또 삼성이 왜 베이스다이에 4나노 로직 공정을 적용했는지, SK하이닉스가 왜 TSMC와 협력하게 되었는지도 기술적인 관점에서 분석했습니다. 시놉시스의 HBM PHY IP와 파운드리별 구현 방식, 그리고 같은 IP를"
-    },
-    {
-      "title": "딥리서치 비용: 보고서 한 번의 가격 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/fwOmkgdGskA",
-      "published": "2026-08-03",
-      "desc": "그리고 딥리서치 할 때 조금 비용이 그때그때 들죠. 그때 종보다 생으로 API 돌리거든요. 그냥 소넷 기준으로 딥리서치가 0.2달러 근데 딥디서치는 오프스 모델을 N번 돌려요. 너무 길기 때문에 각 단락들을 따로따로따로 만들어 붙이게 합니다. 그러다 보니까 10배 정도 비싸서 한 번에 2달러 지금 환율로 한 3천원이 넘는 원본 영상: https://youtu.be/ejYqblfQejs #AI #AI프렌즈 #AIFrenz #Shorts"
     },
     {
       "title": "일론 머스크가 말한 ‘저축이 필요 없는 미래’",
