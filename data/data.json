@@ -1,162 +1,155 @@
 {
-  "generated_at": "2026-08-07T01:01:35.019101+00:00",
-  "date_label": "2026년 8월 7일 (금)",
+  "generated_at": "2026-08-07T21:47:20.648123+00:00",
+  "date_label": "2026년 8월 8일 (토)",
   "github_trending": [
     {
-      "repo": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "desc": "",
-      "stars_today": 1057,
+      "stars_today": 2271,
       "lang": "TypeScript"
-    },
-    {
-      "repo": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "desc": "",
-      "stars_today": 714,
-      "lang": "Python"
-    },
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "desc": "",
-      "stars_today": 610,
-      "lang": "Python"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 603,
-      "lang": "Jupyter Notebook"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 593,
+      "stars_today": 1131,
       "lang": "JavaScript"
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 174,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 143,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "desc": "",
-      "stars_today": 101,
-      "lang": "Python"
-    },
-    {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "desc": "",
-      "stars_today": 96,
-      "lang": "Python"
-    },
-    {
-      "repo": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "desc": "",
-      "stars_today": 54,
-      "lang": "Python"
     },
     {
       "repo": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "desc": "",
-      "stars_today": 37,
+      "stars_today": 363,
       "lang": "Python"
     },
     {
-      "repo": "langchain-ai/open-swe",
-      "url": "https://github.com/langchain-ai/open-swe",
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 30,
+      "stars_today": 124,
       "lang": "Python"
     },
     {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "",
+      "stars_today": 65,
+      "lang": "Python"
+    },
+    {
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "",
+      "stars_today": 57,
+      "lang": "Python"
+    },
+    {
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "desc": "",
+      "stars_today": 35,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 26,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
       "stars_today": 23,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "kijai/ComfyUI-KJNodes",
+      "url": "https://github.com/kijai/ComfyUI-KJNodes",
+      "desc": "",
+      "stars_today": 18,
+      "lang": "Python"
+    },
+    {
+      "repo": "datawhalechina/self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
+      "desc": "",
+      "stars_today": 17,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 20,
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 17,
-      "lang": "Python"
+      "stars_today": 13,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "anthropics/courses",
+      "url": "https://github.com/anthropics/courses",
+      "desc": "",
+      "stars_today": 12,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 8,
+      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
-      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
-      "points": 419,
-      "comments": 270,
-      "hn_url": "https://news.ycombinator.com/item?id=49200652"
-    },
-    {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "points": 328,
-      "comments": 261,
+      "points": 869,
+      "comments": 652,
       "hn_url": "https://news.ycombinator.com/item?id=49201970"
     },
     {
-      "title": "GitHub Actions and Pages are experiencing degraded availability",
-      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-      "points": 312,
-      "comments": 264,
-      "hn_url": "https://news.ycombinator.com/item?id=49198302"
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "points": 304,
+      "comments": 218,
+      "hn_url": "https://news.ycombinator.com/item?id=49213754"
     },
     {
-      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-      "points": 248,
-      "comments": 190,
-      "hn_url": "https://news.ycombinator.com/item?id=49195468"
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "points": 237,
+      "comments": 377,
+      "hn_url": "https://news.ycombinator.com/item?id=49209539"
     },
     {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "points": 141,
-      "comments": 100,
-      "hn_url": "https://news.ycombinator.com/item?id=49199357"
+      "title": "Databricks drove down AI coding spend 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "points": 129,
+      "comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49214468"
     },
     {
-      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
-      "url": "https://github.com/CopilotKit/channels-sdk",
-      "points": 84,
-      "comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=49198583"
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "points": 128,
+      "comments": 32,
+      "hn_url": "https://news.ycombinator.com/item?id=49208393"
     },
     {
-      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
-      "url": "https://www.aleksagordic.com/blog/vllm",
-      "points": 51,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49202852"
+      "title": "Britain's New World of Tobacco (2017)",
+      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+      "points": 15,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49094200"
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -164,47 +157,68 @@
       "points": 9,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958"
+    },
+    {
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "url": "https://snapstate.dev",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=47759400"
     }
   ],
   "reddit": [
     {
-      "title": "Qwen 3.8 Max now ranked as best overall model ahead of Opus 5 by Artificial Analysis agentic index",
+      "title": "Got job as Director of AI and Systems development self-taught",
       "sub": "LocalLLaMA",
-      "author": "anderspitman",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhd416/qwen_38_max_now_ranked_as_best_overall_model/"
+      "author": "bralynn2222",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi8jlr/got_job_as_director_of_ai_and_systems_development/"
     },
     {
-      "title": "Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors [R]",
-      "sub": "MachineLearning",
-      "author": "Clean-Hovercraft5825",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vh2gn1/roundtrip_consistency_bidirectional_diffusion/"
-    },
-    {
-      "title": "They almost catched up on Frontier performance, so now catching up on prices",
+      "title": "An open-weight model too, Moonshot joins the race (gently this time)",
       "sub": "LocalLLaMA",
-      "author": "Zealousideal_Sort74",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vh2pss/they_almost_catched_up_on_frontier_performance_so/"
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhwilp/an_openweight_model_too_moonshot_joins_the_race/"
     },
     {
-      "title": "NeurIPS Meta Reviewer comment gone. What gives? [R]",
-      "sub": "MachineLearning",
-      "author": "Beautiful_Baker_2233",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vhbfns/neurips_meta_reviewer_comment_gone_what_gives_r/"
-    },
-    {
-      "title": "🟩 NVIDIA's whole speech stack just went local. ASR + TTS + codec, quantized to GGUF, running on-device via NeMo-Speech.cpp",
+      "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
       "sub": "LocalLLaMA",
-      "author": "ImaginaryRea1ity",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhjeqy/nvidias_whole_speech_stack_just_went_local_asr/"
+      "author": "johnnyApplePRNG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9zls/deepseek_v4_flash_0731_arcagi_results/"
     },
     {
-      "title": "Can recurring LLM traces be synthesized into deterministic pipelines of typed ML and NLP operators? [D]",
-      "sub": "MachineLearning",
-      "author": "Ok_Philosophy_4031",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vhapso/can_recurring_llm_traces_be_synthesized_into/"
+      "title": "A llama.cpp PR makes Q2_0 3.0–3.6x faster on x86 CPUs, 8B decode goes 2.39 → 8.20 tok/s",
+      "sub": "LocalLLaMA",
+      "author": "BTA_Labs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/"
+    },
+    {
+      "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+      "sub": "LocalLLaMA",
+      "author": "BTA_Labs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi6hmw/llamacpp_pr_reports_up_to_169_faster_quantizedkv/"
+    },
+    {
+      "title": "Wan-Animate-2: Pushing the Application Boundaries of Character Animation Models",
+      "sub": "LocalLLaMA",
+      "author": "pmttyji",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi1r6t/wananimate2_pushing_the_application_boundaries_of/"
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind Just Changed How AI Sees The World",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
+      "published": "2026-08-07",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.com/UnslothAI/status/2078118183085731843 🙏 We wou"
+    },
+    {
+      "title": "사용자가 곧 개발자 되는 시대 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/EETz3vc5cwM",
+      "published": "2026-08-07",
+      "desc": "SPYRL식 컷 선별: 개발자와 사용자가 분리되지 않고, 사용자가 직접 서비스를 계속 수정·진화시키는 ANA 핵심 관점입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
+    },
     {
       "title": "AI is getting a little out of control",
       "channel": "AI Explained",
@@ -220,20 +234,6 @@
       "desc": "삼성전자와 SK하이닉스가 HBM 이후를 겨냥한 새로운 AI 메모리 기술을 공개했습니다. SK하이닉스와 샌디스크가 발표한 HBF는 낸드를 쌓아 스택당 최대 512GB의 용량을 제시합니다. 이는 SK하이닉스의 48GB HBM4보다 용량 기준으로 10배 이상 큰 수준입니다. 느린 저장장치로 여겨졌던 낸드가 어떻게 초당 최대 3TB의 대역폭을 목표로 하는지 살펴봅니다. Google과 Tenstorrent가 HBF 표준 개발에 참여하면서 다양한 AI 가속기로 확장될 가능성도 커졌습니다. 삼성전자는 10세대"
     },
     {
-      "title": "에이전트보다 백엔드가 안정적인 순간 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/bHmEteJycq8",
-      "published": "2026-08-06",
-      "desc": "루틴하고 민감한 작업은 코딩 에이전트보다 백엔드/스크립트로 처리하는 것이 안정적이라는 실전 포인트입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
-    },
-    {
-      "title": "The Billion Dollar AI Race Just Broke",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ppQh4Tc9BmM",
-      "published": "2026-08-05",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Qwen 3.8 Max: https://qwen.ai/blog?id=qwen3.8 Sources: https://x.com/loktar00/status/2082589566934929750 https://x.com/CommandCodeAI/status/2084293498950590839 🙏 We would like to thank our genero"
-    },
-    {
       "title": "The BEST local AI video generator is here!",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=8HutJ9W5pTg",
@@ -245,7 +245,7 @@
       "channel": "조코딩",
       "url": "https://www.youtube.com/watch?v=y-NO9Nt6PuA",
       "published": "2026-08-05",
-      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목)"
+      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과"
     },
     {
       "title": "How the Civil War ended | Gary Gallagher and Lex Fridman",
