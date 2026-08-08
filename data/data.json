@@ -1,82 +1,103 @@
 {
-  "generated_at": "2026-08-07T21:47:20.648123+00:00",
-  "date_label": "2026년 8월 8일 (토)",
+  "generated_at": "2026-08-08T21:36:56.838143+00:00",
+  "date_label": "2026년 8월 9일 (일)",
   "github_trending": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "desc": "",
-      "stars_today": 2271,
+      "stars_today": 2483,
       "lang": "TypeScript"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 1131,
+      "stars_today": 778,
       "lang": "JavaScript"
     },
     {
       "repo": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "desc": "",
-      "stars_today": 363,
+      "stars_today": 240,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 124,
+      "stars_today": 126,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
       "desc": "",
-      "stars_today": 65,
+      "stars_today": 101,
       "lang": "Python"
     },
     {
-      "repo": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
+      "repo": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
       "desc": "",
-      "stars_today": 57,
+      "stars_today": 95,
       "lang": "Python"
     },
     {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 35,
+      "stars_today": 90,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
+      "repo": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 87,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "desc": "",
+      "stars_today": 68,
+      "lang": "Python"
+    },
+    {
+      "repo": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "desc": "",
+      "stars_today": 39,
+      "lang": "Python"
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "desc": "",
+      "stars_today": 34,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "gepa-ai/gepa",
-      "url": "https://github.com/gepa-ai/gepa",
+      "repo": "anthropics/claude-code-security-review",
+      "url": "https://github.com/anthropics/claude-code-security-review",
       "desc": "",
-      "stars_today": 23,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "kijai/ComfyUI-KJNodes",
-      "url": "https://github.com/kijai/ComfyUI-KJNodes",
-      "desc": "",
-      "stars_today": 18,
+      "stars_today": 30,
       "lang": "Python"
     },
     {
       "repo": "datawhalechina/self-llm",
       "url": "https://github.com/datawhalechina/self-llm",
       "desc": "",
-      "stars_today": 17,
+      "stars_today": 19,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "desc": "",
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     },
     {
@@ -85,139 +106,118 @@
       "desc": "",
       "stars_today": 16,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/courses",
-      "url": "https://github.com/anthropics/courses",
-      "desc": "",
-      "stars_today": 12,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "desc": "",
-      "stars_today": 8,
-      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "points": 869,
-      "comments": 652,
-      "hn_url": "https://news.ycombinator.com/item?id=49201970"
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "points": 304,
-      "comments": 218,
-      "hn_url": "https://news.ycombinator.com/item?id=49213754"
-    },
-    {
       "title": "What happens if an entire class of workers loses faith in their careers",
       "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "points": 237,
-      "comments": 377,
+      "points": 942,
+      "comments": 1115,
       "hn_url": "https://news.ycombinator.com/item?id=49209539"
     },
     {
-      "title": "Databricks drove down AI coding spend 70%",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "points": 129,
-      "comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=49214468"
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "points": 352,
+      "comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=49224294"
     },
     {
-      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
-      "url": "https://blog.cloudflare.com/kitesurf/",
-      "points": 128,
-      "comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=49208393"
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "points": 339,
+      "comments": 106,
+      "hn_url": "https://news.ycombinator.com/item?id=49220126"
     },
     {
-      "title": "Britain's New World of Tobacco (2017)",
-      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
-      "points": 15,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49094200"
+      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "points": 335,
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49216946"
     },
     {
-      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "url": "https://github.com/lateos-ai/npm-scan",
-      "points": 9,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958"
+      "title": "A domain can now say it is for sale, in DNS",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "points": 288,
+      "comments": 122,
+      "hn_url": "https://news.ycombinator.com/item?id=49221668"
     },
     {
-      "title": "SnapState - Persistent state for AI agent workflows",
-      "url": "https://snapstate.dev",
-      "points": 6,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=47759400"
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "points": 271,
+      "comments": 283,
+      "hn_url": "https://news.ycombinator.com/item?id=49220609"
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "points": 250,
+      "comments": 116,
+      "hn_url": "https://news.ycombinator.com/item?id=49223082"
+    },
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "points": 164,
+      "comments": 144,
+      "hn_url": "https://news.ycombinator.com/item?id=49215786"
     }
   ],
   "reddit": [
     {
-      "title": "Got job as Director of AI and Systems development self-taught",
-      "sub": "LocalLLaMA",
-      "author": "bralynn2222",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi8jlr/got_job_as_director_of_ai_and_systems_development/"
-    },
-    {
-      "title": "An open-weight model too, Moonshot joins the race (gently this time)",
-      "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhwilp/an_openweight_model_too_moonshot_joins_the_race/"
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 - ARC-AGI Results",
+      "title": "2027 Memory Capacity Is Reportedly Sold Out",
       "sub": "LocalLLaMA",
       "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi9zls/deepseek_v4_flash_0731_arcagi_results/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/"
     },
     {
-      "title": "A llama.cpp PR makes Q2_0 3.0–3.6x faster on x86 CPUs, 8B decode goes 2.39 → 8.20 tok/s",
+      "title": "Showoff Saturday: Local 4x 6000 Pro (multi-year progression)",
       "sub": "LocalLLaMA",
-      "author": "BTA_Labs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vhz989/a_llamacpp_pr_makes_q2_0_3036x_faster_on_x86_cpus/"
+      "author": "Tourus",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj18h4/showoff_saturday_local_4x_6000_pro_multiyear/"
     },
     {
-      "title": "llama.cpp PR reports up to 169% faster quantized-KV decode at 118K context on Intel Battlemage from one SYCL kernel switch",
+      "title": "DeepSeek V4 Flash 0731 appreciation post",
       "sub": "LocalLLaMA",
-      "author": "BTA_Labs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi6hmw/llamacpp_pr_reports_up_to_169_faster_quantizedkv/"
+      "author": "koibKop4",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vio0x6/deepseek_v4_flash_0731_appreciation_post/"
     },
     {
-      "title": "Wan-Animate-2: Pushing the Application Boundaries of Character Animation Models",
+      "title": "My first run of Kimi K3 locally.",
       "sub": "LocalLLaMA",
-      "author": "pmttyji",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vi1r6t/wananimate2_pushing_the_application_boundaries_of/"
+      "author": "segmond",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/"
+    },
+    {
+      "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+      "sub": "LocalLLaMA",
+      "author": "shifu_legend",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/"
+    },
+    {
+      "title": "Anyone else amped up over Qwen 3.8?",
+      "sub": "LocalLLaMA",
+      "author": "CreamPitiful4295",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinzvu/anyone_else_amped_up_over_qwen_38/"
     }
   ],
   "youtube": [
+    {
+      "title": "진화 제안도 버튼 한 번에 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/0pLFqn_erWo",
+      "published": "2026-08-08",
+      "desc": "SPYRL식 컷 선별: 정보와 기능이 모이면 에이전트가 개선안을 제안하고, 사용자가 검토 후 수행하는 진화 루프입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
+    },
     {
       "title": "DeepMind Just Changed How AI Sees The World",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=vO6SWG-jxvE",
       "published": "2026-08-07",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Gemma4 paper and some more is available here: https://arxiv.org/abs/2607.02770 https://x.com/googlegemma/status/2077449152062247219 https://x.com/UnslothAI/status/2078118183085731843 🙏 We wou"
-    },
-    {
-      "title": "사용자가 곧 개발자 되는 시대 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/EETz3vc5cwM",
-      "published": "2026-08-07",
-      "desc": "SPYRL식 컷 선별: 개발자와 사용자가 분리되지 않고, 사용자가 직접 서비스를 계속 수정·진화시키는 ANA 핵심 관점입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
     },
     {
       "title": "AI is getting a little out of control",
@@ -269,5 +269,12 @@
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
     }
   ],
-  "social": []
+  "social": [
+    {
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "handle": "@un1c0rnioz",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "note": "HN 164pts · 144 댓글"
+    }
+  ]
 }
