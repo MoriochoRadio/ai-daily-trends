@@ -2,6 +2,8 @@
 
 # 🤖 AI 데일리 트렌드
 
+🇰🇷 한국어 · 🇬🇧 [English](README.en.md)
+
 **매일 아침, 전 세계 AI 분야의 가장 뜨거운 이슈를 한국어 요약과 함께 한 화면에 모아 보여주는 자동화 대시보드**
 
 GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자동 수집하고, 각 항목을 **한국어로 핵심 요약**하여 매일 06:00 KST에 갱신됩니다.
