@@ -1,216 +1,230 @@
 {
-  "generated_at": "2026-08-08T21:36:56.838143+00:00",
-  "date_label": "2026년 8월 9일 (일)",
+  "generated_at": "2026-08-09T21:39:30.702416+00:00",
+  "date_label": "2026년 8월 10일 (월)",
   "github_trending": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "desc": "",
-      "stars_today": 2483,
+      "stars_today": 2319,
       "lang": "TypeScript"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "",
+      "stars_today": 932,
+      "lang": "Shell"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 778,
+      "stars_today": 670,
       "lang": "JavaScript"
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "desc": "",
-      "stars_today": 240,
-      "lang": "Python"
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 126,
+      "stars_today": 658,
       "lang": "Python"
     },
     {
-      "repo": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 101,
-      "lang": "Python"
-    },
-    {
-      "repo": "kyutai-labs/pocket-tts",
-      "url": "https://github.com/kyutai-labs/pocket-tts",
-      "desc": "",
-      "stars_today": 95,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 90,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "desc": "",
-      "stars_today": 87,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/agent-governance-toolkit",
-      "url": "https://github.com/microsoft/agent-governance-toolkit",
-      "desc": "",
-      "stars_today": 68,
+      "stars_today": 287,
       "lang": "Python"
     },
     {
       "repo": "harveyai/harvey-labs",
       "url": "https://github.com/harveyai/harvey-labs",
       "desc": "",
-      "stars_today": 39,
+      "stars_today": 87,
+      "lang": "Python"
+    },
+    {
+      "repo": "funstory-ai/BabelDOC",
+      "url": "https://github.com/funstory-ai/BabelDOC",
+      "desc": "",
+      "stars_today": 69,
+      "lang": "Python"
+    },
+    {
+      "repo": "neo4j-labs/llm-graph-builder",
+      "url": "https://github.com/neo4j-labs/llm-graph-builder",
+      "desc": "",
+      "stars_today": 61,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "desc": "",
+      "stars_today": 59,
+      "lang": "Python"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 53,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "MervinPraison/PraisonAI",
+      "url": "https://github.com/MervinPraison/PraisonAI",
+      "desc": "",
+      "stars_today": 49,
+      "lang": "Python"
+    },
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "desc": "",
+      "stars_today": 28,
       "lang": "Python"
     },
     {
       "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 34,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-code-security-review",
-      "url": "https://github.com/anthropics/claude-code-security-review",
-      "desc": "",
-      "stars_today": 30,
-      "lang": "Python"
-    },
-    {
-      "repo": "datawhalechina/self-llm",
-      "url": "https://github.com/datawhalechina/self-llm",
-      "desc": "",
-      "stars_today": 19,
+      "stars_today": 24,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "NirDiamant/GenAI_Agents",
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 16,
+      "stars_today": 21,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 16,
+      "stars_today": 20,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "points": 942,
-      "comments": 1115,
-      "hn_url": "https://news.ycombinator.com/item?id=49209539"
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "points": 191,
+      "comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49234675"
     },
     {
-      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
-      "points": 352,
-      "comments": 169,
-      "hn_url": "https://news.ycombinator.com/item?id=49224294"
+      "title": "OpenChamber: An Agentic Development Environment",
+      "url": "https://openchamber.dev/",
+      "points": 76,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49233448"
     },
     {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "points": 339,
-      "comments": 106,
-      "hn_url": "https://news.ycombinator.com/item?id=49220126"
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "points": 53,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49234724"
     },
     {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "points": 335,
-      "comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49216946"
+      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+      "points": 34,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49235836"
     },
     {
-      "title": "A domain can now say it is for sale, in DNS",
-      "url": "https://specification.website/spec/foundations/for-sale-dns/",
-      "points": 288,
-      "comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=49221668"
+      "title": "The tragedy of the commons, AI edition",
+      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+      "points": 26,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49235011"
     },
     {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-      "points": 271,
-      "comments": 283,
-      "hn_url": "https://news.ycombinator.com/item?id=49220609"
+      "title": "The Hacker's Renaissance",
+      "url": "https://phrack.org/issues/72/19#article",
+      "points": 12,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49235378"
     },
     {
-      "title": "Fastmail offers EU data region",
-      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-      "points": 250,
-      "comments": 116,
-      "hn_url": "https://news.ycombinator.com/item?id=49223082"
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "points": 9,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48351958"
     },
     {
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "points": 164,
-      "comments": 144,
-      "hn_url": "https://news.ycombinator.com/item?id=49215786"
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "url": "https://snapstate.dev",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=47759400"
     }
   ],
   "reddit": [
     {
-      "title": "2027 Memory Capacity Is Reportedly Sold Out",
+      "title": "Speculative decoding in a tools call",
       "sub": "LocalLLaMA",
-      "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1viqtgm/2027_memory_capacity_is_reportedly_sold_out/"
+      "author": "Illustrious-Swim9663",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/"
     },
     {
-      "title": "Showoff Saturday: Local 4x 6000 Pro (multi-year progression)",
-      "sub": "LocalLLaMA",
-      "author": "Tourus",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj18h4/showoff_saturday_local_4x_6000_pro_multiyear/"
+      "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
+      "sub": "MachineLearning",
+      "author": "Georgiou1226",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/"
     },
     {
-      "title": "DeepSeek V4 Flash 0731 appreciation post",
+      "title": "The Gemma team will host a special event on August 20",
       "sub": "LocalLLaMA",
-      "author": "koibKop4",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vio0x6/deepseek_v4_flash_0731_appreciation_post/"
+      "author": "dampflokfreund",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk0o98/the_gemma_team_will_host_a_special_event_on/"
     },
     {
-      "title": "My first run of Kimi K3 locally.",
-      "sub": "LocalLLaMA",
-      "author": "segmond",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj0hil/my_first_run_of_kimi_k3_locally/"
+      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
+      "sub": "MachineLearning",
+      "author": "Beautiful_Baker_2233",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/"
     },
     {
-      "title": "Building a zero-dependency C inference engine for BitNet (1.58-bit) - lessons from hitting 36 tok/s on a Xeon CPU",
+      "title": "Lophius: A workbench for language model research, from the creator of Heretic",
       "sub": "LocalLLaMA",
-      "author": "shifu_legend",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vj1cin/building_a_zerodependency_c_inference_engine_for/"
+      "author": "-p-e-w-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/"
     },
     {
-      "title": "Anyone else amped up over Qwen 3.8?",
-      "sub": "LocalLLaMA",
-      "author": "CreamPitiful4295",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vinzvu/anyone_else_amped_up_over_qwen_38/"
+      "title": "ECCV workshop, camera ready instructions? [D]",
+      "sub": "MachineLearning",
+      "author": "rokk07",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/"
     }
   ],
   "youtube": [
     {
-      "title": "진화 제안도 버튼 한 번에 #Shorts",
+      "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=uJgzFn0GT7M",
+      "published": "2026-08-09",
+      "desc": "HUGE AI NEWS: Qwen 3.8 Max, Wan Animate 2, GPT 6 breakthroughs, Xiaomi robotics & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor, Higgsfield. Try Seedance 2.5 today https://higgsfield.ai/s/theaisearch-qPkHlP 00:00 AI news intro 00:53 SymphonyGen 03:29 MAC 04:55 Wan"
+    },
+    {
+      "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=wGxYJRtncEk",
+      "published": "2026-08-09",
+      "desc": "SpaceX가 2027년 말까지 10GW에 가까운 AI 컴퓨팅 용량을 구축하겠다는 목표를 내놓았습니다. 단순 출력으로 비교하면 한국형 원전 APR1400 약 7기에 해당하는 규모입니다. 이번 영상에서는 SemiAnalysis가 SpaceX의 계획을 분석하며 내놓은 ‘1GW당 연간 1,000억 달러’라는 계산을 살펴봅니다. 전력이 GPU를 돌리고, GPU가 토큰을 만들고, 이 토큰이 실제 AI 서비스 매출로 이어지는 구조를 쉽게 풀어봤습니다. NVIDIA가 왜 최근 GPU의 최고 연산성능뿐 아니라 "
+    },
+    {
+      "title": "노트북을 쓰는 건 에이전트여야 한다 #Shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/0pLFqn_erWo",
-      "published": "2026-08-08",
-      "desc": "SPYRL식 컷 선별: 정보와 기능이 모이면 에이전트가 개선안을 제안하고, 사용자가 검토 후 수행하는 진화 루프입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
+      "url": "https://www.youtube.com/shorts/sCLF_ydzG1o",
+      "published": "2026-08-09",
+      "desc": "SPYRL식 컷 선별: 사람이 노트북을 들고 계속 엔터치는 방식이 아니라, 에이전트가 노트북을 쓰고 사람은 요청하는 구조라는 메시지입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
     },
     {
       "title": "DeepMind Just Changed How AI Sees The World",
@@ -225,20 +239,6 @@
       "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
       "published": "2026-08-06",
       "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea"
-    },
-    {
-      "title": "삼성·하이닉스 막 공개. HBM보다 10배 큰 메모리 | HBF·zNAND-O 전격 분석 | 서로 다른 NAND 전략",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=oWfrzyv8H1Y",
-      "published": "2026-08-06",
-      "desc": "삼성전자와 SK하이닉스가 HBM 이후를 겨냥한 새로운 AI 메모리 기술을 공개했습니다. SK하이닉스와 샌디스크가 발표한 HBF는 낸드를 쌓아 스택당 최대 512GB의 용량을 제시합니다. 이는 SK하이닉스의 48GB HBM4보다 용량 기준으로 10배 이상 큰 수준입니다. 느린 저장장치로 여겨졌던 낸드가 어떻게 초당 최대 3TB의 대역폭을 목표로 하는지 살펴봅니다. Google과 Tenstorrent가 HBF 표준 개발에 참여하면서 다양한 AI 가속기로 확장될 가능성도 커졌습니다. 삼성전자는 10세대"
-    },
-    {
-      "title": "The BEST local AI video generator is here!",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=8HutJ9W5pTg",
-      "published": "2026-08-05",
-      "desc": "Minimax H3 installation tutorial. How to run Minimax H3 in ComfyUI #ai #aitools #aivideo Try Minimax online https://hailuoai.pxf.io/0G19e3 Get 10% off your first subscription with code AISEARCH Check out the Minimax API for 2K quality boost and prompt expansion: https://platform."
     },
     {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
@@ -269,12 +269,5 @@
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
     }
   ],
-  "social": [
-    {
-      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "handle": "@un1c0rnioz",
-      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-      "note": "HN 164pts · 144 댓글"
-    }
-  ]
+  "social": []
 }
