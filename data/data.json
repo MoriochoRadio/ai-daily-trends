@@ -1,223 +1,223 @@
 {
-  "generated_at": "2026-08-09T21:39:30.702416+00:00",
-  "date_label": "2026년 8월 10일 (월)",
+  "generated_at": "2026-08-10T21:50:02.276611+00:00",
+  "date_label": "2026년 8월 11일 (화)",
   "github_trending": [
     {
       "repo": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "desc": "",
-      "stars_today": 2319,
+      "stars_today": 2655,
       "lang": "TypeScript"
     },
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
-      "stars_today": 932,
+      "stars_today": 1352,
       "lang": "Shell"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "",
+      "stars_today": 795,
+      "lang": "Python"
+    },
+    {
+      "repo": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "desc": "",
+      "stars_today": 682,
+      "lang": "Python"
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 670,
+      "stars_today": 659,
       "lang": "JavaScript"
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 658,
+      "stars_today": 234,
       "lang": "Python"
     },
     {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 287,
-      "lang": "Python"
+      "stars_today": 196,
+      "lang": "Jupyter Notebook"
     },
     {
-      "repo": "harveyai/harvey-labs",
-      "url": "https://github.com/harveyai/harvey-labs",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 87,
-      "lang": "Python"
+      "stars_today": 167,
+      "lang": "TypeScript"
     },
     {
-      "repo": "funstory-ai/BabelDOC",
-      "url": "https://github.com/funstory-ai/BabelDOC",
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 78,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "desc": "",
+      "stars_today": 22,
       "lang": "Python"
     },
     {
       "repo": "neo4j-labs/llm-graph-builder",
       "url": "https://github.com/neo4j-labs/llm-graph-builder",
       "desc": "",
-      "stars_today": 61,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "desc": "",
-      "stars_today": 59,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 53,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "MervinPraison/PraisonAI",
-      "url": "https://github.com/MervinPraison/PraisonAI",
-      "desc": "",
-      "stars_today": 49,
-      "lang": "Python"
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "desc": "",
-      "stars_today": 28,
-      "lang": "Python"
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 24,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
       "stars_today": 21,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 20,
+      "stars_today": 17,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "desc": "",
+      "stars_today": 16,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "confident-ai/deepteam",
+      "url": "https://github.com/confident-ai/deepteam",
+      "desc": "",
+      "stars_today": 13,
+      "lang": "Python"
+    },
+    {
+      "repo": "DataTalksClub/llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "desc": "",
+      "stars_today": 10,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-      "points": 191,
-      "comments": 105,
-      "hn_url": "https://news.ycombinator.com/item?id=49234675"
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "points": 937,
+      "comments": 525,
+      "hn_url": "https://news.ycombinator.com/item?id=49241679"
     },
     {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "url": "https://openchamber.dev/",
-      "points": 76,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49233448"
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "points": 605,
+      "comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=49239751"
     },
     {
-      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-      "points": 53,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=49234724"
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "points": 254,
+      "comments": 313,
+      "hn_url": "https://news.ycombinator.com/item?id=49243880"
     },
     {
-      "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
-      "url": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
-      "points": 34,
-      "comments": 8,
-      "hn_url": "https://news.ycombinator.com/item?id=49235836"
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante",
+      "points": 115,
+      "comments": 70,
+      "hn_url": "https://news.ycombinator.com/item?id=49245437"
     },
     {
-      "title": "The tragedy of the commons, AI edition",
-      "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-      "points": 26,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49235011"
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "points": 105,
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49242297"
     },
     {
-      "title": "The Hacker's Renaissance",
-      "url": "https://phrack.org/issues/72/19#article",
-      "points": 12,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49235378"
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "points": 96,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49243474"
     },
     {
-      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "url": "https://github.com/lateos-ai/npm-scan",
-      "points": 9,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958"
+      "title": "The Tragedy of the Cognitive Commons",
+      "url": "https://arxiv.org/abs/2607.29380",
+      "points": 79,
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49245359"
     },
     {
-      "title": "SnapState - Persistent state for AI agent workflows",
-      "url": "https://snapstate.dev",
-      "points": 6,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=47759400"
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "points": 74,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49244085"
     }
   ],
   "reddit": [
     {
-      "title": "Speculative decoding in a tools call",
+      "title": "Best Local LLMs - August 2026",
       "sub": "LocalLLaMA",
-      "author": "Illustrious-Swim9663",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjxhof/speculative_decoding_in_a_tools_call/"
+      "author": "rm-rf-rm",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "Noise-aware training for analog hardware: accuracy collapses at a threshold rather than degrading smoothly [D]",
-      "sub": "MachineLearning",
-      "author": "Georgiou1226",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vjmw53/noiseaware_training_for_analog_hardware_accuracy/"
-    },
-    {
-      "title": "The Gemma team will host a special event on August 20",
+      "title": "Mark Zuckerberg on releases",
       "sub": "LocalLLaMA",
-      "author": "dampflokfreund",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vk0o98/the_gemma_team_will_host_a_special_event_on/"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkk6vy/mark_zuckerberg_on_releases/"
     },
     {
-      "title": "73 NeurIPS workshops, and not a single one on Causality [R]",
-      "sub": "MachineLearning",
-      "author": "Beautiful_Baker_2233",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vj8lag/73_neurips_workshops_and_not_a_single_one_on/"
-    },
-    {
-      "title": "Lophius: A workbench for language model research, from the creator of Heretic",
+      "title": "Introducing Muse Glimmer: an open-weight model optimized for always-on local agent workflows",
       "sub": "LocalLLaMA",
-      "author": "-p-e-w-",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vjt4vi/lophius_a_workbench_for_language_model_research/"
+      "author": "AIatMeta",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkgsum/introducing_muse_glimmer_an_openweight_model/"
     },
     {
-      "title": "ECCV workshop, camera ready instructions? [D]",
-      "sub": "MachineLearning",
-      "author": "rokk07",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vjrsdi/eccv_workshop_camera_ready_instructions_d/"
+      "title": "inclusionAI/Ling-3.0-tiny · 8B A1.3B MoE· Hugging Face",
+      "sub": "LocalLLaMA",
+      "author": "-Cubie-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkqwso/inclusionailing30tiny_8b_a13b_moe_hugging_face/"
+    },
+    {
+      "title": "Muse Glimmer ACTUALLY fits on a single RTX 3090",
+      "sub": "LocalLLaMA",
+      "author": "coder543",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkm42m/muse_glimmer_actually_fits_on_a_single_rtx_3090/"
+    },
+    {
+      "title": "unsloth/Muse-Glimmer-30B-GGUF · Hugging Face",
+      "sub": "LocalLLaMA",
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkhbuc/unslothmuseglimmer30bgguf_hugging_face/"
     }
   ],
   "youtube": [
+    {
+      "title": "위성만 봐선 안 보이는 스타링크의 핵심, 우주와 지상을 빛으로 연결한다 | 스타링크 ISL과 광통신의 구조",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=eUayBtWCNFY",
+      "published": "2026-08-10",
+      "desc": "*본 영상은 KB자산운용의 지원을 받아 제작되었습니다. 영상에 나온 ETF가 궁금하다면? https://m.site.naver.com/2eaOm 스타링크의 핵심은 위성을 많이 띄우는 데만 있지 않습니다. 위성끼리는 레이저를 이용한 광통신으로 데이터를 주고받고, 지상으로 내려온 데이터는 다시 광섬유망과 연결됩니다. 이번 영상에서는 스타링크의 데이터가 우주에서 지상까지 이동하는 전체 경로를 따라가 봅니다. 위성 간 직접 연결인 ISL이 왜 필요한지, 스타링크가 전파 대신 레이저를 활용하는 이유를 살펴"
+    },
     {
       "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=uJgzFn0GT7M",
       "published": "2026-08-09",
       "desc": "HUGE AI NEWS: Qwen 3.8 Max, Wan Animate 2, GPT 6 breakthroughs, Xiaomi robotics & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor, Higgsfield. Try Seedance 2.5 today https://higgsfield.ai/s/theaisearch-qPkHlP 00:00 AI news intro 00:53 SymphonyGen 03:29 MAC 04:55 Wan"
-    },
-    {
-      "title": "AI 데이터센터, 짓는대로 돈 된다… SpaceX가 서둘러 10GW 데이터센터 건설 하는 이유! Microsoft가 고객? SemiAnalysis 전력 당 매출 분석",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=wGxYJRtncEk",
-      "published": "2026-08-09",
-      "desc": "SpaceX가 2027년 말까지 10GW에 가까운 AI 컴퓨팅 용량을 구축하겠다는 목표를 내놓았습니다. 단순 출력으로 비교하면 한국형 원전 APR1400 약 7기에 해당하는 규모입니다. 이번 영상에서는 SemiAnalysis가 SpaceX의 계획을 분석하며 내놓은 ‘1GW당 연간 1,000억 달러’라는 계산을 살펴봅니다. 전력이 GPU를 돌리고, GPU가 토큰을 만들고, 이 토큰이 실제 AI 서비스 매출로 이어지는 구조를 쉽게 풀어봤습니다. NVIDIA가 왜 최근 GPU의 최고 연산성능뿐 아니라 "
     },
     {
       "title": "노트북을 쓰는 건 에이전트여야 한다 #Shorts",
