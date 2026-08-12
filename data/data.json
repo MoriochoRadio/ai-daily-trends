@@ -1,101 +1,101 @@
 {
-  "generated_at": "2026-08-11T21:56:15.580654+00:00",
-  "date_label": "2026년 8월 12일 (수)",
+  "generated_at": "2026-08-12T21:54:06.080655+00:00",
+  "date_label": "2026년 8월 13일 (목)",
   "github_trending": [
-    {
-      "repo": "PrimeIntellect-ai/prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "desc": "",
-      "stars_today": 1148,
-      "lang": "TypeScript"
-    },
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
-      "stars_today": 971,
+      "stars_today": 1969,
       "lang": "Shell"
     },
     {
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "desc": "",
-      "stars_today": 881,
+      "stars_today": 1215,
       "lang": "TypeScript"
-    },
-    {
-      "repo": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "desc": "",
-      "stars_today": 743,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "desc": "",
-      "stars_today": 571,
-      "lang": "JavaScript"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 468,
-      "lang": "Python"
-    },
-    {
-      "repo": "vitali87/code-graph-rag",
-      "url": "https://github.com/vitali87/code-graph-rag",
-      "desc": "",
-      "stars_today": 339,
+      "stars_today": 654,
       "lang": "Python"
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 317,
+      "stars_today": 628,
       "lang": "Python"
     },
     {
-      "repo": "LLMQuant/quant-mind",
-      "url": "https://github.com/LLMQuant/quant-mind",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 105,
+      "stars_today": 573,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "",
+      "stars_today": 571,
       "lang": "Python"
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 98,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 73,
-      "lang": "Jupyter Notebook"
     },
     {
       "repo": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 413,
       "lang": "Python"
     },
     {
-      "repo": "AgriciDaniel/claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "repo": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
       "desc": "",
-      "stars_today": 57,
+      "stars_today": 182,
+      "lang": "Go"
+    },
+    {
+      "repo": "omnigent-ai/omnigent",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "desc": "",
+      "stars_today": 160,
+      "lang": "Python"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 150,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 134,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 118,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "VectifyAI/OpenKB",
+      "url": "https://github.com/VectifyAI/OpenKB",
+      "desc": "",
+      "stars_today": 60,
+      "lang": "Python"
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
       "stars_today": 50,
       "lang": "Jupyter Notebook"
@@ -104,66 +104,66 @@
       "repo": "datawhalechina/happy-llm",
       "url": "https://github.com/datawhalechina/happy-llm",
       "desc": "",
-      "stars_today": 46,
+      "stars_today": 48,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "As AI eats the web, the internet’s collective memory is disappearing",
-      "url": "https://thewalrus.ca/google-search-is-dying/",
-      "points": 848,
-      "comments": 846,
-      "hn_url": "https://news.ycombinator.com/item?id=49250836"
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "points": 668,
+      "comments": 109,
+      "hn_url": "https://news.ycombinator.com/item?id=49272832"
     },
     {
-      "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
-      "url": "https://github.com/antirez/h3.c",
-      "points": 414,
-      "comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=49252179"
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "points": 637,
+      "comments": 524,
+      "hn_url": "https://news.ycombinator.com/item?id=49271994"
     },
     {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://stolen-thoughts.com/",
-      "points": 412,
-      "comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=49257876"
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "points": 220,
+      "comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=49270022"
     },
     {
-      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "points": 269,
-      "comments": 42,
-      "hn_url": "https://news.ycombinator.com/item?id=49259339"
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "points": 200,
+      "comments": 127,
+      "hn_url": "https://news.ycombinator.com/item?id=49272569"
     },
     {
-      "title": "OpenAI’s head of ethics leaves less than a year after joining",
-      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-      "points": 182,
-      "comments": 265,
-      "hn_url": "https://news.ycombinator.com/item?id=49257160"
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "points": 148,
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49194856"
     },
     {
-      "title": "The brain may be about to have its Ozempic moment",
-      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-      "points": 74,
-      "comments": 110,
-      "hn_url": "https://news.ycombinator.com/item?id=49263658"
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "points": 107,
+      "comments": 18,
+      "hn_url": "https://news.ycombinator.com/item?id=49269090"
     },
     {
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "points": 10,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49264334"
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "points": 91,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49275335"
     },
     {
-      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "url": "https://github.com/lateos-ai/npm-scan",
-      "points": 9,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958"
+      "title": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "points": 71,
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49274858"
     }
   ],
   "reddit": [
@@ -174,37 +174,58 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "Introducing Unsloth Desktop app",
+      "title": "Qwen3.8-2.4T-A95B Released",
       "sub": "LocalLLaMA",
-      "author": "danielhanchen",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlj87v/introducing_unsloth_desktop_app/"
+      "author": "de4dee",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/"
     },
     {
-      "title": "All the more reason not to use Closed Models ... Claude now officially \"marks\" AI-generated content ... steganographically, apparently ... and there are false positives already",
+      "title": "Today is Models Day",
       "sub": "LocalLLaMA",
-      "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlr43b/all_the_more_reason_not_to_use_closed_models/"
+      "author": "Fz1zz",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmjqtk/today_is_models_day/"
     },
     {
-      "title": "Qwen 3.8-27b coming this week",
+      "title": "Exact Qwen 3.8 27b release date and time",
       "sub": "LocalLLaMA",
-      "author": "Bestlife73",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vl8bpt/qwen_3827b_coming_this_week/"
+      "author": "yuicebox",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmexhu/exact_qwen_38_27b_release_date_and_time/"
     },
     {
-      "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-BF16 · Hugging Face",
+      "title": "It's the final countdown, baby! Qwen is out in just over 7 hours!",
       "sub": "LocalLLaMA",
-      "author": "coder543",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vlh9fg/nvidianvidianemotron35lightning30ba3bbf16_hugging/"
+      "author": "LegacyRemaster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm7iqx/its_the_final_countdown_baby_qwen_is_out_in_just/"
     },
     {
-      "title": "Encrypted reasoning from ClosedAI et al 100% recoverable",
+      "title": "NVIDIA's Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
       "sub": "LocalLLaMA",
-      "author": "Dany0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vllbjh/encrypted_reasoning_from_closedai_et_al_100/"
+      "author": "ab2377",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmebb1/nvidias_fastest_blackwell_gpu_the_96_gb_rtx_pro/"
     }
   ],
   "youtube": [
+    {
+      "title": "Khabib vs Conor McGregor fight: Khabib on why it was the biggest fight of all time",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=kfWp3X8OoE4",
+      "published": "2026-08-12",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
+    },
+    {
+      "title": "The BEST local AI video generator just got BETTER!",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=G3YHSvXZP_g",
+      "published": "2026-08-12",
+      "desc": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW Part 1 Minimax H3 installation tutorial: https://youtu.be/8Hut"
+    },
+    {
+      "title": "영화 '오디세이' 영화관 안 가던 사람도 IMAX 찾는 이유 | 놀란 감독이 IMAX에 집착한 기술적 이유",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=Aqrw5z0CDMk",
+      "published": "2026-08-12",
+      "desc": "최근 《오디세이》를 두고 “가능하면 용산 아이맥스에서 봐야 한다”는 이야기가 많이 나오고 있습니다. 이번 영상에서는 같은 영화인데도 상영관에 따라 왜 경험이 달라지는지 기술적으로 살펴봤습니다. 《오디세이》가 장편 극영화 최초로 전편을 IMAX 필름 카메라로 촬영할 수 있었던 배경부터 신형 카메라와 방음 시스템까지 다룹니다. 일반 65mm 필름과 15/65 IMAX 필름은 무엇이 다른지, 1.43과 1.90 화면비에서는 실제로 무엇이 달라지는지도 살펴봅니다. 또 용산 아이맥스의 거대한 1.43 스크"
+    },
     {
       "title": "OpenAI’s AI Agents Just Crossed A Line",
       "channel": "Two Minute Papers",
@@ -213,25 +234,11 @@
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agen"
     },
     {
-      "title": "AI 때문에 아이폰 용량 더 커진다? 애플, DRAM 아닌 NAND를 활용한 접근 분석 | AFM3가 바꾸는 스마트폰 메모리 | HBF와 zNAND-O",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=heIhmgp4ywU",
-      "published": "2026-08-11",
-      "desc": "애플이 공개한 AFM 3 Core Advanced는 200억 파라미터 전체를 저장해두고 필요한 일부만 골라 실행하는 구조를 사용합니다. 일부만 계산하더라도 전체 모델은 어딘가에 저장돼 있어야 하고, 애플은 그 공간으로 NAND 플래시를 적극적으로 활용하기 시작했습니다. 이번 영상에서는 일반적인 MoE와 애플의 IFP 방식이 어떻게 다른지 살펴봅니다. 2비트 양자화까지 활용해 모델 크기를 줄이는 애플의 온디바이스 AI 전략도 함께 다룹니다. AI 모델과 캐시가 커지면서 아이폰과 스마트폰의 기본 저장"
-    },
-    {
-      "title": "New 3D editors, open medical AI, AI symphony, Qwen 3.8, Wan Animate 2: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=uJgzFn0GT7M",
-      "published": "2026-08-09",
-      "desc": "HUGE AI NEWS: Qwen 3.8 Max, Wan Animate 2, GPT 6 breakthroughs, Xiaomi robotics & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor, Higgsfield. Try Seedance 2.5 today https://higgsfield.ai/s/theaisearch-qPkHlP 00:00 AI news intro 00:53 SymphonyGen 03:29 MAC 04:55 Wan"
-    },
-    {
-      "title": "노트북을 쓰는 건 에이전트여야 한다 #Shorts",
+      "title": "AI 에이전트를 활용한 업무용 도구 제작기 및 활용법(류승인 주무관/광진구청)",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/sCLF_ydzG1o",
+      "url": "https://www.youtube.com/watch?v=tfrFshE60zY",
       "published": "2026-08-09",
-      "desc": "SPYRL식 컷 선별: 사람이 노트북을 들고 계속 엔터치는 방식이 아니라, 에이전트가 노트북을 쓰고 사람은 요청하는 구조라는 메시지입니다. 원본 영상: https://youtu.be/cEAn1NezBPI #AI #AI프렌즈 #AIFrenz #Shorts"
+      "desc": "- AI 에이전트를 활용한 업무용 도구 제작기 및 활용법 - 공공데이터를 활용한 MCP 소개, 활용법 - Kordoc을 이용한 AI활용 문서 자동화 - 자체제작 AI도구 소개 및 활용법 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000"
     },
     {
       "title": "AI is getting a little out of control",
@@ -246,13 +253,6 @@
       "url": "https://www.youtube.com/watch?v=y-NO9Nt6PuA",
       "published": "2026-08-05",
       "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과"
-    },
-    {
-      "title": "How the Civil War ended | Gary Gallagher and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=Zdq7Aj3ihEo",
-      "published": "2026-08-04",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=XyXBwO5jYpw Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9928-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Gary Ga"
     },
     {
       "title": "The 64 sugar cubes puzzle",
