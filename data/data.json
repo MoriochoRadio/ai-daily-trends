@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-08-12T21:54:06.080655+00:00",
-  "date_label": "2026년 8월 13일 (목)",
+  "generated_at": "2026-08-13T21:53:58.097350+00:00",
+  "date_label": "2026년 8월 14일 (금)",
   "github_trending": [
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
-      "stars_today": 1969,
+      "stars_today": 762,
       "lang": "Shell"
     },
     {
-      "repo": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 1215,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 654,
-      "lang": "Python"
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "desc": "",
-      "stars_today": 628,
-      "lang": "Python"
-    },
-    {
-      "repo": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "desc": "",
-      "stars_today": 573,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "desc": "",
-      "stars_today": 571,
-      "lang": "Python"
-    },
-    {
-      "repo": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "desc": "",
-      "stars_today": 413,
+      "stars_today": 577,
       "lang": "Python"
     },
     {
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "desc": "",
-      "stars_today": 182,
+      "stars_today": 473,
       "lang": "Go"
     },
     {
-      "repo": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 160,
+      "stars_today": 383,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "repo": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
       "desc": "",
-      "stars_today": 150,
+      "stars_today": 380,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "",
+      "stars_today": 354,
+      "lang": "Python"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "",
+      "stars_today": 182,
+      "lang": "Python"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "desc": "",
+      "stars_today": 97,
+      "lang": "Python"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "desc": "",
+      "stars_today": 59,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 134,
+      "stars_today": 52,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 118,
+      "stars_today": 29,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "VectifyAI/OpenKB",
-      "url": "https://github.com/VectifyAI/OpenKB",
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
-      "stars_today": 60,
-      "lang": "Python"
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 50,
+      "stars_today": 26,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
-      "stars_today": 48,
+      "stars_today": 17,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "desc": "",
+      "stars_today": 14,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "desc": "",
+      "stars_today": 13,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
-      "points": 668,
-      "comments": 109,
-      "hn_url": "https://news.ycombinator.com/item?id=49272832"
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "points": 478,
+      "comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=49289112"
     },
     {
-      "title": "AI is removing the middle class of software engineering?",
-      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-      "points": 637,
-      "comments": 524,
-      "hn_url": "https://news.ycombinator.com/item?id=49271994"
+      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
+      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
+      "points": 436,
+      "comments": 295,
+      "hn_url": "https://news.ycombinator.com/item?id=49281916"
     },
     {
-      "title": "What sort of maths are LLMs good at?",
-      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
-      "points": 220,
-      "comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=49270022"
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "points": 304,
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49289844"
     },
     {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "url": "https://knownagents.com/insights",
-      "points": 200,
-      "comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=49272569"
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "points": 162,
+      "comments": 77,
+      "hn_url": "https://news.ycombinator.com/item?id=49285418"
     },
     {
-      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-      "points": 148,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49194856"
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "points": 157,
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=49285327"
     },
     {
-      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-      "url": "https://discoveredmaterials.com/research/",
-      "points": 107,
-      "comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=49269090"
+      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
+      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
+      "points": 124,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49285718"
     },
     {
-      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
-      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
-      "points": 91,
-      "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49275335"
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "points": 68,
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49288293"
     },
     {
-      "title": "Lovable raises $400M Series C",
-      "url": "https://lovable.dev/blog/series-c",
-      "points": 71,
-      "comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=49274858"
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "points": 67,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=49283063"
     }
   ],
   "reddit": [
@@ -174,43 +174,57 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "Qwen3.8-2.4T-A95B Released",
+      "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
       "sub": "LocalLLaMA",
-      "author": "de4dee",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmgozv/qwen3824ta95b_released/"
+      "author": "PicassoOnPause",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/"
     },
     {
-      "title": "Today is Models Day",
+      "title": "MiniMax-Music3 released!",
       "sub": "LocalLLaMA",
-      "author": "Fz1zz",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmjqtk/today_is_models_day/"
+      "author": "Acceptable-Cycle4645",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/"
     },
     {
-      "title": "Exact Qwen 3.8 27b release date and time",
+      "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "yuicebox",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmexhu/exact_qwen_38_27b_release_date_and_time/"
+      "author": "mossy_troll_84",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/"
     },
     {
-      "title": "It's the final countdown, baby! Qwen is out in just over 7 hours!",
+      "title": "DeepSeek: We’re launching DeepSeek-V4-Pro today!",
       "sub": "LocalLLaMA",
-      "author": "LegacyRemaster",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vm7iqx/its_the_final_countdown_baby_qwen_is_out_in_just/"
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/"
     },
     {
-      "title": "NVIDIA's Fastest Blackwell GPU, the 96 GB RTX PRO 6000, Now Costs $16,000, Almost Double Its Original Price",
+      "title": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
       "sub": "LocalLLaMA",
-      "author": "ab2377",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vmebb1/nvidias_fastest_blackwell_gpu_the_96_gb_rtx_pro/"
+      "author": "Mr_Moonsilver",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/"
     }
   ],
   "youtube": [
     {
-      "title": "Khabib vs Conor McGregor fight: Khabib on why it was the biggest fight of all time",
+      "title": "The secret to Khabib's dominance: I hated to lose | Khabib Nurmagomedov and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=kfWp3X8OoE4",
-      "published": "2026-08-12",
+      "url": "https://www.youtube.com/watch?v=sNOoZaK57sw",
+      "published": "2026-08-13",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
+    },
+    {
+      "title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/KyA2ejPjb_0",
+      "published": "2026-08-13",
+      "desc": "사람에겐 너무 쉬운 비닐봉지 묶기, 전구 갈기. 하지만 로봇에겐 꽤 어려운 일입니다. 물체는 계속 움직이고, 미끄러지고, 모양까지 바뀝니다. 그래서 손의 힘과 위치를 매 순간 다시 판단해야 하죠. Gemini Robotics는 보고, 이해하고, 바로 움직입니다. 정해진 동작을 반복하는 게 아니라, 상황에 맞춰 손을 쓰는 겁니다. 이제 로봇의 손은 움직이는 손에서, 판단하는 손으로 바뀌고 있습니다. #로봇 #휴머노이드 #로봇손"
+    },
+    {
+      "title": "AI가 제대로 일하려면 도구가 필요합니다 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/p2kPFcjX9PI",
+      "published": "2026-08-13",
+      "desc": "AI는 언어모델입니다. 법령과 문서를 정확히 다루려면 MCP 같은 도구를 붙여야 제대로 일을 할 수 있습니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts"
     },
     {
       "title": "The BEST local AI video generator just got BETTER!",
@@ -220,25 +234,11 @@
       "desc": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW Part 1 Minimax H3 installation tutorial: https://youtu.be/8Hut"
     },
     {
-      "title": "영화 '오디세이' 영화관 안 가던 사람도 IMAX 찾는 이유 | 놀란 감독이 IMAX에 집착한 기술적 이유",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=Aqrw5z0CDMk",
-      "published": "2026-08-12",
-      "desc": "최근 《오디세이》를 두고 “가능하면 용산 아이맥스에서 봐야 한다”는 이야기가 많이 나오고 있습니다. 이번 영상에서는 같은 영화인데도 상영관에 따라 왜 경험이 달라지는지 기술적으로 살펴봤습니다. 《오디세이》가 장편 극영화 최초로 전편을 IMAX 필름 카메라로 촬영할 수 있었던 배경부터 신형 카메라와 방음 시스템까지 다룹니다. 일반 65mm 필름과 15/65 IMAX 필름은 무엇이 다른지, 1.43과 1.90 화면비에서는 실제로 무엇이 달라지는지도 살펴봅니다. 또 용산 아이맥스의 거대한 1.43 스크"
-    },
-    {
       "title": "OpenAI’s AI Agents Just Crossed A Line",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
       "published": "2026-08-11",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agen"
-    },
-    {
-      "title": "AI 에이전트를 활용한 업무용 도구 제작기 및 활용법(류승인 주무관/광진구청)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=tfrFshE60zY",
-      "published": "2026-08-09",
-      "desc": "- AI 에이전트를 활용한 업무용 도구 제작기 및 활용법 - 공공데이터를 활용한 MCP 소개, 활용법 - Kordoc을 이용한 AI활용 문서 자동화 - 자체제작 AI도구 소개 및 활용법 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000"
     },
     {
       "title": "AI is getting a little out of control",
