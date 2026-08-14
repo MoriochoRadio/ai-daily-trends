@@ -41,7 +41,8 @@ def _post(token, system, contexts, max_tokens):
     payload = {
         "model": MODEL,
         "temperature": 0.3,
-        "max_tokens": max_tokens,
+        # gpt-oss 계열(추론 모델)은 max_tokens 를 400 으로 거부 — 신형 파라미터 사용
+        "max_completion_tokens": max_tokens,
         "response_format": {"type": "json_object"},
         "messages": [
             {"role": "system", "content": system},
@@ -62,6 +63,11 @@ def _post(token, system, contexts, max_tokens):
             return json.loads(body["choices"][0]["message"]["content"])
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError) as e:
             code = getattr(e, "code", None)
+            if isinstance(e, urllib.error.HTTPError):  # 원인 파악용 — API 오류 본문 출력
+                try:
+                    print(f"  [api-error {code}] {e.read().decode('utf-8', 'replace')[:300]}")
+                except Exception:
+                    pass
             if attempt < 2 and (code is None or code == 429 or code >= 500):
                 time.sleep(10 * (attempt + 1))
                 continue
