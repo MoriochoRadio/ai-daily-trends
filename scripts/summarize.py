@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
 """data/data.json 의 각 항목에 한국어 제목 번역(title_ko)과 핵심 요약(summary_ko)을 붙인다.
 
-요약 엔진: GitHub Models (무료) — OpenAI 호환 엔드포인트, GITHUB_TOKEN 으로 인증.
-  - 모델: openai/gpt-4o-mini
-  - 비용 0, 별도 API 키 불필요 (CI 에서는 permissions: models: read 필요)
-설계 원칙: graceful — 토큰이 없거나 호출이 실패해도 예외 없이 원본을 그대로 두고 종료한다.
+요약 엔진: Groq (무료 티어) — OpenAI 호환 엔드포인트, GROQ_API_KEY 로 인증.
+  - 모델: openai/gpt-oss-120b
+  - (구) GitHub Models 는 2026-08 retirement brownout 으로 410 을 반환해 이전함.
+설계 원칙: graceful — 키가 없거나 호출이 실패해도 예외 없이 원본을 그대로 두고 종료한다.
   따라서 이 단계가 실패해도 build.py 는 정상 동작한다(번역/요약만 비어 있음).
 
 다른 LLM(예: Anthropic Claude)으로 바꾸려면 _post() 한 함수만 교체하면 된다.
 """
-import json, os, subprocess, time, urllib.request, urllib.error, pathlib
+import json, os, time, urllib.request, urllib.error, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-ENDPOINT = "https://models.github.ai/inference/chat/completions"
-MODEL = "openai/gpt-4o-mini"
+ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
+MODEL = "openai/gpt-oss-120b"
 
 BASE = ("너는 한국인 개발자를 위한 AI·테크 뉴스 큐레이터다. "
         "과장·추측 없이 주어진 정보에 근거해 자연스러운 한국어로 답한다.")
@@ -34,14 +34,7 @@ SYSTEM_SUMMARY = BASE + (
 
 
 def get_token():
-    for k in ("GITHUB_TOKEN", "GH_TOKEN", "MODELS_TOKEN"):
-        if os.environ.get(k):
-            return os.environ[k]
-    try:  # 로컬 실행 편의: gh CLI 로그인 토큰 사용
-        return subprocess.run(["gh", "auth", "token"], capture_output=True, text=True,
-                              timeout=10).stdout.strip() or None
-    except Exception:
-        return None
+    return os.environ.get("GROQ_API_KEY") or None
 
 
 def _post(token, system, contexts, max_tokens):
@@ -121,7 +114,7 @@ def main():
     data = json.loads(path.read_text(encoding="utf-8"))
     token = get_token()
     if not token:
-        print("요약 건너뜀: 토큰 없음(GITHUB_TOKEN). 원본 그대로 빌드됩니다.")
+        print("요약 건너뜀: 키 없음(GROQ_API_KEY). 원본 그대로 빌드됩니다.")
         return
 
     summarize_only(token, data.get("github_trending", []),

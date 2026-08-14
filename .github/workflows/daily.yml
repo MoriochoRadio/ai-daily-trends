@@ -19,7 +19,6 @@ jobs:
     timeout-minutes: 15
     permissions:
       contents: write
-      models: read          # GitHub Models(무료 LLM) 호출용 — 한국어 요약 생성
     steps:
       - uses: actions/checkout@v6
       - uses: actions/setup-python@v6
@@ -27,10 +26,12 @@ jobs:
           python-version: '3.x'
       - name: 데이터 수집
         run: python3 scripts/collect.py
-      - name: 한국어 요약 (GitHub Models)
+      # (구) GitHub Models 는 2026-08 retirement brownout(410)으로 종료 수순 → Groq 이전.
+      # GROQ_API_KEY 시크릿이 없으면 요약만 건너뛰고 원본 그대로 빌드된다(graceful).
+      - name: 한국어 요약 (Groq)
         run: python3 scripts/summarize.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
       - name: 사이트 빌드
         run: python3 scripts/build.py
       - name: 변경사항 커밋
