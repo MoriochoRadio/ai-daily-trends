@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:49:49.681616+00:00",
+  "generated_at": "2026-08-14T07:52:00.228928+00:00",
   "date_label": "2026년 8월 14일 (금)",
   "github_trending": [
     {
@@ -113,57 +113,73 @@
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "points": 784,
-      "comments": 409,
-      "hn_url": "https://news.ycombinator.com/item?id=49289112"
+      "comments": 410,
+      "hn_url": "https://news.ycombinator.com/item?id=49289112",
+      "title_ko": "Gemini 3.7 Flash",
+      "summary_ko": "구글의 최신 AI 모델 Gemini 3.7 Flash가 빠른 응답 속도와 향상된 정확성을 제공해 주목받는다."
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "points": 556,
       "comments": 231,
-      "hn_url": "https://news.ycombinator.com/item?id=49289844"
+      "hn_url": "https://news.ycombinator.com/item?id=49289844",
+      "title_ko": "Accelerating GPT-5.6 Sol Ultrafast",
+      "summary_ko": "GPT-5.6 Sol Ultrafast는 모델 추론 속도를 크게 높여 AI 서비스 효율성을 혁신한다."
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "points": 298,
-      "comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=49285418"
+      "points": 299,
+      "comments": 168,
+      "hn_url": "https://news.ycombinator.com/item?id=49285418",
+      "title_ko": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "summary_ko": "Nine PBS가 아이언 마운틴을 상대로 보관 데이터 접근 차단을 이유로 소송을 제기해 데이터 보존 이슈가 부각된다."
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "points": 198,
+      "points": 199,
       "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49285327"
+      "hn_url": "https://news.ycombinator.com/item?id=49285327",
+      "title_ko": "Choosing an AI model: one prompt, 11 models, different results",
+      "summary_ko": "같은 프롬프트에 11개 AI 모델을 적용해 결과 차이를 비교하며 모델 선택의 중요성을 강조한다."
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
       "points": 100,
-      "comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=49290768"
-    },
-    {
-      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-      "url": "https://www.codewithbullet.com",
-      "points": 97,
-      "comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=49283063"
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=49290768",
+      "title_ko": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary_ko": "ChatGPT 활용 사례를 분석해 기업들의 AI 도입 현황과 효과를 실증적으로 제시한다."
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
       "url": "https://github.com/lateos-ai/npm-scan",
       "points": 9,
       "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958"
+      "hn_url": "https://news.ycombinator.com/item?id=48351958",
+      "title_ko": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "summary_ko": "npm-scan은 최신 공급망 보안 솔루션으로 npm 패키지의 취약점을 자동으로 탐지한다."
     },
     {
       "title": "SnapState - Persistent state for AI agent workflows",
       "url": "https://snapstate.dev",
       "points": 6,
       "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=47759400"
+      "hn_url": "https://news.ycombinator.com/item?id=47759400",
+      "title_ko": "SnapState - Persistent state for AI agent workflows",
+      "summary_ko": "SnapState는 AI 에이전트 워크플로우에 영구 상태 저장을 제공해 복잡한 작업 관리에 도움을 준다."
+    },
+    {
+      "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+      "points": 4,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49295238",
+      "title_ko": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+      "summary_ko": "Ruby 4.0의 범용 RCE 역직렬화 체인을 공개해 취약점 악용 위험을 경고한다."
     }
   ],
   "reddit": [
@@ -171,33 +187,13 @@
       "title": "Best Local LLMs - August 2026",
       "sub": "LocalLLaMA",
       "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
-      "title_ko": "2026년 8월 최신 로컬 LLM 베스트",
-      "summary_ko": "Reddit r/LocalLLaMA에서 2026년 8월 기준 최고의 로컬 대형 언어 모델들을 정리한 글로, 최신 모델 성능과 특징을 한눈에 비교한다."
-    },
-    {
-      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
-      "sub": "MachineLearning",
-      "author": "Tough_Ad_6598",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
-      "title_ko": "City2Graph: 도시 시스템을 위한 이종 그래프 신경망 및 공간 분석 파이썬 라이브러리",
-      "summary_ko": "Reddit r/MachineLearning에 소개된 City2Graph는 이종 그래프 신경망을 활용해 도시 데이터의 공간 관계를 분석하고 시각화하는 파이썬 패키지다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
       "title": "GLM 5.3 Released",
       "sub": "LocalLLaMA",
       "author": "jmorant555",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
-      "title_ko": "GLM 5.3 출시",
-      "summary_ko": "Reddit r/LocalLLaMA에서 발표된 GLM 5.3은 최신 버전의 대형 언어 모델로, 향상된 추론 속도와 새로운 토큰 처리 방식을 제공한다."
-    },
-    {
-      "title": "TMLR Relevance and Prestige [D]",
-      "sub": "MachineLearning",
-      "author": "Awesome_Nerd10",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
-      "title_ko": "TMLR 논문의 영향력 및 명성 분석",
-      "summary_ko": "Reddit r/MachineLearning에서 다룬 이 글은 TMLR 저널 논문의 인용도와 평판을 데이터 기반으로 평가해 연구 트렌드를 조명한다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/"
     },
     {
       "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
@@ -206,10 +202,22 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/"
     },
     {
-      "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
-      "sub": "MachineLearning",
-      "author": "DickHorner",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/"
+      "title": "It's actually crazy how good DSv4 Flash 0731 is",
+      "sub": "LocalLLaMA",
+      "author": "Master-Meal-77",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/"
+    },
+    {
+      "title": "MiniMax-Music3 released!",
+      "sub": "LocalLLaMA",
+      "author": "Acceptable-Cycle4645",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/"
+    },
+    {
+      "title": "How AI text watermarking works",
+      "sub": "LocalLLaMA",
+      "author": "johnnyApplePRNG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/"
     }
   ],
   "youtube": [
@@ -218,42 +226,54 @@
       "channel": "Lex Fridman",
       "url": "https://www.youtube.com/watch?v=8zdtEaFLcSk",
       "published": "2026-08-14",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou",
+      "title_ko": "왜 Khabib가 훈련 중 Lex를 때렸는가",
+      "summary_ko": "Lex Fridman 팟캐스트 전체 영상(영어 더빙)에서 Khabib가 훈련 중 Lex를 때린 이유를 다룹니다."
     },
     {
       "title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
       "channel": "안될공학",
       "url": "https://www.youtube.com/shorts/KyA2ejPjb_0",
       "published": "2026-08-13",
-      "desc": "사람에겐 너무 쉬운 비닐봉지 묶기, 전구 갈기. 하지만 로봇에겐 꽤 어려운 일입니다. 물체는 계속 움직이고, 미끄러지고, 모양까지 바뀝니다. 그래서 손의 힘과 위치를 매 순간 다시 판단해야 하죠. Gemini Robotics는 보고, 이해하고, 바로 움직입니다. 정해진 동작을 반복하는 게 아니라, 상황에 맞춰 손을 쓰는 겁니다. 이제 로봇의 손은 움직이는 손에서, 판단하는 손으로 바뀌고 있습니다. #로봇 #휴머노이드 #로봇손"
+      "desc": "사람에겐 너무 쉬운 비닐봉지 묶기, 전구 갈기. 하지만 로봇에겐 꽤 어려운 일입니다. 물체는 계속 움직이고, 미끄러지고, 모양까지 바뀝니다. 그래서 손의 힘과 위치를 매 순간 다시 판단해야 하죠. Gemini Robotics는 보고, 이해하고, 바로 움직입니다. 정해진 동작을 반복하는 게 아니라, 상황에 맞춰 손을 쓰는 겁니다. 이제 로봇의 손은 움직이는 손에서, 판단하는 손으로 바뀌고 있습니다. #로봇 #휴머노이드 #로봇손",
+      "title_ko": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
+      "summary_ko": "Gemini Robotics는 물체 움직임을 실시간 판단해 비닐봉지 매듭까지 정교하게 잡는 로봇 손을 선보입니다."
     },
     {
       "title": "1시간 업무가 5분이 됐는데 생긴 문제 #Shorts",
       "channel": "빵형의 개발도상국",
       "url": "https://www.youtube.com/shorts/ApG_guYGgbY",
       "published": "2026-08-13",
-      "desc": "AI가 시간을 줄여도 조직의 KPI와 보상 구조가 바뀌지 않으면 가짜노동이 늘어날 수 있다는 현실적인 문제입니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts"
+      "desc": "AI가 시간을 줄여도 조직의 KPI와 보상 구조가 바뀌지 않으면 가짜노동이 늘어날 수 있다는 현실적인 문제입니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts",
+      "title_ko": "1시간 업무가 5분이 됐는데 생긴 문제 #Shorts",
+      "summary_ko": "AI로 업무 시간이 단축돼도 KPI·보상 체계가 변하지 않으면 가짜 노동이 늘어날 수 있음을 경고합니다."
     },
     {
       "title": "The BEST local AI video generator just got BETTER!",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=G3YHSvXZP_g",
       "published": "2026-08-12",
-      "desc": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW Part 1 Minimax H3 installation tutorial: https://youtu.be/8Hut"
+      "desc": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW Part 1 Minimax H3 installation tutorial: https://youtu.be/8Hut",
+      "title_ko": "최고의 로컬 AI 영상 생성기가 더욱 강력해졌습니다",
+      "summary_ko": "Minimax H3의 저 VRAM, 터보 LoRA, 실시간 미리보기 등 최신 기능을 소개하는 튜토리얼 영상입니다."
     },
     {
       "title": "OpenAI’s AI Agents Just Crossed A Line",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
       "published": "2026-08-11",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agen"
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agen",
+      "title_ko": "OpenAI AI 에이전트가 한계를 넘었습니다",
+      "summary_ko": "OpenAI 에이전트의 보안·윤리 문제와 관련된 최신 사건을 Two Minute Papers가 분석합니다."
     },
     {
       "title": "AI is getting a little out of control",
       "channel": "AI Explained",
       "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
       "published": "2026-08-06",
-      "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea"
+      "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea",
+      "title_ko": "AI가 조금씩 통제 불능으로 가고 있습니다",
+      "summary_ko": "수학적 혁신과 AI 에이전트 군집이 남긴 비밀 메시지 등, AI 위험성을 AI Explained가 조명합니다."
     },
     {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
