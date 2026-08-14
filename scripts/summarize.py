@@ -2,7 +2,8 @@
 """data/data.json 의 각 항목에 한국어 제목 번역(title_ko)과 핵심 요약(summary_ko)을 붙인다.
 
 요약 엔진: Groq (무료 티어) — OpenAI 호환 엔드포인트, GROQ_API_KEY 로 인증.
-  - 모델: openai/gpt-oss-120b
+  - 모델: llama-3.3-70b-versatile (비추론 모델 — gpt-oss 같은 추론 모델은 작은
+    토큰 예산을 추론이 다 소모해 json_validate_failed 400 이 나서 교체)
   - (구) GitHub Models 는 2026-08 retirement brownout 으로 410 을 반환해 이전함.
 설계 원칙: graceful — 키가 없거나 호출이 실패해도 예외 없이 원본을 그대로 두고 종료한다.
   따라서 이 단계가 실패해도 build.py 는 정상 동작한다(번역/요약만 비어 있음).
@@ -13,7 +14,7 @@ import json, os, time, urllib.request, urllib.error, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
-MODEL = "openai/gpt-oss-120b"
+MODEL = "llama-3.3-70b-versatile"
 
 BASE = ("너는 한국인 개발자를 위한 AI·테크 뉴스 큐레이터다. "
         "과장·추측 없이 주어진 정보에 근거해 자연스러운 한국어로 답한다.")
