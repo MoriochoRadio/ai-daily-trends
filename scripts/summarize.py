@@ -51,7 +51,9 @@ def _post(token, system, contexts, max_tokens):
     }
     req = urllib.request.Request(
         ENDPOINT, data=json.dumps(payload).encode("utf-8"),
-        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"})
+        headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json",
+                 # urllib 기본 UA(Python-urllib)는 Groq 앞단(Cloudflare)이 403으로 차단함
+                 "User-Agent": "ai-daily-trends/1.0"})
     # 429/일시 5xx 한 번에 그날 요약이 통째로 빠지지 않도록 2회 백오프 재시도
     for attempt in range(3):
         try:
