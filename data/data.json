@@ -1,89 +1,89 @@
 {
-  "generated_at": "2026-08-13T21:53:58.097350+00:00",
+  "generated_at": "2026-08-14T07:47:04.792489+00:00",
   "date_label": "2026년 8월 14일 (금)",
   "github_trending": [
     {
       "repo": "msitarzewski/agency-agents",
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
-      "stars_today": 762,
+      "stars_today": 778,
       "lang": "Shell"
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 577,
+      "stars_today": 593,
       "lang": "Python"
     },
     {
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "desc": "",
-      "stars_today": 473,
+      "stars_today": 465,
       "lang": "Go"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "",
+      "stars_today": 328,
+      "lang": "Python"
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 383,
+      "stars_today": 312,
       "lang": "Python"
     },
     {
       "repo": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "desc": "",
-      "stars_today": 380,
+      "stars_today": 241,
       "lang": "TypeScript"
-    },
-    {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "desc": "",
-      "stars_today": 354,
-      "lang": "Python"
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 182,
+      "stars_today": 186,
       "lang": "Python"
     },
     {
       "repo": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "desc": "",
-      "stars_today": 97,
-      "lang": "Python"
-    },
-    {
-      "repo": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "desc": "",
-      "stars_today": 59,
+      "stars_today": 96,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 52,
+      "stars_today": 49,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "url": "https://github.com/soxoj/maigret",
+      "desc": "",
+      "stars_today": 46,
+      "lang": "Python"
+    },
+    {
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "desc": "",
+      "stars_today": 42,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "patchy631/ai-engineering-hub",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 29,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "desc": "",
-      "stars_today": 26,
+      "stars_today": 18,
       "lang": "Jupyter Notebook"
     },
     {
@@ -97,73 +97,73 @@
       "repo": "gepa-ai/gepa",
       "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
-      "stars_today": 14,
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "repo": "NVIDIA-NeMo/Automodel",
+      "url": "https://github.com/NVIDIA-NeMo/Automodel",
       "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
+      "stars_today": 8,
+      "lang": "Python"
     }
   ],
   "hackernews": [
     {
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "points": 478,
-      "comments": 292,
+      "points": 784,
+      "comments": 409,
       "hn_url": "https://news.ycombinator.com/item?id=49289112"
-    },
-    {
-      "title": "Codex in ChatGPT desktop app for Linux is now in preview",
-      "url": "https://community.openai.com/t/codex-in-chatgpt-desktop-app-for-linux-is-now-in-preview/1390027",
-      "points": 436,
-      "comments": 295,
-      "hn_url": "https://news.ycombinator.com/item?id=49281916"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "points": 304,
-      "comments": 118,
+      "points": 554,
+      "comments": 231,
       "hn_url": "https://news.ycombinator.com/item?id=49289844"
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
       "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-      "points": 162,
-      "comments": 77,
+      "points": 298,
+      "comments": 167,
       "hn_url": "https://news.ycombinator.com/item?id=49285418"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-      "points": 157,
-      "comments": 67,
+      "points": 198,
+      "comments": 84,
       "hn_url": "https://news.ycombinator.com/item?id=49285327"
     },
     {
-      "title": "I built a 500k-domain search engine for makers in a weekend for $10",
-      "url": "https://alexmorleyfinch.github.io/marlin/history/v1/article/the_birth.html",
-      "points": 124,
-      "comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=49285718"
-    },
-    {
-      "title": "AI At Home Part 1: A Box Of Scraps",
-      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-      "points": 68,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49288293"
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "points": 100,
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=49290768"
     },
     {
       "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
       "url": "https://www.codewithbullet.com",
-      "points": 67,
-      "comments": 41,
+      "points": 97,
+      "comments": 73,
       "hn_url": "https://news.ycombinator.com/item?id=49283063"
+    },
+    {
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "points": 9,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48351958"
+    },
+    {
+      "title": "SnapState - Persistent state for AI agent workflows",
+      "url": "https://snapstate.dev",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=47759400"
     }
   ],
   "reddit": [
@@ -174,10 +174,22 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
+      "title": "GLM 5.3 Released",
+      "sub": "LocalLLaMA",
+      "author": "jmorant555",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/"
+    },
+    {
       "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
       "sub": "LocalLLaMA",
       "author": "PicassoOnPause",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/"
+    },
+    {
+      "title": "It's actually crazy how good DSv4 Flash 0731 is",
+      "sub": "LocalLLaMA",
+      "author": "Master-Meal-77",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/"
     },
     {
       "title": "MiniMax-Music3 released!",
@@ -186,30 +198,18 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/"
     },
     {
-      "title": "deepseek-ai/DeepSeek-V4-Pro-0813 · Hugging Face",
+      "title": "How AI text watermarking works",
       "sub": "LocalLLaMA",
-      "author": "mossy_troll_84",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn9it4/deepseekaideepseekv4pro0813_hugging_face/"
-    },
-    {
-      "title": "DeepSeek: We’re launching DeepSeek-V4-Pro today!",
-      "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vn8m1x/deepseek_were_launching_deepseekv4pro_today/"
-    },
-    {
-      "title": "You could purchase a Desktop with 2TB of DDR5 - It only sets you back some $200k+",
-      "sub": "LocalLLaMA",
-      "author": "Mr_Moonsilver",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnjzu3/you_could_purchase_a_desktop_with_2tb_of_ddr5_it/"
+      "author": "johnnyApplePRNG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/"
     }
   ],
   "youtube": [
     {
-      "title": "The secret to Khabib's dominance: I hated to lose | Khabib Nurmagomedov and Lex Fridman",
+      "title": "Why Khabib beat up Lex in training",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=sNOoZaK57sw",
-      "published": "2026-08-13",
+      "url": "https://www.youtube.com/watch?v=8zdtEaFLcSk",
+      "published": "2026-08-14",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
     },
     {
@@ -220,11 +220,11 @@
       "desc": "사람에겐 너무 쉬운 비닐봉지 묶기, 전구 갈기. 하지만 로봇에겐 꽤 어려운 일입니다. 물체는 계속 움직이고, 미끄러지고, 모양까지 바뀝니다. 그래서 손의 힘과 위치를 매 순간 다시 판단해야 하죠. Gemini Robotics는 보고, 이해하고, 바로 움직입니다. 정해진 동작을 반복하는 게 아니라, 상황에 맞춰 손을 쓰는 겁니다. 이제 로봇의 손은 움직이는 손에서, 판단하는 손으로 바뀌고 있습니다. #로봇 #휴머노이드 #로봇손"
     },
     {
-      "title": "AI가 제대로 일하려면 도구가 필요합니다 #Shorts",
+      "title": "1시간 업무가 5분이 됐는데 생긴 문제 #Shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/p2kPFcjX9PI",
+      "url": "https://www.youtube.com/shorts/ApG_guYGgbY",
       "published": "2026-08-13",
-      "desc": "AI는 언어모델입니다. 법령과 문서를 정확히 다루려면 MCP 같은 도구를 붙여야 제대로 일을 할 수 있습니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts"
+      "desc": "AI가 시간을 줄여도 조직의 KPI와 보상 구조가 바뀌지 않으면 가짜노동이 늘어날 수 있다는 현실적인 문제입니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts"
     },
     {
       "title": "The BEST local AI video generator just got BETTER!",
