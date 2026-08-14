@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:47:04.792489+00:00",
+  "generated_at": "2026-08-14T07:49:49.681616+00:00",
   "date_label": "2026년 8월 14일 (금)",
   "github_trending": [
     {
@@ -119,7 +119,7 @@
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-      "points": 554,
+      "points": 556,
       "comments": 231,
       "hn_url": "https://news.ycombinator.com/item?id=49289844"
     },
@@ -134,7 +134,7 @@
       "title": "Choosing an AI model: one prompt, 11 models, different results",
       "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
       "points": 198,
-      "comments": 84,
+      "comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=49285327"
     },
     {
@@ -171,13 +171,33 @@
       "title": "Best Local LLMs - August 2026",
       "sub": "LocalLLaMA",
       "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
+      "title_ko": "2026년 8월 최신 로컬 LLM 베스트",
+      "summary_ko": "Reddit r/LocalLLaMA에서 2026년 8월 기준 최고의 로컬 대형 언어 모델들을 정리한 글로, 최신 모델 성능과 특징을 한눈에 비교한다."
+    },
+    {
+      "title": "City2Graph: A Python library for Heterogeneous Graph Neural Networks and spatial analysis in urban systems [R]",
+      "sub": "MachineLearning",
+      "author": "Tough_Ad_6598",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vn8oya/city2graph_a_python_library_for_heterogeneous/",
+      "title_ko": "City2Graph: 도시 시스템을 위한 이종 그래프 신경망 및 공간 분석 파이썬 라이브러리",
+      "summary_ko": "Reddit r/MachineLearning에 소개된 City2Graph는 이종 그래프 신경망을 활용해 도시 데이터의 공간 관계를 분석하고 시각화하는 파이썬 패키지다."
     },
     {
       "title": "GLM 5.3 Released",
       "sub": "LocalLLaMA",
       "author": "jmorant555",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+      "title_ko": "GLM 5.3 출시",
+      "summary_ko": "Reddit r/LocalLLaMA에서 발표된 GLM 5.3은 최신 버전의 대형 언어 모델로, 향상된 추론 속도와 새로운 토큰 처리 방식을 제공한다."
+    },
+    {
+      "title": "TMLR Relevance and Prestige [D]",
+      "sub": "MachineLearning",
+      "author": "Awesome_Nerd10",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnqk4k/tmlr_relevance_and_prestige_d/",
+      "title_ko": "TMLR 논문의 영향력 및 명성 분석",
+      "summary_ko": "Reddit r/MachineLearning에서 다룬 이 글은 TMLR 저널 논문의 인용도와 평판을 데이터 기반으로 평가해 연구 트렌드를 조명한다."
     },
     {
       "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
@@ -186,22 +206,10 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/"
     },
     {
-      "title": "It's actually crazy how good DSv4 Flash 0731 is",
-      "sub": "LocalLLaMA",
-      "author": "Master-Meal-77",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/"
-    },
-    {
-      "title": "MiniMax-Music3 released!",
-      "sub": "LocalLLaMA",
-      "author": "Acceptable-Cycle4645",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/"
-    },
-    {
-      "title": "How AI text watermarking works",
-      "sub": "LocalLLaMA",
-      "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/"
+      "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
+      "sub": "MachineLearning",
+      "author": "DickHorner",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/"
     }
   ],
   "youtube": [
