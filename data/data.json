@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T07:52:00.228928+00:00",
+  "generated_at": "2026-08-14T07:53:57.830624+00:00",
   "date_label": "2026년 8월 14일 (금)",
   "github_trending": [
     {
@@ -7,105 +7,120 @@
       "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
       "stars_today": 778,
-      "lang": "Shell"
+      "lang": "Shell",
+      "summary_ko": "msitarzewski/agency-agents는 인공지능 에이전트를 다룬다."
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
       "stars_today": 593,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "NousResearch/hermes-agent는 인공지능 에이전트를 다룬다."
     },
     {
       "repo": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "desc": "",
       "stars_today": 465,
-      "lang": "Go"
+      "lang": "Go",
+      "summary_ko": "infiniflow/ragflow는 인공지능 흐름을 다룬다."
     },
     {
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "desc": "",
       "stars_today": 328,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "unslothai/unsloth는 인공지능을 다룬다."
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
       "stars_today": 312,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "anthropics/skills는 인공지능 기술을 다룬다."
     },
     {
       "repo": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "desc": "",
       "stars_today": 241,
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "summary_ko": "holaboss-ai/holaOS는 인공지능 운영체제를 다룬다."
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
       "stars_today": 186,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "ZhuLinsen/daily_stock_analysis는 주식 분석을 다룬다."
     },
     {
       "repo": "vllm-project/vllm",
       "url": "https://github.com/vllm-project/vllm",
       "desc": "",
       "stars_today": 96,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "vllm-project/vllm는 대규모 언어 모델을 다룬다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
       "stars_today": 49,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "anthropics/claude-cookbooks는 인공지능 요리법을 다룬다."
     },
     {
       "repo": "soxoj/maigret",
       "url": "https://github.com/soxoj/maigret",
       "desc": "",
       "stars_today": 46,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "soxoj/maigret는 데이터베이스를 다룬다."
     },
     {
       "repo": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
       "stars_today": 42,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "chiphuyen/aie-book은 인공지능 책을 다룬다."
     },
     {
       "repo": "patchy631/ai-engineering-hub",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
       "stars_today": 18,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "patchy631/ai-engineering-hub는 인공지능 엔지니어링을 다룬다."
     },
     {
       "repo": "NirDiamant/RAG_Techniques",
       "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
       "stars_today": 17,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/RAG_Techniques는 인공지능 기술을 다룬다."
     },
     {
       "repo": "gepa-ai/gepa",
       "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
       "stars_today": 16,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "gepa-ai/gepa는 인공지능 플랫폼을 다룬다."
     },
     {
       "repo": "NVIDIA-NeMo/Automodel",
       "url": "https://github.com/NVIDIA-NeMo/Automodel",
       "desc": "",
       "stars_today": 8,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "NVIDIA-NeMo/Automodel은 자동 모델링을 다룬다."
     }
   ],
   "hackernews": [
@@ -113,19 +128,19 @@
       "title": "Gemini 3.7 Flash",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "points": 784,
-      "comments": 410,
+      "comments": 413,
       "hn_url": "https://news.ycombinator.com/item?id=49289112",
-      "title_ko": "Gemini 3.7 Flash",
-      "summary_ko": "구글의 최신 AI 모델 Gemini 3.7 Flash가 빠른 응답 속도와 향상된 정확성을 제공해 주목받는다."
+      "title_ko": "제미니 3.7 플래시",
+      "summary_ko": "제미니 3.7 플래시 소식"
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
       "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
       "points": 556,
-      "comments": 231,
+      "comments": 232,
       "hn_url": "https://news.ycombinator.com/item?id=49289844",
-      "title_ko": "Accelerating GPT-5.6 Sol Ultrafast",
-      "summary_ko": "GPT-5.6 Sol Ultrafast는 모델 추론 속도를 크게 높여 AI 서비스 효율성을 혁신한다."
+      "title_ko": "GPT-5.6 솔 울트라패스트 가속",
+      "summary_ko": "GPT-5.6 가속 기술"
     },
     {
       "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
@@ -133,8 +148,8 @@
       "points": 299,
       "comments": 168,
       "hn_url": "https://news.ycombinator.com/item?id=49285418",
-      "title_ko": "Nine PBS sues Iron Mountain over blocked access to archival data",
-      "summary_ko": "Nine PBS가 아이언 마운틴을 상대로 보관 데이터 접근 차단을 이유로 소송을 제기해 데이터 보존 이슈가 부각된다."
+      "title_ko": "나인 PBS, 아카이브 데이터 접근 차단으로 아이언 마운틴 고소",
+      "summary_ko": "아카이브 데이터 접근 분쟁"
     },
     {
       "title": "Choosing an AI model: one prompt, 11 models, different results",
@@ -142,17 +157,17 @@
       "points": 199,
       "comments": 85,
       "hn_url": "https://news.ycombinator.com/item?id=49285327",
-      "title_ko": "Choosing an AI model: one prompt, 11 models, different results",
-      "summary_ko": "같은 프롬프트에 11개 AI 모델을 적용해 결과 차이를 비교하며 모델 선택의 중요성을 강조한다."
+      "title_ko": "AI 모델 선택: 하나의 프롬프트, 11개 모델, 다른 결과",
+      "summary_ko": "다양한 AI 모델 비교"
     },
     {
       "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
       "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-      "points": 100,
+      "points": 101,
       "comments": 57,
       "hn_url": "https://news.ycombinator.com/item?id=49290768",
-      "title_ko": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-      "summary_ko": "ChatGPT 활용 사례를 분석해 기업들의 AI 도입 현황과 효과를 실증적으로 제시한다."
+      "title_ko": "조직에서 AI 사용: ChatGPT 증거 [PDF]",
+      "summary_ko": "조직의 AI 사용 사례"
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -160,8 +175,8 @@
       "points": 9,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=48351958",
-      "title_ko": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "summary_ko": "npm-scan은 최신 공급망 보안 솔루션으로 npm 패키지의 취약점을 자동으로 탐지한다."
+      "title_ko": "npm-스캔: npm 에코시스템을 위한 현대적인 공급망 보안",
+      "summary_ko": "npm 보안 도구"
     },
     {
       "title": "SnapState - Persistent state for AI agent workflows",
@@ -169,17 +184,17 @@
       "points": 6,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=47759400",
-      "title_ko": "SnapState - Persistent state for AI agent workflows",
-      "summary_ko": "SnapState는 AI 에이전트 워크플로우에 영구 상태 저장을 제공해 복잡한 작업 관리에 도움을 준다."
+      "title_ko": "스냅스테이트 - AI 에이전트 워크플로우를 위한 지속적인 상태",
+      "summary_ko": "AI 에이전트 워크플로우 상태 관리"
     },
     {
       "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
       "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-      "points": 4,
+      "points": 5,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=49295238",
-      "title_ko": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-      "summary_ko": "Ruby 4.0의 범용 RCE 역직렬화 체인을 공개해 취약점 악용 위험을 경고한다."
+      "title_ko": "루비 4.0 유니버설 RCE 디시리얼라이제이션 가젯 체인",
+      "summary_ko": "루비 보안 취약점"
     }
   ],
   "reddit": [
@@ -187,37 +202,49 @@
       "title": "Best Local LLMs - August 2026",
       "sub": "LocalLLaMA",
       "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
+      "title_ko": "8월의 최고의 로컬 LLM",
+      "summary_ko": "로컬 LLM에 대한 정보"
     },
     {
       "title": "GLM 5.3 Released",
       "sub": "LocalLLaMA",
       "author": "jmorant555",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vny9zs/glm_53_released/",
+      "title_ko": "GLM 5.3 버전 출시",
+      "summary_ko": "GLM 5.3 버전이 출시"
     },
     {
       "title": "Trained a 1.5B to write shell commands so I'd stop googling tar flags. Runs on a laptop CPU in ~1 sec.",
       "sub": "LocalLLaMA",
       "author": "PicassoOnPause",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnl0um/trained_a_15b_to_write_shell_commands_so_id_stop/",
+      "title_ko": "쉘 명령어 작성용 1.5B 모델 훈련",
+      "summary_ko": "쉘 명령어 작성용 모델 훈련"
     },
     {
       "title": "It's actually crazy how good DSv4 Flash 0731 is",
       "sub": "LocalLLaMA",
       "author": "Master-Meal-77",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnyiqa/its_actually_crazy_how_good_dsv4_flash_0731_is/",
+      "title_ko": "DSv4 Flash 0731의 놀라운 성능",
+      "summary_ko": "DSv4 Flash 0731의 성능"
     },
     {
       "title": "MiniMax-Music3 released!",
       "sub": "LocalLLaMA",
       "author": "Acceptable-Cycle4645",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vngww3/minimaxmusic3_released/",
+      "title_ko": "MiniMax-Music3 출시",
+      "summary_ko": "MiniMax-Music3 모델 출시"
     },
     {
       "title": "How AI text watermarking works",
       "sub": "LocalLLaMA",
       "author": "johnnyApplePRNG",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vnrvr5/how_ai_text_watermarking_works/",
+      "title_ko": "AI 텍스트 워터마킹 작동 원리",
+      "summary_ko": "AI 텍스트 워터마킹 원리"
     }
   ],
   "youtube": [
@@ -227,8 +254,8 @@
       "url": "https://www.youtube.com/watch?v=8zdtEaFLcSk",
       "published": "2026-08-14",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou",
-      "title_ko": "왜 Khabib가 훈련 중 Lex를 때렸는가",
-      "summary_ko": "Lex Fridman 팟캐스트 전체 영상(영어 더빙)에서 Khabib가 훈련 중 Lex를 때린 이유를 다룹니다."
+      "title_ko": "카비브가 레کس를 훈련 중에 때린 이유",
+      "summary_ko": "카비브와 레克斯의 훈련 중 사건"
     },
     {
       "title": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
@@ -237,7 +264,7 @@
       "published": "2026-08-13",
       "desc": "사람에겐 너무 쉬운 비닐봉지 묶기, 전구 갈기. 하지만 로봇에겐 꽤 어려운 일입니다. 물체는 계속 움직이고, 미끄러지고, 모양까지 바뀝니다. 그래서 손의 힘과 위치를 매 순간 다시 판단해야 하죠. Gemini Robotics는 보고, 이해하고, 바로 움직입니다. 정해진 동작을 반복하는 게 아니라, 상황에 맞춰 손을 쓰는 겁니다. 이제 로봇의 손은 움직이는 손에서, 판단하는 손으로 바뀌고 있습니다. #로봇 #휴머노이드 #로봇손",
       "title_ko": "비닐봉지 매듭까지 묶는다? 로봇 손이 정교해진 이유",
-      "summary_ko": "Gemini Robotics는 물체 움직임을 실시간 판단해 비닐봉지 매듭까지 정교하게 잡는 로봇 손을 선보입니다."
+      "summary_ko": "로봇 손의 정교화 기술"
     },
     {
       "title": "1시간 업무가 5분이 됐는데 생긴 문제 #Shorts",
@@ -245,8 +272,8 @@
       "url": "https://www.youtube.com/shorts/ApG_guYGgbY",
       "published": "2026-08-13",
       "desc": "AI가 시간을 줄여도 조직의 KPI와 보상 구조가 바뀌지 않으면 가짜노동이 늘어날 수 있다는 현실적인 문제입니다. 원본 영상: https://youtu.be/tfrFshE60zY #AI프렌즈 #AIFrenz #AI #Shorts",
-      "title_ko": "1시간 업무가 5분이 됐는데 생긴 문제 #Shorts",
-      "summary_ko": "AI로 업무 시간이 단축돼도 KPI·보상 체계가 변하지 않으면 가짜 노동이 늘어날 수 있음을 경고합니다."
+      "title_ko": "1시간 업무가 5분이 됐는데 생긴 문제",
+      "summary_ko": "AI로 업무 시간 단축의 문제점"
     },
     {
       "title": "The BEST local AI video generator just got BETTER!",
@@ -254,8 +281,8 @@
       "url": "https://www.youtube.com/watch?v=G3YHSvXZP_g",
       "published": "2026-08-12",
       "desc": "Minimax H3 advanced tutorial. Minimax H3 with low VRAM, turbo loras, live preview, etc. #ai #aitools #aivideo #minimax #comfyui Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-XuZcwW Part 1 Minimax H3 installation tutorial: https://youtu.be/8Hut",
-      "title_ko": "최고의 로컬 AI 영상 생성기가 더욱 강력해졌습니다",
-      "summary_ko": "Minimax H3의 저 VRAM, 터보 LoRA, 실시간 미리보기 등 최신 기능을 소개하는 튜토리얼 영상입니다."
+      "title_ko": "최선의 지역 AI 비디오 생성기가 더욱 개선되었습니다!",
+      "summary_ko": "로컬 AI 비디오 생성기 업그레이드"
     },
     {
       "title": "OpenAI’s AI Agents Just Crossed A Line",
@@ -263,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=JQ97GiDwPxc",
       "published": "2026-08-11",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 More reports are available here: https://openai.com/index/hugging-face-model-evaluation-security-incident/ https://huggingface.co/blog/security-incident-july-2026 https://huggingface.co/blog/agen",
-      "title_ko": "OpenAI AI 에이전트가 한계를 넘었습니다",
-      "summary_ko": "OpenAI 에이전트의 보안·윤리 문제와 관련된 최신 사건을 Two Minute Papers가 분석합니다."
+      "title_ko": "OpenAI의 AI 에이전트가 한계를 넘었다",
+      "summary_ko": "OpenAI의 AI 에이전트 기술"
     },
     {
       "title": "AI is getting a little out of control",
@@ -272,29 +299,35 @@
       "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
       "published": "2026-08-06",
       "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea",
-      "title_ko": "AI가 조금씩 통제 불능으로 가고 있습니다",
-      "summary_ko": "수학적 혁신과 AI 에이전트 군집이 남긴 비밀 메시지 등, AI 위험성을 AI Explained가 조명합니다."
+      "title_ko": "AI가 조금씩 제어를 벗어나고 있다",
+      "summary_ko": "AI의 발전과 제어 문제"
     },
     {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
       "channel": "조코딩",
       "url": "https://www.youtube.com/watch?v=y-NO9Nt6PuA",
       "published": "2026-08-05",
-      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과"
+      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과",
+      "title_ko": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
+      "summary_ko": "백엔드 개발 부트캠프 설명회"
     },
     {
       "title": "The 64 sugar cubes puzzle",
       "channel": "Andrej Karpathy",
       "url": "https://www.youtube.com/shorts/6XPlmCDNLNc",
       "published": "2026-07-24",
-      "desc": "See all monthly puzzles: https://momath.org/mindbenders/"
+      "desc": "See all monthly puzzles: https://momath.org/mindbenders/",
+      "title_ko": "64개의 설탕 큐브 퍼즐",
+      "summary_ko": "수학 퍼즐 게임"
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
       "channel": "테디노트",
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
       "published": "2026-07-11",
-      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
+      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
+      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
+      "summary_ko": "브레인크루 채용 설명회"
     }
   ],
   "social": []
