@@ -1,200 +1,200 @@
 {
-  "generated_at": "2026-08-15T21:27:31.365635+00:00",
-  "date_label": "2026년 8월 16일 (일)",
+  "generated_at": "2026-08-16T21:26:46.959531+00:00",
+  "date_label": "2026년 8월 17일 (월)",
   "github_trending": [
     {
       "repo": "unslothai/unsloth",
       "url": "https://github.com/unslothai/unsloth",
       "desc": "",
-      "stars_today": 435,
+      "stars_today": 580,
       "lang": "Python",
       "summary_ko": "unslothai/unsloth 프로젝트"
     },
     {
-      "repo": "ashishpatel26/500-AI-Agents-Projects",
-      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+      "repo": "0xSero/ai-data-extraction",
+      "url": "https://github.com/0xSero/ai-data-extraction",
       "desc": "",
-      "stars_today": 74,
+      "stars_today": 66,
       "lang": "Python",
-      "summary_ko": "500개 AI 에이전트 프로젝트"
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 70,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "초보자를 위한 마이크로소프트 AI 에이전트"
+      "summary_ko": "0xSero의 AI 데이터 추출"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 37,
+      "stars_today": 44,
       "lang": "Jupyter Notebook",
-      "summary_ko": "클라우드 쿠크북 프로젝트"
+      "summary_ko": "anthropics의 Claude Cookbooks"
     },
     {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
+      "repo": "GokuMohandas/Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
       "desc": "",
       "stars_today": 14,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI 책 프로젝트"
+      "summary_ko": "GokuMohandas의 Made-With-ML"
     },
     {
-      "repo": "charliedream1/ai_quant_trade",
-      "url": "https://github.com/charliedream1/ai_quant_trade",
+      "repo": "xai-org/grok-1",
+      "url": "https://github.com/xai-org/grok-1",
       "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "인공지능 양적 거래 프로젝트"
-    },
-    {
-      "repo": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "초보자를 위한 마이크로소프트 인증 프로그램"
-    },
-    {
-      "repo": "unslothai/notebooks",
-      "url": "https://github.com/unslothai/notebooks",
-      "desc": "",
-      "stars_today": 7,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "노트북 프로젝트"
-    },
-    {
-      "repo": "bbruceyuan/Hands-On-Large-Language-Models-CN",
-      "url": "https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN",
-      "desc": "",
-      "stars_today": 7,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "중국어 대형 언어 모델 프로젝트"
-    },
-    {
-      "repo": "DataTalksClub/llm-zoomcamp",
-      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
-      "desc": "",
-      "stars_today": 7,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "LLM 줌캠프 프로젝트"
-    },
-    {
-      "repo": "anthropics/courses",
-      "url": "https://github.com/anthropics/courses",
-      "desc": "",
-      "stars_today": 6,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "인공지능 강의 프로젝트"
+      "stars_today": 13,
+      "lang": "Python",
+      "summary_ko": "xai-org의 Grok-1"
     },
     {
       "repo": "google-gemini/cookbook",
       "url": "https://github.com/google-gemini/cookbook",
       "desc": "",
-      "stars_today": 6,
+      "stars_today": 13,
       "lang": "Jupyter Notebook",
-      "summary_ko": "구글 쿠크북 프로젝트"
+      "summary_ko": "google-gemini의 Cookbook"
     },
     {
       "repo": "ed-donner/agents",
       "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 5,
+      "stars_today": 9,
       "lang": "Jupyter Notebook",
-      "summary_ko": "에이전트 프로젝트"
+      "summary_ko": "ed-donner의 에이전트"
     },
     {
-      "repo": "PolymathicAI/the_well",
-      "url": "https://github.com/PolymathicAI/the_well",
+      "repo": "unslothai/notebooks",
+      "url": "https://github.com/unslothai/notebooks",
+      "desc": "",
+      "stars_today": 6,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "unslothai의 노트북"
+    },
+    {
+      "repo": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
       "desc": "",
       "stars_today": 5,
       "lang": "Jupyter Notebook",
-      "summary_ko": "인공지능 프로젝트"
+      "summary_ko": "NirDiamant의 에이전트"
     },
     {
-      "repo": "fastai/fastbook",
-      "url": "https://github.com/fastai/fastbook",
+      "repo": "openai/CLIP",
+      "url": "https://github.com/openai/CLIP",
       "desc": "",
-      "stars_today": 2,
+      "stars_today": 5,
       "lang": "Jupyter Notebook",
-      "summary_ko": "패스트북 프로젝트"
+      "summary_ko": "openai의 CLIP"
+    },
+    {
+      "repo": "DataTalksClub/llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "desc": "",
+      "stars_today": 5,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "DataTalksClub의 LLM Zoomcamp"
+    },
+    {
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "desc": "",
+      "stars_today": 3,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "GoogleCloudPlatform의 생성적 AI"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "desc": "",
+      "stars_today": 1583,
+      "lang": "Python",
+      "summary_ko": "public-apis의 공개 API"
+    },
+    {
+      "repo": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "",
+      "stars_today": 781,
+      "lang": "Python",
+      "summary_ko": "usestrix의 Strix"
+    },
+    {
+      "repo": "cordiverse/cordis",
+      "url": "https://github.com/cordiverse/cordis",
+      "desc": "",
+      "stars_today": 719,
+      "lang": "TypeScript",
+      "summary_ko": "cordiverse의 Cordis"
     }
   ],
   "hackernews": [
     {
-      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "points": 283,
-      "comments": 245,
-      "hn_url": "https://news.ycombinator.com/item?id=49312845",
-      "title_ko": "수학자들을 능가하는 것이 아닌 기억력을 능가하는 AI",
-      "summary_ko": "AI는 수학자들을 능가하는 것이 아닌 기억력을 능가한다."
+      "title": "Claude: System Prompts",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "points": 443,
+      "comments": 191,
+      "hn_url": "https://news.ycombinator.com/item?id=49319556",
+      "title_ko": "클로드: 시스템 프롬프트",
+      "summary_ko": "클라우드 시스템 프롬프트에 대해 논의"
     },
     {
-      "title": "Working with AI Feels More Like Leadership Than Coding",
-      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-      "points": 216,
-      "comments": 157,
-      "hn_url": "https://news.ycombinator.com/item?id=49309451",
-      "title_ko": "AI와 협업은 코딩보다 리더십에 가깝다",
-      "summary_ko": "AI와 협업은 코딩보다 리더십에 가깝다."
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+      "points": 330,
+      "comments": 117,
+      "hn_url": "https://news.ycombinator.com/item?id=49319389",
+      "title_ko": "\"신장 실망\" 대신 \"신장 실패\"를 사용하는 연구 논문",
+      "summary_ko": "신장 실패를 신장 실망으로 표현한 논문"
     },
     {
-      "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-      "url": "https://www.nature.com/articles/d41586-026-02448-x",
-      "points": 124,
-      "comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49312008",
-      "title_ko": "알츠하이머병 수술이 증상을 역전시킨다",
-      "summary_ko": "알츠하이머병 수술이 증상을 역전시킨다."
+      "title": "The AI Credit Resale Economy",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "points": 189,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49320611",
+      "title_ko": "인공지능 신용 재판매 경제",
+      "summary_ko": "인공지능 신용 재판매 경제에 대해 설명"
     },
     {
-      "title": "Could a computer scientist build a brain?",
-      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-      "points": 73,
-      "comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=49310362",
-      "title_ko": "컴퓨터 과학자가 뇌를 만들 수 있을까?",
-      "summary_ko": "컴퓨터 과학자가 뇌를 만들 수 있을까?"
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "points": 159,
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49322695",
+      "title_ko": "의도적으로 더미가 되는 모델들",
+      "summary_ko": "의도적으로 더미가 되는 모델에 대해 논의"
     },
     {
-      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
-      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-      "points": 49,
-      "comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49310495",
-      "title_ko": "Yadda 3.0.0: AI 에이전트 시대의 BDD",
-      "summary_ko": "Yadda 3.0.0은 AI 에이전트 시대의 BDD이다."
-    },
-    {
-      "title": "AI in drug discovery — what it is, where we stand and the path forward",
-      "url": "https://www.nature.com/articles/s41573-026-01496-2",
-      "points": 43,
-      "comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49313367",
-      "title_ko": "약물 발견에서 AI의 역할",
-      "summary_ko": "약물 발견에서 AI의 역할을 살펴본다."
-    },
-    {
-      "title": "Israeli PR wants to answer your ChatGPT questions",
-      "url": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
       "points": 33,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49313477",
-      "title_ko": "이스라엘 PR이 ChatGPT 질문에 답변한다",
-      "summary_ko": "이스라엘 PR이 ChatGPT 질문에 답변한다."
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49322330",
+      "title_ko": "매스코드, 수학 코딩 에이전트",
+      "summary_ko": "수학 코딩 에이전트 매스코드 소개"
     },
     {
-      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
-      "url": "https://github.com/lateos-ai/npm-scan",
-      "points": 9,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=48351958",
-      "title_ko": "npm-scan: npm 생태계를 위한 현대적인 공급망 보안",
-      "summary_ko": "npm-scan은 npm 생태계를 위한 현대적인 공급망 보안이다."
+      "title": "The Case Against Formal Verification, 50 Years Later",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "points": 27,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49323459",
+      "title_ko": "형식 검증에 대한 반대, 50년 후",
+      "summary_ko": "형식 검증에 대한 반대 의견"
+    },
+    {
+      "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "points": 24,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49323381",
+      "title_ko": "스트라이프, 70억 달러 넘는 AI 기업 오픈루터 인수",
+      "summary_ko": "스트라이프의 오픈루터 인수 소식"
+    },
+    {
+      "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+      "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+      "points": 21,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=49279624",
+      "title_ko": "아치 노크로스 메인 산불 지도 (1918-22)",
+      "summary_ko": "아치 노크로스의 메인 산불 지도"
     }
   ],
   "reddit": [
@@ -203,77 +203,77 @@
       "sub": "LocalLLaMA",
       "author": "rm-rf-rm",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/",
-      "title_ko": "최근 최고의 로컬 LLM - 2026년 8월",
-      "summary_ko": "로컬 LLM에 대한 최근 정보"
+      "title_ko": "8월 최고의 로컬 LLM",
+      "summary_ko": "로컬 LLM에 대한 정보를 공유"
     },
     {
-      "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+      "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
       "sub": "MachineLearning",
-      "author": "eccLykta",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
-      "title_ko": "데이터셋: Starfield Fauna - 50개 종류의 20,000개 이미지",
-      "summary_ko": "새로운 데이터셋이 공개됨"
+      "author": "4rtemi5",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/",
+      "title_ko": "SSOG-Attention",
+      "summary_ko": "신경망의 효율적인 주목 메커니즘"
     },
     {
-      "title": "Aged like fine wine",
+      "title": "Let’s all thank Georgi Gerganov who gave use llama.cpp",
       "sub": "LocalLLaMA",
-      "author": "TigleLive",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vp2nmi/aged_like_fine_wine/",
-      "title_ko": "고급 와인처럼",
-      "summary_ko": "로컬 LLM의 발전"
+      "author": "on_line187",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq1n1l/lets_all_thank_georgi_gerganov_who_gave_use/",
+      "title_ko": "Georgi Gerganov에게 감사",
+      "summary_ko": "로컬 LLM 개발에 기여"
     },
     {
-      "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+      "title": "[Career Advice] Final-year in Physical AI / Robotics. How is the market & global hiring for freshers? [D]",
       "sub": "MachineLearning",
-      "author": "_Sarcastrophe_",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
-      "title_ko": "NeurIPS 2026 저자 통지: ICLR 마감 임박",
-      "summary_ko": "NeurIPS 2026 저자 통지 예정"
+      "author": "avianbob",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vq3p9w/career_advice_finalyear_in_physical_ai_robotics/",
+      "title_ko": "물리적 AI/로봇틱스 취업咨询",
+      "summary_ko": "신입 취업 시장과 글로벌 채용 정보"
     },
     {
-      "title": "Qwen 3.8 35BA3B spotted",
+      "title": "Qwen 3.8 distillations",
       "sub": "LocalLLaMA",
-      "author": "BazzyIm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1voxppd/qwen_38_35ba3b_spotted/",
-      "title_ko": "Qwen 3.8 35BA3B 발견",
-      "summary_ko": "새로운 Qwen 버전 발견"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vq3gig/qwen_38_distillations/",
+      "title_ko": "Qwen 3.8 디스틸레이션",
+      "summary_ko": "Qwen 모델의 개선된 버전"
     },
     {
-      "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+      "title": "How can we solve long-range recall in linear attention? [D]",
       "sub": "MachineLearning",
-      "author": "BadOk2793",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
-      "title_ko": "GPU로 만들 수 있는 것",
-      "summary_ko": "GPU로 만들 수 있는 프로젝트"
+      "author": "No-Coffee-8227",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpqwdc/how_can_we_solve_longrange_recall_in_linear/",
+      "title_ko": "선형 주목의 장거리 회상 해결",
+      "summary_ko": "신경망의 주목 메커니즘 개선"
     }
   ],
   "youtube": [
     {
-      "title": "Khabib on relationship with his father | Khabib Nurmagomedov and Lex Fridman",
+      "title": "MMA vs street fighting - Khabib explains the difference | Khabib Nurmagomedov and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=EdTZyYG8Tfo",
-      "published": "2026-08-15",
+      "url": "https://www.youtube.com/watch?v=0cpfK0QHaAU",
+      "published": "2026-08-16",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou",
-      "title_ko": "하비브와 아버지의 관계 | 하비브 누르마고메도프와 렉스 프리드만",
-      "summary_ko": "하비브 누르마고메도프가 렉스 프리드만과 아버지에 대해 이야기한다."
+      "title_ko": "MMA 대 스트리트 파이팅 - 하비브 누르마고메도프와 렉스 프리드만",
+      "summary_ko": "하비브 누르마고메도프와 렉스 프리드만의 대화"
     },
     {
-      "title": "The BEST local AI music generator is here!",
+      "title": "New Deepseek, GLM 5.3, Grok 4.6, LTX 2.5, Qwen 3.8, Gemini 3.7: AI NEWS",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=aUcDyeZgz_k",
-      "published": "2026-08-15",
-      "desc": "Minimax Music 3 tutorial. Free open source AI music generator #ai #aitools #aimusic #agi #suno Thanks to our sponsor Higgsfield. EARLY ACCESS to Seedance 2.5 1080p is now LIVE https://higgsfield.ai/s/theaisearch-KjSNaO Minimax Music for Comfy https://docs.comfy.org/tutorials/audi",
-      "title_ko": "최고의 지역 AI 음악 생성기!",
-      "summary_ko": "Minimax Music 3를紹介하는 영상이다."
+      "url": "https://www.youtube.com/watch?v=62HSUsS0ypo",
+      "published": "2026-08-16",
+      "desc": "HUGE AI NEWS: Deepseek v4 0813, Qwen 3.8 27B, GLM 5.3, Grok 4.6, LTX 2.5, GPT Ultrafast & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Genspark. Get 10% off the Genspark SecondBrain Note: https://shop.genspark.ai/s/theaisearch @GensparkProduct. JoyAI video edit h",
+      "title_ko": "뉴 디프시크, GLM 5.3, 그록 4.6, LTX 2.5, 퀸 3.8, 제미니 3.7: AI 뉴스",
+      "summary_ko": "최신 AI 뉴스와 도구 업데이트"
     },
     {
-      "title": "반도체 공정의 핵심 오버레이!",
+      "title": "HBM 수요 갉아먹는 HBF, 왜 SK하이닉스가 직접 미나 | 최태원 인터뷰에서 찾은 힌트, SK하이닉스의 다음 메모리 전략",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/Uwia6sxbLPM",
-      "published": "2026-08-15",
-      "desc": "#반도체 #반도체공정 #오버레이",
-      "title_ko": "반도체 공정의 핵심 오버레이!",
-      "summary_ko": "반도체 공정의 핵심인 오버레이에 대해 설명한다."
+      "url": "https://www.youtube.com/watch?v=N55e6QRhyu8",
+      "published": "2026-08-16",
+      "desc": "이번 영상은 최태원 SK그룹 회장의 CNBC 인터뷰를 바탕으로 SK하이닉스의 HBF 전략을 살펴봤습니다.지금 SK하이닉스는 HBM으로 역대급 실적을 내고 있지만, 동시에 HBM 수요 일부를 줄일 수도 있는 HBF를 적극적으로 추진하고 있습니다.겉으로 보면 자기 주력 상품 수요를 스스로 갉아먹는 선택처럼 보이죠.영상에서는 왜 이런 일이 벌어지는지 최태원 회장의 발언을 따라가며 정리했습니다.AI 에이전트 확산과 모델 웨이트, KV 캐시가 메모리 수요를 어떻게 바꾸는지도 함께 설명합니다.또 엔비디아가 ",
+      "title_ko": "HBM 수요를 갉아먹는 HBF, 왜 SK하이닉스가 직접 미나?",
+      "summary_ko": "SK하이닉스의 HBF 전략과 미래 전략"
     },
     {
       "title": "aitoon skill 개발기 + aitoon 제작기 (조남경 작가)",
@@ -281,8 +281,8 @@
       "url": "https://www.youtube.com/watch?v=4GrX0PsGwJ0",
       "published": "2026-08-15",
       "desc": "1.Claude Skill - aitoon-comic / aitoon-verdical-director / aitoon-comic-insta 2.스킬 제작기 3.스킬 활용 만화 연재 베터 프로그램 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000",
-      "title_ko": "aitoon 스킬 개발기 + aitoon 제작기",
-      "summary_ko": "aitoon 스킬 개발과 제작 과정을紹介한다."
+      "title_ko": "아이툰 스킬 개발기 + 아이툰 제작기",
+      "summary_ko": "아이툰 스킬 개발과 제작 과정"
     },
     {
       "title": "Claude AI Failed 650 Times…Then Beat The Human Record",
@@ -290,8 +290,8 @@
       "url": "https://www.youtube.com/watch?v=QnGNF8k_uoc",
       "published": "2026-08-14",
       "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper is available here: https://www.anthropic.com/research/riemann-zeta Source: https://www.scientificamerican.com/article/no-ai-didnt-just-solve-the-thorniest-problem-in-math/ 🙏 We wou",
-      "title_ko": "Claude AI, 650번의 실패 후 인간 기록 깨다",
-      "summary_ko": "Claude AI가 650번의 실패 후 인간 기록을 깨는 내용이다."
+      "title_ko": "클라우드 AI 650번 실패 후 인간 기록 깨다",
+      "summary_ko": "클라우드 AI의 성과와 발전"
     },
     {
       "title": "AI is getting a little out of control",
@@ -299,8 +299,8 @@
       "url": "https://www.youtube.com/watch?v=xGzseSSStnw",
       "published": "2026-08-06",
       "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea",
-      "title_ko": "AI가 조금씩 제어를 벗어나고 있다",
-      "summary_ko": "AI의 발전이 조금씩 제어를 벗어나고 있는 상황을介绍한다."
+      "title_ko": "AI는 조금씩 제어를 벗어나고 있다",
+      "summary_ko": "AI의 발전과 제어 문제"
     },
     {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
@@ -308,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=y-NO9Nt6PuA",
       "published": "2026-08-05",
       "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과",
-      "title_ko": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
-      "summary_ko": "백엔드 Java&Spring 부트캠프에 대한 사전설명회를 개최한다."
+      "title_ko": "멋쟁이사자처럼 백엔드 자바&스프링 부트캠프 사전설명회",
+      "summary_ko": "백엔드 자바&스프링 부트캠프 설명회"
     },
     {
       "title": "The 64 sugar cubes puzzle",
@@ -318,7 +318,7 @@
       "published": "2026-07-24",
       "desc": "See all monthly puzzles: https://momath.org/mindbenders/",
       "title_ko": "64개의 설탕 큐브 퍼즐",
-      "summary_ko": "64개의 설탕 큐브 퍼즐을紹介한다."
+      "summary_ko": "설탕 큐브 퍼즐 풀이"
     },
     {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
@@ -326,8 +326,8 @@
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
       "published": "2026-07-11",
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
-      "summary_ko": "브레인크루의 유튜브 LIVE 크루 채용 설명회를 개최한다."
+      "title_ko": "브레인크루 X 테디노트 브레인크루 유튜브 LIVE 크루 채용 설명회 2026",
+      "summary_ko": "브레인크루의 채용 설명회"
     }
   ],
   "social": []
