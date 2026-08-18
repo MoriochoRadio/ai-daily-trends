@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-08-17T21:31:48.219480+00:00",
-  "date_label": "2026년 8월 18일 (화)",
+  "generated_at": "2026-08-18T21:30:25.041526+00:00",
+  "date_label": "2026년 8월 19일 (수)",
   "github_trending": [
-    {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
-      "desc": "",
-      "stars_today": 784,
-      "lang": "Python"
-    },
-    {
-      "repo": "AlexsJones/llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "desc": "",
-      "stars_today": 239,
-      "lang": "Rust"
-    },
-    {
-      "repo": "alirezadir/AIMLInterviews",
-      "url": "https://github.com/alirezadir/AIMLInterviews",
-      "desc": "",
-      "stars_today": 230,
-      "lang": "Jupyter Notebook"
-    },
     {
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "desc": "",
-      "stars_today": 207,
+      "stars_today": 730,
       "lang": "Rust"
-    },
-    {
-      "repo": "anthropics/defending-code-reference-harness",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
-      "desc": "",
-      "stars_today": 176,
-      "lang": "Python"
     },
     {
       "repo": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "desc": "",
-      "stars_today": 156,
+      "stars_today": 726,
+      "lang": "Python"
+    },
+    {
+      "repo": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "desc": "",
+      "stars_today": 556,
+      "lang": "Python"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "",
+      "stars_today": 443,
+      "lang": "Python"
+    },
+    {
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "desc": "",
+      "stars_today": 256,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "alirezadir/AIMLInterviews",
+      "url": "https://github.com/alirezadir/AIMLInterviews",
+      "desc": "",
+      "stars_today": 217,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 139,
       "lang": "Python"
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 145,
+      "stars_today": 125,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 55,
+      "stars_today": 122,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "pipeshub-ai/pipeshub-ai",
+      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "desc": "",
+      "stars_today": 50,
       "lang": "Python"
     },
     {
-      "repo": "google-gemini/cookbook",
-      "url": "https://github.com/google-gemini/cookbook",
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 16,
+      "stars_today": 31,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "GokuMohandas/Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
+      "repo": "decodingai-magazine/second-brain-ai-assistant-course",
+      "url": "https://github.com/decodingai-magazine/second-brain-ai-assistant-course",
       "desc": "",
-      "stars_today": 15,
+      "stars_today": 27,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Blaizzy/mlx-audio",
-      "url": "https://github.com/Blaizzy/mlx-audio",
-      "desc": "",
-      "stars_today": 12,
-      "lang": "Python"
     },
     {
       "repo": "ed-donner/llm_engineering",
       "url": "https://github.com/ed-donner/llm_engineering",
       "desc": "",
-      "stars_today": 9,
+      "stars_today": 17,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 8,
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/llm-universe",
-      "url": "https://github.com/datawhalechina/llm-universe",
+      "repo": "anthropics/courses",
+      "url": "https://github.com/anthropics/courses",
       "desc": "",
-      "stars_today": 8,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "unslothai/notebooks",
-      "url": "https://github.com/unslothai/notebooks",
-      "desc": "",
-      "stars_today": 6,
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "points": 316,
-      "comments": 184,
-      "hn_url": "https://news.ycombinator.com/item?id=49336573"
+      "title": "Universal health coverage could save $1T and 114k lives a year: study",
+      "url": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
+      "points": 604,
+      "comments": 694,
+      "hn_url": "https://news.ycombinator.com/item?id=49332981"
     },
     {
-      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-      "points": 275,
-      "comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=49329575"
+      "title": "Using the railway network as a flatbed scanner",
+      "url": "https://philo.gay/linecam/",
+      "points": 360,
+      "comments": 56,
+      "hn_url": "https://news.ycombinator.com/item?id=49344825"
     },
     {
-      "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "points": 274,
-      "comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=49331423"
+      "title": "Fairphone is now officially available in the United States",
+      "url": "https://www.fairphone.com/nl/stories/the-fairphone-gen-6-is-all-about-giving-you-more",
+      "points": 330,
+      "comments": 169,
+      "hn_url": "https://news.ycombinator.com/item?id=49344811"
     },
     {
-      "title": "On AI regulation and messaging",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "points": 222,
-      "comments": 473,
-      "hn_url": "https://news.ycombinator.com/item?id=49325789"
+      "title": "Data centers raise nearby temperatures by up to 4 degrees in Phoenix",
+      "url": "https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban",
+      "points": 254,
+      "comments": 342,
+      "hn_url": "https://news.ycombinator.com/item?id=49349147"
     },
     {
-      "title": "How to disable or avoid intrusive AI",
-      "url": "https://www.librarian.net/notoai/",
-      "points": 206,
-      "comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=49331220"
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "points": 152,
+      "comments": 170,
+      "hn_url": "https://news.ycombinator.com/item?id=49351330"
     },
     {
-      "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-      "url": "https://speko.ai/",
-      "points": 79,
-      "comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49332751"
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "points": 39,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49350031"
     },
     {
-      "title": "Show HN: Sokoban AI Solver",
-      "url": "https://mkornreich.me/projects/sokoban/",
-      "points": 63,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49330215"
+      "title": "Show HN: macOS data protection keychain for Electron apps",
+      "url": "https://github.com/biw/keychain-store",
+      "points": 19,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49349159"
     },
     {
-      "title": "An update on leaving Gmail for Fastmail",
-      "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-      "points": 46,
-      "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49334409"
+      "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
+      "url": "https://github.com/lateos-ai/npm-scan",
+      "points": 9,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=48351958"
     }
   ],
   "reddit": [
@@ -174,57 +174,64 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "How to make any Sparse Attention / KV Compression look good? [D] [R]",
-      "sub": "MachineLearning",
-      "author": "korec1234",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vqqqcs/how_to_make_any_sparse_attention_kv_compression/"
-    },
-    {
-      "title": "Artificial Analysis' Qwen3.8-27B benchmarks put it neck and neck with DeepSeek V4 and GPT-5.6 Luna Max",
+      "title": "Running DeepSeek V4 Flash Q4_K_XL at ~100 tok/s prompt processing on 4× RTX 3060 12GB",
       "sub": "LocalLLaMA",
-      "author": "anderspitman",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqyq8r/artificial_analysis_qwen3827b_benchmarks_put_it/"
+      "author": "syscomua",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrqf4f/running_deepseek_v4_flash_q4_k_xl_at_100_toks/"
     },
     {
-      "title": "[R] SineKAN: Kolmogorov-Arnold Networks Using Sinusoidal Activation Functions",
-      "sub": "MachineLearning",
-      "author": "jacobgorm",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vqdode/r_sinekan_kolmogorovarnold_networks_using/"
-    },
-    {
-      "title": "After pushing 1M+ tokens through Qwen 3.8 27B, here is my optimal llama.cpp config for 16GB VRAM (73k Context, Agentic Coding)",
+      "title": "Memory prices climb 500% in 12 months, up to 10x the lowest ever tracked prices - 128GB of DDR5 now $3,399",
       "sub": "LocalLLaMA",
-      "author": "chiribe",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vqrt86/after_pushing_1m_tokens_through_qwen_38_27b_here/"
+      "author": "johnnyApplePRNG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vrwsfl/memory_prices_climb_500_in_12_months_up_to_10x/"
     },
     {
-      "title": "SSOG-Attention: Sum Of Separable Gaussians as a sub-quadratic and scalable alternative to SDPA. [R]",
-      "sub": "MachineLearning",
-      "author": "4rtemi5",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpt6ay/ssogattention_sum_of_separable_gaussians_as_a/"
+      "title": "Alibaba's RISC-V CPU, XuanTie C950, Runs Qwen-3.8 27B at 30 tps",
+      "sub": "LocalLLaMA",
+      "author": "DeltaSqueezer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vs0wsl/alibabas_riscv_cpu_xuantie_c950_runs_qwen38_27b/"
+    },
+    {
+      "title": "and here we are",
+      "sub": "LocalLLaMA",
+      "author": "johnnyApplePRNG",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vry2ns/and_here_we_are/"
+    },
+    {
+      "title": "Qwen3.8-27B: slower tokens, faster and better results",
+      "sub": "LocalLLaMA",
+      "author": "surreal_tournament",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vru16d/qwen3827b_slower_tokens_faster_and_better_results/"
     }
   ],
   "youtube": [
     {
-      "title": "Khabib on Roger Gracie's greatness | Khabib Nurmagomedov and Lex Fridman",
+      "title": "The jumping pegs puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
+      "published": "2026-08-18",
+      "desc": "Part of a series of monthly puzzles with MoMath."
+    },
+    {
+      "title": "The psychology of fear in fighting | Khabib Nurmagomedov and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=NRaXbLHwfwE",
-      "published": "2026-08-17",
+      "url": "https://www.youtube.com/watch?v=JlvHKkYopWM",
+      "published": "2026-08-18",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
     },
     {
-      "title": "New #1 open source AI has reached FRONTIER",
+      "title": "The FASTEST local AI video generator",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=ZSNMw8U5h-c",
-      "published": "2026-08-17",
-      "desc": "GLM 5.3 review. New top open source LLM. #ai #aitools #ainews #agi Thanks to our sponsor Hubspot. Check out the AI model sheet cheat: https://clickhubspot.com/891767 Get 10% off Z Coding: https://z.ai/subscribe?im_ref=08823wwcsxyZRplUtW2z3Wn7UkuTChQrhyqt1M0&sharedid=&irpid=493415"
+      "url": "https://www.youtube.com/watch?v=ig3PUfSow5Y",
+      "published": "2026-08-18",
+      "desc": "LTX 2.5 installation tutorial. Free open source AI video generator. How to use LTX 2.5 in ComfyUI #ai #aivideo #aitools #agi https://ltx.io/model/ltx-2-5 Minimax H3 vs LTX 2.5 https://youtu.be/62HSUsS0ypo?t=880 Comfy workflow https://docs.comfy.org/tutorials/video/ltx/ltx-2-5 LTX"
     },
     {
-      "title": "HBM4 기술의 핵심이 바뀌다",
+      "title": "스페이스X 10GW 데이터센터 누가 쓸까?",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/x-qBdbl3th8",
-      "published": "2026-08-17",
-      "desc": "#삼성 #BHM4 #베이스다이"
+      "url": "https://www.youtube.com/shorts/E4gz6V0LNR0",
+      "published": "2026-08-18",
+      "desc": "#스페이스X #데이터센터"
     },
     {
       "title": "aitoon skill 개발기 + aitoon 제작기 (조남경 작가)",
@@ -255,13 +262,6 @@
       "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv27_prelive - 지원 기간 : ~2026.08.17 (월) 오후 11시까지 - 교육 기간 : 2026.08.19 (수) ~ 2027.01.28 (목) 00:00~04:05 : 사전설명회 인트로 04:06~05:45 : 진행자 소개 05:46~06:56 : 진행 순서 안내 06:57~07:48 : 강사 인사 07:49~08:53 : 멋쟁이사자처럼 소개 08:54~21:36 : 백엔드: Java 과"
     },
     {
-      "title": "The 64 sugar cubes puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/6XPlmCDNLNc",
-      "published": "2026-07-24",
-      "desc": "See all monthly puzzles: https://momath.org/mindbenders/"
-    },
-    {
       "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
       "channel": "테디노트",
       "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
@@ -269,12 +269,5 @@
       "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
     }
   ],
-  "social": [
-    {
-      "title": "On AI regulation and messaging",
-      "handle": "@DarioAmodei",
-      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-      "note": "HN 222pts · 473 댓글"
-    }
-  ]
+  "social": []
 }
