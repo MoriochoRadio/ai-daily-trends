@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-08-20T21:34:02.601972+00:00",
-  "date_label": "2026년 8월 21일 (금)",
+  "generated_at": "2026-08-21T21:30:51.296360+00:00",
+  "date_label": "2026년 8월 22일 (토)",
   "github_trending": [
-    {
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "desc": "",
-      "stars_today": 676,
-      "lang": "Python"
-    },
-    {
-      "repo": "chaitanyagiri/munder-difflin",
-      "url": "https://github.com/chaitanyagiri/munder-difflin",
-      "desc": "",
-      "stars_today": 517,
-      "lang": "TypeScript"
-    },
     {
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "desc": "",
-      "stars_today": 335,
+      "stars_today": 468,
       "lang": "Rust"
+    },
+    {
+      "repo": "Tencent/AI-Infra-Guard",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "desc": "",
+      "stars_today": 435,
+      "lang": "Python"
     },
     {
       "repo": "RyanCodrai/turbovec",
       "url": "https://github.com/RyanCodrai/turbovec",
       "desc": "",
-      "stars_today": 251,
+      "stars_today": 348,
       "lang": "Rust"
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
       "desc": "",
-      "stars_today": 232,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 177,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "desc": "",
-      "stars_today": 156,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 113,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/agent-framework",
-      "url": "https://github.com/microsoft/agent-framework",
-      "desc": "",
-      "stars_today": 85,
-      "lang": "Python"
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 68,
-      "lang": "Jupyter Notebook"
+      "stars_today": 344,
+      "lang": "TypeScript"
     },
     {
       "repo": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "desc": "",
-      "stars_today": 66,
+      "stars_today": 245,
       "lang": "Go"
     },
     {
-      "repo": "pipecat-ai/pipecat",
-      "url": "https://github.com/pipecat-ai/pipecat",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 48,
+      "stars_today": 242,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "",
+      "stars_today": 227,
       "lang": "Python"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 173,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 169,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 119,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "desc": "",
+      "stars_today": 115,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "openai/openai-cookbook",
       "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 41,
+      "stars_today": 58,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "HKUDS/LightRAG",
       "url": "https://github.com/HKUDS/LightRAG",
       "desc": "",
-      "stars_today": 40,
+      "stars_today": 49,
+      "lang": "Python"
+    },
+    {
+      "repo": "pipecat-ai/pipecat",
+      "url": "https://github.com/pipecat-ai/pipecat",
+      "desc": "",
+      "stars_today": 41,
       "lang": "Python"
     },
     {
       "repo": "NirDiamant/GenAI_Agents",
       "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 32,
+      "stars_today": 28,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "HTML Can Do That",
-      "url": "https://chrisburnell.com/html-can-do-that/",
-      "points": 471,
-      "comments": 132,
-      "hn_url": "https://news.ycombinator.com/item?id=49362689"
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "points": 459,
+      "comments": 810,
+      "hn_url": "https://news.ycombinator.com/item?id=49383026"
     },
     {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-      "points": 444,
-      "comments": 99,
-      "hn_url": "https://news.ycombinator.com/item?id=49373456"
+      "title": "I'm becoming AI-blind",
+      "url": "https://cymerys.com/w/im-becoming-ai-blind",
+      "points": 194,
+      "comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49386699"
     },
     {
-      "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-      "url": "https://github.com/zachahn/vomit",
-      "points": 138,
-      "comments": 145,
-      "hn_url": "https://news.ycombinator.com/item?id=49375996"
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "points": 166,
+      "comments": 220,
+      "hn_url": "https://news.ycombinator.com/item?id=49357530"
     },
     {
-      "title": "Show HN: Huzzah – a novel approach to coding with AI",
-      "url": "https://www.danielvaughn.dev/posts/huzzah/",
-      "points": 131,
-      "comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=49378768"
+      "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+      "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+      "points": 140,
+      "comments": 103,
+      "hn_url": "https://news.ycombinator.com/item?id=49388752"
     },
     {
-      "title": "DiffusionGemma Technical Report",
-      "url": "https://arxiv.org/abs/2608.00146",
-      "points": 122,
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49374287"
+      "title": "How we made a text-to-speech model respond in sub-50 ms",
+      "url": "https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/",
+      "points": 69,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49389952"
     },
     {
-      "title": "Anti-AI fonts are useless and harmful",
-      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-      "points": 78,
-      "comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=49375719"
-    },
-    {
-      "title": "Hacking with Claude on a $27 smart watch",
-      "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+      "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+      "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
       "points": 66,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=49374772"
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49346135"
     },
     {
-      "title": "Every Model Cheats",
-      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-      "points": 63,
-      "comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=49374635"
+      "title": "Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+      "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory/",
+      "points": 59,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=49390463"
+    },
+    {
+      "title": "Quick impressions: A week of using Codex more than Claude",
+      "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+      "points": 49,
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=49393051"
     }
   ],
   "reddit": [
@@ -174,43 +174,57 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "Ladies and gentlemen I present to you Qwen3.8 27b 1bit brain damage quant",
-      "sub": "LocalLLaMA",
-      "author": "Ok-Health-7096",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtr3h0/ladies_and_gentlemen_i_present_to_you_qwen38_27b/"
+      "title": "Research internship at MSR [D]",
+      "sub": "MachineLearning",
+      "author": "Fuzzy-Pool2415",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vuloyq/research_internship_at_msr_d/"
     },
     {
-      "title": "I just built a mini Kimi-K3 from Scratch under 250$. Already beats GPT-2 (124M)!",
+      "title": "Qwen3.8-27B Q6 is a beast at agentic coding",
       "sub": "LocalLLaMA",
-      "author": "OtherRaisin3426",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vth1c3/i_just_built_a_mini_kimik3_from_scratch_under_250/"
+      "author": "Ok_Ninja7526",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vuotqr/qwen3827b_q6_is_a_beast_at_agentic_coding/"
     },
     {
-      "title": "The boring way to run Deepseek V4 Flash-0731 130-150 tks - 16x5060ti 16GB over 2 PLX88096 switches",
-      "sub": "LocalLLaMA",
-      "author": "Primary_Exchange21",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vthcwk/the_boring_way_to_run_deepseek_v4_flash0731/"
+      "title": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+      "sub": "MachineLearning",
+      "author": "ibubbles34",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
     },
     {
-      "title": "Ling-3.0 released all 6 base checkpoints: 2 sizes × 3 stages",
+      "title": "DeepSeek-V4-Flash-Vision-Exp",
       "sub": "LocalLLaMA",
-      "author": "niacolhealth",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtpsqf/ling30_released_all_6_base_checkpoints_2_sizes_3/"
+      "author": "Xhehab_",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vubb20/deepseekv4flashvisionexp/"
     },
     {
-      "title": "QwenMix-3.7: Kept seeing posts about Qwen3.8 and 3.6 sharing the same structure.. so I had Qwen3.8 combine them.",
-      "sub": "LocalLLaMA",
-      "author": "bigattichouse",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vtozjq/qwenmix37_kept_seeing_posts_about_qwen38_and_36/"
+      "title": "BMVC 2026 orals [D]",
+      "sub": "MachineLearning",
+      "author": "dn8034",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vur05y/bmvc_2026_orals_d/"
     }
   ],
   "youtube": [
     {
-      "title": "Khabib on Ali Abdelaziz | Khabib Nurmagomedov and Lex Fridman",
+      "title": "Khabib on John Danaher: He creates champions | Khabib Nurmagomedov and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=AIyC4UPgmyg",
-      "published": "2026-08-20",
+      "url": "https://www.youtube.com/watch?v=m0kf05VgZvM",
+      "published": "2026-08-21",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
+    },
+    {
+      "title": "일론 머스크가 말한 ‘저축이 필요 없는 미래’",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/fMRjWrUz4OU",
+      "published": "2026-08-21",
+      "desc": "\"미래에는 저축이 의미없어질 수 있다\" 진짜일까요? 일론 머스크의 해당 발언 배경에는 어떤 이야기가 있을지 확인해 보세요! #멋쟁이사자처럼 #멋사"
+    },
+    {
+      "title": "랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대)",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/watch?v=jFIS7T99Yk0",
+      "published": "2026-08-21",
+      "desc": "2026 랄프톤 후기와 인지부채를 예방하는 하네스인 Oh-my-brain 컨셉 소개와 논의 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000"
     },
     {
       "title": "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]",
@@ -225,20 +239,6 @@
       "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
       "published": "2026-08-19",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers DeepSeek V4 Pro 0813: https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813 DSpark full episode: https://www.youtube.com/watch?v=1yBU41auQhw Sources: https://x.com/cline/status/208760219320569489"
-    },
-    {
-      "title": "세계최초 조만장자였던 #일론머스크, 단 10여일 만에 무슨 일이?",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/Q-j2C0Zy-FQ",
-      "published": "2026-08-19",
-      "desc": "일론머스크가 #스페이스X 상장 이후 10여일 만에 타이틀을 반납하게 된 이유는? #멋쟁이사자처럼 #멋사"
-    },
-    {
-      "title": "aitoon skill 개발기 + aitoon 제작기 (조남경 작가) (1부)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=lAh4HZO70QY",
-      "published": "2026-08-19",
-      "desc": "2부는 여기에서 https://youtube.com/live/RYz_elhr6VM?feature=share"
     },
     {
       "title": "The jumping pegs puzzle",
