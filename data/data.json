@@ -1,155 +1,141 @@
 {
-  "generated_at": "2026-08-22T21:28:18.848183+00:00",
-  "date_label": "2026년 8월 23일 (일)",
+  "generated_at": "2026-08-23T21:28:05.954605+00:00",
+  "date_label": "2026년 8월 24일 (월)",
   "github_trending": [
     {
       "repo": "openai/codex",
       "url": "https://github.com/openai/codex",
       "desc": "",
-      "stars_today": 4159,
+      "stars_today": 2729,
       "lang": "Rust"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 1040,
+      "lang": "Python"
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 443,
+      "stars_today": 519,
       "lang": "Python"
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "desc": "",
-      "stars_today": 379,
-      "lang": ""
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "desc": "",
-      "stars_today": 307,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 230,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 173,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Tencent/AI-Infra-Guard",
-      "url": "https://github.com/Tencent/AI-Infra-Guard",
-      "desc": "",
-      "stars_today": 161,
-      "lang": "Python"
+      "stars_today": 440,
+      "lang": "JavaScript"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 141,
+      "stars_today": 377,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "desc": "",
-      "stars_today": 141,
+      "stars_today": 257,
       "lang": "Python"
     },
     {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
+      "repo": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "desc": "",
-      "stars_today": 104,
-      "lang": "Python"
+      "stars_today": 223,
+      "lang": ""
     },
     {
-      "repo": "karpathy/nanoGPT",
-      "url": "https://github.com/karpathy/nanoGPT",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 66,
-      "lang": "Python"
-    },
-    {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "desc": "",
-      "stars_today": 63,
-      "lang": "Python"
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 57,
+      "stars_today": 213,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "repo": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 151,
+      "lang": "Python"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "desc": "",
+      "stars_today": 106,
+      "lang": "Rust"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 75,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "desc": "",
+      "stars_today": 71,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 67,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "desc": "",
+      "stars_today": 60,
+      "lang": "Python"
     },
     {
       "repo": "patchy631/ai-engineering-hub",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 19,
+      "stars_today": 31,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Munder Difflin – Agent harness to run an office of your clones",
-      "url": "https://munderdiffl.in/",
-      "points": 233,
-      "comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=49398152"
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "points": 417,
+      "comments": 171,
+      "hn_url": "https://news.ycombinator.com/item?id=49402232"
     },
     {
       "title": "New MCP Roadmap",
       "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
-      "points": 157,
-      "comments": 118,
+      "points": 241,
+      "comments": 142,
       "hn_url": "https://news.ycombinator.com/item?id=49399591"
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "points": 111,
-      "comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=49401549"
     },
     {
       "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
       "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
-      "points": 62,
-      "comments": 11,
+      "points": 188,
+      "comments": 98,
       "hn_url": "https://news.ycombinator.com/item?id=49387959"
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-      "points": 45,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49402232"
-    },
-    {
-      "title": "Guess which of these LLM outputs is watermarked",
-      "url": "https://sgoedecke.github.io/watermark-quiz/",
-      "points": 36,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49374729"
+      "title": "NanoGPT Speedrun Frontier",
+      "url": "https://www.primeintellect.ai/research/nanogpt-speedrun",
+      "points": 127,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49404380"
     },
     {
       "title": "Npm-scan: Modern supply chain security for the npm ecosystem",
@@ -164,6 +150,20 @@
       "points": 6,
       "comments": 0,
       "hn_url": "https://news.ycombinator.com/item?id=47759400"
+    },
+    {
+      "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+      "url": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+      "points": 3,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49323256"
+    },
+    {
+      "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+      "url": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
+      "points": 0,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49390910"
     }
   ],
   "reddit": [
@@ -174,43 +174,57 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vkmhyl/best_local_llms_august_2026/"
     },
     {
-      "title": "New 100B Liquid AI model coming soon",
+      "title": "New qwen3.8:27b on a 39k line C to single-file HTML / three.js port",
       "sub": "LocalLLaMA",
-      "author": "KaroYadgar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvmxls/new_100b_liquid_ai_model_coming_soon/"
+      "author": "codehamr",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwde84/new_qwen3827b_on_a_39k_line_c_to_singlefile_html/"
     },
     {
-      "title": "This is a great sub, regardless of what complaints people have about it.",
+      "title": "Don't want to be this guy, but I need Qwen 3.8 35B A3B",
       "sub": "LocalLLaMA",
-      "author": "Sudden_Topic5154",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vveabg/this_is_a_great_sub_regardless_of_what_complaints/"
+      "author": "HistoricalStrength21",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vw2cop/dont_want_to_be_this_guy_but_i_need_qwen_38_35b/"
     },
     {
-      "title": "Think you're going to get cheap DDR5 RAM? Think again, even if prices fall, scalper bots now outnumber shoppers 10 to 1 and will keep prices high",
+      "title": "Qwen 3.8 27B is a game changer.",
       "sub": "LocalLLaMA",
-      "author": "DeltaSqueezer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vv86lm/think_youre_going_to_get_cheap_ddr5_ram_think/"
+      "author": "Cold_Specialist_3656",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvyacg/qwen_38_27b_is_a_game_changer/"
     },
     {
-      "title": "How to remove trendy speech from llms?",
+      "title": "We quantized Qwen 3.8 27B and compared the quants on an RTX 6000",
       "sub": "LocalLLaMA",
-      "author": "CSEliot",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvfbde/how_to_remove_trendy_speech_from_llms/"
+      "author": "Fun-Meaning-6474",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwh3u7/we_quantized_qwen_38_27b_and_compared_the_quants/"
     },
     {
-      "title": "I benchmark DFlash 2 (PR build) in llama.cpp on Qwen 3.8 27B against all speculative methods for 3 days. 2.26x on 100 real coding prompts, 4.68x with one n-gram drafter on top. Up to 8x on specific cases.",
+      "title": "Qwen 3.8 27b helped me with something unique that Opus 4 couldn't - Firmware + Software preservation and emulation on an early 2000's ARM based POS system",
       "sub": "LocalLLaMA",
-      "author": "FantasticNature7590",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vvncyh/i_benchmark_dflash_2_pr_build_in_llamacpp_on_qwen/"
+      "author": "maxwell321",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vwhcuf/qwen_38_27b_helped_me_with_something_unique_that/"
     }
   ],
   "youtube": [
     {
-      "title": "AI스러운 디자인이 질리는 이유 #Shorts",
+      "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=rQ4yX5qNYdY",
+      "published": "2026-08-23",
+      "desc": "HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to our sponsor Hubspot. Access the free Codex Prompts guide: https://clickhubspot.com/44c344 Evoke https://evoke-world.github.io/Evoke/ 4DAnyone https://4danyone."
+    },
+    {
+      "title": "SK하이닉스 Nature 논문 최초 공개, AI 광학 메모리 시대 등장 | CPO가 메모리까지 들어오면 생기는 일",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=4h7_lPC38Kg",
+      "published": "2026-08-23",
+      "desc": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. SK하이닉스 연구진이 참여한 CPO 관련 논문이 Nature Electronics에 발표됐습니다. 논문에서는 GPU 같은 XPU와 메모리를 분리하고, 그 사이를 광학 인터커넥트로 연결하는 장기적인 구조를 제시합니다. 이번 영상에서는 메모리 회사인 SK하이닉스가 왜 CPO와 광통신을 연구하는지부터 살펴봤습니다. HBM이 왜 Wide I/O와 수직 적층 구조로 발전했는지, 인터포저 공간 부족이 HBM 적층의 출발점이었다는 설"
+    },
+    {
+      "title": "Claude Skill이 다리가 됩니다 #Shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/mJhtvIZIpl4",
-      "published": "2026-08-22",
-      "desc": "AI 이미지 품질은 좋아졌지만 너무 많아져서 스타일이 물리는 문제를 짚습니다. 원본 영상: https://youtu.be/Yxd_Dm_yo-w 원본 제목: aitoon skill 개발기 + aitoon 제작기 (조남경 작가) 통합본 #AI프렌즈 #AI툰 #aitoon #Claude #Midjourney #AI #Shorts"
+      "url": "https://www.youtube.com/shorts/CS6AYIaRJvc",
+      "published": "2026-08-23",
+      "desc": "Claude를 다리 삼아 여러 도구와 작업 과정을 Skill로 연결하는 핵심 아이디어입니다. 원본 영상: https://youtu.be/Yxd_Dm_yo-w 원본 제목: aitoon skill 개발기 + aitoon 제작기 (조남경 작가) 통합본 #AI프렌즈 #AI툰 #aitoon #Claude #Midjourney #AI #Shorts"
     },
     {
       "title": "Khabib on John Danaher: He creates champions | Khabib Nurmagomedov and Lex Fridman",
@@ -227,13 +241,6 @@
       "desc": "\"미래에는 저축이 의미없어질 수 있다\" 진짜일까요? 일론 머스크의 해당 발언 배경에는 어떤 이야기가 있을지 확인해 보세요! #멋쟁이사자처럼 #멋사"
     },
     {
-      "title": "GPU는 왜 AI 시대의 왕이 됐을까? 소프트웨어는 칩을 타고 흐른다 | CPU·GPU·CUDA 권력 이동 [패치의 칩문학 시즌1 - 1편]",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=w9_GrgPh76k",
-      "published": "2026-08-20",
-      "desc": "〈패치의 칩문학〉 시즌 1, AI 시대 반도체 지도 1편입니다. AI 시대의 계산 권력은 왜 CPU에서 GPU로 이동했을까요? 이번 영상은 반도체가 실제로 계산한다는 것이 무엇인지, 소프트웨어가 하드웨어 위에서 어떻게 실행되는지부터 출발합니다. 트랜지스터와 논리회로, ISA, x86과 ARM, CPU의 캐시와 분기예측을 지나 GPU의 병렬 구조로 이어집니다. AI가 요구하는 대규모 행렬 연산이 왜 GPU와 잘 맞았는지 살펴봅니다. 엔비디아 GPU가 강해진 이유도 단순히 칩 성능이 아니라 CUDA "
-    },
-    {
       "title": "DeepSeek Just Made Closed AI Look Ridiculous",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=kyYepbhe1g8",
@@ -246,13 +253,6 @@
       "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
       "published": "2026-08-18",
       "desc": "Part of a series of monthly puzzles with MoMath."
-    },
-    {
-      "title": "The FASTEST local AI video generator",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=ig3PUfSow5Y",
-      "published": "2026-08-18",
-      "desc": "LTX 2.5 installation tutorial. Free open source AI video generator. How to use LTX 2.5 in ComfyUI #ai #aivideo #aitools #agi https://ltx.io/model/ltx-2-5 Minimax H3 vs LTX 2.5 https://youtu.be/62HSUsS0ypo?t=880 Comfy workflow https://docs.comfy.org/tutorials/video/ltx/ltx-2-5 LTX"
     },
     {
       "title": "AI is getting a little out of control",
@@ -271,16 +271,10 @@
   ],
   "social": [
     {
-      "title": "Scrap",
+      "title": "Scrap (2006)",
       "handle": "@moxie",
       "url": "https://twitter.com/moxie/status/2091218652133732491",
-      "note": "HN 150pts · 58 댓글"
-    },
-    {
-      "title": "Anthropic appears to be A/B testing reduced effort levels in Claude Code",
-      "handle": "@argofowl",
-      "url": "https://twitter.com/argofowl/status/2091150597374537729",
-      "note": "HN 111pts · 118 댓글"
+      "note": "HN 386pts · 212 댓글"
     }
   ]
 }
