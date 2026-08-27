@@ -1,48 +1,34 @@
 {
-  "generated_at": "2026-08-25T21:35:13.248192+00:00",
-  "date_label": "2026년 8월 26일 (수)",
+  "generated_at": "2026-08-27T00:37:28.075375+00:00",
+  "date_label": "2026년 8월 27일 (목)",
   "github_trending": [
     {
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "desc": "",
-      "stars_today": 1698,
+      "stars_today": 4050,
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "",
+      "stars_today": 1598,
       "lang": "JavaScript"
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "desc": "",
-      "stars_today": 1266,
+      "stars_today": 1300,
       "lang": "Python"
     },
     {
-      "repo": "openai/codex",
-      "url": "https://github.com/openai/codex",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 1183,
-      "lang": "Rust"
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "",
-      "stars_today": 1170,
+      "stars_today": 838,
       "lang": "Python"
-    },
-    {
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "desc": "",
-      "stars_today": 944,
-      "lang": "JavaScript"
-    },
-    {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "desc": "",
-      "stars_today": 828,
-      "lang": ""
     },
     {
       "repo": "AgriciDaniel/claude-obsidian",
@@ -52,124 +38,187 @@
       "lang": "Python"
     },
     {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 802,
+      "stars_today": 707,
       "lang": "Python"
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "repo": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
       "desc": "",
-      "stars_today": 572,
+      "stars_today": 538,
+      "lang": "Python"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 536,
       "lang": "Python"
     },
     {
       "repo": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "desc": "",
-      "stars_today": 541,
+      "stars_today": 525,
       "lang": "Rust"
     },
     {
-      "repo": "anthropics/claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 350,
+      "stars_today": 367,
       "lang": "Python"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 191,
+      "stars_today": 308,
       "lang": "Python"
     },
     {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "repo": "VoltAgent/awesome-agent-skills",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "desc": "",
-      "stars_today": 161,
+      "stars_today": 242,
+      "lang": ""
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "",
+      "stars_today": 138,
       "lang": "Python"
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "datawhalechina/self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
       "desc": "",
-      "stars_today": 119,
+      "stars_today": 68,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
       "desc": "",
-      "stars_today": 113,
+      "stars_today": 67,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "points": 196,
-      "comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=49434378"
+      "title": "Tailcat – Like netcat, but over Tailscale’s data plane",
+      "url": "https://github.com/tailscale/tailcat",
+      "points": 456,
+      "comments": 89,
+      "hn_url": "https://news.ycombinator.com/item?id=49452990"
     },
     {
-      "title": "Show HN: I made a Raspberry with Qwen my local car AI",
-      "url": "https://github.com/ThinkOffApp/CarWatch",
-      "points": 58,
-      "comments": 14,
-      "hn_url": "https://news.ycombinator.com/item?id=49435675"
+      "title": "It’s so hard to finish an idea that is not yours and is just suggested by AI",
+      "url": "https://www.ssp.sh/brain/using-obsidian-with-ai/",
+      "points": 165,
+      "comments": 91,
+      "hn_url": "https://news.ycombinator.com/item?id=49450898"
     },
     {
-      "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-      "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-      "points": 0,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49437566"
+      "title": "The turbulent AI era is here",
+      "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+      "points": 153,
+      "comments": 137,
+      "hn_url": "https://news.ycombinator.com/item?id=49451313"
+    },
+    {
+      "title": "Serve Markdown to AI Agents with Accept Headers",
+      "url": "https://acceptmarkdown.com/",
+      "points": 76,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49454764"
+    },
+    {
+      "title": "Launch HN: Risklytics (YC S26) – Insurance brokerage for frontier tech companies",
+      "url": "https://www.risklytics.ai/",
+      "points": 43,
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49451495"
     }
   ],
   "reddit": [
     {
-      "title": "Best Local Vision Language Models - August 2026",
+      "title": "AMA Announcement: Apodex (Thursday, 8AM-11AM PST)",
       "sub": "LocalLLaMA",
-      "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
+      "author": "XMasterrrr",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzdfw9/ama_announcement_apodex_thursday_8am11am_pst/"
     },
     {
-      "title": "Apple introduces new Mac Studio with M5 Max and M5 Ultra - up to 512GB of unified memory",
+      "title": "GLM-5.3-Flash: Frontier Intelligence, Flash Cost",
       "sub": "LocalLLaMA",
-      "author": "themixtergames",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzg6v/apple_introduces_new_mac_studio_with_m5_max_and/"
+      "author": "BriguePalhaco",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyy3k6/glm53flash_frontier_intelligence_flash_cost/"
     },
     {
-      "title": "Qwen3.8-Flash-Next. This architecture could be surprisingly local-friendly once the weights drop. 👀",
+      "title": "Whoever the fuck predicted we would have gpt 5.5 performance in coding on consumer hardware a couple months ago now, i applaud you",
       "sub": "LocalLLaMA",
-      "author": "pmv143",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vy6smx/qwen38flashnext_this_architecture_could_be/"
+      "author": "GrokiniGPT",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz1dkz/whoever_the_fuck_predicted_we_would_have_gpt_55/"
     },
     {
-      "title": "Qwen3.8-Flash-Next tomorrow",
+      "title": "zai-org/GLM-5.3-Flash · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "rerri",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxwtyd/qwen38flashnext_tomorrow/"
+      "author": "coder543",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vyyesk/zaiorgglm53flash_hugging_face/"
     },
     {
-      "title": "Apple releases M5 ultra at 1.2TB/s bandwith",
+      "title": "Are models with N-Gram tables going to completely change the AI race?",
       "sub": "LocalLLaMA",
-      "author": "Last-Owl-8342",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxzgyt/apple_releases_m5_ultra_at_12tbs_bandwith/"
+      "author": "AcreMakeover",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3cvg/are_models_with_ngram_tables_going_to_completely/"
     },
     {
-      "title": "Qwen 3.8 Flash Next day 0 support from unsloth",
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
       "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vxybmy/qwen_38_flash_next_day_0_support_from_unsloth/"
+      "author": "pmigdal",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vz3ieu/benchmarking_qwen38_27b_quantizations_4bit_holds/"
     }
   ],
   "youtube": [
+    {
+      "title": "DeepSeek’s New AI System Shouldn’t Be Possible",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=L9mMfAFwbl4",
+      "published": "2026-08-26",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 DeepSeek Harness + paper are available here: https://deepseek.com/harness/en/ https://github.com/cordiverse/paper 🙏 We would like to thank our generous Patreon supporters who make Two Minute Pape"
+    },
+    {
+      "title": "Will AI replace programmers? | DHH and Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=Y07jqDaFw9o",
+      "published": "2026-08-26",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9988-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is "
+    },
+    {
+      "title": "HBM급 미친 메모리 스펙, M5 Ultra 등장... 애플은 에이전틱 AI 시대 강자입니다 | MLX·오픈 모델의 폭발",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=ybhBFLKB4Kg",
+      "published": "2026-08-26",
+      "desc": "애플이 새롭게 공개한 M5 Ultra에서 가장 눈에 띄는 숫자는 1.2TB/s의 통합 메모리 대역폭입니다.M3 Ultra도 최대 512GB 메모리를 지원했지만, 이번에는 거대한 AI 모델을 실제로 더 빠르게 움직이는 쪽으로 성능이 크게 확장됐습니다.LLM의 프리필과 디코드가 각각 어떤 병목을 가지고 있는지, 메모리 대역폭이 왜 토큰 생성 속도에 중요한지도 살펴봤습니다.네 개의 다이를 하나의 거대한 칩처럼 연결하는 차세대 UltraFusion 구조와 4.4TB/s 다이 간 대역폭도 함께 다룹니다.최"
+    },
+    {
+      "title": "일론머스크가 예언한 미래, 과연 몇 개나 맞았을까?",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/VR9VwxyS4xI",
+      "published": "2026-08-26",
+      "desc": "10년 전 일론 머스크가 예언한 전기차, 자율주행, 화성 이주 그리고 AI. 2026년 지금, 실제로 현실이 된 예언은 몇 개일까요? 지금 바로 확인해 보세요! #멋쟁이사자처럼 #멋사"
+    },
+    {
+      "title": "랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대)",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/watch?v=jFIS7T99Yk0",
+      "published": "2026-08-26",
+      "desc": "2026 랄프톤 후기와 인지부채를 예방하는 하네스인 Oh-my-brain 컨셉 소개와 논의 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000"
+    },
     {
       "title": "Making a $100 Reality Show so my wife will stop watching re-runs",
       "channel": "sentdex",
@@ -178,46 +227,11 @@
       "desc": "Thanks to Fish Audio for sponsoring this video & coming through with the voices upgrade. Try Fish Audio's New S2.1 Pro's API for Free Today https://fish.audio/?fpr=bbelh4 --- AI Reality Show Ep. 1/4: https://youtu.be/GWu3a5-mYpY AI Reality Show Ep. 2/4: https://youtu.be/QgBAvvMUC"
     },
     {
-      "title": "중국 메모리, 기술력도 따라왔지만 이젠 정말 위협인 이유 | CXMT DDR5·삼성 기술유출",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=ujD8A178C4Y",
-      "published": "2026-08-25",
-      "desc": "중국 메모리 업체들의 성장 속도가 최근 눈에 띄게 빨라지고 있습니다. DRAM에서는 CXMT가 글로벌 4위까지 올라오며 DDR5와 서버용 제품으로 영역을 넓히고 있습니다. 실제 CXMT DDR5의 오버클럭과 호환성 테스트에서는 어디까지 성능이 올라왔는지도 살펴봤습니다. 삼성전자 DRAM 공정기술 유출 사건이 실제로 어떤 기술을 의미하는지도 구분해봤습니다. 현재 메모리 쇼티지가 CXMT의 고객 확보와 서버 시장 진입에 어떤 기회를 만들어주고 있는지도 다룹니다. Tencent와 ByteDance의 장"
-    },
-    {
-      "title": "같은 스토리도 구성이 바뀝니다 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/4xmSWFB4op0",
-      "published": "2026-08-25",
-      "desc": "AI툰 Skill이 스토리와 스타일을 읽고 만화적 연출로 구성을 바꾸는 장면입니다. 원본 영상: https://youtu.be/Yxd_Dm_yo-w 원본 제목: aitoon skill 개발기 + aitoon 제작기 (조남경 작가) 통합본 #AI프렌즈 #AI툰 #aitoon #Claude #Midjourney #AI #Shorts"
-    },
-    {
-      "title": "This Small AI Will Change Everything",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=wMl6c_r0ubw",
-      "published": "2026-08-24",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Qwen3.8-27b is available here: https://huggingface.co/Qwen/Qwen3.8-27B Sources: https://www.reddit.com/r/unsloth/comments/1vogva0/share_your_results_from_qwen3827b/ https://www.reddit.com/r/L"
-    },
-    {
       "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=rQ4yX5qNYdY",
       "published": "2026-08-23",
       "desc": "HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to our sponsor Hubspot. Access the free Codex Prompts guide: https://clickhubspot.com/44c344 Evoke https://evoke-world.github.io/Evoke/ 4DAnyone https://4danyone."
-    },
-    {
-      "title": "Khabib on John Danaher: He creates champions | Khabib Nurmagomedov and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=m0kf05VgZvM",
-      "published": "2026-08-21",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=l6USUAIKJls This conversation was originally in Russian; the audio in this clip is the English dub. The full episode has both audio tracks: Russian (the original) and English. Thank you for listening ❤ Check out ou"
-    },
-    {
-      "title": "일론 머스크가 말한 ‘저축이 필요 없는 미래’",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/fMRjWrUz4OU",
-      "published": "2026-08-21",
-      "desc": "\"미래에는 저축이 의미없어질 수 있다\" 진짜일까요? 일론 머스크의 해당 발언 배경에는 어떤 이야기가 있을지 확인해 보세요! #멋쟁이사자처럼 #멋사"
     },
     {
       "title": "The jumping pegs puzzle",
@@ -234,12 +248,5 @@
       "desc": "Wow. Mathematical breakthroughs that would be called genius if done by humans. A secret message-board w/ AI agent swarms leaving notes read by future versions. Hassabis leaves CEO position, or was pushed out? Not to mention news of constitutional breakdowns, Gemini 4 and Jeff Dea"
     }
   ],
-  "social": [
-    {
-      "title": "Starbase, LA",
-      "handle": "@sites",
-      "url": "https://www.spacex.com/sites/starbase-la",
-      "note": "HN 169pts · 240 댓글"
-    }
-  ]
+  "social": []
 }
