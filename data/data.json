@@ -1,169 +1,162 @@
 {
-  "generated_at": "2026-08-28T05:10:45.592628+00:00",
-  "date_label": "2026년 8월 28일 (금)",
+  "generated_at": "2026-08-29T03:07:29.636383+00:00",
+  "date_label": "2026년 8월 29일 (토)",
   "github_trending": [
     {
       "repo": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "desc": "",
-      "stars_today": 2096,
+      "stars_today": 1687,
       "lang": "JavaScript"
     },
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 1613,
+      "stars_today": 1396,
       "lang": "JavaScript"
     },
     {
-      "repo": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repo": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
       "desc": "",
-      "stars_today": 1013,
-      "lang": "Python"
+      "stars_today": 965,
+      "lang": "Go"
     },
     {
-      "repo": "AgriciDaniel/claude-obsidian",
-      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "desc": "",
-      "stars_today": 634,
+      "stars_today": 720,
       "lang": "Python"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 552,
-      "lang": "Python"
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "desc": "",
-      "stars_today": 498,
+      "stars_today": 703,
       "lang": "Python"
     },
     {
       "repo": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "desc": "",
-      "stars_today": 300,
+      "stars_today": 574,
       "lang": "Go"
     },
     {
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 292,
+      "stars_today": 457,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
+      "repo": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
       "desc": "",
-      "stars_today": 274,
-      "lang": "Python"
-    },
-    {
-      "repo": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "desc": "",
-      "stars_today": 245,
-      "lang": "Python"
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "desc": "",
-      "stars_today": 229,
-      "lang": "Python"
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "desc": "",
-      "stars_today": 148,
-      "lang": "Python"
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "desc": "",
-      "stars_today": 143,
-      "lang": "JavaScript"
+      "stars_today": 433,
+      "lang": "TypeScript"
     },
     {
       "repo": "ComposioHQ/awesome-claude-skills",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "desc": "",
-      "stars_today": 130,
+      "stars_today": 343,
       "lang": "Python"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 72,
+      "stars_today": 187,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "HKUDS/AI-Trader",
+      "url": "https://github.com/HKUDS/AI-Trader",
+      "desc": "",
+      "stars_today": 154,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 78,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "",
+      "stars_today": 67,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "desc": "",
+      "stars_today": 62,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 55,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "points": 554,
-      "comments": 250,
-      "hn_url": "https://news.ycombinator.com/item?id=49466917"
-    },
-    {
-      "title": "Show HN: The load-bearing vocabulary of Claude",
-      "url": "https://louisabraham.github.io/load-bearing/",
-      "points": 413,
-      "comments": 191,
-      "hn_url": "https://news.ycombinator.com/item?id=49461817"
-    },
-    {
-      "title": "The turbulent AI era is here",
-      "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-      "points": 252,
-      "comments": 505,
-      "hn_url": "https://news.ycombinator.com/item?id=49447057"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-      "points": 215,
-      "comments": 151,
-      "hn_url": "https://news.ycombinator.com/item?id=49467922"
-    },
-    {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "points": 208,
-      "comments": 58,
-      "hn_url": "https://news.ycombinator.com/item?id=49468818"
-    },
-    {
-      "title": "Judge Rules Trump Administration’s Blacklisting of Anthropic Was Illegal",
+      "title": "Judge rules Trump administration’s blacklisting of Anthropic was illegal",
       "url": "https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html",
-      "points": 172,
-      "comments": 76,
+      "points": 548,
+      "comments": 406,
       "hn_url": "https://news.ycombinator.com/item?id=49473522"
     },
     {
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "url": "https://github.com/experientiallabs/experiential",
-      "points": 143,
-      "comments": 24,
-      "hn_url": "https://news.ycombinator.com/item?id=49471407"
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "points": 502,
+      "comments": 480,
+      "hn_url": "https://news.ycombinator.com/item?id=49477854"
     },
     {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "points": 102,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49468834"
+      "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+      "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+      "points": 465,
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49475079"
+    },
+    {
+      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://arxiv.org/abs/2608.23691",
+      "points": 87,
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49481455"
+    },
+    {
+      "title": "Identifying fake cosmetics using AI",
+      "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+      "points": 38,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49484925"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "points": 37,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49485416"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "points": 34,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49486081"
     }
   ],
   "reddit": [
@@ -174,10 +167,10 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzxdui/were_the_team_behind_apodex_11_ask_us_anything/"
     },
     {
-      "title": "Best ML papers to pick up writing skills [D]",
+      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
       "sub": "MachineLearning",
-      "author": "fakeaccountlegitme",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/"
+      "author": "cpldcpu",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/"
     },
     {
       "title": "AMA Announcement: Apodex (Thursday, 8AM-11AM PST)",
@@ -186,46 +179,24 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzdfw9/ama_announcement_apodex_thursday_8am11am_pst/"
     },
     {
-      "title": "NeurIPS 2026 Acceptance Calculator [P]",
+      "title": "WTF is a World Model? [D]",
       "sub": "MachineLearning",
-      "author": "levydawg",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vzzw38/neurips_2026_acceptance_calculator_p/"
+      "author": "neutrino_boy",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/"
     },
     {
-      "title": "5090 now officially cost 5090",
+      "title": "zai-org/GLM-5.3 · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "Sadge404",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w05kbt/5090_now_officially_cost_5090/"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w0tgzl/zaiorgglm53_hugging_face/"
     },
     {
-      "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
+      "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
       "sub": "MachineLearning",
-      "author": "tanopereira",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/"
+      "author": "Fit-Raccoon4534",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/"
     }
   ],
-  "youtube": [
-    {
-      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
-      "published": "2026-08-27",
-      "desc": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk report"
-    },
-    {
-      "title": "New AI waifus, new Deepseek, realtime worlds, Happy Shrimp, tiny TTS: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=rQ4yX5qNYdY",
-      "published": "2026-08-23",
-      "desc": "HUGE AI NEWS: Deepseek Vision, Ornith 1.5, Happy Shrimp, SenseNova U1.5 #ai #ainews #aitools #singularity #agi Thanks to our sponsor Hubspot. Access the free Codex Prompts guide: https://clickhubspot.com/44c344 Evoke https://evoke-world.github.io/Evoke/ 4DAnyone https://4danyone."
-    },
-    {
-      "title": "The jumping pegs puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-      "published": "2026-08-18",
-      "desc": "Part of a series of monthly puzzles with MoMath."
-    }
-  ],
+  "youtube": [],
   "social": []
 }
