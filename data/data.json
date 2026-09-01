@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-09-01T00:30:53.695809+00:00",
-  "date_label": "2026년 9월 1일 (화)",
+  "generated_at": "2026-09-01T23:13:00.683513+00:00",
+  "date_label": "2026년 9월 2일 (수)",
   "github_trending": [
     {
       "repo": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "desc": "",
-      "stars_today": 2824,
+      "stars_today": 3122,
       "lang": "TypeScript"
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "desc": "",
-      "stars_today": 1980,
+      "stars_today": 914,
       "lang": "Python"
+    },
+    {
+      "repo": "VoltAgent/awesome-design-md",
+      "url": "https://github.com/VoltAgent/awesome-design-md",
+      "desc": "",
+      "stars_today": 487,
+      "lang": ""
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 208,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "unclecode/crawl4ai",
       "url": "https://github.com/unclecode/crawl4ai",
       "desc": "",
-      "stars_today": 516,
+      "stars_today": 179,
       "lang": "Python"
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 155,
+      "stars_today": 157,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 148,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 124,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "kaifcodec/user-scanner",
-      "url": "https://github.com/kaifcodec/user-scanner",
-      "desc": "",
-      "stars_today": 93,
+      "stars_today": 126,
       "lang": "Python"
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 79,
+      "stars_today": 100,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 62,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mukul975/cve-mcp-server",
-      "url": "https://github.com/mukul975/cve-mcp-server",
+      "repo": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "desc": "",
+      "stars_today": 37,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "alirezadir/AIMLInterviews",
+      "url": "https://github.com/alirezadir/AIMLInterviews",
+      "desc": "",
+      "stars_today": 33,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "desc": "",
+      "stars_today": 32,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "desc": "",
+      "stars_today": 31,
+      "lang": "Python"
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 31,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "FareedKhan-dev/all-agentic-architectures",
+      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
       "desc": "",
       "stars_today": 30,
-      "lang": "Python"
-    },
-    {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "desc": "",
-      "stars_today": 27,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "desc": "",
-      "stars_today": 18,
-      "lang": "Python"
-    },
-    {
-      "repo": "AI4Finance-Foundation/FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
-      "desc": "",
-      "stars_today": 15,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "GokuMohandas/Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "desc": "",
-      "stars_today": 15,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
-      "desc": "",
-      "stars_today": 10,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
-      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
-      "points": 280,
-      "comments": 321,
-      "hn_url": "https://news.ycombinator.com/item?id=49508982"
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "points": 807,
+      "comments": 777,
+      "hn_url": "https://news.ycombinator.com/item?id=49525378"
     },
     {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "points": 538,
+      "comments": 146,
+      "hn_url": "https://news.ycombinator.com/item?id=49519939"
+    },
+    {
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "points": 362,
+      "comments": 148,
+      "hn_url": "https://news.ycombinator.com/item?id=49493468"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "points": 298,
+      "comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49526069"
+    },
+    {
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
       "points": 187,
-      "comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=49512975"
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49527396"
     },
     {
-      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
-      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
-      "points": 182,
-      "comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=49503521"
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "points": 145,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=49527573"
     },
     {
-      "title": "ChatGPT Work Tool and Skill Reference",
-      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-      "points": 174,
-      "comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49510000"
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "points": 122,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=49525160"
     },
     {
-      "title": "Smartphone LED detects hidden cameras with AI",
-      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
-      "points": 136,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49496292"
-    },
-    {
-      "title": "The safest job from AI may be writing",
-      "url": "http://muratbuffalo.blogspot.com/2026/08/the-safest-job-from-ai-may-be-writing.html",
-      "points": 86,
-      "comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=49512856"
-    },
-    {
-      "title": "Show HN: We built the smallest dual-band aircraft tracker",
-      "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
-      "points": 74,
-      "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49455557"
-    },
-    {
-      "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-      "url": "https://usealmanac.com/",
-      "points": 44,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=49511007"
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "points": 26,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49528895"
     }
   ],
   "reddit": [
@@ -174,37 +174,65 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzxdui/were_the_team_behind_apodex_11_ask_us_anything/"
     },
     {
-      "title": "Cold emailing profs about PhD positions? Read this [D]",
-      "sub": "MachineLearning",
-      "author": "tariban",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/"
-    },
-    {
-      "title": "GLM 5.3 and GLM 5.3 Flash ran locally on RTX PRO 6000 WS and built a penthouse using BlenderMCP",
+      "title": "Fingers crossed for a 122b or really anything above 31b.🤞",
       "sub": "LocalLLaMA",
-      "author": "Fun-Meaning-6474",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3kppp/glm_53_and_glm_53_flash_ran_locally_on_rtx_pro/"
+      "author": "Porespellar",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything/"
     },
     {
-      "title": "Claude Code for Research Papers [R]",
-      "sub": "MachineLearning",
-      "author": "NeatFox5866",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/"
-    },
-    {
-      "title": "Doesn't this look like NVIDIA is price fixing?",
+      "title": "Really stunned by the Singularity comment section",
       "sub": "LocalLLaMA",
-      "author": "Super_Range45",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w3pig8/doesnt_this_look_like_nvidia_is_price_fixing/"
+      "author": "Howard_banister",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section/"
     },
     {
-      "title": "Sliding-window attention beats linear on long-context reasoning [R]",
-      "sub": "MachineLearning",
-      "author": "Justgototheeffinmoon",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3j1vw/slidingwindow_attention_beats_linear_on/"
+      "title": "Intel hints it may get back into memory business",
+      "sub": "LocalLLaMA",
+      "author": "Terminator857",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business/"
+    },
+    {
+      "title": "New Gemma models on arena ai",
+      "sub": "LocalLLaMA",
+      "author": "Hot_Example_4456",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/"
+    },
+    {
+      "title": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
+      "sub": "LocalLLaMA",
+      "author": "insraq",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/"
     }
   ],
   "youtube": [
+    {
+      "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=w9RDunJACkc",
+      "published": "2026-09-01",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/209"
+    },
+    {
+      "title": "Why Linux will win over MacOS/Windows: Linux is best for AI agents | DHH and Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=dja1V5Y9igI",
+      "published": "2026-09-01",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9998-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is "
+    },
+    {
+      "title": "모더나 암 백신 3상 성공… 진짜 암 치료 판 바뀌나 | AI 맞춤형 치료제 팩트체크",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=fXCHw9tV41A",
+      "published": "2026-09-01",
+      "desc": "모더나와 머크가 개발한 개인맞춤형 암 치료제 V940이 흑색종 임상 3상에서 주요 목표를 달성했습니다. 하지만 흔히 말하는 ‘암 백신 혁명’이 실제로 어느 정도까지 맞는 표현인지는 조금 더 들여다볼 필요가 있는데요. 이번 영상에서는 V940가 예방 백신이 아니라 수술 후 남아 있을지 모르는 암세포를 노리는 맞춤형 치료제라는 점부터 짚어봅니다. 환자의 암 조직과 정상 혈액을 비교해 돌연변이를 찾고, AI가 수많은 후보 가운데 최대 34개의 표적을 골라내는 과정도 살펴봤습니다. 선택된 정보가 실제 환"
+    },
+    {
+      "title": "전문가가 만든 지식맵이 항상 좋은 건 아닙니다 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/rXN9riOPwYQ",
+      "published": "2026-09-01",
+      "desc": "도메인 전문가가 만든 지식맵보다 데이터 기반 지식맵이 더 나았던 경험과 해석입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
+    },
     {
       "title": "This large company said they're just like us lol",
       "channel": "sentdex",
@@ -213,39 +241,11 @@
       "desc": "#GMPartner I was skeptical... until I saw what they're actually building #ad #GMxOpenSauce @GeneralMotors"
     },
     {
-      "title": "훅으로 부족하면 하네스를 새로 짜야 합니다 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/a9Yy2tFC0R8",
-      "published": "2026-08-31",
-      "desc": "프리/포스트 훅의 한계 때문에 오마이브레인을 add-on에서 자체 하네스 방향으로 바꾼 이야기입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
-    },
-    {
       "title": "Ox Alpha reveal, realtime Minimax, Qwen Next, Hy4, robot olympics: AI NEWS",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=4wjHNgMLeyY",
       "published": "2026-08-30",
       "desc": "HUGE AI NEWS: GLM 5.3 Flash, Qwen 3.8 Flash Next, Minimax FastH3, Hy4 #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-aug Block 3D https://alexandertsui.github.io/block3d/ One Video One World https://onevideooneworld.github"
-    },
-    {
-      "title": "HBF 성공 가능성 낮다? 말하지 않는 치명적 난제 | HBF, zNAND-O 핵심 과제는 발열, 온도, NAND 신뢰성",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=gJTto7SP8w0",
-      "published": "2026-08-30",
-      "desc": "삼성의 zNAND-O와 SK하이닉스·샌디스크의 HBF는 NAND를 HBM처럼 쌓아 AI 가속기 가까이 가져오려는 새로운 메모리 기술입니다. 최대 수백 GB의 용량과 초당 수 TB급 대역폭을 목표로 하지만, 실제 제품화 과정에서는 NAND 특유의 신뢰성 문제가 중요해집니다. 기존 SSD가 NAND를 상대적으로 낮은 온도에서 사용했던 것과 달리, HBF는 뜨거운 GPU 가까이에서 동작해야 합니다. 영상에서는 온도에 따라 데이터 보존 특성이 어떻게 달라지는지, 반복해서 읽을 때 왜 오류가 누적될 수 있"
-    },
-    {
-      "title": "How AI changed programming | DHH and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=uUWTeEvqiQI",
-      "published": "2026-08-29",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9992-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is "
-    },
-    {
-      "title": "The Billion Dollar AI Gap Is Collapsing",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LBiNcdGNgrg",
-      "published": "2026-08-28",
-      "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The paper and Qwen3.8-Flash-Next are available here: https://github.com/QwenLM/Qwen3.8-Flash-Next/blob/main/tech_report.pdf https://qwen.ai/blog?id=qwen3.8-flash-next Sources: https://x.com/"
     },
     {
       "title": "클라우드 자격증만으론 부족한 이유, 전공자도 겪는 실무 격차",
