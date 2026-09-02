@@ -1,169 +1,169 @@
 {
-  "generated_at": "2026-09-01T23:13:00.683513+00:00",
-  "date_label": "2026년 9월 2일 (수)",
+  "generated_at": "2026-09-02T23:13:14.831161+00:00",
+  "date_label": "2026년 9월 3일 (목)",
   "github_trending": [
     {
-      "repo": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 3122,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "desc": "",
-      "stars_today": 914,
-      "lang": "Python"
-    },
-    {
-      "repo": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "desc": "",
-      "stars_today": 487,
-      "lang": ""
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 208,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "desc": "",
-      "stars_today": 179,
-      "lang": "Python"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 157,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "desc": "",
-      "stars_today": 126,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 100,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 62,
-      "lang": "Jupyter Notebook"
+      "stars_today": 1364,
+      "lang": "JavaScript"
     },
     {
       "repo": "Gitlawb/openclaude",
       "url": "https://github.com/Gitlawb/openclaude",
       "desc": "",
-      "stars_today": 37,
+      "stars_today": 776,
       "lang": "TypeScript"
     },
     {
-      "repo": "alirezadir/AIMLInterviews",
-      "url": "https://github.com/alirezadir/AIMLInterviews",
+      "repo": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "desc": "",
+      "stars_today": 529,
+      "lang": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "desc": "",
+      "stars_today": 471,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 226,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 143,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "",
+      "stars_today": 140,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 140,
+      "lang": "Python"
+    },
+    {
+      "repo": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "desc": "",
+      "stars_today": 138,
+      "lang": "Python"
+    },
+    {
+      "repo": "zubair-trabzada/geo-seo-claude",
+      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
+      "desc": "",
+      "stars_today": 96,
+      "lang": "Python"
+    },
+    {
+      "repo": "ScrapeGraphAI/Scrapegraph-ai",
+      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+      "desc": "",
+      "stars_today": 93,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 79,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 45,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
       "stars_today": 33,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "desc": "",
-      "stars_today": 32,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "VectifyAI/PageIndex",
-      "url": "https://github.com/VectifyAI/PageIndex",
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
       "stars_today": 31,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 31,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "FareedKhan-dev/all-agentic-architectures",
-      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-      "desc": "",
-      "stars_today": 30,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-      "points": 807,
-      "comments": 777,
-      "hn_url": "https://news.ycombinator.com/item?id=49525378"
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "points": 764,
+      "comments": 458,
+      "hn_url": "https://news.ycombinator.com/item?id=49537553"
     },
     {
-      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
-      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
-      "points": 538,
-      "comments": 146,
-      "hn_url": "https://news.ycombinator.com/item?id=49519939"
+      "title": "Can I opt out of my input or output data being used for training?",
+      "url": "https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training",
+      "points": 354,
+      "comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49535284"
     },
     {
-      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
-      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
-      "points": 362,
-      "comments": 148,
-      "hn_url": "https://news.ycombinator.com/item?id=49493468"
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "points": 273,
+      "comments": 124,
+      "hn_url": "https://news.ycombinator.com/item?id=49536375"
     },
     {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "url": "https://danluu.com/zitron/",
-      "points": 298,
-      "comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=49526069"
+      "title": "Aging brains blend memories together instead of just forgetting them",
+      "url": "https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/",
+      "points": 180,
+      "comments": 84,
+      "hn_url": "https://news.ycombinator.com/item?id=49535548"
     },
     {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
-      "points": 187,
-      "comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=49527396"
+      "title": "Mamdani Bans AI in NYC Schools",
+      "url": "https://www.nytimes.com/2026/09/01/nyregion/ai-ban-schools-nyc.html",
+      "points": 118,
+      "comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=49542443"
     },
     {
-      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
-      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
-      "points": 145,
-      "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=49527573"
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "points": 98,
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49541458"
     },
     {
-      "title": "Atlas: A World Model for Spatial Intelligence",
-      "url": "https://www.worldlabs.ai/blog/atlas",
-      "points": 122,
-      "comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=49525160"
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
+      "points": 61,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49540565"
     },
     {
-      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
-      "url": "https://masteranza.github.io/weedout/",
-      "points": 26,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49528895"
+      "title": "We could save petabytes of cache storage with Zstandard and Pingora",
+      "url": "https://blog.cloudflare.com/cache-transcoding/",
+      "points": 52,
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49521909"
     }
   ],
   "reddit": [
@@ -174,37 +174,58 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vzxdui/were_the_team_behind_apodex_11_ask_us_anything/"
     },
     {
-      "title": "Fingers crossed for a 122b or really anything above 31b.🤞",
+      "title": "Muse Spark open weights coming soon",
       "sub": "LocalLLaMA",
-      "author": "Porespellar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4l9cp/fingers_crossed_for_a_122b_or_really_anything/"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5l8bw/muse_spark_open_weights_coming_soon/"
     },
     {
-      "title": "Really stunned by the Singularity comment section",
+      "title": "GLM 5.3 Flash makes a black hole Minecraft mod running locally on 4x RTX PRO 6000 WS",
       "sub": "LocalLLaMA",
-      "author": "Howard_banister",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4oadx/really_stunned_by_the_singularity_comment_section/"
+      "author": "Top-Eye-8104",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5gk2b/glm_53_flash_makes_a_black_hole_minecraft_mod/"
     },
     {
-      "title": "Intel hints it may get back into memory business",
+      "title": "LocalLLaMA is unironically one of the best places to go to get up to date AI news.",
       "sub": "LocalLLaMA",
-      "author": "Terminator857",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4fp6w/intel_hints_it_may_get_back_into_memory_business/"
+      "author": "Sadge404",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w50ur8/localllama_is_unironically_one_of_the_best_places/"
     },
     {
-      "title": "New Gemma models on arena ai",
+      "title": "Qwen will be the king?",
       "sub": "LocalLLaMA",
-      "author": "Hot_Example_4456",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w47nif/new_gemma_models_on_arena_ai/"
+      "author": "LegacyRemaster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w53ti8/qwen_will_be_the_king/"
     },
     {
-      "title": "New Model: Spark-X2.5-4B, Spark-X2.5-1.7B",
+      "title": "Confirmed bolting Q8 NGram into IQ4 Qwen no speed degradation",
       "sub": "LocalLLaMA",
-      "author": "insraq",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w4dsrw/new_model_sparkx254b_sparkx2517b/"
+      "author": "Altruistic_Heat_9531",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w5isz3/confirmed_bolting_q8_ngram_into_iq4_qwen_no_speed/"
     }
   ],
   "youtube": [
+    {
+      "title": "DHH responds to haters & critics | Lex Fridman Podcast Clips",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=nEKCGtQrUsA",
+      "published": "2026-09-02",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9999-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is "
+    },
+    {
+      "title": "개강한 대학생의 실시간 심리 상태 #자체휴강",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/KcQJd6j_Kf8",
+      "published": "2026-09-02",
+      "desc": "뭐했다고 벌써 개강?! 오늘 자체 휴강하겠습니다.. 생각해보니 학교 가겠습니다.. 아니 도저히 못 가겠습니다!!! What do you mean the semester already started?! I’m skipping class today... Actually, maybe I should go. Nope. Absolutely not. I can’t do this!!! *AI활용콘텐츠 #멋쟁이사자처럼 #대학생 #공감 #일상 #개강 #밈 #멋사"
+    },
+    {
+      "title": "로봇 POC는 사소한 환경 세팅이 좌우합니다 #Shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/E7VFl_iqIGs",
+      "published": "2026-09-02",
+      "desc": "발달장애 학생 준비물 챙기기 과제를 로봇으로 돕는 POC와 데이터·환경 세팅의 노하우입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
+    },
     {
       "title": "GLM 5.3: Powerful AI Is Becoming Almost Free",
       "channel": "Two Minute Papers",
@@ -213,25 +234,11 @@
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 GLM 5.3 Flash: https://z.ai/blog/glm-5.3-flash Sources: https://x.com/louszbd/status/2092694163104113016 https://x.com/semianalysis_/status/2092623833630998556 https://x.com/skalskip92/status/209"
     },
     {
-      "title": "Why Linux will win over MacOS/Windows: Linux is best for AI agents | DHH and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=dja1V5Y9igI",
-      "published": "2026-09-01",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv9998-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is "
-    },
-    {
       "title": "모더나 암 백신 3상 성공… 진짜 암 치료 판 바뀌나 | AI 맞춤형 치료제 팩트체크",
       "channel": "안될공학",
       "url": "https://www.youtube.com/watch?v=fXCHw9tV41A",
       "published": "2026-09-01",
       "desc": "모더나와 머크가 개발한 개인맞춤형 암 치료제 V940이 흑색종 임상 3상에서 주요 목표를 달성했습니다. 하지만 흔히 말하는 ‘암 백신 혁명’이 실제로 어느 정도까지 맞는 표현인지는 조금 더 들여다볼 필요가 있는데요. 이번 영상에서는 V940가 예방 백신이 아니라 수술 후 남아 있을지 모르는 암세포를 노리는 맞춤형 치료제라는 점부터 짚어봅니다. 환자의 암 조직과 정상 혈액을 비교해 돌연변이를 찾고, AI가 수많은 후보 가운데 최대 34개의 표적을 골라내는 과정도 살펴봤습니다. 선택된 정보가 실제 환"
-    },
-    {
-      "title": "전문가가 만든 지식맵이 항상 좋은 건 아닙니다 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/rXN9riOPwYQ",
-      "published": "2026-09-01",
-      "desc": "도메인 전문가가 만든 지식맵보다 데이터 기반 지식맵이 더 나았던 경험과 해석입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
     },
     {
       "title": "This large company said they're just like us lol",
@@ -246,13 +253,6 @@
       "url": "https://www.youtube.com/watch?v=4wjHNgMLeyY",
       "published": "2026-08-30",
       "desc": "HUGE AI NEWS: GLM 5.3 Flash, Qwen 3.8 Flash Next, Minimax FastH3, Hy4 #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-aug Block 3D https://alexandertsui.github.io/block3d/ One Video One World https://onevideooneworld.github"
-    },
-    {
-      "title": "클라우드 자격증만으론 부족한 이유, 전공자도 겪는 실무 격차",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/NpxQhSEYCEk",
-      "published": "2026-08-28",
-      "desc": "클라우드 자격증을 따도 실무 앞에서는 왜 막막해질까요? AWS 클라우드 엔지니어링 부트캠프 수강생의 답입니다. 소프트웨어 전공에 자격증까지 있어도 직접 인프라를 구축해볼 기회가 없어 막막했던 순간을, 3tier 아키텍처 설계부터 CI/CD 파이프라인 구축까지 방대한 실습으로 채웠습니다. #AWS클라우드엔지니어링부트캠프 #멋쟁이사자처럼 #클라우드 #클라우드교육"
     },
     {
       "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
