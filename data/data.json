@@ -1,169 +1,162 @@
 {
-  "generated_at": "2026-09-03T23:11:10.744614+00:00",
-  "date_label": "2026년 9월 4일 (금)",
+  "generated_at": "2026-09-04T22:57:06.062931+00:00",
+  "date_label": "2026년 9월 5일 (토)",
   "github_trending": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 2138,
+      "stars_today": 1683,
       "lang": "JavaScript"
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 778,
+      "stars_today": 721,
+      "lang": "Python"
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "",
+      "stars_today": 512,
+      "lang": "Python"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "desc": "",
+      "stars_today": 230,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 192,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 151,
       "lang": "Python"
     },
     {
       "repo": "sngyai/Sequoia-X",
       "url": "https://github.com/sngyai/Sequoia-X",
       "desc": "",
-      "stars_today": 565,
+      "stars_today": 134,
       "lang": "Python"
     },
     {
-      "repo": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 453,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 277,
-      "lang": "Python"
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "desc": "",
-      "stars_today": 260,
-      "lang": "JavaScript"
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 209,
+      "stars_today": 95,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Sumanth077/Hands-On-AI-Engineering",
+      "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+      "desc": "",
+      "stars_today": 76,
+      "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 67,
+      "stars_today": 69,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "desc": "",
+      "stars_today": 47,
+      "lang": "Python"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 34,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "DataTalksClub/llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "desc": "",
+      "stars_today": 21,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "gepa-ai/gepa",
       "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
-      "stars_today": 38,
+      "stars_today": 18,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
       "desc": "",
-      "stars_today": 30,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "datacurve-ai/deep-swe",
-      "url": "https://github.com/datacurve-ai/deep-swe",
-      "desc": "",
-      "stars_today": 21,
-      "lang": "Python"
-    },
-    {
-      "repo": "alirezadir/AIMLInterviews",
-      "url": "https://github.com/alirezadir/AIMLInterviews",
-      "desc": "",
-      "stars_today": 11,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "desc": "",
-      "stars_today": 10,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "evidentlyai/evidently",
-      "url": "https://github.com/evidentlyai/evidently",
-      "desc": "",
-      "stars_today": 6,
+      "stars_today": 13,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "points": 1099,
-      "comments": 829,
-      "hn_url": "https://news.ycombinator.com/item?id=49554643"
+      "title": "Discovery of a new OpenAI agent message board",
+      "url": "https://collusion.wiki/",
+      "points": 1398,
+      "comments": 1120,
+      "hn_url": "https://news.ycombinator.com/item?id=49563355"
     },
     {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "points": 393,
-      "comments": 122,
-      "hn_url": "https://news.ycombinator.com/item?id=49554520"
+      "title": "Can AI design circuit boards yet?",
+      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+      "points": 111,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=49569366"
     },
     {
-      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
-      "url": "https://news.ycombinator.com/item?id=49551096",
-      "points": 311,
-      "comments": 510,
-      "hn_url": "https://news.ycombinator.com/item?id=49551096"
+      "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
+      "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
+      "points": 81,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49562219"
     },
     {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "points": 235,
-      "comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=49551760"
+      "title": "Government Rails Site Hit Hours After CVE Patch",
+      "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+      "points": 60,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49568828"
     },
     {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "points": 158,
-      "comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=49550375"
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "points": 56,
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49566788"
     },
     {
-      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
-      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
-      "points": 155,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49544762"
+      "title": "\"Next-token predictor\" is the wrong mental model for LLMs",
+      "url": "https://gmcgoldr.github.io/2026/09/04/llm-next-token-predictors.html",
+      "points": 52,
+      "comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=49567310"
     },
     {
-      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-      "url": "https://arcprize.org/blog/astra",
-      "points": 138,
-      "comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=49555691"
-    },
-    {
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "points": 136,
-      "comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=49526453"
+      "title": "GPT-6 Astra on OpenRouter",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "points": 39,
+      "comments": 20,
+      "hn_url": "https://news.ycombinator.com/item?id=49570545"
     }
   ],
   "reddit": [
@@ -174,50 +167,71 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
     },
     {
-      "title": "It's official! Nvidia to acquire Hugging Face for 12.9 billion dollars.",
+      "title": "NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg. The first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917. The 🤗 emoji.",
       "sub": "LocalLLaMA",
-      "author": "SarcasticBaka",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w65uhf/its_official_nvidia_to_acquire_hugging_face_for/"
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w71bax/nvidias_1293030000000_acquisition_of_hugging_face/"
     },
     {
-      "title": "Apparently ChatGPT, Claude, and Grok were down",
+      "title": "You can now run a 90M conversational LLM on the Sony PSP (hardware from 2004). Doesn't get more local than this.",
       "sub": "LocalLLaMA",
-      "author": "mailto_devnull",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6aw2a/apparently_chatgpt_claude_and_grok_were_down/"
+      "author": "liright",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w78ztg/you_can_now_run_a_90m_conversational_llm_on_the/"
     },
     {
-      "title": "The benchmarks the big labs don't want you to see",
+      "title": "Georgi Gerganov on the Nvidia acquisition",
       "sub": "LocalLLaMA",
-      "author": "jd_3d",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6myn6/the_benchmarks_the_big_labs_dont_want_you_to_see/"
+      "author": "CombinationKitchen76",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7990o/georgi_gerganov_on_the_nvidia_acquisition/"
     },
     {
-      "title": "Introducing K2 Horizon: Frontier Performance, Radically Open",
+      "title": "Qwen3.8-27b is the first Local model im able to blindly trust",
       "sub": "LocalLLaMA",
-      "author": "Few_Painter_5588",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w68rj6/introducing_k2_horizon_frontier_performance/"
+      "author": "Express_Quail_1493",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w78dmn/qwen3827b_is_the_first_local_model_im_able_to/"
     },
     {
-      "title": "I released sanoTTS: smallest complete TTS stack in 294k params (337 KB) that runs on $3 microcontroller and a 1.46m one that beats models 3x and 10x it's size",
+      "title": "I benchmarked 21 Qwen3.8 27B variants on 16GB VRAM",
       "sub": "LocalLLaMA",
-      "author": "Affectionate_Hat_585",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w6lmmg/i_released_sanotts_smallest_complete_tts_stack_in/"
+      "author": "Storterald",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7ee1c/i_benchmarked_21_qwen38_27b_variants_on_16gb_vram/"
     }
   ],
   "youtube": [
+    {
+      "title": "GPT 6 Astra, so good even OpenAI are worried",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
+      "published": "2026-09-04",
+      "desc": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more… Exclusiv"
+    },
+    {
+      "title": "FOMO in the agentic AI era - advice from DHH | Lex Fridman Podcast Clips",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=I1YJe4XWGH0",
+      "published": "2026-09-04",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10012-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
+    },
+    {
+      "title": "HBM4 추가로 더 탑재, 엔비디아 Rubin CPX 부활설 |삼성 HBM4 13Gbps가 의미 있었던 이유 | 168GB HBM4의 정체",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=-llJ8649mkU",
+      "published": "2026-09-04",
+      "desc": "한동안 사라진 것으로 보였던 NVIDIA Rubin CPX가 다시 등장한다는 공급망 정보가 나왔습니다. 기존 128GB GDDR7 대신 168GB HBM4를 탑재하고, 연산 성능도 일반 Rubin에 가까워진다는 내용입니다. 168GB를 현재 공개된 HBM4 구성으로 역산하면 24GB 8단 HBM4 7개라는 흥미로운 조합이 나옵니다. 삼성 HBM4의 11.7Gbps를 적용하면 약 21TB/s, 약 12.3Gbps에서는 Rubin의 22TB/s와 비슷한 대역폭까지 만들 수 있습니다. 삼성이 강조한 최"
+    },
+    {
+      "title": "외주, 개발, 디자인, 동아리, 사이드프로젝트 다 하는 4학년의 일정 관리법",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/xyff7SvPpoI",
+      "published": "2026-09-04",
+      "desc": "이것저것 다 벌리고 사는 4학년의 일 안 놓치는 일정 관리법 📝 개발도 하고, 디자인도 하고, 프로젝트도 하고… 할 일이 많아질수록 머릿속으로 기억하기보다는 일단 전부 꺼내놓고 정리하는 방법을 쓰고 있어요! #대학생 #대학생활 #일정관리 #시간관리 #생산성 #대학생꿀팁 #갓생"
+    },
     {
       "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
       "published": "2026-09-03",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%"
-    },
-    {
-      "title": "The best food in the world | DHH and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=LWljpzCs2Gk",
-      "published": "2026-09-03",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10002-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
     },
     {
       "title": "I automated a Reality Show for my wife & she somehow liked it lol",
@@ -234,32 +248,11 @@
       "desc": "Claude Fable 5.1 review. New top AI model #ai #ainews #llm #agi #singularity Thanks to our sponsor Higgsfield. Try Seedance 2.5 1080p https://higgsfield.ai/s/theaisearch-NJFeaC https://www.anthropic.com/claude-fable-and-mythos-5-1 Full EDM song: https://x.com/aisearchio/status/20"
     },
     {
-      "title": "메인보드 발주 확인, 갤럭시S27 울트라에 삼성 칩 탑재 보도 분석 | 엑시노스2700 성능·원가·2나노 수율까지 분석",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=LjNBhufA0Jg",
-      "published": "2026-09-03",
-      "desc": "삼성이 갤럭시 S27 울트라용 엑시노스 2700 메인보드를 개발하고 있다는 취재 보도가 나왔습니다. 지난 영상에서 다뤘던 차세대 스냅드래곤 대비 엑시노스 2700의 내부 성능 테스트가 실제 제품 개발로 이어지고 있는지 살펴봤습니다. 이번 보도가 어느 정도 신빙성이 있는지, 과거 엑시노스 탑재 관련 선행 보도와 함께 확인합니다. CPU와 GPU 성능뿐 아니라 발열, 지속 성능, 모뎀과 RF까지 울트라에서 실제로 검증해야 할 부분도 짚어봤습니다. 퀄컴이 단순히 비싼 AP 업체가 아니라 모바일 컴퓨팅 "
-    },
-    {
-      "title": "[멋쟁이사자처럼] AI NLP 단기 심화 부트캠프 취업 고민 상담소",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=zQfmrBgDYOo",
-      "published": "2026-09-03",
-      "desc": "[AI NLP 엔지니어 부트캠프 지원하러 가기] https://abit.ly/kdtainlp06_prelive 교육기간 : 2026.09.30 (수) ~ 2026.12.10 (목) 지원기간 : ~ 2026.09.28 (월) 오후 6시"
-    },
-    {
       "title": "망각곡선을 그대로 넣으면 성능이 떨어집니다 #Shorts",
       "channel": "빵형의 개발도상국",
       "url": "https://www.youtube.com/shorts/lJnOdRTJdlY",
       "published": "2026-09-03",
       "desc": "Knowledge Tracing에서 망각곡선을 그대로 넣으면 성능이 떨어지고, 컨셉을 다른 방식으로 반영해야 했던 사례입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
-    },
-    {
-      "title": "Sam Altman :‘AGI in 2026’, just as Models Start to [Mis]Train Themselves",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
-      "published": "2026-08-27",
-      "desc": "First, a Time Magazine spread has Sam Altman declaring AGI is imminent, at the same time as we get two bombshell reports, from OpenAI and METR which on first glance are detailing the AI swarm, but reveal a deeper story about how we are making AI in 2026. From redacted risk report"
     },
     {
       "title": "The jumping pegs puzzle",
@@ -269,12 +262,5 @@
       "desc": "Part of a series of monthly puzzles with MoMath."
     }
   ],
-  "social": [
-    {
-      "title": "Google Antigravity TOS: 3rd party usage can get Google account suspended",
-      "handle": "@GergelyOrosz",
-      "url": "https://twitter.com/GergelyOrosz/status/2095453567955968398",
-      "note": "HN 258pts · 176 댓글"
-    }
-  ]
+  "social": []
 }
