@@ -1,155 +1,134 @@
 {
-  "generated_at": "2026-09-05T22:45:06.172543+00:00",
-  "date_label": "2026년 9월 6일 (일)",
+  "generated_at": "2026-09-06T22:50:37.974770+00:00",
+  "date_label": "2026년 9월 7일 (월)",
   "github_trending": [
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 2813,
+      "stars_today": 1539,
       "lang": "JavaScript"
     },
     {
       "repo": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "desc": "",
-      "stars_today": 573,
+      "stars_today": 520,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
       "desc": "",
-      "stars_today": 472,
+      "stars_today": 355,
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "ahujasid/blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "desc": "",
+      "stars_today": 209,
       "lang": "Python"
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 186,
+      "stars_today": 160,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "WorldFlowAI/everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "repo": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
       "desc": "",
-      "stars_today": 139,
-      "lang": "JavaScript"
+      "stars_today": 145,
+      "lang": "TypeScript"
     },
     {
-      "repo": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
+      "repo": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
       "desc": "",
-      "stars_today": 108,
+      "stars_today": 94,
       "lang": "Python"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 99,
+      "stars_today": 70,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
       "desc": "",
-      "stars_today": 42,
+      "stars_today": 44,
       "lang": "Python"
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "Sumanth077/Hands-On-AI-Engineering",
+      "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
       "desc": "",
       "stars_today": 26,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
-      "stars_today": 19,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "desc": "",
-      "stars_today": 16,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "GokuMohandas/Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "desc": "",
-      "stars_today": 5,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "desc": "",
-      "stars_today": 2666,
-      "lang": "Shell"
-    },
-    {
-      "repo": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "desc": "",
-      "stars_today": 1591,
       "lang": "Python"
+    },
+    {
+      "repo": "CompVis/stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "desc": "",
+      "stars_today": 17,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
+      "desc": "",
+      "stars_today": 10,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 10,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "DataTalksClub/llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "desc": "",
+      "stars_today": 7,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "openai/CLIP",
+      "url": "https://github.com/openai/CLIP",
+      "desc": "",
+      "stars_today": 7,
+      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Discovery of a new OpenAI agent message board",
-      "url": "https://collusion.wiki/",
-      "points": 2063,
-      "comments": 1497,
-      "hn_url": "https://news.ycombinator.com/item?id=49563355"
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "points": 89,
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=49587217"
     },
     {
-      "title": "Can AI design circuit boards yet?",
-      "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-      "points": 360,
-      "comments": 204,
-      "hn_url": "https://news.ycombinator.com/item?id=49569366"
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "points": 15,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49590595"
     },
     {
-      "title": "LLMs as a Cognitive Virus",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "points": 117,
-      "comments": 91,
-      "hn_url": "https://news.ycombinator.com/item?id=49580164"
-    },
-    {
-      "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
-      "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
-      "points": 104,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=49576343"
-    },
-    {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "url": "https://terrytao.wordpress.com/2014/02/04/finite-time-blowup-for-an-averaged-three-dimensional-navier-stokes-equation/",
-      "points": 42,
-      "comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=49580329"
-    },
-    {
-      "title": "America's Two Largest School Districts Impose AI Moratoriums",
-      "url": "https://www.techpolicy.press/americas-two-largest-school-districts-impose-ai-moratoriums/",
-      "points": 16,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49580980"
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "points": 7,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49561514"
     }
   ],
   "reddit": [
@@ -160,50 +139,57 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
     },
     {
-      "title": "AA Update! Here's how the Frontier ranks.",
-      "sub": "LocalLLaMA",
-      "author": "Tall_Abrocoma_3533",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y261/aa_update_heres_how_the_frontier_ranks/"
+      "title": "Reproducibility seems to be headed towards irrelevance in ML research. Is it too late? [D]",
+      "sub": "MachineLearning",
+      "author": "NeighborhoodFatCat",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w92eis/reproducibility_seems_to_be_headed_towards/"
     },
     {
-      "title": "AA Update! Here's how the small models score.",
+      "title": "8 uncensored Qwen 3.8 27B variants, one base, 167 GPU hours - Abliterlitics",
       "sub": "LocalLLaMA",
-      "author": "Tall_Abrocoma_3533",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7y3sa/aa_update_heres_how_the_small_models_score/"
+      "author": "nathandreamfast",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w8vx6w/8_uncensored_qwen_38_27b_variants_one_base_167/"
     },
     {
-      "title": "The gap has closed, open source will win",
-      "sub": "LocalLLaMA",
-      "author": "Fluffy-Ad-889",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w825pc/the_gap_has_closed_open_source_will_win/"
+      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+      "sub": "MachineLearning",
+      "author": "Starscream-11813",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/"
     },
     {
-      "title": "I've found myself using Local LLM's like 3D printers.",
+      "title": "2x R9700, 64 GB DDR5 is an absolute beast machine with vLLM Radiance / R9V and Qwen 3.8 27b and Flash next",
       "sub": "LocalLLaMA",
-      "author": "Quebber",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7thwv/ive_found_myself_using_local_llms_like_3d_printers/"
+      "author": "smallDeltaBigEffect",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w92x3j/2x_r9700_64_gb_ddr5_is_an_absolute_beast_machine/"
     },
     {
-      "title": "Qwen3.8-27B beat the Wikipedia game in 6 clicks.",
-      "sub": "LocalLLaMA",
-      "author": "swagonflyyyy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w7q92n/qwen3827b_beat_the_wikipedia_game_in_6_clicks/"
+      "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
+      "sub": "MachineLearning",
+      "author": "Asleep-Requirement13",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/"
     }
   ],
   "youtube": [
     {
-      "title": "Hand-written code is dying: DHH on the new era of programming | Lex Fridman Podcast Clips",
+      "title": "Strategies for programming with AI agents | DHH and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=z4BzWpgy_7Q",
-      "published": "2026-09-05",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10009-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
+      "url": "https://www.youtube.com/watch?v=IgKU8xCgbjc",
+      "published": "2026-09-06",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10019-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
     },
     {
-      "title": "GPT6 Astra, 인간 일자리 대체의 시작인가... 5일 동안 쉬지않고 일한 후 미친 결과 | 10만 GPU로 만든 ‘일하는 AI’의 등장 | 구글, 앤트로픽 전략 차이",
+      "title": "GPT 6 Astra, Claude Fable 5.1, Gemini 3.8, realtime Minimax, new world models: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=ngyFRCNq0Yc",
+      "published": "2026-09-06",
+      "desc": "HUGE AI NEWS: GPT 6 Astra, Claude Fable 5.1, Gemini 3.8 Flash, Muse Spark 1.3 & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-cumlJh H3 World https://danzer1xxxxchan.github.io/H3-World/ SolarWM https://j"
+    },
+    {
+      "title": "사이버캡 출시 직후 밝혀진, 놀라운 기술과 전략들... 10초 단위 생산과 브레이크액·희토류까지 없앤 테슬라 | Fleet 사업자까지",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=imuNtB_C72A",
-      "published": "2026-09-05",
-      "desc": "GPT-6 Astra가 공개됐습니다. 이번 모델은 단순히 질문에 더 잘 답하는 것보다, 컴퓨터를 직접 사용하면서 긴 작업을 끝까지 이어가는 능력에서 큰 변화를 보여줬습니다. 초기 사용자 사례에서는 하나의 목표를 닷새 동안 이어서 작업했고, Blender에서 만든 3D 공간을 Unreal Engine 5로 옮기는 데모도 공개됐습니다. GPT-6의 사전학습에는 10만 개가 넘는 GPU가 투입됐지만, 모든 종합 벤치마크에서 Claude를 압도한 것은 아닙니다. 대신 여러 프로그램을 오가며 업무를 완료하"
+      "url": "https://www.youtube.com/watch?v=DIdKpyqqozI",
+      "published": "2026-09-06",
+      "desc": "테슬라 사이버캡이 실제 승객을 태우기 시작했습니다. 이번 영상에서는 자율주행보다 양산형 사이버캡에서 새롭게 드러난 하드웨어를 살펴봅니다. 테슬라는 새 드라이브 유닛을 10초 미만의 생산 사이클에 맞춰 설계하고 있습니다. 브레이크액과 긴 유압 배관을 없앤 완전 전기식 브레이크도 적용했습니다. 희토류를 사용하지 않는 영구자석 모터와 작고 가벼워진 드라이브 유닛도 함께 살펴봅니다. 운전대와 페달이 사라지면서 기존 자동차에서 함께 없어질 수 있는 부품과 제조공정도 많아졌습니다. 약 48kWh의 비교적 작"
     },
     {
       "title": "GPT 6 Astra, so good even OpenAI are worried",
@@ -232,13 +218,6 @@
       "url": "https://www.youtube.com/shorts/ELeMRBz2-tA",
       "published": "2026-09-03",
       "desc": ""
-    },
-    {
-      "title": "Claude Fable 5.1 is savage",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=RmlP_nqOhsk",
-      "published": "2026-09-03",
-      "desc": "Claude Fable 5.1 review. New top AI model #ai #ainews #llm #agi #singularity Thanks to our sponsor Higgsfield. Try Seedance 2.5 1080p https://higgsfield.ai/s/theaisearch-NJFeaC https://www.anthropic.com/claude-fable-and-mythos-5-1 Full EDM song: https://x.com/aisearchio/status/20"
     },
     {
       "title": "망각곡선을 그대로 넣으면 성능이 떨어집니다 #Shorts",
