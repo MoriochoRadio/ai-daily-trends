@@ -1,127 +1,155 @@
 {
-  "generated_at": "2026-09-07T23:24:29.922033+00:00",
-  "date_label": "2026년 9월 8일 (화)",
+  "generated_at": "2026-09-08T23:17:17.959007+00:00",
+  "date_label": "2026년 9월 9일 (수)",
   "github_trending": [
-    {
-      "repo": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "desc": "",
-      "stars_today": 665,
-      "lang": "Python"
-    },
     {
       "repo": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "desc": "",
-      "stars_today": 602,
+      "stars_today": 666,
       "lang": "JavaScript"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "",
+      "stars_today": 533,
+      "lang": ""
     },
     {
       "repo": "openai/skills",
       "url": "https://github.com/openai/skills",
       "desc": "",
-      "stars_today": 372,
+      "stars_today": 490,
       "lang": "Python"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 95,
+      "stars_today": 371,
+      "lang": "Python"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "",
+      "stars_today": 342,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 217,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "hpcaitech/Open-Sora",
+      "url": "https://github.com/hpcaitech/Open-Sora",
+      "desc": "",
+      "stars_today": 212,
+      "lang": "Python"
+    },
+    {
+      "repo": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "desc": "",
+      "stars_today": 176,
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "desc": "",
+      "stars_today": 82,
+      "lang": "Python"
+    },
+    {
+      "repo": "0x4m4/hexstrike-ai",
+      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "desc": "",
+      "stars_today": 74,
+      "lang": "Python"
     },
     {
       "repo": "AgriciDaniel/claude-ads",
       "url": "https://github.com/AgriciDaniel/claude-ads",
       "desc": "",
-      "stars_today": 94,
+      "stars_today": 73,
       "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 85,
+      "stars_today": 67,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 73,
+      "stars_today": 65,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mukul975/cve-mcp-server",
-      "url": "https://github.com/mukul975/cve-mcp-server",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 46,
+      "stars_today": 60,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "neka-nat/freecad-mcp",
+      "url": "https://github.com/neka-nat/freecad-mcp",
+      "desc": "",
+      "stars_today": 39,
       "lang": "Python"
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 40,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "pathwaycom/llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "desc": "",
-      "stars_today": 21,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "CompVis/stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
-      "desc": "",
-      "stars_today": 15,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 12,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "DataTalksClub/llm-zoomcamp",
-      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
-      "desc": "",
-      "stars_today": 11,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
-      "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
-      "desc": "",
-      "stars_today": 7,
-      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "points": 112,
-      "comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=49575515"
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "points": 274,
+      "comments": 213,
+      "hn_url": "https://news.ycombinator.com/item?id=49610631"
     },
     {
-      "title": "The Dataflow Model Revisited",
-      "url": "https://www.vldb.org/pvldb/volumes/19/paper/The%20Dataflow%20Model%20Revisited",
-      "points": 78,
-      "comments": 14,
-      "hn_url": "https://news.ycombinator.com/item?id=49589190"
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "url": "https://ai.meta.com/muse/",
+      "points": 208,
+      "comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=49615537"
+    },
+    {
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "points": 198,
+      "comments": 138,
+      "hn_url": "https://news.ycombinator.com/item?id=49611051"
+    },
+    {
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "points": 103,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=49613068"
+    },
+    {
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "points": 44,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49617581"
+    },
+    {
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "points": 27,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49616968"
     }
   ],
   "reddit": [
@@ -132,43 +160,57 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
     },
     {
-      "title": "Friends Don't Let Friends Use Ollama",
+      "title": "OpenAI alleged of stealing mathematicians work",
       "sub": "LocalLLaMA",
-      "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa26pn/friends_dont_let_friends_use_ollama/"
+      "author": "bakawolf123",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/"
     },
     {
-      "title": "I REALLY hope the new gemma 5 family sticks to the \"chat model first\" philsophy and doesn't fall into the Qwen trap",
+      "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "AnimalPuzzleheaded71",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9ylhh/i_really_hope_the_new_gemma_5_family_sticks_to/"
+      "author": "FullstackSensei",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/"
     },
     {
-      "title": "MiniCPM5-2B Release Day",
+      "title": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
       "sub": "LocalLLaMA",
-      "author": "Equivalent-Grass-527",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1w9skjz/minicpm52b_release_day/"
+      "author": "Nunki08",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/"
     },
     {
-      "title": "My Qwen3.8-27B task-aware quant reaches 99% of BF16 reasoning performance at 15% of the size.",
+      "title": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
       "sub": "LocalLLaMA",
-      "author": "devildip",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa5dp9/my_qwen3827b_taskaware_quant_reaches_99_of_bf16/"
+      "author": "Healthy-Nebula-3603",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/"
     },
     {
-      "title": "DeepSeek-V4-Flash-Vision-Exp is amazing at creating game worlds!",
+      "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "sloptimizer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wa06k3/deepseekv4flashvisionexp_is_amazing_at_creating/"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/"
     }
   ],
   "youtube": [
     {
-      "title": "Who will win race to AGI: OpenAI vs Anthropic vs Google vs SpaceXAI vs China | DHH and Lex Fridman",
+      "title": "GPT-6 Astra Changes Everything",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
+      "published": "2026-09-08",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/stat"
+    },
+    {
+      "title": "DHH on fatherhood: What I love about being a father | Lex Fridman Podcast Clips",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=E-28IkVdcl0",
-      "published": "2026-09-07",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10029-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
+      "url": "https://www.youtube.com/watch?v=V1NeLsFOPcQ",
+      "published": "2026-09-08",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10037-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
+    },
+    {
+      "title": "전공자도 백엔드 자바&스프링 부트캠프가 필요할까?",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=6Z2U5qJ-LtY",
+      "published": "2026-09-08",
+      "desc": "전공자이지만 학교에서 경험하기 어려웠던 실제 서비스 배포, 도커·쿠버네티스를 활용한 배포 환경 구축, 기업 연계 프로젝트까지 — 백엔드 자바&스프링 부트캠프를 통해 개발 전 과정을 폭넓게 경험한 **이원건**님의 인터뷰입니다. ▶ 백엔드 자바&스프링 부트캠프 지원하기 https://abit.ly/kdtbejv28_youtube #백엔드 #자바 #스프링부트 #백엔드개발자 #자바개발자 #자바스프링 #멋쟁이사자처럼"
     },
     {
       "title": "GPT 6 Astra is a freak",
@@ -190,20 +232,6 @@
       "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
       "published": "2026-09-04",
       "desc": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more… Exclusiv"
-    },
-    {
-      "title": "외주, 개발, 디자인, 동아리, 사이드프로젝트 다 하는 4학년의 일정 관리법",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/xyff7SvPpoI",
-      "published": "2026-09-04",
-      "desc": "이것저것 다 벌리고 사는 4학년의 일 안 놓치는 일정 관리법 📝 개발도 하고, 디자인도 하고, 프로젝트도 하고… 할 일이 많아질수록 머릿속으로 기억하기보다는 일단 전부 꺼내놓고 정리하는 방법을 쓰고 있어요! #대학생 #대학생활 #일정관리 #시간관리 #생산성 #대학생꿀팁 #갓생"
-    },
-    {
-      "title": "Claude Fable AI Is Much Stranger Than The Headlines Suggest",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=B3LXEW4Pc-w",
-      "published": "2026-09-03",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Claude Fable 5.1 paper is available here: https://www.anthropic.com/claude-fable-and-mythos-5-1 https://www-cdn.anthropic.com/0339e6a7c5c7b87f5c07798616dc32c215d14235/Claude%20Fable%205.1%20%"
     },
     {
       "title": "I automated a Reality Show for my wife & she somehow liked it lol",
