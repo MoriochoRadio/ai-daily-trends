@@ -1,155 +1,155 @@
 {
-  "generated_at": "2026-09-08T23:17:17.959007+00:00",
-  "date_label": "2026년 9월 9일 (수)",
+  "generated_at": "2026-09-10T23:03:08.270110+00:00",
+  "date_label": "2026년 9월 11일 (금)",
   "github_trending": [
     {
-      "repo": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
+      "repo": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "desc": "",
-      "stars_today": 666,
+      "stars_today": 957,
       "lang": "JavaScript"
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "repo": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
       "desc": "",
-      "stars_today": 533,
-      "lang": ""
-    },
-    {
-      "repo": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "desc": "",
-      "stars_today": 490,
-      "lang": "Python"
+      "stars_today": 837,
+      "lang": "TypeScript"
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 371,
+      "stars_today": 814,
       "lang": "Python"
+    },
+    {
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
+      "desc": "",
+      "stars_today": 806,
+      "lang": "TypeScript"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 342,
+      "stars_today": 684,
       "lang": "Python"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
       "desc": "",
-      "stars_today": 217,
+      "stars_today": 249,
+      "lang": "Python"
+    },
+    {
+      "repo": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "desc": "",
+      "stars_today": 247,
+      "lang": "Rust"
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 106,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "hpcaitech/Open-Sora",
-      "url": "https://github.com/hpcaitech/Open-Sora",
+      "repo": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
       "desc": "",
-      "stars_today": 212,
-      "lang": "Python"
+      "stars_today": 94,
+      "lang": "TypeScript"
     },
     {
-      "repo": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 176,
-      "lang": "JavaScript"
-    },
-    {
-      "repo": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "desc": "",
-      "stars_today": 82,
-      "lang": "Python"
-    },
-    {
-      "repo": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
-      "desc": "",
-      "stars_today": 74,
-      "lang": "Python"
-    },
-    {
-      "repo": "AgriciDaniel/claude-ads",
-      "url": "https://github.com/AgriciDaniel/claude-ads",
-      "desc": "",
-      "stars_today": 73,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 67,
+      "stars_today": 91,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "openai/skills",
+      "url": "https://github.com/openai/skills",
       "desc": "",
-      "stars_today": 65,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 60,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "neka-nat/freecad-mcp",
-      "url": "https://github.com/neka-nat/freecad-mcp",
-      "desc": "",
-      "stars_today": 39,
+      "stars_today": 89,
       "lang": "Python"
+    },
+    {
+      "repo": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "desc": "",
+      "stars_today": 87,
+      "lang": "C"
+    },
+    {
+      "repo": "FareedKhan-dev/all-agentic-architectures",
+      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+      "desc": "",
+      "stars_today": 70,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 40,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "openai/CLIP",
+      "url": "https://github.com/openai/CLIP",
+      "desc": "",
+      "stars_today": 10,
+      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "points": 274,
-      "comments": 213,
-      "hn_url": "https://news.ycombinator.com/item?id=49610631"
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "points": 560,
+      "comments": 561,
+      "hn_url": "https://news.ycombinator.com/item?id=49639408"
     },
     {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "url": "https://ai.meta.com/muse/",
-      "points": 208,
-      "comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=49615537"
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "points": 332,
+      "comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=49645443"
     },
     {
-      "title": "The two Christian saints who are the Buddha",
-      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
-      "points": 198,
-      "comments": 138,
-      "hn_url": "https://news.ycombinator.com/item?id=49611051"
+      "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
+      "url": "https://magic.dev/blog/pretraining#",
+      "points": 107,
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49613072"
     },
     {
-      "title": "Show HN: LLM Attention Visualization",
-      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
-      "points": 103,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=49613068"
+      "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
+      "url": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+      "points": 105,
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49650326"
     },
     {
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
-      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
-      "points": 44,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=49617581"
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "points": 63,
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49649213"
     },
     {
-      "title": "Tao: Open math problems being non-renewably mined by AI",
-      "url": "https://mathstodon.xyz/@tao/117237320796901560",
-      "points": 27,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=49616968"
+      "title": "Detecting and countering misuse of AI: September 2026",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "points": 59,
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49647300"
     }
   ],
   "reddit": [
@@ -160,71 +160,71 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
     },
     {
-      "title": "OpenAI alleged of stealing mathematicians work",
+      "title": "ANOTHER researcher accuses OpenAI of training on conversations and then claiming a breakthrough",
       "sub": "LocalLLaMA",
-      "author": "bakawolf123",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wapjaw/openai_alleged_of_stealing_mathematicians_work/"
+      "author": "SirReal14",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcmgbn/another_researcher_accuses_openai_of_training_on/"
     },
     {
-      "title": "Qwen/Qwen-Drive-1.0-4B · Hugging Face",
+      "title": "I find it funny that a flash model is now 512GB",
       "sub": "LocalLLaMA",
-      "author": "FullstackSensei",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wauxg9/qwenqwendrive104b_hugging_face/"
+      "author": "Terminator857",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcvmuo/i_find_it_funny_that_a_flash_model_is_now_512gb/"
     },
     {
-      "title": "DeepSeek Flash 4.1 is already being tested via API and rolling out.",
+      "title": "Pi Agent Users - Nvidia Released Sol-Pi - A Pi-Extension based on AutoResearch loops to make the Harness more efficient",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wan3nl/deepseek_flash_41_is_already_being_tested_via_api/"
+      "author": "Thrumpwart",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcujgg/pi_agent_users_nvidia_released_solpi_a/"
     },
     {
-      "title": "Qwen 3.8 27b with PI agent - pushed to its 3D graphic game limits",
+      "title": "DeepSeek V4-1 Flash is out",
       "sub": "LocalLLaMA",
-      "author": "Healthy-Nebula-3603",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1waz5a0/qwen_38_27b_with_pi_agent_pushed_to_its_3d/"
+      "author": "tiguidoio",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcbid7/deepseek_v41_flash_is_out/"
     },
     {
-      "title": "inclusionAI/Ling-3.0-flash-VL · Hugging Face",
+      "title": "OUI-1: a model that generates bespoke UI elements",
       "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wasdnn/inclusionailing30flashvl_hugging_face/"
+      "author": "Mr_BETADINE",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wcqa03/oui1_a_model_that_generates_bespoke_ui_elements/"
     }
   ],
   "youtube": [
     {
-      "title": "GPT-6 Astra Changes Everything",
+      "title": "I Never Thought I’d See This Happen",
       "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=eVBJIUxv8N8",
-      "published": "2026-09-08",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Links / sources: Honey sim: search for \"Variational Stokes: A Unified Pressure-Viscosity Solver for Accurate Viscous Liquids\" here: https://cs.uwaterloo.ca/~c2batty/ https://x.com/mindblown_ai/stat"
+      "url": "https://www.youtube.com/watch?v=mOvtumfyjCs",
+      "published": "2026-09-10",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The Navier-Stokes solution paper is available here: https://openai.com/index/navier-stokes-solution/ My fluid simulations and papers: https://users.cg.tuwien.ac.at/zsolnai/gfx/fluid_control_msc_t"
     },
     {
-      "title": "DHH on fatherhood: What I love about being a father | Lex Fridman Podcast Clips",
+      "title": "DHH on drama with Theo | Lex Fridman Podcast Clips",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=V1NeLsFOPcQ",
-      "published": "2026-09-08",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10037-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
+      "url": "https://www.youtube.com/watch?v=uJMjlKksSks",
+      "published": "2026-09-10",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10034-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
     },
     {
-      "title": "전공자도 백엔드 자바&스프링 부트캠프가 필요할까?",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=6Z2U5qJ-LtY",
-      "published": "2026-09-08",
-      "desc": "전공자이지만 학교에서 경험하기 어려웠던 실제 서비스 배포, 도커·쿠버네티스를 활용한 배포 환경 구축, 기업 연계 프로젝트까지 — 백엔드 자바&스프링 부트캠프를 통해 개발 전 과정을 폭넓게 경험한 **이원건**님의 인터뷰입니다. ▶ 백엔드 자바&스프링 부트캠프 지원하기 https://abit.ly/kdtbejv28_youtube #백엔드 #자바 #스프링부트 #백엔드개발자 #자바개발자 #자바스프링 #멋쟁이사자처럼"
-    },
-    {
-      "title": "GPT 6 Astra is a freak",
+      "title": "New BEST AI image generator is here",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=Ji4amrxrzVM",
-      "published": "2026-09-07",
-      "desc": "GPT 6 Astra review #ai #ainews #aitools #agi #singularity #llm #openai Thanks to our sponsor Luma. Try it today: https://lumalabs.ai/aisearch-sep GPT 6 release page https://openai.com/index/gpt-6-astra Full song https://x.com/aisearchio/status/2096690310311207126 00:00 GPT 6 Astr"
+      "url": "https://www.youtube.com/watch?v=q9tpIc8PVKM",
+      "published": "2026-09-10",
+      "desc": "GPT Image 2.5 review. ChatGPT Images 2.5 vs 2 vs Nano Banana 2 #ai #aitools #aiart #imagegenerator #aiphoto #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-sHrNcF GPT Image 2.5 release page https://openai.com/index/introducing-"
     },
     {
-      "title": "GPT6 Astra, AI로 돈 번다… NVIDIA 젠슨황 말을 증명하다 | Compute is Revenue",
+      "title": "비싸도 산다는 현 상황... 애플 폴더블 ‘아이폰 듀오‘ 출시 | 갤럭시 폴드와 다른 기술적 이유",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=J0aIaS9DIqA",
-      "published": "2026-09-07",
-      "desc": "GPT-6 Astra는 Blender와 Unreal Engine을 직접 활용하면서 사람이 돈 받고 하던 제작 업무 일부를 수행하기 시작했습니다.이번 영상에서는 Astra의 비전 성능과 Computer Use가 왜 크게 좋아졌는지 공개 연구를 통해 뜯어봅니다.작은 UI를 찾는 Visual Grounding부터 화면을 다시 보고 수정하는 방법, 여러 에이전트가 긴 작업을 이어가는 구조까지 살펴봅니다.흥미로운 건 이런 기술적 접근 자체는 이미 여러 논문에서 확인할 수 있다는 점입니다.차이는 이 방법을 "
+      "url": "https://www.youtube.com/watch?v=d-1zGc0JIvY",
+      "published": "2026-09-10",
+      "desc": "삼성이 2019년 갤럭시 폴드로 시장을 연 뒤 7년, 애플도 첫 폴더블 아이폰 듀오를 내놨습니다. 이번 영상에서는 단순한 스펙 비교보다, 왜 같은 폴더블인데도 제품을 열고 닫을 때 느껴지는 경험이 다른지를 살펴봤습니다. 화면을 접는 순간 블러가 걸리며 안쪽과 바깥쪽 화면이 하나처럼 이어지는 UI부터 시작합니다. 아이폰 듀오와 갤럭시 폴드8의 화면 비율이 어떻게 다르고, 애플이 발표 무대에서 기존 폴더블의 사용감을 왜 직접 건드렸는지도 다뤘습니다. 같은 삼성디스플레이의 기술을 활용하면서도 접착층, "
+    },
+    {
+      "title": "[멋쟁이사자처럼] AWS 클라우드 부트캠프 9기 사전설명회",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=F_C2GsKbXDo",
+      "published": "2026-09-09",
+      "desc": "[AWS 클라우드 부트캠프 9기 지원하러 가기] https://abit.ly/kdtcld09_prelive - 지원 기간 : ~ 2026.9.28(월) 오후 11시까지 - 교육 기간 : 2026.09.30(수) ~ 2027.03.02(화)"
     },
     {
       "title": "GPT 6 Astra, so good even OpenAI are worried",
