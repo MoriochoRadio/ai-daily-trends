@@ -1,155 +1,169 @@
 {
-  "generated_at": "2026-09-11T23:09:18.839823+00:00",
-  "date_label": "2026년 9월 12일 (토)",
+  "generated_at": "2026-09-12T22:55:58.203806+00:00",
+  "date_label": "2026년 9월 13일 (일)",
   "github_trending": [
     {
-      "repo": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
+      "repo": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
       "desc": "",
-      "stars_today": 640,
-      "lang": "TypeScript"
+      "stars_today": 264,
+      "lang": "Python"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "",
+      "stars_today": 237,
+      "lang": "Python"
     },
     {
       "repo": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
       "desc": "",
-      "stars_today": 354,
+      "stars_today": 237,
       "lang": "C"
     },
     {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
+      "repo": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
       "desc": "",
-      "stars_today": 311,
+      "stars_today": 162,
       "lang": "Python"
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
       "desc": "",
-      "stars_today": 153,
+      "stars_today": 99,
       "lang": "Python"
     },
     {
-      "repo": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 132,
-      "lang": "Python"
+      "stars_today": 53,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 87,
+      "stars_today": 52,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 82,
+      "stars_today": 37,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "desc": "",
+      "stars_today": 31,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "GokuMohandas/Made-With-ML",
       "url": "https://github.com/GokuMohandas/Made-With-ML",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 17,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "neo4j-labs/llm-graph-builder",
-      "url": "https://github.com/neo4j-labs/llm-graph-builder",
+      "repo": "google-gemini/gemini-skills",
+      "url": "https://github.com/google-gemini/gemini-skills",
       "desc": "",
-      "stars_today": 10,
-      "lang": "Jupyter Notebook"
+      "stars_today": 13,
+      "lang": "Python"
     },
     {
       "repo": "mrdbourke/zero-to-mastery-ml",
       "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
       "desc": "",
+      "stars_today": 12,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "desc": "",
       "stars_today": 7,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/llm-algo-leetcode",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode",
+      "repo": "langchain-ai/langchain-academy",
+      "url": "https://github.com/langchain-ai/langchain-academy",
       "desc": "",
-      "stars_today": 6,
+      "stars_today": 7,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "desc": "",
-      "stars_today": 5,
+      "stars_today": 4,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Azure-Samples/AI-Gateway",
-      "url": "https://github.com/Azure-Samples/AI-Gateway",
-      "desc": "",
-      "stars_today": 0,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "bilawalsidhu/gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "desc": "",
-      "stars_today": 3642,
-      "lang": "JavaScript"
-    },
-    {
-      "repo": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "desc": "",
-      "stars_today": 3440,
-      "lang": "Python"
     }
   ],
   "hackernews": [
     {
-      "title": "Claude is only available to people over 18 years",
-      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-      "points": 541,
-      "comments": 579,
-      "hn_url": "https://news.ycombinator.com/item?id=49656225"
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "url": "https://mathandai.org/",
-      "points": 506,
-      "comments": 578,
-      "hn_url": "https://news.ycombinator.com/item?id=49662371"
-    },
-    {
       "title": "A Design Space Exploration of Async/Await",
       "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-      "points": 85,
-      "comments": 17,
+      "points": 413,
+      "comments": 121,
       "hn_url": "https://news.ycombinator.com/item?id=49626718"
     },
     {
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "points": 80,
-      "comments": 48,
-      "hn_url": "https://news.ycombinator.com/item?id=49663054"
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "points": 358,
+      "comments": 314,
+      "hn_url": "https://news.ycombinator.com/item?id=49645480"
     },
     {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "url": "https://github.com/kennethwolters/litelm",
-      "points": 79,
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "points": 333,
+      "comments": 233,
+      "hn_url": "https://news.ycombinator.com/item?id=49673098"
+    },
+    {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "points": 212,
       "comments": 30,
-      "hn_url": "https://news.ycombinator.com/item?id=49662767"
+      "hn_url": "https://news.ycombinator.com/item?id=49670032"
     },
     {
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "url": "https://www.getzep.com/careers/",
-      "points": 0,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49661645"
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "points": 99,
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=49671159"
+    },
+    {
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "points": 89,
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49658672"
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "points": 70,
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=49672365"
+    },
+    {
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "points": 55,
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49676820"
     }
   ],
   "reddit": [
@@ -160,43 +174,43 @@
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
     },
     {
-      "title": "Hugging Face security.txt",
+      "title": "This seems more probable than it was before.",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdbvlt/hugging_face_securitytxt/"
+      "author": "pmv143",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wepx7w/this_seems_more_probable_than_it_was_before/"
     },
     {
-      "title": "Qwen3.8-27B-Humanlike-Chat: A model I tuned to imitate realistic human-to-human conversation",
+      "title": "Looks like a coordination to stop distribution of intelligence",
       "sub": "LocalLLaMA",
-      "author": "kvyb",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdl2qa/qwen3827bhumanlikechat_a_model_i_tuned_to_imitate/"
+      "author": "de4dee",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wehlyi/looks_like_a_coordination_to_stop_distribution_of/"
     },
     {
-      "title": "Is a ZIMA Board 2 + RTX 2000 ADA the cheapest path to a decent Qwen-3.8 27b self-contained endpoint?",
+      "title": "3.8-27B has ruined 3.5/3.6-35B’s for me. It’s just *absurdly* superior.",
+      "sub": "LocalLLaMA",
+      "author": "JLeonsarmiento",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1we8tl1/3827b_has_ruined_353635bs_for_me_its_just/"
+    },
+    {
+      "title": "Real-SWE Benchmark (new)",
+      "sub": "LocalLLaMA",
+      "author": "SteppenAxolotl",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wemcdc/realswe_benchmark_new/"
+    },
+    {
+      "title": "For those of you forced to only use open models from Western labs in production, what are you deploying?",
       "sub": "LocalLLaMA",
       "author": "Porespellar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdqnpq/is_a_zima_board_2_rtx_2000_ada_the_cheapest_path/"
-    },
-    {
-      "title": "nvidia rtx 5090 with 96gb of vram.",
-      "sub": "LocalLLaMA",
-      "author": "running101",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdrvru/nvidia_rtx_5090_with_96gb_of_vram/"
-    },
-    {
-      "title": "Orukeet, new ASR model based on Parakeet",
-      "sub": "LocalLLaMA",
-      "author": "arturdent",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wdk2he/orukeet_new_asr_model_based_on_parakeet/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wegs2w/for_those_of_you_forced_to_only_use_open_models/"
     }
   ],
   "youtube": [
     {
-      "title": "아이폰18 Pro, 애플은 AI에서 모든 게 준비됩니다... 메모리 열 설계까지 바꾼 AI 아이폰 | A20 Pro와 AFM 3가 맞춰진 이유",
+      "title": "엔비디아 진짜 해자는 GPU가 아니다 | CUDA·NVLink·Mellanox가 만든 AI 시스템",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=KbT3A34tTPk",
-      "published": "2026-09-11",
-      "desc": "스마트폰 성능은 이미 충분하다는 이야기가 많았지만, AI가 들어오면서 새로운 병목이 생기기 시작했습니다. A20 Pro는 CPU와 GPU뿐 아니라 Neural Engine, 메모리 대역폭, 패키징과 냉각 구조까지 크게 바꿨습니다. 특히 몇 달 전 다뤘던 64비트→96비트 메모리 인터페이스 추정과 실제 50% 대역폭 증가가 어떻게 연결되는지 살펴봅니다. WWDC26에서 공개된 AFM 3 Core Advanced와 IFP가 스마트폰의 제한된 DRAM과 NAND를 어떻게 활용하는지도 함께 다룹니다. 소"
+      "url": "https://www.youtube.com/watch?v=lr5kzD67O_U",
+      "published": "2026-09-12",
+      "desc": "엔비디아의 경쟁력은 정말 GPU 한 장의 성능에서 끝나는 걸까요? 이번 영상에서는 그래픽 처리용 GPU가 어떻게 범용 병렬 컴퓨팅으로 확장됐고, CUDA가 그 과정에서 어떤 역할을 했는지 살펴봅니다. AI 모델이 커지면서 GPU 한 장으로는 해결할 수 없게 된 뒤, 여러 GPU의 계산 결과를 맞추는 AllReduce와 NCCL이 왜 중요해졌는지도 알아봅니다. GPU 사이의 데이터 이동을 빠르게 만드는 NVLink와 NVSwitch, 그리고 랙 밖의 통신을 담당하는 고성능 네트워크의 역할도 함께 짚"
     },
     {
       "title": "I Never Thought I’d See This Happen",
