@@ -1,209 +1,209 @@
 {
-  "generated_at": "2026-09-13T23:03:55.251733+00:00",
-  "date_label": "2026년 9월 14일 (월)",
+  "generated_at": "2026-09-14T23:48:21.795261+00:00",
+  "date_label": "2026년 9월 15일 (화)",
   "github_trending": [
     {
-      "repo": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 690,
+      "stars_today": 756,
+      "lang": "Python"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "",
+      "stars_today": 640,
       "lang": "Python"
     },
     {
       "repo": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "desc": "",
-      "stars_today": 507,
+      "stars_today": 606,
       "lang": "Python"
     },
     {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
       "desc": "",
-      "stars_today": 501,
-      "lang": "Python"
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 375,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "desc": "",
-      "stars_today": 268,
+      "stars_today": 528,
       "lang": "Python"
     },
     {
       "repo": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
       "desc": "",
-      "stars_today": 215,
+      "stars_today": 506,
       "lang": "TypeScript"
     },
     {
-      "repo": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
       "desc": "",
-      "stars_today": 102,
+      "stars_today": 488,
       "lang": "Python"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "petergyang/no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
       "desc": "",
-      "stars_today": 57,
+      "stars_today": 448,
+      "lang": "Python"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 350,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 55,
-      "lang": "Python"
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 16,
+      "stars_today": 76,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "simonlin1212/TradingAgents-astock",
-      "url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
-      "stars_today": 15,
-      "lang": "Python"
+      "stars_today": 25,
+      "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/llm-algo-leetcode",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode",
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 13,
+      "stars_today": 19,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
-      "stars_today": 12,
+      "stars_today": 11,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
+      "repo": "datawhalechina/llm-universe",
+      "url": "https://github.com/datawhalechina/llm-universe",
+      "desc": "",
+      "stars_today": 10,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "alirezadir/AIMLInterviews",
+      "url": "https://github.com/alirezadir/AIMLInterviews",
       "desc": "",
       "stars_today": 9,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "repo": "SakanaAI/AI-Scientist",
+      "url": "https://github.com/SakanaAI/AI-Scientist",
       "desc": "",
-      "stars_today": 7,
+      "stars_today": 8,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-      "points": 571,
-      "comments": 641,
-      "hn_url": "https://news.ycombinator.com/item?id=49678969"
+      "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "points": 342,
+      "comments": 301,
+      "hn_url": "https://news.ycombinator.com/item?id=49695876"
     },
     {
-      "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "points": 306,
-      "comments": 162,
-      "hn_url": "https://news.ycombinator.com/item?id=49685253"
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "points": 256,
+      "comments": 266,
+      "hn_url": "https://news.ycombinator.com/item?id=49700477"
     },
     {
-      "title": "Sean Carroll explains the biggest ideas in the universe – Full Interview [video]",
-      "url": "https://www.youtube.com/watch?v=_TBNJyztai0",
-      "points": 65,
-      "comments": 14,
-      "hn_url": "https://news.ycombinator.com/item?id=49651567"
+      "title": "Why don't machine learning research agents overfit?",
+      "url": "https://www.amazon.science/blog/why-dont-machine-learning-research-agents-overfit",
+      "points": 95,
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49699648"
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "url": "https://github.com/FeralFirmware/TailTalk/",
-      "points": 62,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=49678423"
+      "title": "Adversarial Fashion Makes a Statement on AI Panopticon",
+      "url": "https://spectrum.ieee.org/adversarial-fashion",
+      "points": 91,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49697094"
     },
     {
-      "title": "There Is No AI (It's Just People) with Jaron Lanier",
-      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-      "points": 56,
-      "comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49687869"
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "url": "https://entelligence.ai/blogs/gpt-5.6-luna-vs-gpt-6-astra-is-a-1.20-model-good-enough-for-code-review",
+      "points": 86,
+      "comments": 99,
+      "hn_url": "https://news.ycombinator.com/item?id=49703003"
     },
     {
-      "title": "Reverse-Engineering Claude Web's MicroVM: Uncovering Anthropic's Hidden Antspace",
-      "url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
+      "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+      "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
       "points": 40,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=49653311"
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49696132"
     }
   ],
   "reddit": [
     {
-      "title": "Best Local Vision Language Models - August 2026",
+      "title": "Nvidia's RTX 5090 vanishes from online retail in the US — third-party sellers now demand as much as $9,500 for Nvidia's fastest GPU",
       "sub": "LocalLLaMA",
-      "author": "rm-rf-rm",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1vx7ei1/best_local_vision_language_models_august_2026/"
+      "author": "Norwood_Reaper_",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgeo55/nvidias_rtx_5090_vanishes_from_online_retail_in/"
     },
     {
-      "title": "Teach ML! Community service project from Stanford [N]",
-      "sub": "MachineLearning",
-      "author": "chrispiech",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wbf3ox/teach_ml_community_service_project_from_stanford_n/"
-    },
-    {
-      "title": "Plot twist",
+      "title": "UkisAI Swift-Qwen3.8-27B / -58.3% thinking, x1.95 speed while keeping the accuracy of xhigh",
       "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfhiqx/plot_twist/"
+      "author": "Secure_Recording_472",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg7dd5/ukisai_swiftqwen3827b_583_thinking_x195_speed/"
     },
     {
-      "title": "Zachery Lipton: \"CS academia broke the system...perhaps all that it takes for the system to rebuild is for it to burn to the ground\" [D]",
-      "sub": "MachineLearning",
-      "author": "NeighborhoodFatCat",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wf4b5g/zachery_lipton_cs_academia_broke_the/"
-    },
-    {
-      "title": "3k$ 128GB VRAM + 256GB RAM DDR4 Server",
+      "title": "For the GPU poor. K2 Horizon 7B ranks between qwen 3.6 27B and qwen 3.6 35BA3b on the Artificial Analysis Intelligence Index.",
       "sub": "LocalLLaMA",
-      "author": "Thin_Pollution8843",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfe9zt/3k_128gb_vram_256gb_ram_ddr4_server/"
+      "author": "Uncle___Marty",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg82rd/for_the_gpu_poor_k2_horizon_7b_ranks_between_qwen/"
     },
     {
-      "title": "[Upcoming AMA] Waymo AI Team AMA – Drop Your Questions Early! [D]",
-      "sub": "MachineLearning",
-      "author": "waymo",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wfesc0/upcoming_ama_waymo_ai_team_ama_drop_your/"
+      "title": "Xi promotes open source AI zone among BRICS countries",
+      "sub": "LocalLLaMA",
+      "author": "Frosty-Whole-7752",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wg4kpu/xi_promotes_open_source_ai_zone_among_brics/"
+    },
+    {
+      "title": "RTX PRO 5500 Blackwell (84GB) released",
+      "sub": "LocalLLaMA",
+      "author": "TechNerd10191",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wfxi36/rtx_pro_5500_blackwell_84gb_released/"
+    },
+    {
+      "title": "DeepSeek engineer relections on RSI - burying my talent to yesterday",
+      "sub": "LocalLLaMA",
+      "author": "WebAssemblyMan",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgii3h/deepseek_engineer_relections_on_rsi_burying_my/"
     }
   ],
   "youtube": [
+    {
+      "title": "갑작스레 AI 속도 늦추자... 투자는 확대?  ‘카르텔’ 논란의 진짜 쟁점 | 중국은 멈추지 않는다",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=O6eCcA9fFg8",
+      "published": "2026-09-14",
+      "desc": "실리콘밸리의 AI 기업들이 경쟁을 멈추기는커녕, 함께 속도를 조절하자는 이야기를 꺼냈습니다. 앤트로픽의 다리오 아모데이와 오픈AI의 샘 올트먼, 일론 머스크가 AI 안전을 이유로 개발 속도 조절에 공감하면서 ‘AI 카르텔’ 논란도 시작됐습니다. 시험을 보던 AI 에이전트들이 서로 연락망을 만들고 채점 시스템을 공략한 사건이 이들의 우려를 키웠습니다. 중국 연구진도 ‘인간이 만드는 마지막 AI’라는 논문을 통해 AI가 다음 AI의 개선 과정까지 맡는 재귀적 자기개선을 다루고 있습니다. 데이비드 삭스"
+    },
     {
       "title": "New Deepseek, human genome map, Navier Stokes, GPT finance, Suno v6, YuE2: AI NEWS",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=nZYJdwM-_nI",
       "published": "2026-09-13",
       "desc": "HUGE AI NEWS: Deepseek v4.1 Flash, AlphaGenome Atlas, AuK, YuE2, Navier Stokes solved, Lingbot World 2 & more #ai #ainews #aitools #aivideo #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-MAFGvE Marigold v2 https://huggingface."
-    },
-    {
-      "title": "중국 정부 기밀 정보, Claude로… 앤트로픽 베끼려다가 중국 기밀이 Claude로 넘어간 현 상황 | 딥시크·키미 황당한 역유출 | 러시아 정보도?",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=d0kRWcguYSU",
-      "published": "2026-09-13",
-      "desc": "앤트로픽이 공개한 보고서에는 꽤 이상한 데이터 흐름이 등장합니다.딥시크와 키미 같은 중국 AI를 사용한 고객들의 요청 일부가 프록시를 거쳐 Claude Opus까지 전달됐다는 내용입니다.경쟁 모델의 성능을 학습하기 위한 대규모 증류 과정에서 실제 고객 요청까지 함께 사용된 것이 핵심입니다.그 과정에서 중국 청두 지역의 CCTV 자료와 러시아 정부기관 데이터베이스 접속정보 같은 민감한 데이터도 함께 이동했습니다.기업의 CAPEX 계획이나 개발자의 .env 파일처럼 평범한 업무 과정에서 사용하는 자료"
     },
     {
       "title": "I Never Thought I’d See This Happen",
@@ -255,12 +255,5 @@
       "desc": "Part of a series of monthly puzzles with MoMath."
     }
   ],
-  "social": [
-    {
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "handle": "@TechEmails",
-      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-      "note": "HN 229pts · 93 댓글"
-    }
-  ]
+  "social": []
 }
