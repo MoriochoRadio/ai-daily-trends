@@ -1,210 +1,231 @@
 {
-  "generated_at": "2026-09-15T23:28:57.462948+00:00",
-  "date_label": "2026년 9월 16일 (수)",
+  "generated_at": "2026-09-16T23:36:15.207375+00:00",
+  "date_label": "2026년 9월 17일 (목)",
   "github_trending": [
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "",
+      "stars_today": 656,
+      "lang": "JavaScript"
+    },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 1094,
-      "lang": "Python"
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "desc": "",
-      "stars_today": 850,
+      "stars_today": 484,
       "lang": "Python"
     },
     {
       "repo": "SnailSploit/Claude-Red",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "desc": "",
-      "stars_today": 742,
+      "stars_today": 383,
       "lang": "Python"
     },
     {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 693,
-      "lang": "Python"
+      "stars_today": 155,
+      "lang": "TypeScript"
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 386,
-      "lang": "JavaScript"
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 345,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "desc": "",
-      "stars_today": 263,
-      "lang": "Python"
-    },
-    {
-      "repo": "unclecode/crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "desc": "",
-      "stars_today": 98,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 93,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "desc": "",
-      "stars_today": 80,
+      "stars_today": 96,
       "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 70,
+      "stars_today": 93,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
       "desc": "",
-      "stars_today": 62,
+      "stars_today": 39,
       "lang": "Python"
     },
     {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 47,
+      "stars_today": 34,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "repo": "datawhalechina/llm-universe",
+      "url": "https://github.com/datawhalechina/llm-universe",
       "desc": "",
-      "stars_today": 27,
+      "stars_today": 18,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Infrasys-AI/AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "desc": "",
+      "stars_today": 16,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "desc": "",
+      "stars_today": 14,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRobot",
+      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "desc": "",
+      "stars_today": 14,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 24,
+      "stars_today": 12,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Infrasys-AI/AIInfra",
+      "url": "https://github.com/Infrasys-AI/AIInfra",
+      "desc": "",
+      "stars_today": 12,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "desc": "",
+      "stars_today": 10,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Introducing System One Models and Jev",
-      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-      "points": 590,
-      "comments": 196,
-      "hn_url": "https://news.ycombinator.com/item?id=49717558"
+      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+      "url": "https://mistral.ai/news/mistral-x-mozilla/",
+      "points": 516,
+      "comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49723408"
     },
     {
-      "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-      "url": "https://www.effort.news/irregular",
-      "points": 414,
-      "comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49704132"
+      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+      "url": "https://rohanbansal.com/qorl",
+      "points": 337,
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=49731285"
     },
     {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-      "points": 411,
-      "comments": 380,
-      "hn_url": "https://news.ycombinator.com/item?id=49710253"
+      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+      "url": "https://mimo.xiaomi.com/rl/",
+      "points": 188,
+      "comments": 51,
+      "hn_url": "https://news.ycombinator.com/item?id=49732270"
     },
     {
-      "title": "Let's make quality the norm again",
-      "url": "https://www.forbrukerradet.no/short-life/",
-      "points": 281,
-      "comments": 290,
-      "hn_url": "https://news.ycombinator.com/item?id=49710109"
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "points": 249,
-      "comments": 171,
-      "hn_url": "https://news.ycombinator.com/item?id=49715947"
-    },
-    {
-      "title": "The Inference Hardware Revolution of 2026",
-      "url": "https://spectrum.ieee.org/inference-hardware-revolution",
-      "points": 95,
+      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
+      "url": "https://arxiv.org/abs/2609.16338",
+      "points": 101,
       "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49713024"
+      "hn_url": "https://news.ycombinator.com/item?id=49732931"
     },
     {
-      "title": "Cartesian – AI 3D Modeling for Design",
-      "url": "https://www.formas.ai/cartesian",
-      "points": 82,
-      "comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49713999"
+      "title": "How good are frontier models at physics?",
+      "url": "https://arxiv.org/abs/2609.13009",
+      "points": 58,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49731620"
     },
     {
-      "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-      "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-      "points": 63,
-      "comments": 20,
-      "hn_url": "https://news.ycombinator.com/item?id=49715927"
+      "title": "Accurate Models of AMD Matrix Cores",
+      "url": "https://arxiv.org/abs/2609.14845",
+      "points": 50,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49731360"
+    },
+    {
+      "title": "Reverse-engineered Jev-like model",
+      "url": "https://github.com/vinnylarouge/jevlike",
+      "points": 46,
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49731282"
+    },
+    {
+      "title": "Training Text-to-Image Models 3.6× Faster",
+      "url": "https://www.linum.ai/field-notes/jit-ddt",
+      "points": 24,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49729816"
     }
   ],
   "reddit": [
     {
-      "title": "Don’t buy a $9K RTX 5090.... instead.",
+      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
       "sub": "LocalLLaMA",
-      "author": "DegenDataGuy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whf7ov/dont_buy_a_9k_rtx_5090_instead/"
+      "author": "DustNearby2848",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/"
     },
     {
-      "title": "Got it unopened off Craigslist for $4k. Excited to start hosting my own models!",
+      "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
       "sub": "LocalLLaMA",
-      "author": "michaelthatsit",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh2cga/got_it_unopened_off_craigslist_for_4k_excited_to/"
+      "author": "skeole",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/"
     },
     {
-      "title": "CrofAI \"cheapest inference provider in the world\" gets exposed as an OpenRouter wrapper, routing requests to smaller, cheaper models at up to 20x markup. CrofAI responds to Wire Fraud allegations by denying everything, then backtracking, then 3 hours later wiping their entire online presence",
+      "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
       "sub": "LocalLLaMA",
-      "author": "SorosAhaverom",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwe4n/crofai_cheapest_inference_provider_in_the_world/"
+      "author": "GuiltyBookkeeper4849",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/"
     },
     {
-      "title": "Koboldcpp v1.121 released",
+      "title": "Frontier LLM development simplified for politicians:",
       "sub": "LocalLLaMA",
-      "author": "Fcking_Chuck",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh4cg9/koboldcpp_v1121_released/"
+      "author": "Porespellar",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/"
     },
     {
-      "title": "Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "title": "Apple May Return to Server Market With Nvidia Technology",
       "sub": "LocalLLaMA",
-      "author": "Every-Walrus",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wgwh7k/qwen3827bturbofablecoldfusion735882hereticuncensor/"
+      "author": "gappyvalley",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/"
     },
     {
-      "title": "Cut Qwen3.8-27B Reasoning Tokens by 40% -- 3.8 'ThinkingCap' benchmarked!",
+      "title": "Hey, Meta. Where's those Muse Spark weights?",
       "sub": "LocalLLaMA",
-      "author": "returnity",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wh5elt/cut_qwen3827b_reasoning_tokens_by_40_38/"
+      "author": "RishiFurfox",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whqm2c/hey_meta_wheres_those_muse_spark_weights/"
     }
   ],
   "youtube": [
+    {
+      "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=J3ljHm57yU0",
+      "published": "2026-09-16",
+      "desc": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has "
+    },
+    {
+      "title": "젠슨황 토론중 걸려온 트럼프 전화",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/31Epi9BIP2Y",
+      "published": "2026-09-16",
+      "desc": ""
+    },
+    {
+      "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=wltewHHtrqU",
+      "published": "2026-09-16",
+      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv28_pre-live - 지원 기간 : ~ 2026.10.06 (화) 오후 11시까지 - 교육 기간 : 2026.10.08 (목) ~ 2027.03.17 (화)"
+    },
     {
       "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
       "channel": "Two Minute Papers",
@@ -213,18 +234,11 @@
       "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-te"
     },
     {
-      "title": "New BEST local AI music generator is here!",
+      "title": "Forget Suno. New BEST local AI music generator is here!",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=9RtywbN--QE",
       "published": "2026-09-15",
       "desc": "YuE2 installation tutorial. How to run YuE2 in ComfyUI and make cover songs. Best AI music generator and editor. Thanks to our sponsor Luma. Try it today: https://lumalabs.ai/aisearch-sep2 YuE2 official repo https://github.com/multimodal-art-projection/YuE Comfy workflow https://"
-    },
-    {
-      "title": "TSMC보다 2년 빠르게 도입하는 삼성?  High-NA EUV의 한계와 두 회사의 서로 다른 계산",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=SDGs1odCWtI",
-      "published": "2026-09-15",
-      "desc": "삼성전자가 ASML과 함께 기존 6인치 포토마스크를 12인치급으로 키우는 개발에 나섰습니다. 반도체 회로는 점점 작아지는데, 왜 회로의 원본인 마스크는 오히려 커져야 할까요? 이번 영상에서는 High-NA EUV가 기존 EUV보다 더 미세한 회로를 찍으면서도, 한 번에 노광할 수 있는 영역은 절반으로 줄어드는 이유를 살펴봤습니다. 기존 노광 영역인 약 858㎟가 엔비디아 A100과 H100 같은 대형 GPU의 크기와 어떻게 연결되는지도 설명합니다. High-NA에서는 이 영역이 약 429㎟로 줄면"
     },
     {
       "title": "DHH on drama with Theo | Lex Fridman Podcast Clips",
@@ -232,20 +246,6 @@
       "url": "https://www.youtube.com/watch?v=uJMjlKksSks",
       "published": "2026-09-10",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10034-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
-    },
-    {
-      "title": "[멋쟁이사자처럼] AWS 클라우드 부트캠프 9기 사전설명회",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=F_C2GsKbXDo",
-      "published": "2026-09-09",
-      "desc": "[AWS 클라우드 부트캠프 9기 지원하러 가기] https://abit.ly/kdtcld09_prelive - 지원 기간 : ~ 2026.9.28(월) 오후 11시까지 - 교육 기간 : 2026.09.30(수) ~ 2027.03.02(화)"
-    },
-    {
-      "title": "GPT 6 Astra, so good even OpenAI are worried",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=Spuza-KwTJ4",
-      "published": "2026-09-04",
-      "desc": "Where to start? A new era of cost-efficient AI on a day benchmark-makers got humbled, traders got excited, and AI safety researchers got unnerved. From monitorability losing hold of GPT-6 Astra’s chains of thought to breakthrough discoveries, Fable-mogging and much more… Exclusiv"
     },
     {
       "title": "I automated a Reality Show for my wife & she somehow liked it lol",
@@ -269,12 +269,5 @@
       "desc": "Part of a series of monthly puzzles with MoMath."
     }
   ],
-  "social": [
-    {
-      "title": "Giving up on smart rings",
-      "handle": "@giving-up-on-smart-rings",
-      "url": "https://notesbylex.com/giving-up-on-smart-rings",
-      "note": "HN 85pts · 137 댓글"
-    }
-  ]
+  "social": []
 }
