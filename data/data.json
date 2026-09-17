@@ -1,210 +1,224 @@
 {
-  "generated_at": "2026-09-16T23:36:15.207375+00:00",
-  "date_label": "2026년 9월 17일 (목)",
+  "generated_at": "2026-09-17T23:29:09.406044+00:00",
+  "date_label": "2026년 9월 18일 (금)",
   "github_trending": [
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 656,
+      "stars_today": 680,
       "lang": "JavaScript"
-    },
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "desc": "",
-      "stars_today": 484,
-      "lang": "Python"
-    },
-    {
-      "repo": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "desc": "",
-      "stars_today": 383,
-      "lang": "Python"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 155,
+      "stars_today": 538,
       "lang": "TypeScript"
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "",
+      "stars_today": 489,
+      "lang": "Python"
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 96,
+      "stars_today": 287,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 108,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "LLMQuant/quant-mind",
+      "url": "https://github.com/LLMQuant/quant-mind",
+      "desc": "",
+      "stars_today": 94,
       "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 93,
+      "stars_today": 90,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 39,
+      "stars_today": 56,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "desc": "",
+      "stars_today": 46,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 34,
+      "stars_today": 33,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "datawhalechina/llm-universe",
-      "url": "https://github.com/datawhalechina/llm-universe",
+      "repo": "hao-ai-lab/FastVideo",
+      "url": "https://github.com/hao-ai-lab/FastVideo",
       "desc": "",
-      "stars_today": 18,
-      "lang": "Jupyter Notebook"
+      "stars_today": 28,
+      "lang": "Python"
     },
     {
-      "repo": "Infrasys-AI/AISystem",
-      "url": "https://github.com/Infrasys-AI/AISystem",
+      "repo": "trailofbits/skills",
+      "url": "https://github.com/trailofbits/skills",
       "desc": "",
-      "stars_today": 16,
-      "lang": "Jupyter Notebook"
+      "stars_today": 15,
+      "lang": "Python"
     },
     {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 14,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "AI4Finance-Foundation/FinRobot",
-      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
       "stars_today": 14,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 12,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "Infrasys-AI/AIInfra",
       "url": "https://github.com/Infrasys-AI/AIInfra",
       "desc": "",
-      "stars_today": 12,
+      "stars_today": 13,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
       "desc": "",
-      "stars_today": 10,
+      "stars_today": 13,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "url": "https://mistral.ai/news/mistral-x-mozilla/",
-      "points": 516,
-      "comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=49723408"
+      "title": "How GLM built its own inference infrastructure",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "points": 355,
+      "comments": 258,
+      "hn_url": "https://news.ycombinator.com/item?id=49737922"
     },
     {
-      "title": "Training a 4B model to produce 81% faster query plans than Postgres",
-      "url": "https://rohanbansal.com/qorl",
-      "points": 337,
-      "comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=49731285"
+      "title": "CCC invites all model citizens to 40C3",
+      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+      "points": 322,
+      "comments": 176,
+      "hn_url": "https://news.ycombinator.com/item?id=49737787"
     },
     {
-      "title": "Xiaomi Mimo 2.6 live post-training dashboard",
-      "url": "https://mimo.xiaomi.com/rl/",
-      "points": 188,
-      "comments": 51,
-      "hn_url": "https://news.ycombinator.com/item?id=49732270"
+      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+      "url": "https://bend-lang.com/",
+      "points": 209,
+      "comments": 115,
+      "hn_url": "https://news.ycombinator.com/item?id=49746163"
     },
     {
-      "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-      "url": "https://arxiv.org/abs/2609.16338",
-      "points": 101,
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49732931"
+      "title": "The American Religion of Self-Storage Facilities",
+      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "points": 173,
+      "comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=49740260"
     },
     {
-      "title": "How good are frontier models at physics?",
-      "url": "https://arxiv.org/abs/2609.13009",
-      "points": 58,
-      "comments": 25,
-      "hn_url": "https://news.ycombinator.com/item?id=49731620"
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+      "url": "https://prismml.com/news/bonsai-2-27b",
+      "points": 118,
+      "comments": 36,
+      "hn_url": "https://news.ycombinator.com/item?id=49746618"
     },
     {
-      "title": "Accurate Models of AMD Matrix Cores",
-      "url": "https://arxiv.org/abs/2609.14845",
-      "points": 50,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49731360"
+      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
+      "url": "https://arxiv.org/abs/2609.18842",
+      "points": 96,
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=49743483"
     },
     {
-      "title": "Reverse-engineered Jev-like model",
-      "url": "https://github.com/vinnylarouge/jevlike",
-      "points": 46,
-      "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=49731282"
+      "title": "Sex, AI, and the Apocalypse",
+      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
+      "points": 82,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49746654"
     },
     {
-      "title": "Training Text-to-Image Models 3.6× Faster",
-      "url": "https://www.linum.ai/field-notes/jit-ddt",
-      "points": 24,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49729816"
+      "title": "TSMC revealing details about next gen A14 node",
+      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
+      "points": 79,
+      "comments": 29,
+      "hn_url": "https://news.ycombinator.com/item?id=49714096"
     }
   ],
   "reddit": [
     {
-      "title": "China's open-weight AI models are now just 4 months behind frontier US offerings, Mozilla report claims — models still lag in some benchmarks but are drastically cheaper to use",
+      "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
       "sub": "LocalLLaMA",
-      "author": "DustNearby2848",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi32jg/chinas_openweight_ai_models_are_now_just_4_months/"
+      "author": "xenovatech",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/"
     },
     {
-      "title": "Xiaomi MiMo 2.6 Live Training Dashboard",
+      "title": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
       "sub": "LocalLLaMA",
-      "author": "skeole",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9ebm/xiaomi_mimo_26_live_training_dashboard/"
+      "author": "Secure_Recording_472",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/"
     },
     {
-      "title": "Qwen 3.8 27B Running for 63 hours on a RTX 3090 to solve the Riemann hypothesis",
+      "title": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
       "sub": "LocalLLaMA",
-      "author": "GuiltyBookkeeper4849",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi9fau/qwen_38_27b_running_for_63_hours_on_a_rtx_3090_to/"
+      "author": "FullstackSensei",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and/"
     },
     {
-      "title": "Frontier LLM development simplified for politicians:",
+      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
       "sub": "LocalLLaMA",
-      "author": "Porespellar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wi5rx2/frontier_llm_development_simplified_for/"
+      "author": "Nandakishor_ml",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/"
     },
     {
-      "title": "Apple May Return to Server Market With Nvidia Technology",
+      "title": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
       "sub": "LocalLLaMA",
-      "author": "gappyvalley",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1why9ao/apple_may_return_to_server_market_with_nvidia/"
+      "author": "Henrie_the_dreamer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/"
     },
     {
-      "title": "Hey, Meta. Where's those Muse Spark weights?",
+      "title": "Ternary Bonsai 2 27B",
       "sub": "LocalLLaMA",
-      "author": "RishiFurfox",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1whqm2c/hey_meta_wheres_those_muse_spark_weights/"
+      "author": "No-Name-Person111",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/"
     }
   ],
   "youtube": [
+    {
+      "title": "Crisis in psychiatry - historian of psychiatry explains | Andrew Scull and Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=cqCqKtgCCV0",
+      "published": "2026-09-17",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10041-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Andrew"
+    },
+    {
+      "title": "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=rpUNfIsLyGI",
+      "published": "2026-09-17",
+      "desc": "최신 AI 도구들은 왜 보기 어려운 까만 터미널에서 먼저 발전했을까요? 지메일은 메일, 엑셀은 계산처럼 정해진 기능에 강하지만 우리가 하는 일은 여러 앱에 걸쳐 이어집니다. 터미널에서는 파일 검색과 문서 분석, 계산, 코딩 같은 도구를 한 작업으로 연결할 수 있습니다. Codex, Claude Code, Gemini CLI가 이 환경을 활용하는 이유를 실제 견적서 처리 과정으로 살펴봤습니다. AI가 필요한 코드를 직접 만들고, 실행 결과와 오류를 확인하며 작업을 고치는 과정도 설명합니다. API와"
+    },
     {
       "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
       "channel": "AI Explained",
@@ -213,18 +227,11 @@
       "desc": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has "
     },
     {
-      "title": "젠슨황 토론중 걸려온 트럼프 전화",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/31Epi9BIP2Y",
-      "published": "2026-09-16",
-      "desc": ""
-    },
-    {
       "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
       "channel": "조코딩",
       "url": "https://www.youtube.com/watch?v=wltewHHtrqU",
       "published": "2026-09-16",
-      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv28_pre-live - 지원 기간 : ~ 2026.10.06 (화) 오후 11시까지 - 교육 기간 : 2026.10.08 (목) ~ 2027.03.17 (화)"
+      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv28_pre-live - 지원 기간 : ~ 2026.10.06 (화) 오후 11시까지 - 교육 기간 : 2026.10.08 (목) ~ 2027.03.17 (화) == 0:00~05:30 사전설명회 인트로 05:31~06:05 진행자 소개 06:06~07:35 진행 순서 안내 07:36~08:20 멋쟁이사자처럼 소개 08:21~09:11 교육 일정 안내 09:12~11:00 참여기업 및 강사 소개 11:"
     },
     {
       "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
@@ -239,13 +246,6 @@
       "url": "https://www.youtube.com/watch?v=9RtywbN--QE",
       "published": "2026-09-15",
       "desc": "YuE2 installation tutorial. How to run YuE2 in ComfyUI and make cover songs. Best AI music generator and editor. Thanks to our sponsor Luma. Try it today: https://lumalabs.ai/aisearch-sep2 YuE2 official repo https://github.com/multimodal-art-projection/YuE Comfy workflow https://"
-    },
-    {
-      "title": "DHH on drama with Theo | Lex Fridman Podcast Clips",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=uJMjlKksSks",
-      "published": "2026-09-10",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=NYFGCESmikA Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10034-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* DHH is"
     },
     {
       "title": "I automated a Reality Show for my wife & she somehow liked it lol",
