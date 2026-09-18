@@ -1,216 +1,230 @@
 {
-  "generated_at": "2026-09-17T23:29:09.406044+00:00",
-  "date_label": "2026년 9월 18일 (금)",
+  "generated_at": "2026-09-18T23:10:11.083208+00:00",
+  "date_label": "2026년 9월 19일 (토)",
   "github_trending": [
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 680,
+      "stars_today": 677,
       "lang": "JavaScript"
     },
     {
       "repo": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "desc": "",
-      "stars_today": 538,
+      "stars_today": 442,
       "lang": "TypeScript"
-    },
-    {
-      "repo": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "desc": "",
-      "stars_today": 489,
-      "lang": "Python"
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 287,
+      "stars_today": 300,
       "lang": "Python"
+    },
+    {
+      "repo": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "desc": "",
+      "stars_today": 298,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 250,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "desc": "",
+      "stars_today": 140,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "desc": "",
+      "stars_today": 118,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 108,
+      "stars_today": 93,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "LLMQuant/quant-mind",
-      "url": "https://github.com/LLMQuant/quant-mind",
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
       "desc": "",
-      "stars_today": 94,
+      "stars_today": 78,
       "lang": "Python"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 90,
+      "stars_today": 74,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "microsoft/agent-lightning",
+      "url": "https://github.com/microsoft/agent-lightning",
       "desc": "",
-      "stars_today": 56,
-      "lang": "Jupyter Notebook"
+      "stars_today": 70,
+      "lang": "Python"
     },
     {
-      "repo": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
+      "repo": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "desc": "",
-      "stars_today": 46,
+      "stars_today": 64,
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "fastino-ai/GLiNER2",
+      "url": "https://github.com/fastino-ai/GLiNER2",
+      "desc": "",
+      "stars_today": 37,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 33,
+      "stars_today": 32,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "hao-ai-lab/FastVideo",
-      "url": "https://github.com/hao-ai-lab/FastVideo",
-      "desc": "",
-      "stars_today": 28,
-      "lang": "Python"
-    },
-    {
-      "repo": "trailofbits/skills",
-      "url": "https://github.com/trailofbits/skills",
-      "desc": "",
-      "stars_today": 15,
-      "lang": "Python"
     },
     {
       "repo": "gepa-ai/gepa",
       "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
-      "stars_today": 14,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Infrasys-AI/AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
-      "desc": "",
-      "stars_today": 13,
+      "stars_today": 12,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "How GLM built its own inference infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "points": 355,
-      "comments": 258,
-      "hn_url": "https://news.ycombinator.com/item?id=49737922"
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "points": 353,
+      "comments": 241,
+      "hn_url": "https://news.ycombinator.com/item?id=49747070"
     },
     {
-      "title": "CCC invites all model citizens to 40C3",
-      "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
-      "points": 322,
-      "comments": 176,
-      "hn_url": "https://news.ycombinator.com/item?id=49737787"
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "points": 347,
+      "comments": 280,
+      "hn_url": "https://news.ycombinator.com/item?id=49757520"
     },
     {
-      "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-      "url": "https://bend-lang.com/",
-      "points": 209,
-      "comments": 115,
-      "hn_url": "https://news.ycombinator.com/item?id=49746163"
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "points": 315,
+      "comments": 132,
+      "hn_url": "https://news.ycombinator.com/item?id=49760187"
     },
     {
-      "title": "The American Religion of Self-Storage Facilities",
-      "url": "https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities",
+      "title": "Korea raises data breach fines to 10% of revenue",
+      "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+      "points": 226,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49759466"
+    },
+    {
+      "title": "Border agents can search cellphones without a warrant or reasonable suspicion",
+      "url": "https://lawandcrime.com/high-profile/the-government-was-entitled-trumps-border-agents-can-now-search-cellphones-without-a-warrant-probable-cause-or-reasonable-suspicion-2nd-circuit-rules/",
       "points": 173,
-      "comments": 302,
-      "hn_url": "https://news.ycombinator.com/item?id=49740260"
+      "comments": 133,
+      "hn_url": "https://news.ycombinator.com/item?id=49758028"
     },
     {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "url": "https://prismml.com/news/bonsai-2-27b",
-      "points": 118,
-      "comments": 36,
-      "hn_url": "https://news.ycombinator.com/item?id=49746618"
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "points": 145,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=49748553"
     },
     {
-      "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-      "url": "https://arxiv.org/abs/2609.18842",
-      "points": 96,
-      "comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=49743483"
+      "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
+      "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
+      "points": 98,
+      "comments": 50,
+      "hn_url": "https://news.ycombinator.com/item?id=49755533"
     },
     {
-      "title": "Sex, AI, and the Apocalypse",
-      "url": "https://www.iankduncan.com/personal/2026-09-16-sex-ai-and-the-apocalypse/",
-      "points": 82,
-      "comments": 49,
-      "hn_url": "https://news.ycombinator.com/item?id=49746654"
-    },
-    {
-      "title": "TSMC revealing details about next gen A14 node",
-      "url": "https://iedm26.mapyourshow.com/8_0/sessions/session-details.cfm?scheduleid=331",
-      "points": 79,
-      "comments": 29,
-      "hn_url": "https://news.ycombinator.com/item?id=49714096"
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
+      "points": 66,
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49755095"
     }
   ],
   "reddit": [
     {
-      "title": "Ternary Bonsai 2 (27B) just released on Hugging Face. At <6GB in size, it can even run locally in-browser on WebGPU.",
+      "title": "768gb vram for less than the price of one RTX 6000",
       "sub": "LocalLLaMA",
-      "author": "xenovatech",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj6c4l/ternary_bonsai_2_27b_just_released_on_hugging/"
+      "author": "segmond",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjr59t/768gb_vram_for_less_than_the_price_of_one_rtx_6000/"
     },
     {
-      "title": "Thank you :) Swift Qwen 3.8 27B now has 100k+ downloads, is #1 finetune and #9 model on HuggingFace Trending",
+      "title": "Is HF starting to move against abliterated models?",
       "sub": "LocalLLaMA",
-      "author": "Secure_Recording_472",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj3s31/thank_you_swift_qwen_38_27b_now_has_100k/"
+      "author": "returnity",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjyn95/is_hf_starting_to_move_against_abliterated_models/"
     },
     {
-      "title": "AMD Plans 10% Price Hike Across GPUs, Chipsets, and Possibly CPUs",
+      "title": "M5 Ultra and M6 Chip Benchmark Results Reveal Graphics Performance",
       "sub": "LocalLLaMA",
-      "author": "FullstackSensei",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj28vh/amd_plans_10_price_hike_across_gpus_chipsets_and/"
+      "author": "DustNearby2848",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wk11dq/m5_ultra_and_m6_chip_benchmark_results_reveal/"
     },
     {
-      "title": "I literally built the Jev architecture one year back and completely open-sourced it with model, dataset and paper",
+      "title": "Made the horizontal open-source model for Jev with RLCD, and it surpasses all the Jev benchmarks. HF space, benchmark, model, repo",
       "sub": "LocalLLaMA",
       "author": "Nandakishor_ml",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wijo3e/i_literally_built_the_jev_architecture_one_year/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjieap/made_the_horizontal_opensource_model_for_jev_with/"
     },
     {
-      "title": "Cactus Needle 3: A Sliceable 8-29MB Automation Foundation Model That Matches DeepSeek v4 Flash",
+      "title": "Prism-ML Bonsai 2 Joins Our Qwen3.8 Quantization Comparison",
       "sub": "LocalLLaMA",
-      "author": "Henrie_the_dreamer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj4qj4/cactus_needle_3_a_sliceable_829mb_automation/"
+      "author": "ali_byteshape",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wju8ky/prismml_bonsai_2_joins_our_qwen38_quantization/"
     },
     {
-      "title": "Ternary Bonsai 2 27B",
+      "title": "inclusionAI/Realtime-Venus · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "No-Name-Person111",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wj84nz/ternary_bonsai_2_27b/"
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wjtav9/inclusionairealtimevenus_hugging_face/"
     }
   ],
   "youtube": [
     {
-      "title": "Crisis in psychiatry - historian of psychiatry explains | Andrew Scull and Lex Fridman",
+      "title": "DeepSeek’s Insane New Architecture",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
+      "published": "2026-09-18",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/f"
+    },
+    {
+      "title": "The last IMO problem AI could not solve",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/bRQEWPA832A",
+      "published": "2026-09-18",
+      "desc": "Full video: https://youtu.be/Nbwv5wHQoj0"
+    },
+    {
+      "title": "Does electroshock therapy (ECT) actually work? | Andrew Scull and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=cqCqKtgCCV0",
-      "published": "2026-09-17",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10041-sb See below for guest bio, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:* Andrew"
+      "url": "https://www.youtube.com/watch?v=QnQf-uGgGgY",
+      "published": "2026-09-18",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10054-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
     },
     {
       "title": "AI 잘 쓰는 사람들은 왜 까만창을 켤까? Codex·Claude Code·Gemini CLI | 버튼 없는 까만창이 더 많은 일을 할 수 있는 이유",
@@ -227,27 +241,6 @@
       "desc": "Why has it been the last few days that the calls to come to pace the frontier AI have come so loudly? The safety warnings, and lab leader messages? Let’s explore the six axes that the researchers are looking at, the incidence reports and trends, to get a better gauge on what has "
     },
     {
-      "title": "[멋쟁이사자처럼] 백엔드 Java&Spring 부트캠프 사전설명회",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=wltewHHtrqU",
-      "published": "2026-09-16",
-      "desc": "[백엔드 Java&Spring 부트캠프 지원하러 가기] https://abit.ly/kdtbejv28_pre-live - 지원 기간 : ~ 2026.10.06 (화) 오후 11시까지 - 교육 기간 : 2026.10.08 (목) ~ 2027.03.17 (화) == 0:00~05:30 사전설명회 인트로 05:31~06:05 진행자 소개 06:06~07:35 진행 순서 안내 07:36~08:20 멋쟁이사자처럼 소개 08:21~09:11 교육 일정 안내 09:12~11:00 참여기업 및 강사 소개 11:"
-    },
-    {
-      "title": "Claude Is Now Leaving Invisible Fingerprints In Its Text",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=YoEWjZSwoys",
-      "published": "2026-09-15",
-      "desc": "❤️ Check out Weights & Biases and sign up for a free demo here: https://wandb.me/papers 📝 The papers and sources are available here: https://proceedings.mlr.press/v202/kirchenbauer23a.html https://www.nature.com/articles/s41586-024-08025-4 https://www.anthropic.com/news/claude-te"
-    },
-    {
-      "title": "Forget Suno. New BEST local AI music generator is here!",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=9RtywbN--QE",
-      "published": "2026-09-15",
-      "desc": "YuE2 installation tutorial. How to run YuE2 in ComfyUI and make cover songs. Best AI music generator and editor. Thanks to our sponsor Luma. Try it today: https://lumalabs.ai/aisearch-sep2 YuE2 official repo https://github.com/multimodal-art-projection/YuE Comfy workflow https://"
-    },
-    {
       "title": "I automated a Reality Show for my wife & she somehow liked it lol",
       "channel": "sentdex",
       "url": "https://www.youtube.com/shorts/ELeMRBz2-tA",
@@ -255,18 +248,18 @@
       "desc": ""
     },
     {
-      "title": "망각곡선을 그대로 넣으면 성능이 떨어집니다 #Shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/lJnOdRTJdlY",
-      "published": "2026-09-03",
-      "desc": "Knowledge Tracing에서 망각곡선을 그대로 넣으면 성능이 떨어지고, 컨셉을 다른 방식으로 반영해야 했던 사례입니다. 원본 영상: https://youtu.be/jFIS7T99Yk0 원본 제목: 랄프톤 후기, 인지부채를 예방하는 하네스 개발 (이웅기 교수/고려대) #AI프렌즈 #교육AI #KnowledgeTracing #AIAgent #인지부채 #Shorts"
+      "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
+      "channel": "테디노트",
+      "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
+      "published": "2026-07-11",
+      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 "
     },
     {
-      "title": "The jumping pegs puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/rYyJm1tD3d0",
-      "published": "2026-08-18",
-      "desc": "Part of a series of monthly puzzles with MoMath."
+      "title": "I built a DeepSeek R1 powered VS Code extension…",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
+      "published": "2025-01-28",
+      "desc": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-st"
     }
   ],
   "social": []
