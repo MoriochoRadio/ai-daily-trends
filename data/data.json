@@ -1,195 +1,230 @@
 {
-  "generated_at": "2026-09-20T23:07:59.400767+00:00",
-  "date_label": "2026년 9월 21일 (월)",
+  "generated_at": "2026-09-21T23:58:55.118942+00:00",
+  "date_label": "2026년 9월 22일 (화)",
   "github_trending": [
     {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
       "desc": "",
-      "stars_today": 729,
-      "lang": "JavaScript"
+      "stars_today": 607,
+      "lang": "TypeScript"
     },
     {
       "repo": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "desc": "",
-      "stars_today": 461,
+      "stars_today": 426,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "desc": "",
-      "stars_today": 415,
-      "lang": "TypeScript"
     },
     {
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "desc": "",
-      "stars_today": 236,
+      "stars_today": 425,
       "lang": "Python"
     },
     {
-      "repo": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
+      "repo": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
       "desc": "",
-      "stars_today": 196,
+      "stars_today": 217,
+      "lang": "Rust"
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "desc": "",
+      "stars_today": 56,
       "lang": "Python"
     },
     {
-      "repo": "mihail911/modern-software-dev-assignments",
-      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 174,
-      "lang": "Python"
-    },
-    {
-      "repo": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "desc": "",
-      "stars_today": 89,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "langchain-ai/agents-from-scratch",
-      "url": "https://github.com/langchain-ai/agents-from-scratch",
-      "desc": "",
-      "stars_today": 53,
+      "stars_today": 49,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
-      "stars_today": 41,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "desc": "",
-      "stars_today": 30,
+      "stars_today": 45,
       "lang": "Python"
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
       "desc": "",
-      "stars_today": 30,
+      "stars_today": 26,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "GokuMohandas/Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
+      "desc": "",
+      "stars_today": 20,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "desc": "",
+      "stars_today": 12,
+      "lang": "Python"
     },
     {
       "repo": "AI4Finance-Foundation/FinRL",
       "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "desc": "",
-      "stars_today": 29,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "langchain-ai/rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
       "stars_today": 11,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "AI4Finance-Foundation/FinGPT",
-      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "repo": "langchain-ai/agents-from-scratch",
+      "url": "https://github.com/langchain-ai/agents-from-scratch",
+      "desc": "",
+      "stars_today": 9,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ed-donner/agents",
+      "url": "https://github.com/ed-donner/agents",
       "desc": "",
       "stars_today": 8,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "microsoft/mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "desc": "",
+      "stars_today": 5,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "",
+      "stars_today": 843,
+      "lang": "TypeScript"
     }
   ],
   "hackernews": [
     {
-      "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
-      "points": 507,
-      "comments": 293,
-      "hn_url": "https://news.ycombinator.com/item?id=49776729"
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "url": "https://pirateface.co/",
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
       "points": 396,
-      "comments": 124,
-      "hn_url": "https://news.ycombinator.com/item?id=49776699"
+      "comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=49783999"
     },
     {
-      "title": "Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second)",
-      "url": "https://gist.github.com/fordnox/e592d0f68b543fd044be8e6d040863a0",
+      "title": "Heretic removes restrictions from language models",
+      "url": "https://heretic-project.org/",
+      "points": 235,
+      "comments": 96,
+      "hn_url": "https://news.ycombinator.com/item?id=49783101"
+    },
+    {
+      "title": "US halts flights at busy East Coast airports, says fiber line cut",
+      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+      "points": 179,
+      "comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=49791509"
+    },
+    {
+      "title": "Python Workers are now generally available",
+      "url": "https://blog.cloudflare.com/python-workers-ga/",
+      "points": 175,
+      "comments": 28,
+      "hn_url": "https://news.ycombinator.com/item?id=49787142"
+    },
+    {
+      "title": "Transformers Explained Visually",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "points": 151,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=49792342"
+    },
+    {
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "url": "https://linear.app/now/ci-bottleneck-reworked",
       "points": 114,
-      "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=49777106"
+      "comments": 98,
+      "hn_url": "https://news.ycombinator.com/item?id=49792067"
     },
     {
-      "title": "Google's Open Agentic Orchestrator",
-      "url": "https://agentexecutor.io",
-      "points": 17,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=49780797"
+      "title": "Why does mathmain need an encrypted loader?",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "points": 97,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49791378"
     },
     {
-      "title": "Show HN: A competition for small neural networks that play strategy games",
-      "url": "https://tinybrains.dev",
-      "points": 17,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=49776523"
+      "title": "Frontier AI on Your Own Hardware",
+      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
+      "points": 83,
+      "comments": 43,
+      "hn_url": "https://news.ycombinator.com/item?id=49791647"
     }
   ],
   "reddit": [
     {
-      "title": "Qwen-Image-2.1 released!",
+      "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "ResearchCrafty1804",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlgrft/qwenimage21_released/"
+      "author": "Bestlife73",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/"
     },
     {
-      "title": "Lawsuit says Anthropic, OpenAI, SpaceXAI and Google made illegal agreement on AI slowdown",
-      "sub": "LocalLLaMA",
-      "author": "fallingdowndizzyvr",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlo52v/lawsuit_says_anthropic_openai_spacexai_and_google/"
+      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
+      "sub": "MachineLearning",
+      "author": "Amazon_Careers",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/"
     },
     {
-      "title": "Qwen3.8-Flash-Next Cosmic Arcade oneshot slop game",
+      "title": "How it feels watching prices go up",
       "sub": "LocalLLaMA",
-      "author": "Thin_Pollution8843",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wlqxeu/qwen38flashnext_cosmic_arcade_oneshot_slop_game/"
+      "author": "Hyacin75",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up/"
     },
     {
-      "title": "Would you buy a Qwen3.8-27B Taalas chip for $1k if it could run at 7,000 TPS?",
-      "sub": "LocalLLaMA",
-      "author": "-MaskNinja-",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wltts7/would_you_buy_a_qwen3827b_taalas_chip_for_1k_if/"
+      "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
+      "sub": "MachineLearning",
+      "author": "PithyCyborg",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/"
     },
     {
-      "title": "The bear can dance: Qwen 3.8 27B on one 3090 for 3 weeks",
+      "title": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
       "sub": "LocalLLaMA",
-      "author": "skeole",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wloora/the_bear_can_dance_qwen_38_27b_on_one_3090_for_3/"
+      "author": "ECrispy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/"
     },
     {
-      "title": "What is JEV and what is it used for?",
-      "sub": "LocalLLaMA",
-      "author": "Hot_Example_4456",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wleg4w/what_is_jev_and_what_is_it_used_for/"
+      "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
+      "sub": "MachineLearning",
+      "author": "kavanutz",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/"
     }
   ],
   "youtube": [
     {
-      "title": "How drugs and psycho-pharmacology changed mental health | Andrew Scull and Lex Fridman",
+      "title": "Can we cure mental illness? - The future of psychiatry | Andrew Scull and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=izYesrEjyCw",
-      "published": "2026-09-20",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10061-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
+      "url": "https://www.youtube.com/watch?v=1Js_al_Q8Y4",
+      "published": "2026-09-21",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10065-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
+    },
+    {
+      "title": "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=72rJKQ2a6Ak",
+      "published": "2026-09-21",
+      "desc": "게임 50개가 동시에 돌아가고, 글을 쓰는 도중에 문장의 어조와 감정 평가가 바뀝니다.SNS에서는 사용자가 정한 조건에 따라 게시물이 접힙니다.이 데모들에 들어간 AI 모델이 TypeSafe AI의 Jev입니다.Jev는 답변 문장을 생성하는 대신, 프로그램이 사용할 선택과 점수, 확률을 반환합니다.이번 영상에서는 공개된 시연을 통해 빠르고 저렴한 판단이 소프트웨어의 사용감을 어떻게 바꿀 수 있는지 살펴봅니다.항공편 검색을 약 7초에 수행한 Browser Use의 공개 사례와 모델·코드의 역할 분담"
+    },
+    {
+      "title": "전국 80개 대학의 불꽃 튀는 AI 프로덕트 대항전 🏆 | 2026 멋쟁이사자처럼 대학 해커톤 ANIMAL LEAGUE",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=teZd3MFgfA0",
+      "published": "2026-09-21",
+      "desc": "해를 거듭할 수록 더 많은 대학생 AI 인재와 함께하는 멋사대학 해커톤! 올해는 전국 각지에서 모인 80개 대학, 2,300명의 학생들과 함께 했어요. 대학의 상징에서 착안하여 제작한 80개의 캐릭터, 박진감 넘치는 피칭 트랙 피칭과 본선 토너먼트, 네트워킹과 피드백을 나누는 학교별 데모 부스, OpenAI, AWS를 비롯한 15개 기업 파트너까지! 멋사대학 14기 해커톤 ANIMAL LEAGUE 현장을 지금 만나보세요 🔥 [2026 멋쟁이사자처럼 대학 14기 해커톤 ANIMAL LEAGUE] 🔸"
     },
     {
       "title": "OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS",
@@ -206,13 +241,6 @@
       "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw"
     },
     {
-      "title": "AI 모델이 커질 수록 진짜 비싸지는 이것",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/APE9Dr6h1WM",
-      "published": "2026-09-20",
-      "desc": "#제미나이 #구글"
-    },
-    {
       "title": "DeepSeek’s Insane New Architecture",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
@@ -225,13 +253,6 @@
       "url": "https://www.youtube.com/shorts/bRQEWPA832A",
       "published": "2026-09-18",
       "desc": "Full video: https://youtu.be/Nbwv5wHQoj0"
-    },
-    {
-      "title": "3년차 간호조무사에서 IT 기획자로 직무 전환했어요 #멋쟁이사자처럼",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/eZChf5zjVO4",
-      "published": "2026-09-18",
-      "desc": "보건행정 전공자가 멋쟁이사자처럼 부트캠프 수료 후 IT 기획자로 취업한 이야기가 궁금하다면? #멋사 #기획자 #IT #부트캠프 #간호조무사"
     },
     {
       "title": "What AI Researchers Saw, Before Their Demand to ‘Pace’ AI",
