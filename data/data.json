@@ -1,89 +1,61 @@
 {
-  "generated_at": "2026-09-21T23:58:55.118942+00:00",
-  "date_label": "2026년 9월 22일 (화)",
+  "generated_at": "2026-09-22T23:33:07.005284+00:00",
+  "date_label": "2026년 9월 23일 (수)",
   "github_trending": [
-    {
-      "repo": "BuilderIO/agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "desc": "",
-      "stars_today": 607,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
-      "desc": "",
-      "stars_today": 426,
-      "lang": "Jupyter Notebook"
-    },
     {
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "desc": "",
-      "stars_today": 425,
+      "stars_today": 436,
       "lang": "Python"
     },
     {
-      "repo": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "repo": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
       "desc": "",
-      "stars_today": 217,
-      "lang": "Rust"
+      "stars_today": 301,
+      "lang": "Go"
     },
     {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "repo": "FareedKhan-dev/train-llm-from-scratch",
+      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "desc": "",
-      "stars_today": 56,
+      "stars_today": 220,
       "lang": "Python"
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
       "desc": "",
-      "stars_today": 49,
+      "stars_today": 147,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
-      "stars_today": 45,
+      "stars_today": 113,
       "lang": "Python"
     },
     {
-      "repo": "gepa-ai/gepa",
-      "url": "https://github.com/gepa-ai/gepa",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 100,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "GokuMohandas/Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 20,
+      "stars_today": 73,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
       "desc": "",
-      "stars_today": 12,
-      "lang": "Python"
-    },
-    {
-      "repo": "AI4Finance-Foundation/FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
-      "desc": "",
-      "stars_today": 11,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "langchain-ai/agents-from-scratch",
-      "url": "https://github.com/langchain-ai/agents-from-scratch",
-      "desc": "",
-      "stars_today": 9,
+      "stars_today": 40,
       "lang": "Jupyter Notebook"
     },
     {
@@ -94,144 +66,179 @@
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "repo": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
       "desc": "",
-      "stars_today": 5,
+      "stars_today": 8,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "repo": "google/ax",
+      "url": "https://github.com/google/ax",
       "desc": "",
-      "stars_today": 843,
+      "stars_today": 2324,
+      "lang": "Go"
+    },
+    {
+      "repo": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "desc": "",
+      "stars_today": 654,
+      "lang": "Python"
+    },
+    {
+      "repo": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "desc": "",
+      "stars_today": 441,
+      "lang": "Python"
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "",
+      "stars_today": 202,
       "lang": "TypeScript"
+    },
+    {
+      "repo": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "desc": "",
+      "stars_today": 197,
+      "lang": "Python"
     }
   ],
   "hackernews": [
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "url": "https://github.com/jaredpalmer/kev/tree/main",
-      "points": 396,
-      "comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=49783999"
+      "title": "Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "points": 1085,
+      "comments": 763,
+      "hn_url": "https://news.ycombinator.com/item?id=49803892"
     },
     {
-      "title": "Heretic removes restrictions from language models",
-      "url": "https://heretic-project.org/",
-      "points": 235,
-      "comments": 96,
-      "hn_url": "https://news.ycombinator.com/item?id=49783101"
+      "title": "GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "points": 1049,
+      "comments": 548,
+      "hn_url": "https://news.ycombinator.com/item?id=49805509"
     },
     {
-      "title": "US halts flights at busy East Coast airports, says fiber line cut",
-      "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-      "points": 179,
-      "comments": 101,
-      "hn_url": "https://news.ycombinator.com/item?id=49791509"
+      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "points": 533,
+      "comments": 354,
+      "hn_url": "https://news.ycombinator.com/item?id=49801324"
     },
     {
-      "title": "Python Workers are now generally available",
-      "url": "https://blog.cloudflare.com/python-workers-ga/",
-      "points": 175,
-      "comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=49787142"
+      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+      "points": 339,
+      "comments": 174,
+      "hn_url": "https://news.ycombinator.com/item?id=49806430"
     },
     {
-      "title": "Transformers Explained Visually",
-      "url": "https://poloclub.github.io/transformer-explainer/",
-      "points": 151,
-      "comments": 25,
-      "hn_url": "https://news.ycombinator.com/item?id=49792342"
+      "title": "OpenAI is well positioned to fast-follow Jev",
+      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+      "points": 248,
+      "comments": 182,
+      "hn_url": "https://news.ycombinator.com/item?id=49802161"
     },
     {
-      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-      "url": "https://linear.app/now/ci-bottleneck-reworked",
-      "points": 114,
-      "comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=49792067"
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "points": 214,
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=49804316"
     },
     {
-      "title": "Why does mathmain need an encrypted loader?",
-      "url": "https://safedep.io/mathmain-encrypted-loader/",
-      "points": 97,
-      "comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=49791378"
+      "title": "Unreal Agent",
+      "url": "https://unreallabs.ai/blog/unreal-agent/",
+      "points": 111,
+      "comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=49805748"
     },
     {
-      "title": "Frontier AI on Your Own Hardware",
-      "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-      "points": 83,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=49791647"
+      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
+      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
+      "points": 89,
+      "comments": 37,
+      "hn_url": "https://news.ycombinator.com/item?id=49795260"
     }
   ],
   "reddit": [
     {
-      "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL · Hugging Face",
+      "title": "My local llm when I tell it to do any changes to my vLLM service",
       "sub": "LocalLLaMA",
-      "author": "Bestlife73",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmnw89/xiaomimimomimov26flashrl_hugging_face/"
+      "author": "ZaltyDog",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to/"
     },
     {
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "sub": "MachineLearning",
-      "author": "Amazon_Careers",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/"
-    },
-    {
-      "title": "How it feels watching prices go up",
+      "title": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
       "sub": "LocalLLaMA",
-      "author": "Hyacin75",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmga1r/how_it_feels_watching_prices_go_up/"
+      "author": "Sitkin_Marrel",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/"
     },
     {
-      "title": "These Were NOT Rogue AI Escapes. Just SLOPPY Firewall Failures. [N]",
-      "sub": "MachineLearning",
-      "author": "PithyCyborg",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wm9hgn/these_were_not_rogue_ai_escapes_just_sloppy/"
-    },
-    {
-      "title": "16GB (and in many cases 12GB) is the max vram most people will ever reasonably have",
+      "title": "Qwen 4 Announced at Apsara Conference",
       "sub": "LocalLLaMA",
-      "author": "ECrispy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmb875/16gb_and_in_many_cases_12gb_is_the_max_vram_most/"
+      "author": "Salah_H_Hasan",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/"
     },
     {
-      "title": "I built a framework-free prototype learner that lets local LLMs learn and correct facts instantly (1.6x–4x faster than backprop)[R]",
-      "sub": "MachineLearning",
-      "author": "kavanutz",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wmn76r/i_built_a_frameworkfree_prototype_learner_that/"
+      "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+      "sub": "LocalLLaMA",
+      "author": "108er",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/"
+    },
+    {
+      "title": "Am I going insane for thinking that these are all Bot comments?",
+      "sub": "LocalLLaMA",
+      "author": "No_Algae1753",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all/"
+    },
+    {
+      "title": "Laya model playing Flappy Bird on a CPU using OpenVINO INT8 inference",
+      "sub": "LocalLLaMA",
+      "author": "simpleuserhere",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using/"
     }
   ],
   "youtube": [
     {
-      "title": "Can we cure mental illness? - The future of psychiatry | Andrew Scull and Lex Fridman",
+      "title": "Yes, Jev Is Insane, But There's A Catch",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=qBBRRsH0rQc",
+      "published": "2026-09-22",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Jev: https://typesafe.ai/blog/introducing-system-one-models-and-jev Full song: https://www.youtube.com/watch?v=4RtUJkjrKMI Previous papers, implementations, models: https://huggingface.co/convaii"
+    },
+    {
+      "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=1Js_al_Q8Y4",
-      "published": "2026-09-21",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10065-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
+      "url": "https://www.youtube.com/watch?v=ImNEHHLh6-U",
+      "published": "2026-09-22",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
     },
     {
-      "title": "200배 빠른데 400배 싸다, AI 업계 지각 변동, LLM 아닌 새로운 AI 등장 Jev… 단어 생성이 아니라 확률이 바꾸는 AI 생산성",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=72rJKQ2a6Ak",
-      "published": "2026-09-21",
-      "desc": "게임 50개가 동시에 돌아가고, 글을 쓰는 도중에 문장의 어조와 감정 평가가 바뀝니다.SNS에서는 사용자가 정한 조건에 따라 게시물이 접힙니다.이 데모들에 들어간 AI 모델이 TypeSafe AI의 Jev입니다.Jev는 답변 문장을 생성하는 대신, 프로그램이 사용할 선택과 점수, 확률을 반환합니다.이번 영상에서는 공개된 시연을 통해 빠르고 저렴한 판단이 소프트웨어의 사용감을 어떻게 바꿀 수 있는지 살펴봅니다.항공편 검색을 약 7초에 수행한 Browser Use의 공개 사례와 모델·코드의 역할 분담"
-    },
-    {
-      "title": "전국 80개 대학의 불꽃 튀는 AI 프로덕트 대항전 🏆 | 2026 멋쟁이사자처럼 대학 해커톤 ANIMAL LEAGUE",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=teZd3MFgfA0",
-      "published": "2026-09-21",
-      "desc": "해를 거듭할 수록 더 많은 대학생 AI 인재와 함께하는 멋사대학 해커톤! 올해는 전국 각지에서 모인 80개 대학, 2,300명의 학생들과 함께 했어요. 대학의 상징에서 착안하여 제작한 80개의 캐릭터, 박진감 넘치는 피칭 트랙 피칭과 본선 토너먼트, 네트워킹과 피드백을 나누는 학교별 데모 부스, OpenAI, AWS를 비롯한 15개 기업 파트너까지! 멋사대학 14기 해커톤 ANIMAL LEAGUE 현장을 지금 만나보세요 🔥 [2026 멋쟁이사자처럼 대학 14기 해커톤 ANIMAL LEAGUE] 🔸"
-    },
-    {
-      "title": "OpenAI hacked, Jev, Google’s RSI, Qwen 3.8 Omni, Bonsai 2, new Gemini Live: AI NEWS",
+      "title": "Finally! New best local AI image editor is here",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=hygMRgnDD7w",
-      "published": "2026-09-20",
-      "desc": "HUGE AI NEWS: Jev, Laya, Bonsai 2 27B, Dream RSI, Gemini 3.8 Live, Qwen 3.8 Live & more #ai #ainews #aitools #aivideo #agi Thanks to our sponsor Runway. Try it today https://runwayml.com/aisearch-sept Use code MKTG50 for 50% off any paid plan for the 1st month #ai #aitools #ainew"
+      "url": "https://www.youtube.com/watch?v=BaE6UBfNdQk",
+      "published": "2026-09-22",
+      "desc": "Qwen Image 2.1 review & tutorial. How to run Qwen Image 2.1 in ComfyUI. Best free open-source AI image generator. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep4 #ai #aitools #aiart #imagegenerator #nanobanana #agi Workflows and models https://huggingfa"
+    },
+    {
+      "title": "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=qV5p14OSgXU",
+      "published": "2026-09-22",
+      "desc": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 빠른 반응 속도로 개발자들의 관심을 모은 AI, Jev를 살펴봅니다. 문장을 길게 생성하는 대신 선택지의 확률을 돌려주는 모델입니다. 기존의 작은 언어모델로도 가능하다는 비판과 비교 조건의 문제를 짚었습니다. 토큰을 순서대로 생성하는 방식과 판단값을 반환하는 방식의 차이도 설명합니다. 반복되는 판단에서 응답 시간과 비용이 왜 중요한지 살펴봅니다. 세레브라스와 Groq의 사례를 통해 빠른 추론이 쓰이는 곳을 짚었습니다. 구"
+    },
+    {
+      "title": "POV. 집에서 집중 안 돼서 카페 온 사람 ☕️💻 #멋쟁이사자처럼",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/cLxAcB7EC6Q",
+      "published": "2026-09-22",
+      "desc": "분명 집중하려고 카페까지 왔는데… 자리 세팅하고, 브금 고르고, 할 일 정리하고, 커피 사진 찍고, 카톡 하나만 답장하다 보면 어라…? 한 시간 어디 갔지? 🫠 결국 집이 문제가 아니었던 걸로 ㅎ 근데 진짜 이거 저만 이런가요…? 다들 집이나 카페에서 집중 어떻게 하시나요 👀 나만의 집중 꿀팁 댓글로 공유해주세요!! #대학생 #대학생활 #대학생공감 #카공 #카공족 #공부자극 #집중력 #POV #대학생릴스"
     },
     {
       "title": "Burn Water - New Millennium",
@@ -239,13 +246,6 @@
       "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
       "published": "2026-09-20",
       "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw"
-    },
-    {
-      "title": "DeepSeek’s Insane New Architecture",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=vIHw_2VjSUw",
-      "published": "2026-09-18",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The DeepSeek V4.1 Flash paper is available here: https://www.deepseek.com/en/news/deepseek-v4-1-flash/ Erratum: Opus 5.1 label at 3:23 should have been Opus 5. Apologies! Sources: https://x.com/f"
     },
     {
       "title": "The last IMO problem AI could not solve",
