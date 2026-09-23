@@ -1,210 +1,217 @@
 {
-  "generated_at": "2026-09-22T23:33:07.005284+00:00",
-  "date_label": "2026년 9월 23일 (수)",
+  "generated_at": "2026-09-23T23:33:17.687172+00:00",
+  "date_label": "2026년 9월 24일 (목)",
   "github_trending": [
     {
       "repo": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "desc": "",
-      "stars_today": 436,
+      "stars_today": 665,
       "lang": "Python"
     },
     {
       "repo": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "desc": "",
-      "stars_today": 301,
+      "stars_today": 560,
       "lang": "Go"
-    },
-    {
-      "repo": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "desc": "",
-      "stars_today": 220,
-      "lang": "Python"
-    },
-    {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "desc": "",
-      "stars_today": 147,
-      "lang": "Jupyter Notebook"
     },
     {
       "repo": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
-      "stars_today": 113,
+      "stars_today": 393,
       "lang": "Python"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "",
+      "stars_today": 266,
+      "lang": "C"
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "desc": "",
+      "stars_today": 183,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "desc": "",
+      "stars_today": 135,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "",
+      "stars_today": 98,
+      "lang": "Python"
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "desc": "",
+      "stars_today": 96,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 95,
+      "lang": "Jupyter Notebook"
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 100,
+      "stars_today": 92,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 73,
+      "stars_today": 53,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 40,
+      "stars_today": 33,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "ed-donner/agents",
-      "url": "https://github.com/ed-donner/agents",
+      "repo": "datawhalechina/self-llm",
+      "url": "https://github.com/datawhalechina/self-llm",
       "desc": "",
-      "stars_today": 8,
+      "stars_today": 16,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
-      "stars_today": 8,
+      "stars_today": 12,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "google/ax",
-      "url": "https://github.com/google/ax",
+      "repo": "unslothai/notebooks",
+      "url": "https://github.com/unslothai/notebooks",
       "desc": "",
-      "stars_today": 2324,
-      "lang": "Go"
-    },
-    {
-      "repo": "zhouxiaoka/autoclip",
-      "url": "https://github.com/zhouxiaoka/autoclip",
-      "desc": "",
-      "stars_today": 654,
-      "lang": "Python"
-    },
-    {
-      "repo": "mvt-project/mvt",
-      "url": "https://github.com/mvt-project/mvt",
-      "desc": "",
-      "stars_today": 441,
-      "lang": "Python"
-    },
-    {
-      "repo": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "desc": "",
-      "stars_today": 202,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "superdesigndev/treg",
-      "url": "https://github.com/superdesigndev/treg",
-      "desc": "",
-      "stars_today": 197,
-      "lang": "Python"
+      "stars_today": 2,
+      "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "points": 1085,
-      "comments": 763,
-      "hn_url": "https://news.ycombinator.com/item?id=49803892"
+      "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+      "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+      "points": 437,
+      "comments": 243,
+      "hn_url": "https://news.ycombinator.com/item?id=49814947"
     },
     {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "points": 1049,
-      "comments": 548,
-      "hn_url": "https://news.ycombinator.com/item?id=49805509"
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "points": 419,
+      "comments": 459,
+      "hn_url": "https://news.ycombinator.com/item?id=49820134"
     },
     {
-      "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "points": 533,
-      "comments": 354,
-      "hn_url": "https://news.ycombinator.com/item?id=49801324"
+      "title": "I don't want the details",
+      "url": "https://michaelheap.com/i-dont-want-the-details/",
+      "points": 336,
+      "comments": 190,
+      "hn_url": "https://news.ycombinator.com/item?id=49815466"
     },
     {
-      "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-      "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-      "points": 339,
-      "comments": 174,
-      "hn_url": "https://news.ycombinator.com/item?id=49806430"
+      "title": "Gemini 3.8 text-to-speech",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "points": 236,
+      "comments": 118,
+      "hn_url": "https://news.ycombinator.com/item?id=49817615"
     },
     {
-      "title": "OpenAI is well positioned to fast-follow Jev",
-      "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-      "points": 248,
-      "comments": 182,
-      "hn_url": "https://news.ycombinator.com/item?id=49802161"
+      "title": "Stripe's Knowledge AI Platform",
+      "url": "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+      "points": 168,
+      "comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=49815982"
     },
     {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "points": 214,
-      "comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=49804316"
+      "title": "Once Claude can measure something, it can make it faster",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "points": 137,
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=49821196"
     },
     {
-      "title": "Unreal Agent",
-      "url": "https://unreallabs.ai/blog/unreal-agent/",
-      "points": 111,
-      "comments": 63,
-      "hn_url": "https://news.ycombinator.com/item?id=49805748"
+      "title": "VSCode's SSH Agent Is Bananas (2025)",
+      "url": "https://fly.io/blog/vscode-ssh-wtf/",
+      "points": 82,
+      "comments": 60,
+      "hn_url": "https://news.ycombinator.com/item?id=49822555"
     },
     {
-      "title": "Did OpenAI solve the wrong Navier-Stokes problem?",
-      "url": "https://www.scientificamerican.com/article/did-openai-solve-the-wrong-navier-stokes-problem/",
-      "points": 89,
-      "comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=49795260"
+      "title": "Linux support is coming to Snapdragon X2 Series",
+      "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
+      "points": 42,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49823582"
     }
   ],
   "reddit": [
     {
-      "title": "My local llm when I tell it to do any changes to my vLLM service",
+      "title": "Mods: can we do something about half the forum getting filled with these advertising posts for Jev?",
       "sub": "LocalLLaMA",
-      "author": "ZaltyDog",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnn6ui/my_local_llm_when_i_tell_it_to_do_any_changes_to/"
+      "author": "Acrobatic_Stress1388",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo6o0f/mods_can_we_do_something_about_half_the_forum/"
     },
     {
-      "title": "New 6B image model coming, AntLing just open sourced the Ming-Image-0.1-Design family",
+      "title": "Jev isn't new tech. Its marketing targets people who think AI started with LLMs.",
       "sub": "LocalLLaMA",
-      "author": "Sitkin_Marrel",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnipcz/new_6b_image_model_coming_antling_just_open/"
+      "author": "tiensss",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1woe70t/jev_isnt_new_tech_its_marketing_targets_people/"
     },
     {
-      "title": "Qwen 4 Announced at Apsara Conference",
+      "title": "Introducing Support for Local AI Models in the Antigravity SDK",
       "sub": "LocalLLaMA",
-      "author": "Salah_H_Hasan",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wmxfjs/qwen_4_announced_at_apsara_conference/"
+      "author": "dryadofelysium",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wof9kk/introducing_support_for_local_ai_models_in_the/"
     },
     {
-      "title": "Qwen image 2.1 (Fast FP8) generates premium quality images",
+      "title": "MiMo-V3 is getting a new architecture. The core of it, HySparse2, is out today.",
       "sub": "LocalLLaMA",
-      "author": "108er",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnhq8d/qwen_image_21_fast_fp8_generates_premium_quality/"
+      "author": "Recoil42",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wo7mr6/mimov3_is_getting_a_new_architecture_the_core_of/"
     },
     {
-      "title": "Am I going insane for thinking that these are all Bot comments?",
+      "title": "Please Google, for the love of God.",
       "sub": "LocalLLaMA",
-      "author": "No_Algae1753",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf162/am_i_going_insane_for_thinking_that_these_are_all/"
+      "author": "CriticallyCarmelized",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wogfjx/please_google_for_the_love_of_god/"
     },
     {
-      "title": "Laya model playing Flappy Bird on a CPU using OpenVINO INT8 inference",
+      "title": "Pirate Face - pirate bay for LLMs",
       "sub": "LocalLLaMA",
-      "author": "simpleuserhere",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnf4q2/laya_model_playing_flappy_bird_on_a_cpu_using/"
+      "author": "Atagor",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wnxhji/pirate_face_pirate_bay_for_llms/"
     }
   ],
   "youtube": [
+    {
+      "title": "신이 되려는 자들의 전쟁",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/1rQikUumpko",
+      "published": "2026-09-23",
+      "desc": ""
+    },
     {
       "title": "Yes, Jev Is Insane, But There's A Catch",
       "channel": "Two Minute Papers",
@@ -225,13 +232,6 @@
       "url": "https://www.youtube.com/watch?v=BaE6UBfNdQk",
       "published": "2026-09-22",
       "desc": "Qwen Image 2.1 review & tutorial. How to run Qwen Image 2.1 in ComfyUI. Best free open-source AI image generator. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep4 #ai #aitools #aiart #imagegenerator #nanobanana #agi Workflows and models https://huggingfa"
-    },
-    {
-      "title": "Jev가 AI 틈새 기술? 구글이 바로 반응합니다… 빠른 응답에 돈을 내는 이유 | 세레브라스, Groq도 절대 안되는 기술이라 했죠",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=qV5p14OSgXU",
-      "published": "2026-09-22",
-      "desc": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 빠른 반응 속도로 개발자들의 관심을 모은 AI, Jev를 살펴봅니다. 문장을 길게 생성하는 대신 선택지의 확률을 돌려주는 모델입니다. 기존의 작은 언어모델로도 가능하다는 비판과 비교 조건의 문제를 짚었습니다. 토큰을 순서대로 생성하는 방식과 판단값을 반환하는 방식의 차이도 설명합니다. 반복되는 판단에서 응답 시간과 비용이 왜 중요한지 살펴봅니다. 세레브라스와 Groq의 사례를 통해 빠른 추론이 쓰이는 곳을 짚었습니다. 구"
     },
     {
       "title": "POV. 집에서 집중 안 돼서 카페 온 사람 ☕️💻 #멋쟁이사자처럼",
