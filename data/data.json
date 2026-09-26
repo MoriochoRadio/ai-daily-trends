@@ -1,216 +1,223 @@
 {
-  "generated_at": "2026-09-25T23:55:37.834736+00:00",
-  "date_label": "2026년 9월 26일 (토)",
+  "generated_at": "2026-09-26T23:29:05.769156+00:00",
+  "date_label": "2026년 9월 27일 (일)",
   "github_trending": [
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 1853,
+      "stars_today": 2589,
       "lang": "TypeScript"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 1181,
+      "stars_today": 828,
       "lang": "Python"
     },
     {
       "repo": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "desc": "",
-      "stars_today": 360,
-      "lang": "Python"
-    },
-    {
-      "repo": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "desc": "",
-      "stars_today": 309,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
-      "desc": "",
-      "stars_today": 279,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 231,
-      "lang": "Python"
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "",
-      "stars_today": 111,
-      "lang": "Python"
-    },
-    {
-      "repo": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "desc": "",
-      "stars_today": 91,
+      "stars_today": 354,
       "lang": "Python"
     },
     {
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 62,
+      "stars_today": 283,
       "lang": "Python"
     },
     {
-      "repo": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 57,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 32,
+      "stars_today": 178,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "mobile-next/mobile-mcp",
+      "url": "https://github.com/mobile-next/mobile-mcp",
+      "desc": "",
+      "stars_today": 143,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 78,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "",
+      "stars_today": 51,
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "",
+      "stars_today": 50,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "strands-agents/harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "desc": "",
+      "stars_today": 44,
+      "lang": "Python"
     },
     {
       "repo": "openai/openai-cookbook",
       "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 31,
+      "stars_today": 30,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 29,
+      "stars_today": 28,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 20,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "anthropics/claude-code-action",
+      "url": "https://github.com/anthropics/claude-code-action",
+      "desc": "",
+      "stars_today": 15,
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "fastai/fastbook",
+      "url": "https://github.com/fastai/fastbook",
       "desc": "",
       "stars_today": 7,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "google-gemini/cookbook",
-      "url": "https://github.com/google-gemini/cookbook",
-      "desc": "",
-      "stars_today": 5,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "points": 355,
-      "comments": 661,
-      "hn_url": "https://news.ycombinator.com/item?id=49845977"
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "points": 136,
+      "comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=49854875"
     },
     {
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "url": "https://ollaya.dev/",
-      "points": 296,
-      "comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=49848269"
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "points": 117,
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=49857572"
     },
     {
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "url": "https://swarmtraces.org/",
-      "points": 107,
-      "comments": 70,
-      "hn_url": "https://news.ycombinator.com/item?id=49849985"
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "points": 113,
+      "comments": 343,
+      "hn_url": "https://news.ycombinator.com/item?id=49844663"
     },
     {
-      "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
-      "url": "https://mouse.dev/blog/muse-special/",
-      "points": 99,
-      "comments": 42,
-      "hn_url": "https://news.ycombinator.com/item?id=49848095"
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "points": 109,
+      "comments": 113,
+      "hn_url": "https://news.ycombinator.com/item?id=49836579"
     },
     {
-      "title": "An airport cooled by natural ventilation",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/didnt-need-air-conditioning-airport-cooled-natural-ventilation-reunion",
-      "points": 21,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=49842462"
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "points": 98,
+      "comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=49856665"
     },
     {
-      "title": "I wrote a ray tracer in Brainfuck",
-      "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-      "points": 18,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49842409"
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "points": 93,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=49857729"
     },
     {
-      "title": "Teaching a World Model to Play Pokemon",
-      "url": "https://nostalgia.dev/posts/teaching-a-world-model-to-play-pokemon/",
-      "points": 4,
-      "comments": 4,
-      "hn_url": "https://news.ycombinator.com/item?id=49849907"
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "points": 92,
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=49832768"
+    },
+    {
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "points": 52,
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=49849820"
     }
   ],
   "reddit": [
     {
-      "title": "Swift1.5-Qwen3.8-Flash-Next is phenomenal vs. base 3.8-Flash!",
+      "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
       "sub": "LocalLLaMA",
-      "author": "returnity",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq56pf/swift15qwen38flashnext_is_phenomenal_vs_base/"
+      "author": "TooManyPascals",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/"
     },
     {
-      "title": "I'm a Principal Applied Scientist at AWS who builds AI services like Amazon Bedrock and Lex. AMA! [D]",
-      "sub": "MachineLearning",
-      "author": "Amazon_Careers",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wjuki0/im_a_principal_applied_scientist_at_aws_who/"
-    },
-    {
-      "title": "I ran the actual break-even math on buying vs renting an H200 box, and it is not where I expected",
+      "title": "New to playing around with local ai. why are they free?",
       "sub": "LocalLLaMA",
-      "author": "recentheartbroken",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wq672b/i_ran_the_actual_breakeven_math_on_buying_vs/"
+      "author": "poofph",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/"
     },
     {
-      "title": "iclr 2027 de anonymization [D]",
-      "sub": "MachineLearning",
-      "author": "Striking-Warning9533",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wptsvx/iclr_2027_de_anonymization_d/"
-    },
-    {
-      "title": "Qwengram-0.8B: I transferred Qwen3.8 Flash-Next’s n-gram memory into Qwen3.5-0.8B — 5.05% lower validation perplexity",
+      "title": "Swift 1.5 27b: Swift Qwen just got faster",
       "sub": "LocalLLaMA",
-      "author": "Nicolodeva",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wpvep4/qwengram08b_i_transferred_qwen38_flashnexts_ngram/"
+      "author": "sleight42",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster/"
     },
     {
-      "title": "NeurIPS reject -> ICLR: How much reviewer feedback are you actually implementing ? [D]",
-      "sub": "MachineLearning",
-      "author": "Practical-Buddy6323",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wpognv/neurips_reject_iclr_how_much_reviewer_feedback/"
+      "title": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without tweaking much?",
+      "sub": "LocalLLaMA",
+      "author": "politefella0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/"
+    },
+    {
+      "title": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+      "sub": "LocalLLaMA",
+      "author": "arbv",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/"
+    },
+    {
+      "title": "Introducing KoboldCpp Agent (and a plea for help)",
+      "sub": "LocalLLaMA",
+      "author": "HadesThrowaway",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/"
     }
   ],
   "youtube": [
+    {
+      "title": "토큰값이 더 비싼 AI 버전이 오히려 쌀 수도 있다고?",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/5MqVX9uOV28",
+      "published": "2026-09-26",
+      "desc": "#챗GPT #제미나이 #토큰"
+    },
     {
       "title": "The Phone Number puzzle",
       "channel": "Andrej Karpathy",
       "url": "https://www.youtube.com/shorts/ausLKMojXaY",
       "published": "2026-09-25",
       "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/"
-    },
-    {
-      "title": "엔비디아 CPX 다시 살아나나? 삼성 고속 HBM4와 비슷한 사양?",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/31u2OuVf6aM",
-      "published": "2026-09-25",
-      "desc": ""
     },
     {
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
