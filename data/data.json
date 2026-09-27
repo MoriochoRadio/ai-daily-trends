@@ -1,216 +1,188 @@
 {
-  "generated_at": "2026-09-26T23:29:05.769156+00:00",
-  "date_label": "2026년 9월 27일 (일)",
+  "generated_at": "2026-09-27T23:43:50.362601+00:00",
+  "date_label": "2026년 9월 28일 (월)",
   "github_trending": [
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 2589,
+      "stars_today": 2527,
       "lang": "TypeScript"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 828,
+      "stars_today": 848,
       "lang": "Python"
     },
     {
       "repo": "NVIDIA/Model-Optimizer",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "desc": "",
-      "stars_today": 354,
-      "lang": "Python"
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "desc": "",
-      "stars_today": 283,
+      "stars_today": 301,
       "lang": "Python"
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 178,
+      "stars_today": 97,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "mobile-next/mobile-mcp",
-      "url": "https://github.com/mobile-next/mobile-mcp",
+      "repo": "GokuMohandas/Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
       "desc": "",
-      "stars_today": 143,
-      "lang": "TypeScript"
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 78,
+      "stars_today": 22,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 51,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 50,
+      "stars_today": 11,
       "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "strands-agents/harness-sdk",
-      "url": "https://github.com/strands-agents/harness-sdk",
-      "desc": "",
-      "stars_today": 44,
-      "lang": "Python"
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 30,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 28,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 20,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "anthropics/claude-code-action",
-      "url": "https://github.com/anthropics/claude-code-action",
-      "desc": "",
-      "stars_today": 15,
-      "lang": "TypeScript"
     },
     {
       "repo": "fastai/fastbook",
       "url": "https://github.com/fastai/fastbook",
       "desc": "",
+      "stars_today": 9,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "Infrasys-AI/AISystem",
+      "url": "https://github.com/Infrasys-AI/AISystem",
+      "desc": "",
+      "stars_today": 8,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "desc": "",
       "stars_today": 7,
       "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "DataTalksClub/llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "desc": "",
+      "stars_today": 6,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "desc": "",
+      "stars_today": 2,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "harvardnlp/annotated-transformer",
+      "url": "https://github.com/harvardnlp/annotated-transformer",
+      "desc": "",
+      "stars_today": 0,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "vectorize-io/hindsight",
+      "url": "https://github.com/vectorize-io/hindsight",
+      "desc": "",
+      "stars_today": 4463,
+      "lang": "Python"
+    },
+    {
+      "repo": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "",
+      "stars_today": 3060,
+      "lang": "Python"
+    },
+    {
+      "repo": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "desc": "",
+      "stars_today": 920,
+      "lang": "TypeScript"
     }
   ],
   "hackernews": [
     {
-      "title": "How to keep enjoying programming in a world of LLMs",
-      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
-      "points": 136,
-      "comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=49854875"
+      "title": "The Normalization of Inexplicable Failures",
+      "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "points": 232,
+      "comments": 95,
+      "hn_url": "https://news.ycombinator.com/item?id=49867486"
     },
     {
-      "title": "Automattic has a new board after failed attempt to put CEO on leave",
-      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-      "points": 117,
-      "comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=49857572"
-    },
-    {
-      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
-      "points": 113,
-      "comments": 343,
-      "hn_url": "https://news.ycombinator.com/item?id=49844663"
-    },
-    {
-      "title": "How I changed teaching after AI managed to do all my homework assignments",
-      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
-      "points": 109,
-      "comments": 113,
-      "hn_url": "https://news.ycombinator.com/item?id=49836579"
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US Government agency sites",
-      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
-      "points": 98,
-      "comments": 155,
-      "hn_url": "https://news.ycombinator.com/item?id=49856665"
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "title": "Show HN: TinyAIArena watch AI agents battle it out",
+      "url": "https://tinyaiarena.com/",
       "points": 93,
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=49857729"
+      "comments": 40,
+      "hn_url": "https://news.ycombinator.com/item?id=49867775"
     },
     {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "url": "https://www.movingimagearchive.com/",
-      "points": 92,
-      "comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=49832768"
-    },
-    {
-      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
-      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
-      "points": 52,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49849820"
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "points": 50,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49866988"
     }
   ],
   "reddit": [
     {
-      "title": "2400cc Inference Racer: Dual RTX 3090 motors, NVLink turbo, naked 7840U ThinkPad ECU, VW Golf radiator",
+      "title": "Adding logit penalty for \"wait\", \"maybe\" and \"perhaps\" to Qwen models improves their accuracy",
       "sub": "LocalLLaMA",
-      "author": "TooManyPascals",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqs2t8/2400cc_inference_racer_dual_rtx_3090_motors/"
+      "author": "am17an",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wromzr/adding_logit_penalty_for_wait_maybe_and_perhaps/"
     },
     {
-      "title": "New to playing around with local ai. why are they free?",
-      "sub": "LocalLLaMA",
-      "author": "poofph",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqwzk3/new_to_playing_around_with_local_ai_why_are_they/"
+      "title": "Are there machine learning subfields that are becoming irrelevant (or is irrelevant)? [D]",
+      "sub": "MachineLearning",
+      "author": "NeighborhoodFatCat",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wrqoxp/are_there_machine_learning_subfields_that_are/"
     },
     {
-      "title": "Swift 1.5 27b: Swift Qwen just got faster",
+      "title": "The Opus 5.5 posts about motion graphics are cool but Qwen 27B made this on a 4090",
       "sub": "LocalLLaMA",
-      "author": "sleight42",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqkb3v/swift_15_27b_swift_qwen_just_got_faster/"
+      "author": "speedb0at",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrjlls/the_opus_55_posts_about_motion_graphics_are_cool/"
     },
     {
-      "title": "Qwen 3.8 flash next is based on Qwen 4 architecture, if the announced Qwen 4 27b is also the same architecture with n-grams does it mean I can actually have faster inference on a single 3090 without tweaking much?",
-      "sub": "LocalLLaMA",
-      "author": "politefella0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqzx12/qwen_38_flash_next_is_based_on_qwen_4/"
+      "title": "ClashRoyaleAi: an open-source, deterministic Clash Royale simulator for RL, with recurrent PPO, lookahead search and expert iteration [P]",
+      "sub": "MachineLearning",
+      "author": "Potential-Barber8658",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wrj0t3/clashroyaleai_an_opensource_deterministic_clash/"
     },
     {
-      "title": "Improved and fixed template for GPT-OSS (again). Includes preserve_thinking and fix for Unsloth-induced bug",
+      "title": "Naive-N0.5-Flash - 309B-A15.5B",
       "sub": "LocalLLaMA",
-      "author": "arbv",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wr0wki/improved_and_fixed_template_for_gptoss_again/"
+      "author": "nullmove",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wrs58t/naiven05flash_309ba155b/"
     },
     {
-      "title": "Introducing KoboldCpp Agent (and a plea for help)",
-      "sub": "LocalLLaMA",
-      "author": "HadesThrowaway",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wqlyp8/introducing_koboldcpp_agent_and_a_plea_for_help/"
+      "title": "Two-stage shelf audit: YOLO finds the products, embeddings can't tell sibling SKUS apart. What should Stage 2 be? [P]",
+      "sub": "MachineLearning",
+      "author": "ryan7ait",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wrxabu/twostage_shelf_audit_yolo_finds_the_products/"
     }
   ],
   "youtube": [
     {
-      "title": "토큰값이 더 비싼 AI 버전이 오히려 쌀 수도 있다고?",
+      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
+      "published": "2026-09-27",
+      "desc": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5 #ai #ainews #aitools #aivideo #agi #singularity WorldCrafter https://drexubery.github.io/WorldCrafter/ Ming Image https://huggi"
+    },
+    {
+      "title": "GPT-6 일주일만에 맨해튼 도시를 만들다, AI 제대로 쓰는 법",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/5MqVX9uOV28",
-      "published": "2026-09-26",
-      "desc": "#챗GPT #제미나이 #토큰"
+      "url": "https://www.youtube.com/shorts/s5CVMzlH0BU",
+      "published": "2026-09-27",
+      "desc": ""
     },
     {
       "title": "The Phone Number puzzle",
@@ -232,13 +204,6 @@
       "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
       "published": "2026-09-24",
       "desc": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record"
-    },
-    {
-      "title": "Claude Opus 5.5 is ridiculous",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=gX0L0aFA2xg",
-      "published": "2026-09-24",
-      "desc": "Claude Opus 5.5 review. #ai #ainews #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-dkHOlY Claude Opus 5.5 release page https://www.anthropic.com/claude-opus-5-5 Also see GPT 6 Astra review https://youtu.be/Ji4amrxrzVM 00:"
     },
     {
       "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
