@@ -1,216 +1,209 @@
 {
-  "generated_at": "2026-09-29T00:54:55.268642+00:00",
-  "date_label": "2026년 9월 29일 (화)",
+  "generated_at": "2026-09-30T00:16:49.393478+00:00",
+  "date_label": "2026년 9월 30일 (수)",
   "github_trending": [
     {
       "repo": "paperclipai/paperclip",
       "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 3197,
+      "stars_today": 2458,
       "lang": "TypeScript"
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "desc": "",
+      "stars_today": 835,
+      "lang": "Python"
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 1287,
+      "stars_today": 786,
+      "lang": "Python"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "",
+      "stars_today": 119,
+      "lang": "Python"
+    },
+    {
+      "repo": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "desc": "",
+      "stars_today": 101,
       "lang": "Python"
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 179,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "desc": "",
-      "stars_today": 145,
-      "lang": "Python"
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 81,
+      "stars_today": 91,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 61,
+      "stars_today": 65,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 53,
-      "lang": "Python"
-    },
-    {
-      "repo": "Rizzo-AI-Academy/rizzo-pii",
-      "url": "https://github.com/Rizzo-AI-Academy/rizzo-pii",
-      "desc": "",
-      "stars_today": 21,
-      "lang": "Python"
-    },
-    {
-      "repo": "agent0ai/agent-zero",
-      "url": "https://github.com/agent0ai/agent-zero",
-      "desc": "",
-      "stars_today": 18,
-      "lang": "Python"
-    },
-    {
-      "repo": "microsoft/mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "desc": "",
-      "stars_today": 17,
+      "stars_today": 64,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "SakanaAI/AI-Scientist",
-      "url": "https://github.com/SakanaAI/AI-Scientist",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 59,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "desc": "",
+      "stars_today": 51,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
       "desc": "",
       "stars_today": 13,
+      "lang": "Jupyter Notebook"
+    },
+    {
+      "repo": "SemiAnalysisAI/InferenceX",
+      "url": "https://github.com/SemiAnalysisAI/InferenceX",
+      "desc": "",
+      "stars_today": 11,
+      "lang": "Python"
+    },
+    {
+      "repo": "datawhalechina/deepagents-in-action",
+      "url": "https://github.com/datawhalechina/deepagents-in-action",
+      "desc": "",
+      "stars_today": 11,
       "lang": "Jupyter Notebook"
     },
     {
       "repo": "langchain-ai/rag-from-scratch",
       "url": "https://github.com/langchain-ai/rag-from-scratch",
       "desc": "",
-      "stars_today": 11,
+      "stars_today": 9,
       "lang": "Jupyter Notebook"
     },
     {
-      "repo": "fastai/fastbook",
-      "url": "https://github.com/fastai/fastbook",
+      "repo": "GoogleCloudPlatform/generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "desc": "",
-      "stars_today": 8,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
-      "stars_today": 5,
-      "lang": "Jupyter Notebook"
-    },
-    {
-      "repo": "suno-ai/bark",
-      "url": "https://github.com/suno-ai/bark",
-      "desc": "",
-      "stars_today": 2,
+      "stars_today": 4,
       "lang": "Jupyter Notebook"
     }
   ],
   "hackernews": [
     {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "url": "https://git.mills.io/prologic/parley",
-      "points": 298,
-      "comments": 167,
-      "hn_url": "https://news.ycombinator.com/item?id=49875913"
+      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "points": 749,
+      "comments": 688,
+      "hn_url": "https://news.ycombinator.com/item?id=49896586"
     },
     {
-      "title": "It's Time to Investigate the AI Labs",
-      "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-      "points": 255,
-      "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=49883471"
+      "title": "Dots: Always-on agents",
+      "url": "https://openai.com/index/introducing-dots/",
+      "points": 447,
+      "comments": 338,
+      "hn_url": "https://news.ycombinator.com/item?id=49896604"
     },
     {
-      "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "url": "https://github.com/firelex/jeff",
-      "points": 233,
-      "comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=49883844"
+      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+      "points": 406,
+      "comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=49890226"
     },
     {
-      "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-      "url": "https://stateofutopia.com/experiments/microllmlab/",
-      "points": 115,
-      "comments": 56,
-      "hn_url": "https://news.ycombinator.com/item?id=49882781"
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "points": 19,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49896757"
     },
     {
-      "title": "Cf: The Agentic CLI for the Cloudflare API",
-      "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-      "points": 113,
-      "comments": 44,
-      "hn_url": "https://news.ycombinator.com/item?id=49879577"
+      "title": "Language models for text classification: From bag-of-words to Jev",
+      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
+      "points": 14,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49891203"
     },
     {
-      "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-      "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-      "points": 95,
-      "comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=49879883"
-    },
-    {
-      "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
-      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
-      "points": 67,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49855059"
-    },
-    {
-      "title": "What reversing, modernising old games tells us about the economic impact of AI",
-      "url": "https://this.os.isfine.org/blog/posts/what-reverse-engineering-and-modernising-an-old-war-game-tells-us-about-the-econ/",
-      "points": 60,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=49861755"
+      "title": "Show HN: Corral – Kill every command your agent starts",
+      "url": "https://github.com/Cardinal44/corral",
+      "points": 11,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=49886422"
     }
   ],
   "reddit": [
     {
-      "title": "Finally found a model my hardware can run at full precision: me",
+      "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
       "sub": "LocalLLaMA",
-      "author": "HomoAgens1",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsiepp/finally_found_a_model_my_hardware_can_run_at_full/"
+      "author": "BannedGoNext",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/"
+    },
+    {
+      "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
+      "sub": "MachineLearning",
+      "author": "XxCotHGxX",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/"
+    },
+    {
+      "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+      "sub": "LocalLLaMA",
+      "author": "Dany0",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/"
+    },
+    {
+      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
+      "sub": "MachineLearning",
+      "author": "SoloTiger_",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/"
+    },
+    {
+      "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
+      "sub": "LocalLLaMA",
+      "author": "brown2green",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/"
     },
     {
       "title": "Functional Gradient Descent with Adaptive Representations [R]",
       "sub": "MachineLearning",
       "author": "dccsillag0",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/"
-    },
-    {
-      "title": "Qwen next 3.8 and 3.8 27b Vs Sonnet 5.5 low and Sonnet 5.5 medium.",
-      "sub": "LocalLLaMA",
-      "author": "LegacyRemaster",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wsq6r5/qwen_next_38_and_38_27b_vs_sonnet_55_low_and/"
-    },
-    {
-      "title": "Free, open-source AI engineering course where you build each algorithm by hand: 523 lessons, now as EPUB/PDF books [P]",
-      "sub": "MachineLearning",
-      "author": "SeveralSeat2176",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ws6e9p/free_opensource_ai_engineering_course_where_you/"
-    },
-    {
-      "title": "NVIDIA shipped OpenShell, an open source sandbox that gives local and open agents real runtime limits instead of prompt rules. Over 100 firms joined the safety stack. OpenAI did not.",
-      "sub": "LocalLLaMA",
-      "author": "InternationalGap3698",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ws9ydg/nvidia_shipped_openshell_an_open_source_sandbox/"
-    },
-    {
-      "title": "What are the trending topics in medical imaging? [D]",
-      "sub": "MachineLearning",
-      "author": "dinoucs",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wsockf/what_are_the_trending_topics_in_medical_imaging_d/"
     }
   ],
   "youtube": [
     {
-      "title": "추석 연휴 조용히 묻힌, 삼성 냉장고에 벌어진 일... 업데이트 후 명절 음식 녹기 시작했다 | 삼성 업데이트 사고로 본 스마트 가전의 약점",
+      "title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=8CCRqJjxI6Q",
-      "published": "2026-09-28",
-      "desc": "‘Google Gemini' 앰배서더 활동의 일환으로 제작지원을 받았습니다. 추석을 앞두고 삼성 냉장고 일부 제품이 소프트웨어 업데이트 이후 작동을 멈췄습니다.이용자들은 냉장·냉동이 되지 않아 식재료를 옮기거나 버려야 했다고 전했습니다.이번 영상에서는 삼성의 공식 안내와 실제 이용자 사례를 함께 살펴봅니다.냉장고 안에서 소프트웨어가 압축기와 팬을 어떻게 제어하는지도 쉽게 풀어봅니다.업데이트에 실패했을 때 이전 버전으로 돌아가는 A/B 복구 원리는 Gemini 시연으로 보여드립니다.기기가 응답하지 "
+      "url": "https://www.youtube.com/watch?v=Ez4Su9C-uiQ",
+      "published": "2026-09-29",
+      "desc": "구글은 이미 8세대 TPU까지 자체 AI 칩을 만들고 있습니다.그런데도 Google Cloud에서는 NVIDIA의 차세대 GPU 시스템을 계속 도입하고 있습니다. 이번 영상에서는 GPU와 TPU를 단순히 범용칩과 전용칩으로 나누기 어려운 이유부터 살펴봅니다.NVIDIA GPU 안의 Tensor Core와 Transformer Engine, 구글 TPU의 전용화 방식이 어디에서 닮고 갈리는지도 짚었습니다. 또 학습용 TPU 8t와 추론용 TPU 8i가 따로 만들어진 이유, 자체칩이 특히 유리해지는 "
+    },
+    {
+      "title": "비전공자 기초 스터디 운영하는 백엔드 자바 부트캠프",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=tJaeIAm3hOA",
+      "published": "2026-09-29",
+      "desc": "멋쟁이사자처럼 백엔드 자바&스프링 부트캠프는 비전공자를 위해 기초 스터디를 별도로 운영합니다. 꼭 알아야 할 내용과 실무에서 자주 쓰이는 부분을 교안에서 체크해주고, 어려운 챕터는 나중에 다시 다루기 때문에 처음부터 모든 걸 이해하지 않아도 따라갈 수 있습니다. ▶ 백엔드 자바&스프링 부트캠프 지원하기 https://abit.ly/kdtbejv28_youtube #백엔드 #자바 #스프링부트 #백엔드개발자 #자바개발자 #자바스프링 #멋쟁이사자처럼"
     },
     {
       "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
@@ -248,13 +241,6 @@
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
     },
     {
-      "title": "POV. 집에서 집중 안 돼서 카페 온 사람 ☕️💻 #멋쟁이사자처럼",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/shorts/cLxAcB7EC6Q",
-      "published": "2026-09-22",
-      "desc": "분명 집중하려고 카페까지 왔는데… 자리 세팅하고, 브금 고르고, 할 일 정리하고, 커피 사진 찍고, 카톡 하나만 답장하다 보면 어라…? 한 시간 어디 갔지? 🫠 결국 집이 문제가 아니었던 걸로 ㅎ 근데 진짜 이거 저만 이런가요…? 다들 집이나 카페에서 집중 어떻게 하시나요 👀 나만의 집중 꿀팁 댓글로 공유해주세요!! #대학생 #대학생활 #대학생공감 #카공 #카공족 #공부자극 #집중력 #POV #대학생릴스"
-    },
-    {
       "title": "Burn Water - New Millennium",
       "channel": "ColdFusion",
       "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
@@ -269,12 +255,5 @@
       "desc": ""
     }
   ],
-  "social": [
-    {
-      "title": "Updated Google Maps shows destruction of the city of Rafah",
-      "handle": "@AliAbunimah",
-      "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-      "note": "HN 171pts · 96 댓글"
-    }
-  ]
+  "social": []
 }
