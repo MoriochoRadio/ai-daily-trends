@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T00:16:49.393478+00:00",
+  "generated_at": "2026-09-30T04:20:19.737899+00:00",
   "date_label": "2026년 9월 30일 (수)",
   "github_trending": [
     {
@@ -7,149 +7,185 @@
       "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
       "stars_today": 2458,
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "summary_ko": "Paperclip은 AI 기반 문서 요약·편집 툴로, 협업 시 효율적인 텍스트 관리가 가능해 주목됩니다."
     },
     {
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "desc": "",
       "stars_today": 835,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "PageIndex는 벡터 검색을 활용한 페이지 레벨 인덱싱 라이브러리로, 대용량 문서 탐색에 강점이 있습니다."
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
       "stars_today": 786,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "AI Engineering from Scratch는 AI 시스템 설계·구현 전 과정을 단계별 코드와 예제로 정리한 학습 자료입니다."
     },
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "desc": "",
       "stars_today": 119,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "AI Job Search는 AI·ML 직무 채용 정보를 자동 수집·분류해 구직자에게 맞춤형 매칭을 제공합니다."
     },
     {
       "repo": "mem0ai/mem0",
       "url": "https://github.com/mem0ai/mem0",
       "desc": "",
       "stars_today": 101,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "mem0는 장기 기억을 갖는 LLM 에이전트 프레임워크로, 대화형 애플리케이션에 지속적인 컨텍스트를 부여합니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
       "stars_today": 91,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI Agents for Beginners는 초보자를 위한 에이전트 설계·실행 튜토리얼로, 실습 중심 학습을 지원합니다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
       "stars_today": 65,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI For Beginners는 AI 기본 개념부터 실습까지 포괄적인 입문 교재로, 비전공자도 쉽게 접근할 수 있습니다."
     },
     {
       "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
       "stars_today": 64,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Hands‑On Large Language Models는 LLM 구축·튜닝·배포 전 과정을 실습 예제로 제공하는 실용 가이드입니다."
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
       "stars_today": 59,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Generative AI for Beginners는 생성 AI 개념·활용 사례를 단계별로 설명해 입문자 학습에 적합합니다."
     },
     {
       "repo": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
       "stars_today": 51,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI·E Book은 AI·ML 최신 연구·응용을 정리한 전자책 형태의 오픈소스로, 깊이 있는 학습 자료입니다."
     },
     {
       "repo": "ed-donner/llm_engineering",
       "url": "https://github.com/ed-donner/llm_engineering",
       "desc": "",
       "stars_today": 13,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "LLM Engineering은 대규모 언어 모델 개발·운영 베스트 프랙티스를 코드와 함께 정리한 레포입니다."
     },
     {
       "repo": "SemiAnalysisAI/InferenceX",
       "url": "https://github.com/SemiAnalysisAI/InferenceX",
       "desc": "",
       "stars_today": 11,
-      "lang": "Python"
+      "lang": "Python",
+      "summary_ko": "InferenceX는 고성능 모델 추론 파이프라인을 제공해 실시간 AI 서비스 구축을 돕습니다."
     },
     {
       "repo": "datawhalechina/deepagents-in-action",
       "url": "https://github.com/datawhalechina/deepagents-in-action",
       "desc": "",
       "stars_today": 11,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "DeepAgents in Action은 멀티모달 에이전트 구현 예시를 통해 실전 AI 응용을 보여줍니다."
     },
     {
       "repo": "langchain-ai/rag-from-scratch",
       "url": "https://github.com/langchain-ai/rag-from-scratch",
       "desc": "",
       "stars_today": 9,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "RAG from Scratch는 Retrieval‑Augmented Generation을 처음부터 구현하는 단계별 가이드입니다"
     },
     {
       "repo": "GoogleCloudPlatform/generative-ai",
       "url": "https://github.com/GoogleCloudPlatform/generative-ai",
       "desc": "",
       "stars_today": 4,
-      "lang": "Jupyter Notebook"
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Generative AI on Google Cloud는 GCP 환경에서 생성 AI 모델을 설계·배포하는 실무 가이드입니다"
     }
   ],
   "hackernews": [
     {
       "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "points": 749,
-      "comments": 688,
-      "hn_url": "https://news.ycombinator.com/item?id=49896586"
+      "points": 836,
+      "comments": 758,
+      "hn_url": "https://news.ycombinator.com/item?id=49896586",
+      "title_ko": "GPT 6.1 Sol: 5분의 1 가격에 근접 아스트라 수준 인공지능",
+      "summary_ko": "GPT 6.1 Sol은 기존 대비 5배 저렴한 가격에 거의 아스트라 수준의 성능을 제공해 주목받는다."
     },
     {
       "title": "Dots: Always-on agents",
       "url": "https://openai.com/index/introducing-dots/",
-      "points": 447,
-      "comments": 338,
-      "hn_url": "https://news.ycombinator.com/item?id=49896604"
+      "points": 490,
+      "comments": 369,
+      "hn_url": "https://news.ycombinator.com/item?id=49896604",
+      "title_ko": "Dots: 언제든 작동하는 에이전트",
+      "summary_ko": "Dots는 지속적으로 실행되는 에이전트 프레임워크로, 실시간 자동화와 모니터링에 강점이 있다."
     },
     {
-      "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-      "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-      "points": 406,
-      "comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=49890226"
-    },
-    {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "points": 19,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49896757"
+      "title": "Sustainable energy without the hot air (2008)",
+      "url": "https://www.withouthotair.com/",
+      "points": 140,
+      "comments": 80,
+      "hn_url": "https://news.ycombinator.com/item?id=49892175",
+      "title_ko": "핫 에어 없이 지속 가능한 에너지 (2008)",
+      "summary_ko": "2008년 발표된 이 논문은 열 손실 없이 효율적인 에너지 생산 방안을 제시해 환경 분야에서 인용된다."
     },
     {
       "title": "Language models for text classification: From bag-of-words to Jev",
       "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "points": 14,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49891203"
+      "points": 54,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49891203",
+      "title_ko": "텍스트 분류를 위한 언어 모델: Bag-of-Words에서 Jev까지",
+      "summary_ko": "전통적인 Bag-of-Words 방식부터 최신 Jev 모델까지 텍스트 분류 기술 흐름을 정리한 리뷰다."
     },
     {
-      "title": "Show HN: Corral – Kill every command your agent starts",
-      "url": "https://github.com/Cardinal44/corral",
-      "points": 11,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=49886422"
+      "title": "Show HN: A working 3D model of an Enigma machine",
+      "url": "https://enigma.design",
+      "points": 47,
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=49896757",
+      "title_ko": "Show HN: 작동하는 엔그마 기계 3D 모델",
+      "summary_ko": "엔그마 암호기 기구를 3D 프린팅으로 구현해 실제 작동시키는 프로젝트가 공개되었다."
+    },
+    {
+      "title": "PSSA: A non-transformer language model written from scratch in Rust",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "points": 23,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=49903993",
+      "title_ko": "PSSA: Rust로 처음부터 만든 비트랜스포머 언어 모델",
+      "summary_ko": "Rust 기반으로 새롭게 구현된 PSSA는 트랜스포머 없이도 효율적인 언어 모델링을 목표한다."
+    },
+    {
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "points": 3,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49903713",
+      "title_ko": "AI 생성 수학 문제의 책임 있는 공개",
+      "summary_ko": "AI가 만든 수학 문제와 해답을 안전하게 배포하기 위한 가이드라인을 제시한다."
     }
   ],
   "reddit": [
@@ -157,103 +193,52 @@
       "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
       "sub": "LocalLLaMA",
       "author": "BannedGoNext",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/"
-    },
-    {
-      "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
-      "sub": "MachineLearning",
-      "author": "XxCotHGxX",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
+      "title_ko": "Anthropic, GLM 최고의 광고 공개",
+      "summary_ko": "Anthropic이 GLM을 위한 최고의 광고를 공개해 주목받고 있습니다."
     },
     {
       "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
       "sub": "LocalLLaMA",
       "author": "Dany0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
+      "title_ko": "AMD, 256코어 EPYC 출시 – DDR5‑12800 16채널, RTX 5090 대비 91% 메모리 대역폭",
+      "summary_ko": "AMD의 256코어 EPYC가 16채널 DDR5‑12800을 탑재해 RTX 5090 대비 91% 메모리 대역폭을 제공합니다."
     },
     {
-      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
-      "sub": "MachineLearning",
-      "author": "SoloTiger_",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/"
+      "title": "Are you worried about a potential ban of Chinese open weight models?",
+      "sub": "LocalLLaMA",
+      "author": "writesfw",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
+      "title_ko": "중국 오픈 웨이트 모델 금지 가능성에 대한 우려",
+      "summary_ko": "중국 오픈 웨이트 모델이 금지될 위험에 대해 사용자들의 우려가 커지고 있습니다."
     },
     {
       "title": "GLM-5.3 and the Spread of Advanced Cyber Capabilities \\ Anthropic",
       "sub": "LocalLLaMA",
       "author": "brown2green",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtg0vd/glm53_and_the_spread_of_advanced_cyber/",
+      "title_ko": "GLM‑5.3과 첨단 사이버 역량 확산 – Anthropic",
+      "summary_ko": "Anthropic이 GLM‑5.3을 통해 고도화된 사이버 역량이 확산되는 현상을 조명했습니다."
     },
     {
-      "title": "Functional Gradient Descent with Adaptive Representations [R]",
-      "sub": "MachineLearning",
-      "author": "dccsillag0",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wsejb7/functional_gradient_descent_with_adaptive/"
+      "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models",
+      "sub": "LocalLLaMA",
+      "author": "Acceptable-Cycle4645",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtpntt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+      "title_ko": "Qwen 계열 LLM, 현대 오디오 모델의 핵심으로 부상 – 100개 이상 모델 아키텍처 차트",
+      "summary_ko": "Qwen‑계열 LLM이 100여 개 오디오 모델 아키텍처 차트에서 핵심 역할을 하고 있습니다."
+    },
+    {
+      "title": "Looks like the era of subsidised compute is coming to an end. The old ChatGPT Pro $200 20x plan will be halved. The new $500 plan will have similar limits as the (old) $200 plan.",
+      "sub": "LocalLLaMA",
+      "author": "Norwood_Reaper_",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wt5f4e/looks_like_the_era_of_subsidised_compute_is/",
+      "title_ko": "보조 연산 비용 지원 시대 종료 – ChatGPT Pro 플랜 가격·용량 변동",
+      "summary_ko": "ChatGPT Pro의 $200·20배 플랜이 절반으로 줄고, $500 플랜이 기존 $200 플랜과 비슷한 제한을 갖게 됩니다."
     }
   ],
-  "youtube": [
-    {
-      "title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=Ez4Su9C-uiQ",
-      "published": "2026-09-29",
-      "desc": "구글은 이미 8세대 TPU까지 자체 AI 칩을 만들고 있습니다.그런데도 Google Cloud에서는 NVIDIA의 차세대 GPU 시스템을 계속 도입하고 있습니다. 이번 영상에서는 GPU와 TPU를 단순히 범용칩과 전용칩으로 나누기 어려운 이유부터 살펴봅니다.NVIDIA GPU 안의 Tensor Core와 Transformer Engine, 구글 TPU의 전용화 방식이 어디에서 닮고 갈리는지도 짚었습니다. 또 학습용 TPU 8t와 추론용 TPU 8i가 따로 만들어진 이유, 자체칩이 특히 유리해지는 "
-    },
-    {
-      "title": "비전공자 기초 스터디 운영하는 백엔드 자바 부트캠프",
-      "channel": "조코딩",
-      "url": "https://www.youtube.com/watch?v=tJaeIAm3hOA",
-      "published": "2026-09-29",
-      "desc": "멋쟁이사자처럼 백엔드 자바&스프링 부트캠프는 비전공자를 위해 기초 스터디를 별도로 운영합니다. 꼭 알아야 할 내용과 실무에서 자주 쓰이는 부분을 교안에서 체크해주고, 어려운 챕터는 나중에 다시 다루기 때문에 처음부터 모든 걸 이해하지 않아도 따라갈 수 있습니다. ▶ 백엔드 자바&스프링 부트캠프 지원하기 https://abit.ly/kdtbejv28_youtube #백엔드 #자바 #스프링부트 #백엔드개발자 #자바개발자 #자바스프링 #멋쟁이사자처럼"
-    },
-    {
-      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
-      "published": "2026-09-27",
-      "desc": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5 #ai #ainews #aitools #aivideo #agi #singularity WorldCrafter https://drexubery.github.io/WorldCrafter/ Ming Image https://huggi"
-    },
-    {
-      "title": "The Phone Number puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/ausLKMojXaY",
-      "published": "2026-09-25",
-      "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/"
-    },
-    {
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
-      "published": "2026-09-24",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5."
-    },
-    {
-      "title": "Opus 5.5: How Close Are We to Automated AI Research?",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
-      "published": "2026-09-24",
-      "desc": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record"
-    },
-    {
-      "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=ImNEHHLh6-U",
-      "published": "2026-09-22",
-      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST "
-    },
-    {
-      "title": "Burn Water - New Millennium",
-      "channel": "ColdFusion",
-      "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
-      "published": "2026-09-20",
-      "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw"
-    },
-    {
-      "title": "I automated a Reality Show for my wife & she somehow liked it lol",
-      "channel": "sentdex",
-      "url": "https://www.youtube.com/shorts/ELeMRBz2-tA",
-      "published": "2026-09-03",
-      "desc": ""
-    }
-  ],
-  "social": []
+  "youtube": [],
+  "social": [],
+  "summary_model": "openai/gpt-oss-120b"
 }
