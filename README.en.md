@@ -21,7 +21,7 @@ It automatically collects from GitHub Trending, Hacker News, Reddit, AI YouTube 
 ## ✨ Features
 
 - **Fully automated** — collects and summarizes data, then builds and deploys the site every day with no human involvement.
-- **🇰🇷 Korean titles + key summaries** — each item's title is shown translated into Korean in large type (with the original alongside in smaller type), plus a one-sentence Korean summary of "what it is and why it matters". (Free LLM — GitHub Models)
+- **🇰🇷 Korean titles + key summaries** — each item's title is shown translated into Korean in large type (with the original alongside in smaller type), plus a one-sentence Korean summary of "what it is and why it matters". (Free LLM — Groq, model auto-selected)
 - **AI-focused curation** — keyword filters keep only AI/LLM/agent-related content.
 - **🔍 Search, source filters, theme toggle** — instantly search all items by keyword (press `/` to focus), filter by source (GitHub, HN, Reddit, YouTube, social), and switch between dark/light themes (saved in the browser). A highlight at the top features today's most-starred repository, and HN items link to the article and the discussion separately. These features are **progressive enhancement with lightweight vanilla JS** — with JS disabled, all content still displays.
 - **5 sources in one place** — GitHub, Hacker News, Reddit, YouTube, and X (Twitter) on a single screen. No more visiting each site separately.
@@ -38,7 +38,7 @@ It automatically collects from GitHub Trending, Hacker News, Reddit, AI YouTube 
 | **YouTube** | Channel RSS feeds (curated AI/tech channels) | Latest videos from international channels (Two Minute Papers, Lex Fridman, Karpathy, Fireship, etc.) plus Korean channels (Andeul Engineering, Jocoding, TeddyNote, Bbanghyung's Developing Country) |
 | **Trending Social** | X/Twitter links extracted from HN | Trending threads from influencers and researchers |
 
-> **Korean summaries:** Every collected item gets a one-sentence Korean summary generated with [GitHub Models](https://github.com/marketplace/models) (free, `gpt-4o-mini`). It runs on Actions' `GITHUB_TOKEN` alone with no API key, and if the summarization step fails, the site still builds normally with the original text (graceful).
+> **Korean summaries:** Every collected item gets a one-sentence Korean summary from the [Groq](https://console.groq.com) free tier (`GROQ_API_KEY` secret). Free models are retired every few months, so the model name is not hard-coded: each run picks a live model from Groq's model list. If summarization fails, the site still builds with the original text (graceful), and a final `health` job fails — so GitHub emails the owner — **only when a human needs to act** (rejected key, no usable model, or three days in a row without summaries).
 >
 > **Reddit note:** Reddit blocks unauthenticated JSON endpoints and shared CI IPs (403/429), so collection was stabilized with browser headers + public RSS + retries/backoff. If one subreddit is blocked, round-robin merging lets the other sources fill the gap.
 
@@ -63,7 +63,7 @@ The design applies a design system that the [**UI UX Pro Max**](https://github.c
 ```
 
 1. **`collect.py`** — collects AI-related content from the 5 sources and saves it to `data/data.json`
-2. **`summarize.py`** — adds a Korean key summary (`summary_ko`) to each item via GitHub Models
+2. **`summarize.py`** — adds a Korean key summary (`summary_ko`) to each item via Groq (model auto-selected)
 3. **`build.py`** — renders `data.json` into an `index.html` styled with the design system
 4. **GitHub Actions** — runs the steps above daily, commits the results, and deploys to Pages
 
@@ -75,8 +75,8 @@ A. For a dashboard whose data changes once a day, per-request rendering is waste
 **Q. Why GitHub Actions?**
 A. Cron scheduling, the execution environment, and deployment (Pages) are all handled in one place for free, and results are committed, so the data history is tracked too. Concurrency serializes runs in case a delayed scheduled run overlaps a manual one, and transient Pages outages are absorbed by deploy retries.
 
-**Q. Why GitHub Models (gpt-4o-mini) as the summarization LLM?**
-A. It can be called with just Actions' default `GITHUB_TOKEN` (with `models: read` permission), eliminating separate API key issuance, secret management, and cost entirely. A small model is plenty for one-sentence-per-item summaries, and the design is graceful: if it fails, the site still builds with the original text.
+**Q. Why Groq, and why isn't the model pinned?**
+A. It started on GitHub Models (gpt-4o-mini, callable with just `GITHUB_TOKEN`), which shut down on 2026-07-30; the Groq replacement `llama-3.3-70b-versatile` was then retired on 2026-08-16, and summaries silently stayed empty for 44 days. Because free models disappear like this, the model is not hard-coded: every run picks from Groq's model list in preference order and falls through to the next candidate on model errors. The free tier is plenty for one-sentence summaries, and the site still builds with the original text if it fails.
 
 **Q. Why only the Python standard library?**
 A. RSS/JSON parsing and HTML rendering are perfectly doable with `urllib`, `re`, and `json`. Removing dependencies eliminates the install step in CI, and locally you only need Python. For a pipeline that runs every day, fewer breakable parts is the right trade.
@@ -95,7 +95,7 @@ A. Because Reddit blocks unauthenticated JSON endpoints and shared CI IPs (403/4
 ├── data/data.json                   # Collected data
 ├── scripts/
 │   ├── collect.py                   # Data collection (GitHub · HN · Reddit · YouTube · social)
-│   ├── summarize.py                 # Adds Korean key summaries (GitHub Models)
+│   ├── summarize.py                 # Adds Korean key summaries (Groq, model auto-selected)
 │   └── build.py                     # Renders data.json → index.html
 ├── design-system/
 │   └── ai-daily-trends/MASTER.md    # Applied design system (skill output · source of truth)
@@ -108,12 +108,12 @@ A. Because Reddit blocks unauthenticated JSON endpoints and shared CI IPs (403/4
 
 ```bash
 python3 scripts/collect.py     # Collect the latest data (requires internet)
-python3 scripts/summarize.py   # Add Korean summaries (optional — needs a token, see below)
+python3 scripts/summarize.py   # Add Korean summaries (optional — needs GROQ_API_KEY, see below)
 python3 scripts/build.py       # Generate index.html
 # Open the generated index.html in a browser
 ```
 
-- **The summarization step is optional.** Without a token it's skipped automatically and the build uses the original text. To see summaries locally, log in with the [GitHub CLI](https://cli.github.com) (`gh auth login`) — `summarize.py` uses `gh auth token` automatically. Alternatively, set the `GITHUB_TOKEN` environment variable directly.
+- **The summarization step is optional.** Without a key it's skipped automatically and the build uses the original text. To see summaries locally, set the `GROQ_API_KEY` environment variable (and `GROQ_MODEL` to pin a specific model).
 - In a network-restricted environment, skip collection and just run `python3 scripts/build.py` against the existing `data/data.json`.
 
 ## 🚀 Deployment (Already Automated)
@@ -133,7 +133,7 @@ To run your own fork:
 
 - **Language:** Python 3 (standard library only — `urllib`, `re`, `json`)
 - **Frontend:** Pure HTML/CSS + lightweight vanilla JS (generated at build time · no external runtime dependencies · search/filters/theme as progressive enhancement)
-- **Summarization LLM:** [GitHub Models](https://github.com/marketplace/models) `gpt-4o-mini` (free, no key required)
+- **Summarization LLM:** [Groq](https://console.groq.com) free tier — model auto-selected on each run (`GROQ_API_KEY`)
 - **CI/CD:** GitHub Actions
 - **Hosting:** GitHub Pages
 - **Design:** [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) skill

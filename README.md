@@ -21,7 +21,7 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 ## ✨ 특징
 
 - **완전 자동화** — 사람 손 없이 매일 데이터를 수집·요약하고 사이트를 빌드·배포합니다.
-- **🇰🇷 한국어 제목 + 핵심 요약** — 각 글의 제목을 한국어로 크게 번역해 보여주고(원문은 작게 병기), "무엇이고 왜 중요한지"를 1문장 한국어로 요약합니다. (무료 LLM — GitHub Models)
+- **🇰🇷 한국어 제목 + 핵심 요약** — 각 글의 제목을 한국어로 크게 번역해 보여주고(원문은 작게 병기), "무엇이고 왜 중요한지"를 1문장 한국어로 요약합니다. (무료 LLM — Groq, 모델 자동 선택)
 - **AI 특화 큐레이션** — 키워드 필터로 AI/LLM/에이전트 관련 콘텐츠만 골라냅니다.
 - **🔍 검색 · 소스 필터 · 테마 전환** — 키워드로 전 항목을 즉시 검색(`/` 키로 포커스)하고, 소스별(GitHub·HN·Reddit·YouTube·SNS)로 필터링하며, 다크/라이트 테마를 전환(브라우저에 저장)할 수 있습니다. 상단 하이라이트로 오늘의 최다 ★ 저장소를 강조하고, HN 항목은 기사와 토론 링크를 분리 제공합니다. 이 기능들은 **경량 바닐라 JS의 점진적 향상**으로, JS가 꺼져 있어도 모든 콘텐츠는 그대로 보입니다.
 - **5개 소스 통합** — GitHub·Hacker News·Reddit·YouTube·X(트위터)를 한 화면에서. 더는 사이트마다 따로 들어가 찾아볼 필요가 없습니다.
@@ -38,7 +38,7 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 | **YouTube** | 채널 RSS 피드 (큐레이션된 AI/테크 채널) | 해외(Two Minute Papers, Lex Fridman, Karpathy, Fireship 등) + 국내(안될공학, 조코딩, 테디노트, 빵형의 개발도상국) 채널의 최신 영상 |
 | **화제의 SNS** | HN 내 X/Twitter 링크 추출 | 인플루언서·연구자의 화제 스레드 |
 
-> **한국어 요약:** 수집된 모든 항목은 [GitHub Models](https://github.com/marketplace/models)(무료, `gpt-4o-mini`)로 한국어 1문장 요약을 생성합니다. API 키 없이 Actions의 `GITHUB_TOKEN`만으로 동작하며, 요약 단계가 실패해도 사이트는 원문으로 정상 빌드됩니다(graceful).
+> **한국어 요약:** 수집된 모든 항목은 [Groq](https://console.groq.com) 무료 티어로 한국어 1문장 요약을 생성합니다(`GROQ_API_KEY` 시크릿). 무료 모델은 몇 달 단위로 종료되므로 모델 이름을 고정하지 않고, 실행할 때마다 Groq 모델 목록에서 살아 있는 모델을 골라 씁니다. 요약 단계가 실패해도 사이트는 원문으로 정상 빌드되고(graceful), 키 거부·쓸 모델 없음·요약 3일 연속 0건처럼 **사람이 손봐야 할 때만** 마지막 `health` 잡이 실패해 GitHub 실패 메일로 알립니다.
 >
 > **Reddit 참고:** Reddit이 비인증 JSON 엔드포인트와 CI 공유 IP를 차단(403/429)하므로, 브라우저 헤더 + 공개 RSS + 재시도/백오프로 안정화했습니다. 한 서브레딧이 막혀도 라운드로빈 병합으로 다른 소스가 빈 자리를 채웁니다.
 
@@ -63,7 +63,7 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 ```
 
 1. **`collect.py`** — 5개 소스에서 AI 관련 콘텐츠를 수집해 `data/data.json`으로 저장
-2. **`summarize.py`** — 각 항목에 GitHub Models로 한국어 핵심 요약(`summary_ko`)을 추가
+2. **`summarize.py`** — 각 항목에 Groq(모델 자동 선택)로 한국어 핵심 요약(`summary_ko`)을 추가
 3. **`build.py`** — `data.json`을 디자인 시스템이 적용된 `index.html`로 렌더링
 4. **GitHub Actions** — 위 단계를 매일 실행하고 결과를 커밋 후 Pages로 배포
 
@@ -75,8 +75,8 @@ A. 데이터가 하루 1번 바뀌는 대시보드에 요청 시 렌더링은 �
 **Q. 왜 GitHub Actions인가?**
 A. cron 스케줄링·실행 환경·배포(Pages)가 한 곳에서 무료로 해결되고, 결과가 커밋으로 남아 데이터 이력도 추적됩니다. 지연된 스케줄 실행과 수동 실행이 겹칠 때를 대비해 concurrency로 직렬화하고, Pages 일시 장애는 배포 재시도로 흡수했습니다.
 
-**Q. 요약 LLM으로 왜 GitHub Models(gpt-4o-mini)인가?**
-A. Actions의 기본 `GITHUB_TOKEN`(`models: read` 권한)만으로 호출돼 별도 API 키 발급·시크릿 관리·비용이 전부 사라집니다. 항목당 1문장 요약이라는 작업 난이도에는 소형 모델로 충분하고, 실패해도 원문으로 정상 빌드되도록 graceful하게 설계했습니다.
+**Q. 요약 LLM으로 왜 Groq이고, 모델은 왜 고정하지 않나?**
+A. 처음엔 `GITHUB_TOKEN`만으로 호출되는 GitHub Models(gpt-4o-mini)를 썼지만 2026-07-30에 서비스가 종료됐고, 옮겨 간 Groq의 `llama-3.3-70b-versatile`도 2026-08-16에 종료돼 요약이 44일간 조용히 비어 있었습니다. 무료 모델은 이렇게 수시로 사라지므로 이름을 박아 두지 않고 매 실행 Groq 모델 목록에서 선호 순서대로 고르며, 모델 오류가 나면 다음 후보로 넘어갑니다. 항목당 1문장 요약에는 무료 티어로 충분하고, 실패해도 원문으로 정상 빌드됩니다.
 
 **Q. 왜 Python 표준 라이브러리만 쓰나?**
 A. RSS/JSON 파싱과 HTML 렌더링은 `urllib`·`re`·`json`으로 충분해서, 의존성을 없애면 CI에서 설치 단계가 사라지고 로컬 실행도 Python만 있으면 됩니다. 매일 도는 파이프라인일수록 깨질 수 있는 부품을 줄이는 쪽을 택했습니다.
@@ -95,7 +95,7 @@ A. Reddit이 비인증 JSON 엔드포인트와 CI 공유 IP를 차단(403/429)�
 ├── data/data.json                   # 수집된 데이터
 ├── scripts/
 │   ├── collect.py                   # 데이터 수집 (GitHub · HN · Reddit · YouTube · SNS)
-│   ├── summarize.py                 # 한국어 핵심 요약 추가 (GitHub Models)
+│   ├── summarize.py                 # 한국어 핵심 요약 추가 (Groq, 모델 자동 선택)
 │   └── build.py                     # data.json → index.html 렌더링
 ├── design-system/
 │   └── ai-daily-trends/MASTER.md    # 적용된 디자인 시스템 (스킬 생성물 · Source of Truth)
@@ -108,12 +108,12 @@ A. Reddit이 비인증 JSON 엔드포인트와 CI 공유 IP를 차단(403/429)�
 
 ```bash
 python3 scripts/collect.py     # 최신 데이터 수집 (인터넷 필요)
-python3 scripts/summarize.py   # 한국어 요약 추가 (선택 — 토큰 필요, 아래 참고)
+python3 scripts/summarize.py   # 한국어 요약 추가 (선택 — GROQ_API_KEY 필요, 아래 참고)
 python3 scripts/build.py       # index.html 생성
 # 생성된 index.html 을 브라우저로 열기
 ```
 
-- **요약 단계는 선택입니다.** 토큰이 없으면 자동으로 건너뛰고 원문으로 빌드됩니다. 로컬에서 요약까지 보려면 [GitHub CLI](https://cli.github.com)로 로그인(`gh auth login`)해 두면 됩니다(`summarize.py`가 `gh auth token`을 자동으로 사용). 또는 `GITHUB_TOKEN` 환경변수를 직접 지정해도 됩니다.
+- **요약 단계는 선택입니다.** 키가 없으면 자동으로 건너뛰고 원문으로 빌드됩니다. 로컬에서 요약까지 보려면 `GROQ_API_KEY` 환경변수를 지정하세요(특정 모델로 고정하려면 `GROQ_MODEL`).
 - 네트워크가 제한된 환경에서는 수집을 건너뛰고 기존 `data/data.json`으로 `python3 scripts/build.py`만 실행하면 됩니다.
 
 ## 🚀 배포 (이미 자동화됨)
@@ -133,7 +133,7 @@ python3 scripts/build.py       # index.html 생성
 
 - **언어:** Python 3 (표준 라이브러리만 사용 — `urllib`, `re`, `json`)
 - **프런트엔드:** 순수 HTML/CSS + 경량 바닐라 JS (빌드 타임 생성 · 외부 런타임 의존성 없음 · 검색·필터·테마는 점진적 향상)
-- **요약 LLM:** [GitHub Models](https://github.com/marketplace/models) `gpt-4o-mini` (무료, 키 불필요)
+- **요약 LLM:** [Groq](https://console.groq.com) 무료 티어 — 실행마다 모델 자동 선택(`GROQ_API_KEY`)
 - **CI/CD:** GitHub Actions
 - **호스팅:** GitHub Pages
 - **디자인:** [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) 스킬

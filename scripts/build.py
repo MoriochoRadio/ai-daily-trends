@@ -490,7 +490,7 @@ HTML = """<!DOCTYPE html>
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
 </button>
 <footer><div class="wrap">
-  <div>마지막 업데이트: __DATE__ · 데이터: GitHub, Hacker News, Reddit, YouTube, X · 요약: GitHub Models</div>
+  <div>마지막 업데이트: __DATE__ · 데이터: GitHub, Hacker News, Reddit, YouTube, X · 요약: __SUMMARY__</div>
   <div>디자인 시스템: <a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill" target="_blank" rel="noopener">UI UX Pro Max</a> · 매일 자동 갱신</div>
 </div></footer>
 <script>__JS__</script>
@@ -498,7 +498,10 @@ HTML = """<!DOCTYPE html>
 </html>"""
 
 out_html = HTML
+# 요약 모델은 실행마다 자동 선택되므로 실제로 쓴 모델을 표시한다
+summary_label = f"Groq {DATA['summary_model']}" if DATA.get("summary_model") else "없음(원문 표시)"
 for k, v in [("__CSS__", CSS), ("__JS__", JS), ("__DATE__", esc(DATA["date_label"])),
+             ("__SUMMARY__", esc(summary_label)),
              ("__NREPOS__", str(total_repos)), ("__NHN__", str(total_hn)),
              ("__NYT__", str(total_yt)), ("__TOPSTARS__", "{:,}".format(top_stars)),
              ("__HIGHLIGHT__", highlight_html), ("__CHIPS__", chips_html),
