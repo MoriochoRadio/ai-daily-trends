@@ -57,10 +57,22 @@ def github_trending(limit=15):
             seen.add(repo)
             rows.append({"repo": repo, "url": f"https://github.com/{repo}", "desc": desc,
                          "stars_today": stars, "lang": lang, "_ai": is_ai(repo + " " + desc)})
-    rows.sort(key=lambda r: (not r["_ai"], -r["stars_today"]))
-    for r in rows:
+    return pick_trending(rows, limit)
+
+# 하루 별이 이보다 적으면 '트렌딩'이라 보기 어렵다 (언어별 페이지에는 하루 ★4 같은 저장소도 섞여 나온다)
+MIN_STARS_TODAY = 20
+# 다만 기준을 넘는 저장소가 너무 적은 날엔 빈 섹션이 되지 않도록 이만큼은 채운다
+MIN_TRENDING = 8
+
+def pick_trending(rows, limit):
+    """AI 저장소만, 하루 별 순으로 고르되 기준 미만은 부족할 때만 채워 넣는다."""
+    ai = sorted((r for r in rows if r["_ai"]), key=lambda r: -r["stars_today"])
+    strong = [r for r in ai if r["stars_today"] >= MIN_STARS_TODAY]
+    picked = strong if len(strong) >= MIN_TRENDING else ai[:MIN_TRENDING]
+    picked = picked[:limit]
+    for r in picked:
         r.pop("_ai", None)
-    return rows[:limit]
+    return picked
 
 # ---------- Hacker News ----------
 _HN_CACHE = None
