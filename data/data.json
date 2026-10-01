@@ -1,254 +1,336 @@
 {
-  "generated_at": "2026-09-30T04:23:44.530428+00:00",
-  "date_label": "2026년 9월 30일 (수)",
+  "generated_at": "2026-09-30T23:59:45.806521+00:00",
+  "date_label": "2026년 10월 1일 (목)",
   "github_trending": [
     {
-      "repo": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 2458,
-      "lang": "TypeScript",
-      "summary_ko": "Paperclip은 AI 기반 문서 자동 요약 및 정리 도구로 협업 효율을 높입니다."
+      "stars_today": 1203,
+      "lang": "Python",
+      "summary_ko": "AI 엔지니어링을 처음부터 구현하는 방법을 정리한 실용 가이드로, 실무 적용에 유용합니다."
     },
     {
       "repo": "VectifyAI/PageIndex",
       "url": "https://github.com/VectifyAI/PageIndex",
       "desc": "",
-      "stars_today": 835,
+      "stars_today": 1095,
       "lang": "Python",
-      "summary_ko": "PageIndex는 벡터 검색을 활용해 대용량 페이지를 빠르게 인덱싱하는 프로젝트입니다."
+      "summary_ko": "VectifyAI가 만든 페이지 색인 도구로, 대규모 문서 검색 효율을 크게 향상시킵니다."
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 786,
+      "stars_today": 865,
+      "lang": "JavaScript",
+      "summary_ko": "Ponytail은 경량 LLM 파인튜닝 프레임워크로, 빠른 실험 환경을 제공합니다."
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "desc": "",
+      "stars_today": 250,
       "lang": "Python",
-      "summary_ko": "AI Engineering from Scratch는 AI 시스템 설계·구현 전 과정을 단계별로 안내합니다."
+      "summary_ko": "iFixAi는 AI 모델 오류 자동 진단·수정 파이프라인으로 개발 생산성을 높입니다."
     },
     {
-      "repo": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repo": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
       "desc": "",
-      "stars_today": 119,
+      "stars_today": 154,
       "lang": "Python",
-      "summary_ko": "AI Job Search는 인공지능 직무 매칭 및 채용 정보를 자동으로 수집·분석합니다."
+      "summary_ko": "Claude 전용 스킬 컬렉션으로, 다양한 업무 자동화를 손쉽게 구현합니다."
     },
     {
-      "repo": "mem0ai/mem0",
-      "url": "https://github.com/mem0ai/mem0",
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "desc": "",
-      "stars_today": 101,
+      "stars_today": 118,
       "lang": "Python",
-      "summary_ko": "Mem0은 메모리 강화 LLM을 위한 오픈소스 프레임워크로 장기 기억을 지원합니다."
+      "summary_ko": "Claude 스킬 모음 저장소로, 커뮤니티 기반 활용 사례와 코드가 풍부합니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "AI4Finance-Foundation/FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
       "desc": "",
-      "stars_today": 91,
+      "stars_today": 92,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI Agents for Beginners는 초보자를 위한 에이전트 설계·실습 가이드를 제공합니다."
+      "summary_ko": "FinRL은 금융 데이터에 특화된 강화학습 라이브러리로 투자 전략 연구에 적합합니다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
       "desc": "",
-      "stars_today": 65,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI For Beginners는 AI 기본 개념부터 실습까지 포괄적인 입문 교재입니다."
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 64,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Hands-On Large Language Models는 LLM 실습 예제와 튜토리얼을 모아둔 레포입니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 59,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Generative AI for Beginners는 생성 AI 원리와 활용법을 단계별로 설명합니다."
-    },
-    {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
-      "desc": "",
-      "stars_today": 51,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AIE Book은 인공지능 엔지니어링 전반을 다루는 온라인 교과서 프로젝트입니다."
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "LLM Engineering은 대형 언어 모델 개발·배포에 필요한 실무 노하우를 정리합니다."
-    },
-    {
-      "repo": "SemiAnalysisAI/InferenceX",
-      "url": "https://github.com/SemiAnalysisAI/InferenceX",
-      "desc": "",
-      "stars_today": 11,
+      "stars_today": 72,
       "lang": "Python",
-      "summary_ko": "InferenceX는 고성능 모델 추론 파이프라인을 구축하기 위한 도구 모음입니다."
+      "summary_ko": "Claude 기반 SEO 최적화 도구로, 검색 엔진 순위 향상에 활용됩니다."
     },
     {
-      "repo": "datawhalechina/deepagents-in-action",
-      "url": "https://github.com/datawhalechina/deepagents-in-action",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 11,
+      "stars_today": 63,
       "lang": "Jupyter Notebook",
-      "summary_ko": "DeepAgents in Action은 실제 사례 기반 에이전트 구현 튜토리얼을 제공합니다."
+      "summary_ko": "AI 엔지니어링 관련 리소스를 한눈에 모은 허브로, 학습 경로 설계에 도움됩니다."
     },
     {
-      "repo": "langchain-ai/rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "repo": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
       "desc": "",
-      "stars_today": 9,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "RAG from Scratch는 Retrieval‑Augmented Generation을 처음부터 구현합니다."
+      "stars_today": 48,
+      "lang": "TypeScript",
+      "summary_ko": "ModelContextProtocol의 서버 구현체로, 모델 컨텍스트 관리와 배포를 지원합니다."
     },
     {
-      "repo": "GoogleCloudPlatform/generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "repo": "VectifyAI/OpenKB",
+      "url": "https://github.com/VectifyAI/OpenKB",
       "desc": "",
-      "stars_today": 4,
+      "stars_today": 46,
+      "lang": "Python",
+      "summary_ko": "OpenKB는 오픈소스 지식베이스 구축 툴로, 구조화된 데이터 관리에 강점이 있습니다."
+    },
+    {
+      "repo": "pydantic/pydantic-ai",
+      "url": "https://github.com/pydantic/pydantic-ai",
+      "desc": "",
+      "stars_today": 24,
+      "lang": "Python",
+      "summary_ko": "pydantic-ai는 Pydantic과 LLM을 결합해 타입 안전 AI 인터페이스를 제공합니다."
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "desc": "",
+      "stars_today": 21,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Generative AI (GCP) 은 구글 클라우드에서 생성 AI 서비스를 구축하는 가이드입니다."
+      "summary_ko": "GEPA는 효율적인 엔터프라이즈 AI 파이프라인 구축을 위한 프레임워크입니다."
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 20,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Happy-LLM은 한국어 LLM 학습·평가 파이프라인을 제공해 연구를 가속화합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
-      "points": 836,
-      "comments": 758,
-      "hn_url": "https://news.ycombinator.com/item?id=49896586",
-      "title_ko": "GPT 6.1 Sol: 5배 저렴한 Near‑Astra 수준 인공지능",
-      "summary_ko": "GPT 6.1 Sol은 기존 대비 5배 저렴한 가격에 Near‑Astra 수준의 성능을 제공하는 최신 언어 모델이다."
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "points": 858,
+      "comments": 569,
+      "hn_url": "https://news.ycombinator.com/item?id=49913571",
+      "title_ko": "Gemini 4 Argon",
+      "summary_ko": "Gemini 4 Argon 프로젝트가 Hacker News에 소개돼 최신 AI 연구 동향을 살펴볼 수 있습니다."
     },
     {
-      "title": "Dots: Always-on agents",
-      "url": "https://openai.com/index/introducing-dots/",
-      "points": 490,
-      "comments": 369,
-      "hn_url": "https://news.ycombinator.com/item?id=49896604",
-      "title_ko": "Dots: 언제든 켜져 있는 에이전트",
-      "summary_ko": "Dots는 지속적으로 실행되는 에이전트를 통해 실시간 작업 자동화와 모니터링을 지원한다."
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "points": 592,
+      "comments": 332,
+      "hn_url": "https://news.ycombinator.com/item?id=49906637",
+      "title_ko": "You said no MCP",
+      "summary_ko": "‘You said no MCP’ 글이 Hacker News에 올라와 마이크로컨트롤러 프로그래밍 논쟁을 조명합니다."
     },
     {
-      "title": "Sustainable energy without the hot air (2008)",
-      "url": "https://www.withouthotair.com/",
-      "points": 140,
-      "comments": 80,
-      "hn_url": "https://news.ycombinator.com/item?id=49892175",
-      "title_ko": "핫 에어 없이 지속 가능한 에너지 (2008)",
-      "summary_ko": "2008년 발표된 이 논문은 과장 없이 실제 데이터 기반으로 지속 가능한 에너지 전략을 제시한다."
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "points": 118,
+      "comments": 54,
+      "hn_url": "https://news.ycombinator.com/item?id=49911995",
+      "title_ko": "Launch HN: Magnitude (YC S25) – 에이전트를 위한 자체 최적화 추론 엔진",
+      "summary_ko": "YC S25 스타트업 Magnitude가 에이전트용 자동 최적화 추론 엔진을 출시해 주목받고 있습니다."
     },
     {
-      "title": "Language models for text classification: From bag-of-words to Jev",
-      "url": "https://magazine.sebastianraschka.com/p/classifier-history-and-jev",
-      "points": 54,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49891203",
-      "title_ko": "텍스트 분류를 위한 언어 모델: Bag‑of‑Words에서 Jev까지",
-      "summary_ko": "전통적인 Bag‑of‑Words 방식부터 최신 Jev 모델까지 텍스트 분류 기술 흐름을 정리한 리뷰이다."
-    },
-    {
-      "title": "Show HN: A working 3D model of an Enigma machine",
-      "url": "https://enigma.design",
-      "points": 47,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=49896757",
-      "title_ko": "Show HN: 작동하는 3D 엔그마 기계 모델",
-      "summary_ko": "엔그마 암호기 작동을 시뮬레이션한 3D 모델을 공개해 암호학 교육에 활용할 수 있다."
-    },
-    {
-      "title": "PSSA: A non-transformer language model written from scratch in Rust",
-      "url": "https://github.com/Sparticle62ops/pssa",
-      "points": 23,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=49903993",
-      "title_ko": "PSSA: Rust로 처음부터 구현한 비‑Transformer 언어 모델",
-      "summary_ko": "PSSA는 Rust로 직접 구현한 Transformer‑대체 언어 모델로, 효율성과 안전성을 강조한다."
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "points": 105,
+      "comments": 38,
+      "hn_url": "https://news.ycombinator.com/item?id=49912955",
+      "title_ko": "놀라울 정도로 복잡한 파동이 뇌 내부 작동을 밝히다",
+      "summary_ko": "새로운 파동 분석이 뇌의 미세 메커니즘을 드러내며 신경과학 연구에 큰 의미를 갖습니다."
     },
     {
       "title": "Responsible Release of AI-Generated Mathematics",
       "url": "https://agmai.org/general-sep29/",
-      "points": 3,
-      "comments": 0,
+      "points": 71,
+      "comments": 87,
       "hn_url": "https://news.ycombinator.com/item?id=49903713",
-      "title_ko": "AI‑생성 수학의 책임 있는 공개",
-      "summary_ko": "AI가 만든 수학 결과를 공개할 때 윤리·투명성을 확보하기 위한 가이드라인을 제시한다."
+      "title_ko": "AI 생성 수학의 책임 있는 공개",
+      "summary_ko": "AI가 만든 수학 결과를 안전하게 배포하기 위한 가이드라인이 Hacker News에 논의됩니다."
+    },
+    {
+      "title": "Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "points": 55,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=49913350",
+      "title_ko": "Halfspace: 거리 필드 기반 솔리드 모델링 실험 IDE",
+      "summary_ko": "거리 필드를 활용한 새로운 솔리드 모델링 IDE ‘Halfspace’가 개발자들의 관심을 끌고 있습니다."
+    },
+    {
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "points": 36,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=49905644",
+      "title_ko": "일본에서 일하며 머신러닝 박사과정 진행하기",
+      "summary_ko": "일본에서 직장 생활과 동시에 머신러닝 박사 과정을 수행한 경험담이 공유되었습니다."
+    },
+    {
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "points": 19,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=49909648",
+      "title_ko": "Show HN: Lathoa – 아이들을 위한 수학 앱, AI가 일부러 틀리게",
+      "summary_ko": "AI가 일부러 오답을 제시해 학습을 촉진하는 어린이 수학 앱 Lathoa가 소개되었습니다."
     }
   ],
   "reddit": [
     {
-      "title": "Anthropic just dropped the greatest advertisement for GLM ever.",
+      "title": "We just open-sourced the world's fastest WebGPU kernels for local AI on Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "BannedGoNext",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wth4iz/anthropic_just_dropped_the_greatest_advertisement/",
-      "title_ko": "Anthropic, GLM 최고의 광고를 공개",
-      "summary_ko": "Anthropic가 GLM 모델을 홍보하는 최고의 광고를 공개해 주목받고 있습니다."
+      "author": "xenovatech",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wu8tpg/we_just_opensourced_the_worlds_fastest_webgpu/",
+      "title_ko": "세계 최속 WebGPU 커널, Hugging Face에 오픈소스",
+      "summary_ko": "지역 AI 실행을 위한 세계 최고 속도의 WebGPU 커널을 오픈소스로 공개해 주목받고 있습니다."
     },
     {
-      "title": "Neurips Workshop Author Notification Delay [D]",
+      "title": "For those who just submit to workshop [D]",
       "sub": "MachineLearning",
-      "author": "Routine-Page2943",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wtqtwk/neurips_workshop_author_notification_delay_d/",
-      "title_ko": "NeurIPS 워크숍 논문 통보 지연 안내",
-      "summary_ko": "NeurIPS 워크숍 논문 결과 통보가 예상보다 늦어질 예정이라는 공지가 발표되었습니다."
+      "author": "Fantastic-Nerve-4056",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wuc7ft/for_those_who_just_submit_to_workshop_d/",
+      "title_ko": "워크숍 [D]에 제출만 하는 사람들을 위해",
+      "summary_ko": "워크숍 D에 논문을 제출하려는 연구자들을 위한 팁과 논의가 공유된 글입니다."
     },
     {
-      "title": "AMD's new 256 core EPYC has 16-channel DDR5-12800, 91% memory bandwidth of an RTX 5090",
+      "title": "Preorder for new AMD Ryzen™ AI Max 400 Series 192GB from framework just started",
       "sub": "LocalLLaMA",
-      "author": "Dany0",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtc4j9/amds_new_256_core_epyc_has_16channel_ddr512800_91/",
-      "title_ko": "AMD, 256코어 EPYC와 16채널 DDR5-12800 출시",
-      "summary_ko": "AMD가 256코어 EPYC와 16채널 DDR5-12800 메모리를 탑재해 RTX 5090 대비 91% 대역폭을 제공합니다."
+      "author": "Educational_Sun_8813",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wue339/preorder_for_new_amd_ryzen_ai_max_400_series/",
+      "title_ko": "Framework에서 새 AMD Ryzen™ AI Max 400 시리즈 192GB 사전 주문 시작",
+      "summary_ko": "Framework가 AMD Ryzen™ AI Max 400 시리즈 192GB 모델의 사전 주문을 시작해 관심을 끌고 있습니다."
     },
     {
-      "title": "BA Computer Science, but fell in love with machine learning and AI. Just got my personal research accepted at NeurIPS as a poster. [R]",
+      "title": "Tokenization: A Survey for Modern NLP [R]",
       "sub": "MachineLearning",
-      "author": "XxCotHGxX",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wsyu8m/ba_computer_science_but_fell_in_love_with_machine/",
-      "title_ko": "BA 컴퓨터공학 전공, AI 연구 포스터가 NeurIPS 채택",
-      "summary_ko": "컴퓨터공학 전공자가 AI 연구 포스터를 NeurIPS에 채택돼 학계 관심을 끌고 있습니다."
+      "author": "mcmcmcmcmcmcmcmcmc_",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wuccjf/tokenization_a_survey_for_modern_nlp_r/",
+      "title_ko": "Tokenization: 현대 NLP를 위한 조사 [R]",
+      "summary_ko": "현대 자연어 처리에서 토큰화 기법을 종합적으로 정리한 설문 조사 논문을 소개합니다."
     },
     {
-      "title": "Are you worried about a potential ban of Chinese open weight models?",
+      "title": "If one hour of AI is costing me 0.12€ is paying for frontier a cheaper option?",
       "sub": "LocalLLaMA",
-      "author": "writesfw",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wtp9x4/are_you_worried_about_a_potential_ban_of_chinese/",
-      "title_ko": "중국 오픈웨이트 모델 금지 위험에 대한 우려",
-      "summary_ko": "중국의 오픈웨이트 AI 모델이 금지될 가능성에 대해 커뮤니티가 우려를 표하고 있습니다."
+      "author": "soyalemujica",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wuhrop/if_one_hour_of_ai_is_costing_me_012_is_paying_for/",
+      "title_ko": "AI 사용 1시간당 0.12€ 비용, Frontier가 더 저렴할까?",
+      "summary_ko": "AI 사용 비용 0.12€/시간 대비 Frontier 서비스가 비용 효율적인지 논의하는 글입니다."
     },
     {
-      "title": "I wrote a free, open-source book on making ML models actually fast, from silicon to agents [P]",
+      "title": "Qwen-family LLMs are quietly becoming the backbone of modern audio models; One chart for the architectures of 100+ audio models [R]",
       "sub": "MachineLearning",
-      "author": "SoloTiger_",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wt6ns4/i_wrote_a_free_opensource_book_on_making_ml/",
-      "title_ko": "실리콘부터 에이전트까지, ML 모델 가속화 무료 오픈북 출간",
-      "summary_ko": "ML 모델을 실제로 빠르게 만드는 방법을 다룬 무료 오픈소스 책이 공개되었습니다."
+      "author": "Acceptable-Cycle4645",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wuctrt/qwenfamily_llms_are_quietly_becoming_the_backbone/",
+      "title_ko": "Qwen 계열 LLM이 현대 오디오 모델의 핵심이 되고 있다; 100개 이상 오디오 모델 구조 차트 [R]",
+      "summary_ko": "Qwen 기반 LLM이 오디오 모델의 기반이 되며 100여 모델 구조를 한 차트에 정리한 연구를 다룹니다."
     }
   ],
   "youtube": [
+    {
+      "title": "AI4Sci korea 2026",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/watch?v=Hv_u07VRhxg",
+      "published": "2026-09-30",
+      "desc": "",
+      "title_ko": "AI4Sci Korea 2026",
+      "summary_ko": "개발도상국 AI·과학 콘텐츠를 다루는 빵형 유튜브 채널 영상입니다."
+    },
+    {
+      "title": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=Ez4Su9C-uiQ",
+      "published": "2026-09-29",
+      "desc": "구글은 이미 8세대 TPU까지 자체 AI 칩을 만들고 있습니다.그런데도 Google Cloud에서는 NVIDIA의 차세대 GPU 시스템을 계속 도입하고 있습니다. 이번 영상에서는 GPU와 TPU를 단순히 범용칩과 전용칩으로 나누기 어려운 이유부터 살펴봅니다.NVIDIA GPU 안의 Tensor Core와 Transformer Engine, 구글 TPU의 전용화 방식이 어디에서 닮고 갈리는지도 짚었습니다. 또 학습용 TPU 8t와 추론용 TPU 8i가 따로 만들어진 이유, 자체칩이 특히 유리해지는 ",
+      "title_ko": "엔비디아 없이 AI 칩 가능한가? GPU·TPU·xPU 경쟁 속 진짜 셈법 분석",
+      "summary_ko": "GPU와 TPU의 차이를 넘어 다양한 AI 전용칩 현황과 구글·엔비디아 전략을 파헤칩니다."
+    },
+    {
+      "title": "비전공자 기초 스터디 운영하는 백엔드 자바 부트캠프",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/watch?v=tJaeIAm3hOA",
+      "published": "2026-09-29",
+      "desc": "멋쟁이사자처럼 백엔드 자바&스프링 부트캠프는 비전공자를 위해 기초 스터디를 별도로 운영합니다. 꼭 알아야 할 내용과 실무에서 자주 쓰이는 부분을 교안에서 체크해주고, 어려운 챕터는 나중에 다시 다루기 때문에 처음부터 모든 걸 이해하지 않아도 따라갈 수 있습니다. ▶ 백엔드 자바&스프링 부트캠프 지원하기 https://abit.ly/kdtbejv28_youtube #백엔드 #자바 #스프링부트 #백엔드개발자 #자바개발자 #자바스프링 #멋쟁이사자처럼",
+      "title_ko": "비전공자 기초 스터디 운영하는 백엔드 자바 부트캠프",
+      "summary_ko": "비전공자를 위한 백엔드 자바·스프링 기초 스터디와 실무 중심 교육 프로그램을 소개합니다."
+    },
+    {
+      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
+      "published": "2026-09-27",
+      "desc": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5 #ai #ainews #aitools #aivideo #agi #singularity WorldCrafter https://drexubery.github.io/WorldCrafter/ Ming Image https://huggi",
+      "title_ko": "Waifus incoming, GPT‑6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
+      "summary_ko": "GPT‑6, Gemini 3.8 TTS 등 최신 AI 모델·툴 소식을 한눈에 정리한 영상입니다."
+    },
+    {
+      "title": "The Phone Number puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/ausLKMojXaY",
+      "published": "2026-09-25",
+      "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
+      "title_ko": "The Phone Number Puzzle",
+      "summary_ko": "월간 퍼즐 시리즈 중 하나로, 전화번호를 활용한 논리 퍼즐을 소개합니다."
+    },
+    {
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "published": "2026-09-24",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.",
+      "title_ko": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "summary_ko": "Claude Opus 5.5의 성능 향상을 조명하고, AI 연구에 미치는 영향을 설명합니다."
+    },
     {
       "title": "Opus 5.5: How Close Are We to Automated AI Research?",
       "channel": "AI Explained",
       "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
       "published": "2026-09-24",
       "desc": "Not only is Opus 5.5 out, pushing the frontier of AI, it also tells us much about what is going on inside the labs, as they both warn about, and promise, Recursive Self Improvement, aka automated AI research. I cover the model (digging into its 230 page paper), labs’ mixed record",
-      "title_ko": "Opus 5.5: 자동화된 AI 연구는 얼마나 가까워졌나",
-      "summary_ko": "Opus 5.5 출시와 함께 자동화 AI 연구 현황과 실험실의 자기 개선 위험을 짚어보는 AI Explained 영상."
+      "title_ko": "Opus 5.5: How Close Are We to Automated AI Research?",
+      "summary_ko": "Opus 5.5 출시와 함께 자동화된 AI 연구가 얼마나 현실에 가까워졌는지 분석합니다."
+    },
+    {
+      "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=ImNEHHLh6-U",
+      "published": "2026-09-22",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
+      "title_ko": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
+      "summary_ko": "프루이트가 정신의학을 어떻게 혁신했는지, 렉스 프리드먼 팟캐스트에서 다룹니다."
+    },
+    {
+      "title": "Burn Water - New Millennium",
+      "channel": "ColdFusion",
+      "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
+      "published": "2026-09-20",
+      "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
+      "title_ko": "Burn Water - New Millennium",
+      "summary_ko": "ColdFusion 채널에서 소개하는 ‘Burn Water’ 앨범과 음악적 의미를 탐구합니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+      "handle": "@tuakdotsol",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "note": "HN 143pts · 64 댓글",
+      "title_ko": "싱가포르 정부 데이팅 앱, Gale‑Shapley 안정 결혼 알고리즘 적용",
+      "summary_ko": "싱가포르 정부가 개발한 데이팅 앱이 매칭 효율을 높이기 위해 유명한 Gale‑Shapley 안정 결혼 알고리즘을 활용해 주목받고 있다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
