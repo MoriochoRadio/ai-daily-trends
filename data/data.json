@@ -1,205 +1,212 @@
 {
-  "generated_at": "2026-10-02T23:52:51.040591+00:00",
-  "date_label": "2026년 10월 3일 (토)",
+  "generated_at": "2026-10-03T23:11:24.046546+00:00",
+  "date_label": "2026년 10월 4일 (일)",
   "github_trending": [
-    {
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "desc": "",
-      "stars_today": 1429,
-      "lang": "JavaScript",
-      "summary_ko": "DietrichGebert/ponytail는 AI 모델 학습을 위한 효율적인 데이터 파이프라인을 제공해 개발 생산성을 높입니다."
-    },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 683,
+      "stars_today": 1683,
       "lang": "Python",
-      "summary_ko": "Panniantong/Agent-Reach는 멀티에이전트 시스템 간 통신을 간편하게 구현해 협업 AI 개발을 지원합니다."
+      "summary_ko": "Agent-Reach는 LLM 기반 에이전트 간 통신 프레임워크로, 복합 워크플로우 구축에 유용합니다."
     },
     {
-      "repo": "tile-ai/tilelang",
-      "url": "https://github.com/tile-ai/tilelang",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 237,
-      "lang": "Python",
-      "summary_ko": "tile-ai/tilelang은 텍스트 기반 프로그래밍 언어로 AI 프롬프트 작성과 실행을 직관화합니다."
-    },
-    {
-      "repo": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "desc": "",
-      "stars_today": 139,
+      "stars_today": 1289,
       "lang": "JavaScript",
-      "summary_ko": "coreyhaines31/marketingskills는 마케팅 전문가용 AI 도구 모음으로 전략 수립을 자동화합니다."
+      "summary_ko": "ponytail은 프론트엔드 자동화 도구로, 빌드와 배포 과정을 간소화합니다."
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "",
+      "stars_today": 305,
+      "lang": "JavaScript",
+      "summary_ko": "agent-skills는 에이전트에 스킬을 플러그인 형태로 추가해 기능 확장을 돕는 라이브러리입니다."
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "",
+      "stars_today": 218,
+      "lang": "TypeScript",
+      "summary_ko": "claude-mem은 Claude 모델에 메모리 기능을 부여해 장기 컨텍스트 유지가 가능합니다."
+    },
+    {
+      "repo": "jamwithai/production-agentic-rag-course",
+      "url": "https://github.com/jamwithai/production-agentic-rag-course",
+      "desc": "",
+      "stars_today": 192,
+      "lang": "Python",
+      "summary_ko": "production-agentic-rag-course는 실무 RAG 파이프라인을 에이전트 방식으로 구현하는 교육 자료입니다."
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "desc": "",
+      "stars_today": 127,
+      "lang": "TypeScript",
+      "summary_ko": "claude-code는 Claude 모델을 코드 생성·디버깅에 특화시킨 프로젝트입니다."
+    },
+    {
+      "repo": "kaifcodec/user-scanner",
+      "url": "https://github.com/kaifcodec/user-scanner",
+      "desc": "",
+      "stars_today": 70,
+      "lang": "Python",
+      "summary_ko": "user-scanner는 사용자 행동을 자동으로 분석·시각화하는 스캐너 툴킷입니다."
     },
     {
       "repo": "xiaolai/the-craft-of-selfteaching",
       "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
       "desc": "",
-      "stars_today": 81,
+      "stars_today": 29,
       "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching은 자기주도 학습을 위한 AI 기반 학습 로드맵을 제시합니다."
+      "summary_ko": "the-craft-of-selfteaching은 자기주도 학습 방법론을 정리한 가이드북입니다."
     },
     {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 80,
+      "stars_today": 25,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "openai-cookbook은 OpenAI API 활용 예제를 체계적으로 정리한 레시피 모음입니다."
+    },
+    {
+      "repo": "modelcontextprotocol/python-sdk",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "desc": "",
+      "stars_today": 20,
       "lang": "Python",
-      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude 모델 활용 팁과 예제를 한눈에 모아 생산성을 향상시킵니다."
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 24,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 Claude용 다양한 프롬프트 레시피를 제공해 활용 범위를 확대합니다."
-    },
-    {
-      "repo": "alirezadir/AIMLInterviews",
-      "url": "https://github.com/alirezadir/AIMLInterviews",
-      "desc": "",
-      "stars_today": 13,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "alirezadir/AIMLInterviews는 AI·ML 인터뷰 질문과 답변을 정리해 취업 준비에 유용합니다."
+      "summary_ko": "python-sdk는 Model Context Protocol을 파이썬에서 쉽게 사용할 수 있게 하는 SDK입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Sites in ChatGPT",
-      "url": "https://chatgpt.com/features/sites/",
-      "points": 187,
-      "comments": 207,
-      "hn_url": "https://news.ycombinator.com/item?id=49927747",
-      "title_ko": "ChatGPT 사이트 모음",
-      "summary_ko": "ChatGPT와 관련된 다양한 웹사이트를 소개하는 Hacker News 글입니다."
+      "title": "Kolibri: A Sovereign Open-Weight Model",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "points": 472,
+      "comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=49942706",
+      "title_ko": "Kolibri: 주권적인 오픈-웨이트 모델",
+      "summary_ko": "오픈소스 대규모 언어 모델 Kolibri가 독립적 학습과 배포를 지원해 주목받고 있습니다."
     },
     {
-      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-      "url": "https://stillwet.art/",
-      "points": 179,
-      "comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=49928566",
-      "title_ko": "Show HN: Opus 5.5에 가상 페인트 캔버스 추가",
-      "summary_ko": "Opus 5.5에 그림 그리기 기능을 시뮬레이션한 프로젝트를 공개한 글입니다."
+      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "points": 129,
+      "comments": 86,
+      "hn_url": "https://news.ycombinator.com/item?id=49946567",
+      "title_ko": "Claude와 Claude Code에서 Opus 5.5 최적 활용법",
+      "summary_ko": "Claude 시리즈에 Opus 5.5를 적용해 성능·정확도를 높이는 실용 가이드를 소개합니다."
     },
     {
-      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "points": 158,
-      "comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=49929391",
-      "title_ko": "Greg Kroah‑Hartman – LLM 시대의 보안 [영상]",
-      "summary_ko": "LLM(대형 언어 모델) 보안 이슈와 대응 방안을 다룬 영상 인터뷰입니다."
+      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+      "url": "https://pipod.dev/",
+      "points": 67,
+      "comments": 27,
+      "hn_url": "https://news.ycombinator.com/item?id=49937304",
+      "title_ko": "Show HN: Pi pod – 서버에서 샌드박스형 Pi 코딩 에이전트 실행",
+      "summary_ko": "자신의 서버에 Pi 코딩 에이전트를 격리된 환경으로 배포해 안전하게 활용할 수 있습니다."
     },
     {
-      "title": "With most information hidden, the game Stratego had stumped AI until now",
-      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "points": 151,
-      "comments": 74,
-      "hn_url": "https://news.ycombinator.com/item?id=49933740",
-      "title_ko": "숨겨진 정보가 많은 전략보드 게임 ‘Stratego’ AI 도전 성공",
-      "summary_ko": "정보가 제한된 Stratego 게임을 AI가 처음으로 풀어낸 사례를 다룹니다."
-    },
-    {
-      "title": "From the creator of Redis; run LLM locally with ds4",
-      "url": "https://dwarfstar.sh/",
-      "points": 120,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49936575",
-      "title_ko": "Redis 창시자, ds4로 로컬 LLM 실행",
-      "summary_ko": "Redis 개발자가 만든 ds4를 이용해 대형 언어 모델을 로컬에서 구동하는 방법을 소개합니다."
-    },
-    {
-      "title": "Every SaaS business will become a harness around a model",
-      "url": "https://blog.sshh.io/p/the-harness-is-the-company",
-      "points": 70,
-      "comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=49938616",
-      "title_ko": "모든 SaaS 비즈니스는 모델을 둘러싼 하네스가 된다",
-      "summary_ko": "AI 모델을 중심으로 SaaS 서비스가 재구성되는 흐름을 분석한 글입니다."
-    },
-    {
-      "title": "Venice’s failed war against Constantinople led to the first bond market",
-      "url": "https://bigthink.com/books/a-fabulous-debt/",
-      "points": 57,
+      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+      "points": 42,
       "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=49933230",
-      "title_ko": "베네치아의 콘스탄티노플 전쟁 패배가 최초 채권 시장을 만든 이유",
-      "summary_ko": "베네치아 전쟁 패배가 어떻게 현대 채권 시장의 시초가 되었는지 설명합니다."
+      "hn_url": "https://news.ycombinator.com/item?id=49946228",
+      "title_ko": "LeCun, AI가 인류를 멸망시킬 위험에 ‘우려 없음’ 주장",
+      "summary_ko": "요즘 발생한 ‘러그’ 사건에도 불구하고 LeCun은 AI 위험성을 크게 우려하지 않는다고 밝혔습니다."
     },
     {
-      "title": "Show HN: Made an open-source Lego AI generator",
-      "url": "https://github.com/anteloc/ldraw-nova",
-      "points": 54,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=49937916",
-      "title_ko": "Show HN: 오픈소스 레고 AI 생성기 제작",
-      "summary_ko": "레고 조각을 활용해 AI 이미지를 자동 생성하는 오픈소스 도구를 공개한 글입니다."
+      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "points": 27,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=49948332",
+      "title_ko": "OpenAI 안전 책임자 사임, 기업 문화 ‘붕괴’ 경고",
+      "summary_ko": "OpenAI 안전 팀 리더가 사임하면서 내부 문화가 위험 관리에 부적합하다는 비판이 제기됐습니다."
+    },
+    {
+      "title": "Agents don't need memory, they need documentation",
+      "url": "https://liao.gg/blog/agents-dont-need-memory",
+      "points": 16,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=49945933",
+      "title_ko": "에이전트는 기억보다 문서화가 필요하다",
+      "summary_ko": "AI 에이전트가 효율적으로 작동하려면 방대한 메모리보다 최신 문서와 가이드가 핵심이라는 주장입니다."
+    },
+    {
+      "title": "RetailReady (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+      "points": 0,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=49945904",
+      "title_ko": "RetailReady (YC W24) 채용 중",
+      "summary_ko": "YC W24 배치를 받은 RetailReady가 리테일 AI 솔루션 개발 인재를 모집하고 있습니다."
     }
   ],
   "reddit": [
     {
-      "title": "I made my iPhone a second GPU for my 24 GB MacBook: Qwen 3.8 27B prefills 29–44% faster & my holds part of the CTX window.",
+      "title": "Yes bots we get it, Strata is good now please stop",
       "sub": "LocalLLaMA",
-      "author": "StayLameBro",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvz1ex/i_made_my_iphone_a_second_gpu_for_my_24_gb/",
-      "title_ko": "iPhone을 24GB MacBook의 두 번째 GPU로 활용: Qwen 3.8 27B 프리필 속도 29~44% 향상",
-      "summary_ko": "iPhone을 외부 GPU로 연결해 Qwen 3.8 27B 모델의 프리필 속도를 최대 44% 빠르게 만든 실험"
+      "author": "Mayion",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
+      "title_ko": "봇들아, 이제 스트라타가 괜찮으니 그만해 주세요",
+      "summary_ko": "Reddit r/LocalLLaMA에서 스트라타 모델이 개선됐다는 의견을 유머러스하게 표현한 글"
     },
     {
-      "title": "arXiv now limits submitters to up to two submissions per calendar month [N]",
-      "sub": "MachineLearning",
+      "title": "The Rise of Overfit Inference Engines",
+      "sub": "LocalLLaMA",
+      "author": "carteakey",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
+      "title_ko": "과적합 추론 엔진의 부상",
+      "summary_ko": "Reddit r/LocalLLaMA에서 과도하게 특화된 추론 엔진이 늘어나며 발생하는 문제와 트렌드를 논의"
+    },
+    {
+      "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+      "sub": "LocalLLaMA",
       "author": "Nunki08",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/",
-      "title_ko": "arXiv, 월 최대 두 건 제출 제한 도입",
-      "summary_ko": "arXiv가 연구자당 한 달에 두 건까지만 논문을 제출하도록 정책을 바꿨다"
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
+      "title_ko": "Aleph-Alpha/Kolibri-1 – 78B 파라미터, 3.46B 활성, 최대 1M 토큰 컨텍스트",
+      "summary_ko": "Hugging Face에 공개된 대형 모델 Kolibri-1의 사양과 Apache 2.0 라이선스를 소개하는 글"
     },
     {
-      "title": "Buying RTX 5090 At Micro Center Reportedly Now Requires Paperwork, Including A No-Export Declaration",
+      "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
       "sub": "LocalLLaMA",
-      "author": "Boomfrag",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1ww4hne/buying_rtx_5090_at_micro_center_reportedly_now/",
-      "title_ko": "RTX 5090 구매, 마이크로센터서 서류 제출·수출 금지 선언 필요",
-      "summary_ko": "미국 마이크로센터에서 RTX 5090을 사려면 수출 금지 선언 등 서류 절차가 새로 도입됐다"
+      "author": "fuzhongkai",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
+      "title_ko": "16GB RTX 3080 노트북으로 Qwen3.8 Flash Next 176B 실행",
+      "summary_ko": "RTX 3080 16GB GPU와 32GB RAM, SSD 환경에서 176B 모델을 구동한 실험 결과를 공유"
     },
     {
-      "title": "Topological Out-of-Domain Generalization in Dynamical Systems Reconstruction [R]",
-      "sub": "MachineLearning",
-      "author": "DangerousFunny1371",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvwodf/topological_outofdomain_generalization_in/",
-      "title_ko": "동적 시스템 복원에서 위상 기반 도메인 외 일반화 연구",
-      "summary_ko": "위상학적 방법을 이용해 훈련 데이터와 다른 환경에서도 동적 시스템을 재구성한다"
-    },
-    {
-      "title": "Qwen3.8-27B-Humanlike-Chat 2.0: texts like a human, now with tool calls and better instruction following",
+      "title": "I built Ninfer 4080 for 16GB class GPUs",
       "sub": "LocalLLaMA",
-      "author": "kvyb",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wvxl4n/qwen3827bhumanlikechat_20_texts_like_a_human_now/",
-      "title_ko": "Qwen3.8-27B-Humanlike-Chat 2.0: 인간처럼 텍스트 생성·툴 호출·명령 수행 개선",
-      "summary_ko": "Qwen3.8-27B 모델에 인간형 챗 기능을 추가해 도구 호출과 지시 수행 능력을 강화했다"
+      "author": "roofkid",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
+      "title_ko": "Ninfer 4080을 16GB급 GPU용으로 제작",
+      "summary_ko": "16GB 이하 GPU에서도 동작하도록 최적화한 Ninfer 4080 프로젝트를 소개하는 글"
     },
     {
-      "title": "Adding memory to search instead of sampling in reward maximization tasks [R]",
-      "sub": "MachineLearning",
-      "author": "Helpful_Minimum_2214",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wvs12j/adding_memory_to_search_instead_of_sampling_in/",
-      "title_ko": "보상 최대화 과제에서 샘플링 대신 검색에 메모리 추가",
-      "summary_ko": "보상 기반 학습 시 샘플링 대신 검색에 메모리를 도입해 효율성을 높인 연구"
+      "title": "I'm pretty close to the middle thanks to you all",
+      "sub": "LocalLLaMA",
+      "author": "pmarsh",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
+      "title_ko": "여러분 덕분에 중간 단계에 거의 도달했습니다",
+      "summary_ko": "Reddit r/LocalLLaMA 커뮤니티의 도움으로 진행 상황이 크게 향상됐다는 감사 메시지"
     }
   ],
   "youtube": [
     {
-      "title": "AI 시대, 전력도 데이터를 읽어야 한다 | ‘멈추지 않는 전력’을 완성하는 변압기·배전반 예지보전 기술",
+      "title": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성",
       "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=A7D28b2bxT8",
-      "published": "2026-10-02",
-      "desc": "AI 데이터센터가 커질수록 필요한 전력도 빠르게 늘어나고 있습니다. 하지만 전력을 얼마나 많이 확보하느냐만큼 중요한 것이 실제 시설 안에서 전기를 안정적으로 운영하는 일입니다. 이번 영상에서는 데이터센터 장애와 삼성전자 오스틴 Fab 정전 사례를 통해 전력 중단이 얼마나 큰 비용으로 이어질 수 있는지 살펴봅니다. 변압기와 배전반, 차단기가 시설 안에서 어떤 역할을 하는지도 쉽게 풀어봤습니다.전력 연결부의 미세한 발열이나 부분방전처럼 대형 사고 전에 나타나는 위험 신호들을 짚어봅니다. 정해진 주기에",
-      "title_ko": "AI 시대, 전력도 데이터를 읽어야 한다 – 변압기·배전반 예지보전 기술",
-      "summary_ko": "데이터센터 전력 장애 사례를 통해 예지보전 기술의 필요성을 강조한 영상입니다."
+      "url": "https://www.youtube.com/shorts/mqmrnxrCTq8",
+      "published": "2026-10-03",
+      "desc": "* 본 영상은 슈나이더일렉트릭코리아의 지원 하에 제작되었습니다.",
+      "title_ko": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성",
+      "summary_ko": "반도체 공장 전력 설비가 정전 시 수천억 손실을 초래할 수 있어 그 중요성을 강조하는 영상입니다."
     },
     {
       "title": "역대 최대 규모로 열린 #멋쟁이사자처럼 대학 14기 중앙해커톤 부스 인터뷰🔥",
@@ -207,8 +214,8 @@
       "url": "https://www.youtube.com/shorts/3KM-XtmSHwQ",
       "published": "2026-10-02",
       "desc": "이번 해커톤에는 조금 특별한 게 있었다는데… 👀 🦁 “각 대학마다 동물이 하나씩 배정됐다고?” 80개 대학이 각자 배정받은 동물을 활용해 개성 넘치는 부스를 직접 꾸몄다고 합니다! 같은 동물 컨셉도 대학마다 해석하는 방식은 제각각 🐯🐰🐻 과연 어떤 동물들이, 어떤 모습의 부스로 탄생했을까요? 직접 현장에 나가 하나씩 살펴봤습니다! 👀 여러분이 가장 마음에 드는 부스는 어디인가요? 💭 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼",
-      "title_ko": "역대 최대 규모 멋쟁이사자처럼 대학 14기 중앙해커톤 부스 인터뷰",
-      "summary_ko": "80개 대학이 동물 테마 부스를 꾸며 개성 넘치는 해커톤 현장을 소개합니다."
+      "title_ko": "멋쟁이사자처럼 대학 14기 중앙해커톤 부스 인터뷰",
+      "summary_ko": "80개 대학이 동물 테마 부스를 직접 꾸며 선보인 해커톤 현장을 인터뷰로 소개합니다."
     },
     {
       "title": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대에서 살아남기 (허예찬 / gajae-code / founder)",
@@ -216,8 +223,8 @@
       "url": "https://www.youtube.com/watch?v=UUMqEQwog4E",
       "published": "2026-10-02",
       "desc": "가재코드 개발기 - 왜 4/4 스킬 / 에이전트의 간단한 포맷으로 왔을까 앞으로는 상호운영성이다 - 가재코드 SDK Gajae-way - 가재코드 SDK로 만든 상주형 에이전트 Gajae Memory - 몇년치 코퍼스가 쌓여있지 않는 이상 에이전트가 만든 메모리는 BM25와 잘 정렬된 인덱스면 충분하다 Ouroboros 소개, 하네스 및 루프엔지니어링 트렌드 소개, 하네스 관련 논문 소개 🎙️ New to streaming or looking to level up? Check out StreamY",
-      "title_ko": "OmC – OmX에서 가재코드까지 하네스 춘추전국시대 생존기",
-      "summary_ko": "가재코드 SDK와 에이전트 설계 과정을 통해 상호운용성을 탐구하는 개발 이야기입니다."
+      "title_ko": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대 살아남기",
+      "summary_ko": "가재코드 SDK와 에이전트 개발 과정을 통해 상호운용성과 메모리 관리 전략을 설명합니다."
     },
     {
       "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
@@ -234,8 +241,8 @@
       "url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
       "published": "2026-09-27",
       "desc": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5 #ai #ainews #aitools #aivideo #agi #singularity WorldCrafter https://drexubery.github.io/WorldCrafter/ Ming Image https://huggi",
-      "title_ko": "AI 뉴스: GPT‑6, Grok 4.7, Opus 5.5 등 최신 모델 소식",
-      "summary_ko": "GPT‑6·Grok 4.7·Opus 5.5 등 최신 AI 모델 출시와 주요 업데이트를 요약합니다."
+      "title_ko": "AI 뉴스: GPT‑6, Grok 4.7, Opus 5.5 등 최신 소식",
+      "summary_ko": "GPT‑6, Gemini 3.8 TTS 등 최신 AI 모델과 도구들의 출시 소식을 한눈에 정리합니다."
     },
     {
       "title": "The Phone Number puzzle",
@@ -244,7 +251,7 @@
       "published": "2026-09-25",
       "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
       "title_ko": "전화번호 퍼즐",
-      "summary_ko": "월간 퍼즐 시리즈 중 하나로, 논리적 사고를 요구하는 전화번호 문제를 제시합니다."
+      "summary_ko": "월간 퍼즐 시리즈 중 하나로, 전화번호와 관련된 논리 퍼즐을 소개합니다."
     },
     {
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
@@ -253,7 +260,7 @@
       "published": "2026-09-24",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.",
       "title_ko": "Claude Opus 5.5 AI: 놀라운 도약",
-      "summary_ko": "Claude Opus 5.5의 성능 향상을 소개하며 AI 연구 최신 동향을 설명합니다."
+      "summary_ko": "Claude Opus 5.5가 보여준 성능 향상과 실험 결과를 간략히 설명합니다."
     },
     {
       "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
@@ -261,8 +268,8 @@
       "url": "https://www.youtube.com/watch?v=ImNEHHLh6-U",
       "published": "2026-09-22",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
-      "title_ko": "시그문 프로이트, 정신의학을 혁신하다 – Andrew Scull & Lex Fridman",
-      "summary_ko": "프로이트의 혁신적 이론과 현대 정신의학에 미친 영향을 Lex Fridman이 탐구합니다."
+      "title_ko": "시그문 프로이트가 정신의학을 혁신한 이야기",
+      "summary_ko": "프로이트의 정신분석 이론이 정신의학에 끼친 영향과 현대적 의미를 탐구합니다."
     },
     {
       "title": "Burn Water - New Millennium",
@@ -270,7 +277,7 @@
       "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
       "published": "2026-09-20",
       "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
-      "title_ko": "Burn Water – New Millennium",
+      "title_ko": "Burn Water - New Millennium",
       "summary_ko": "ColdFusion이 소개하는 ‘Burn Water’ 앨범과 음악적 배경을 다룹니다."
     }
   ],
