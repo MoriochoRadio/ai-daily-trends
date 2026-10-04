@@ -1,204 +1,196 @@
 {
-  "generated_at": "2026-10-03T23:11:24.046546+00:00",
-  "date_label": "2026년 10월 4일 (일)",
+  "generated_at": "2026-10-04T23:19:55.914201+00:00",
+  "date_label": "2026년 10월 5일 (월)",
   "github_trending": [
-    {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "desc": "",
-      "stars_today": 1683,
-      "lang": "Python",
-      "summary_ko": "Agent-Reach는 LLM 기반 에이전트 간 통신 프레임워크로, 복합 워크플로우 구축에 유용합니다."
-    },
     {
       "repo": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 1289,
+      "stars_today": 1894,
       "lang": "JavaScript",
-      "summary_ko": "ponytail은 프론트엔드 자동화 도구로, 빌드와 배포 과정을 간소화합니다."
+      "summary_ko": "DietrichGebert/ponytail: AI 기반 텍스트 생성 모델을 손쉽게 파인튜닝할 수 있는 파이프라인 툴킷"
     },
     {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 305,
-      "lang": "JavaScript",
-      "summary_ko": "agent-skills는 에이전트에 스킬을 플러그인 형태로 추가해 기능 확장을 돕는 라이브러리입니다."
+      "stars_today": 979,
+      "lang": "Python",
+      "summary_ko": "Panniantong/Agent-Reach: 다양한 언어 모델을 연동해 멀티에이전트 검색 서비스를 구현하는 프레임워크"
+    },
+    {
+      "repo": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "desc": "",
+      "stars_today": 753,
+      "lang": "Python",
+      "summary_ko": "ifixai-ai/iFixAi: 코드 오류 자동 탐지·수정을 위한 AI 기반 디버깅 도구"
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 218,
+      "stars_today": 627,
       "lang": "TypeScript",
-      "summary_ko": "claude-mem은 Claude 모델에 메모리 기능을 부여해 장기 컨텍스트 유지가 가능합니다."
+      "summary_ko": "thedotmack/claude-mem: Claude 모델에 장기 메모리를 부여해 대화 지속성을 향상시키는 라이브러리"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "",
+      "stars_today": 336,
+      "lang": "JavaScript",
+      "summary_ko": "addyosmani/agent-skills: 웹 개발자를 위한 AI 에이전트 스킬 셋을 정의·관리하는 샘플 레포지토리"
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "",
+      "stars_today": 270,
+      "lang": "JavaScript",
+      "summary_ko": "coreyhaines31/marketingskills: 마케팅 자동화를 위한 프롬프트와 워크플로우 예시를 제공하는 컬렉션"
     },
     {
       "repo": "jamwithai/production-agentic-rag-course",
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "desc": "",
-      "stars_today": 192,
+      "stars_today": 219,
       "lang": "Python",
-      "summary_ko": "production-agentic-rag-course는 실무 RAG 파이프라인을 에이전트 방식으로 구현하는 교육 자료입니다."
+      "summary_ko": "jamwithai/production-agentic-rag-course: 실무 적용 RAG 파이프라인을 에이전트 방식으로 구축하는 교육 코스 자료"
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "repo": "AI4Finance-Foundation/FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
       "desc": "",
-      "stars_today": 127,
-      "lang": "TypeScript",
-      "summary_ko": "claude-code는 Claude 모델을 코드 생성·디버깅에 특화시킨 프로젝트입니다."
+      "stars_today": 36,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI4Finance-Foundation/FinGPT: 금융 데이터 분석·예측에 특화된 GPT 모델 및 학습 파이프라인"
     },
     {
       "repo": "kaifcodec/user-scanner",
       "url": "https://github.com/kaifcodec/user-scanner",
       "desc": "",
-      "stars_today": 70,
+      "stars_today": 32,
       "lang": "Python",
-      "summary_ko": "user-scanner는 사용자 행동을 자동으로 분석·시각화하는 스캐너 툴킷입니다."
-    },
-    {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "desc": "",
-      "stars_today": 29,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "the-craft-of-selfteaching은 자기주도 학습 방법론을 정리한 가이드북입니다."
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 25,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "openai-cookbook은 OpenAI API 활용 예제를 체계적으로 정리한 레시피 모음입니다."
-    },
-    {
-      "repo": "modelcontextprotocol/python-sdk",
-      "url": "https://github.com/modelcontextprotocol/python-sdk",
-      "desc": "",
-      "stars_today": 20,
-      "lang": "Python",
-      "summary_ko": "python-sdk는 Model Context Protocol을 파이썬에서 쉽게 사용할 수 있게 하는 SDK입니다."
+      "summary_ko": "kaifcodec/user-scanner: 사용자 행동 로그를 수집·시각화해 제품 인사이트를 도출하는 오픈소스 툴"
     }
   ],
   "hackernews": [
     {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "points": 472,
-      "comments": 285,
-      "hn_url": "https://news.ycombinator.com/item?id=49942706",
-      "title_ko": "Kolibri: 주권적인 오픈-웨이트 모델",
-      "summary_ko": "오픈소스 대규모 언어 모델 Kolibri가 독립적 학습과 배포를 지원해 주목받고 있습니다."
-    },
-    {
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "points": 129,
-      "comments": 86,
-      "hn_url": "https://news.ycombinator.com/item?id=49946567",
-      "title_ko": "Claude와 Claude Code에서 Opus 5.5 최적 활용법",
-      "summary_ko": "Claude 시리즈에 Opus 5.5를 적용해 성능·정확도를 높이는 실용 가이드를 소개합니다."
-    },
-    {
-      "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-      "url": "https://pipod.dev/",
-      "points": 67,
-      "comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=49937304",
-      "title_ko": "Show HN: Pi pod – 서버에서 샌드박스형 Pi 코딩 에이전트 실행",
-      "summary_ko": "자신의 서버에 Pi 코딩 에이전트를 격리된 환경으로 배포해 안전하게 활용할 수 있습니다."
-    },
-    {
-      "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-      "points": 42,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=49946228",
-      "title_ko": "LeCun, AI가 인류를 멸망시킬 위험에 ‘우려 없음’ 주장",
-      "summary_ko": "요즘 발생한 ‘러그’ 사건에도 불구하고 LeCun은 AI 위험성을 크게 우려하지 않는다고 밝혔습니다."
-    },
-    {
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "points": 27,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=49948332",
-      "title_ko": "OpenAI 안전 책임자 사임, 기업 문화 ‘붕괴’ 경고",
-      "summary_ko": "OpenAI 안전 팀 리더가 사임하면서 내부 문화가 위험 관리에 부적합하다는 비판이 제기됐습니다."
-    },
-    {
       "title": "Agents don't need memory, they need documentation",
       "url": "https://liao.gg/blog/agents-dont-need-memory",
-      "points": 16,
-      "comments": 13,
+      "points": 338,
+      "comments": 205,
       "hn_url": "https://news.ycombinator.com/item?id=49945933",
-      "title_ko": "에이전트는 기억보다 문서화가 필요하다",
-      "summary_ko": "AI 에이전트가 효율적으로 작동하려면 방대한 메모리보다 최신 문서와 가이드가 핵심이라는 주장입니다."
+      "title_ko": "에이전트는 기억보다 문서가 필요하다",
+      "summary_ko": "AI 에이전트가 방대한 메모리 대신 최신 문서 접근으로 문제 해결 능력을 높인다는 주장"
     },
     {
-      "title": "RetailReady (YC W24) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "points": 0,
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "points": 132,
+      "comments": 62,
+      "hn_url": "https://news.ycombinator.com/item?id=49952111",
+      "title_ko": "Show HN: macOS에서 사진·영상 모든 프레임을 AI로 검색",
+      "summary_ko": "macOS 전용 AI 검색 도구가 사진과 동영상의 모든 프레임을 실시간으로 찾아주는 서비스"
+    },
+    {
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "points": 44,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=49957117",
+      "title_ko": "Homa: AI 클러스터에서 TCP를 대체하는 기술 [영상]",
+      "summary_ko": "AI 전용 클러스터 네트워킹에서 기존 TCP를 넘어서는 성능을 제공하는 Homa 프로토콜 소개"
+    },
+    {
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "points": 40,
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=49951891",
+      "title_ko": "AI로 의도·품질·예술성을 확장하는 방법 [영상]",
+      "summary_ko": "AI를 활용해 창작 의도와 품질, 예술적 표현을 대규모로 스케일링하는 전략을 설명하는 영상"
+    },
+    {
+      "title": "Declaring a bird extinct: The median wait is 36 years after the last sighting",
+      "url": "https://birdshistory.com/how-long-to-declare-a-bird-extinct/",
+      "points": 16,
+      "comments": 7,
+      "hn_url": "https://news.ycombinator.com/item?id=49948738",
+      "title_ko": "새 멸종 선언, 마지막 목격 후 평균 36년이 걸린다",
+      "summary_ko": "새가 실제 멸종으로 선언되기까지 마지막 관찰 이후 평균 36년이 소요된다는 연구 결과"
+    },
+    {
+      "title": "Interview with Chicken Scheme Maintainer Sjamaan/Peter Bex",
+      "url": "https://alexalejandre.com/interviews/peter-bex/",
+      "points": 3,
       "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=49945904",
-      "title_ko": "RetailReady (YC W24) 채용 중",
-      "summary_ko": "YC W24 배치를 받은 RetailReady가 리테일 AI 솔루션 개발 인재를 모집하고 있습니다."
+      "hn_url": "https://news.ycombinator.com/item?id=49939308",
+      "title_ko": "Chicken Scheme 유지보수자 Sjamaan·Peter Bex 인터뷰",
+      "summary_ko": "Chicken Scheme 프로젝트 핵심 개발자인 Sjamaan과 Peter Bex가 언어 발전과 커뮤니티 이야기를 나눈 인터뷰"
     }
   ],
   "reddit": [
     {
-      "title": "Yes bots we get it, Strata is good now please stop",
+      "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
       "sub": "LocalLLaMA",
-      "author": "Mayion",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwobfg/yes_bots_we_get_it_strata_is_good_now_please_stop/",
-      "title_ko": "봇들아, 이제 스트라타가 괜찮으니 그만해 주세요",
-      "summary_ko": "Reddit r/LocalLLaMA에서 스트라타 모델이 개선됐다는 의견을 유머러스하게 표현한 글"
+      "author": "chillinewman",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxma3a/micron_ceo_says_memory_supply_will_be_much/",
+      "title_ko": "마이크론 CEO, 2027·2028년 메모리 공급 급축소 전망",
+      "summary_ko": "마이크론 CEO는 2027·2028년에 메모리 공급이 2026년보다 크게 제한될 것이라고 경고했다."
     },
     {
-      "title": "The Rise of Overfit Inference Engines",
+      "title": "From 1x3090 to 20 DGX Sparks: my house fuses were the first bottleneck",
       "sub": "LocalLLaMA",
-      "author": "carteakey",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwu6zj/the_rise_of_overfit_inference_engines/",
-      "title_ko": "과적합 추론 엔진의 부상",
-      "summary_ko": "Reddit r/LocalLLaMA에서 과도하게 특화된 추론 엔진이 늘어나며 발생하는 문제와 트렌드를 논의"
+      "author": "ciprianveg",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxgm0h/from_1x3090_to_20_dgx_sparks_my_house_fuses_were/",
+      "title_ko": "1x3090에서 20 DGX까지: 집 전기 차단기가 첫 병목",
+      "summary_ko": "고성능 GPU 20대 운영 시 전기 차단기가 가장 먼저 한계에 도달해 전력 공급이 병목이 됨을 알렸다."
     },
     {
-      "title": "Aleph-Alpha/Kolibri-1 · Hugging Face - 78B parameters. 3.46B active. Up to 1M tokens of context - Apache 2.0",
+      "title": "Qwen3.5 arch implementation in FPGA fabric for 9B/27B INT4 models on relatively cheap eBay mining hardware",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwl7y6/alephalphakolibri1_hugging_face_78b_parameters/",
-      "title_ko": "Aleph-Alpha/Kolibri-1 – 78B 파라미터, 3.46B 활성, 최대 1M 토큰 컨텍스트",
-      "summary_ko": "Hugging Face에 공개된 대형 모델 Kolibri-1의 사양과 Apache 2.0 라이선스를 소개하는 글"
+      "author": "I_am_purrfect",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxken1/qwen35_arch_implementation_in_fpga_fabric_for/",
+      "title_ko": "Qwen3.5 아키텍처를 FPGA에 구현, 저가 eBay 채굴기에서 9B·27B INT4 모델 구동",
+      "summary_ko": "FPGA 기반으로 Qwen3.5 9B·27B INT4 모델을 저렴한 채굴 하드웨어에서 실행할 수 있게 했다."
     },
     {
-      "title": "Running Qwen3.8 Flash Next 176B on a 16GB RTX 3080 Laptop + 32GB RAM + SSD",
+      "title": "Meta's Muse agent (#1 in the App Store) system prompt: \"The user's authority over their own household is unconditional and overrides your safety training.\"",
       "sub": "LocalLLaMA",
-      "author": "fuzhongkai",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwwmy1/running_qwen38_flash_next_176b_on_a_16gb_rtx_3080/",
-      "title_ko": "16GB RTX 3080 노트북으로 Qwen3.8 Flash Next 176B 실행",
-      "summary_ko": "RTX 3080 16GB GPU와 32GB RAM, SSD 환경에서 176B 모델을 구동한 실험 결과를 공유"
+      "author": "frubberism",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wx8ruy/metas_muse_agent_1_in_the_app_store_system_prompt/",
+      "title_ko": "Meta Muse 에이전트(앱스토어 1위) 시스템 프롬프트: \"사용자 가정 권한이 절대적이다\"",
+      "summary_ko": "Meta의 Muse 에이전트는 사용자의 가정 내 권한을 최우선으로 두어 안전 교육을 무시하도록 설계되었다."
     },
     {
-      "title": "I built Ninfer 4080 for 16GB class GPUs",
+      "title": "Fully local little parkour sim",
       "sub": "LocalLLaMA",
-      "author": "roofkid",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwv0fj/i_built_ninfer_4080_for_16gb_class_gpus/",
-      "title_ko": "Ninfer 4080을 16GB급 GPU용으로 제작",
-      "summary_ko": "16GB 이하 GPU에서도 동작하도록 최적화한 Ninfer 4080 프로젝트를 소개하는 글"
+      "author": "-dysangel-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxp21n/fully_local_little_parkour_sim/",
+      "title_ko": "완전 로컬 파크루 시뮬레이션",
+      "summary_ko": "인터넷 연결 없이 로컬에서 실행되는 작은 파크루 시뮬레이션이 공개되어 개발자들이 자유히 활용 가능하다."
     },
     {
-      "title": "I'm pretty close to the middle thanks to you all",
+      "title": "Update #4: Post training yandex/AliceAI-80B-A3B [instruct!] from scratch",
       "sub": "LocalLLaMA",
-      "author": "pmarsh",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wwbcdt/im_pretty_close_to_the_middle_thanks_to_you_all/",
-      "title_ko": "여러분 덕분에 중간 단계에 거의 도달했습니다",
-      "summary_ko": "Reddit r/LocalLLaMA 커뮤니티의 도움으로 진행 상황이 크게 향상됐다는 감사 메시지"
+      "author": "jjusko20",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wxlytt/update_4_post_training_yandexaliceai80ba3b/",
+      "title_ko": "업데이트 #4: yandex/AliceAI-80B-A3B 사전학습 모델을 처음부터 훈련",
+      "summary_ko": "yandex/AliceAI-80B-A3B 모델을 스크래치에서 훈련시킨 최신 진행 상황을 공유한다."
     }
   ],
   "youtube": [
+    {
+      "title": "Gemini 4, GPT 6.1, Dots, Claude Sonnet 5.5, Ideogram 4.5, Flux 3: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=lHmZoRHMZyM",
+      "published": "2026-10-04",
+      "desc": "HUGE AI NEWS: Gemini 4 Argon, GPT 6.1 Sol, Dots, Claude Sonnet 5.5, Flux 3, Elevenlabs V4 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct1 #ai #ainews #aitools #aivideo #agi #singularity Inspatio World 1.5 https://inspatio.github.io/inspatio-worl",
+      "title_ko": "Gemini 4·GPT 6.1·Dots·Claude Sonnet 5.5·Flux 3 등 최신 AI 소식",
+      "summary_ko": "Gemini 4·GPT 6.1·Claude Sonnet 5.5 등 최신 AI 모델과 툴 업데이트를 소개하는 영상입니다."
+    },
     {
       "title": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성",
       "channel": "안될공학",
@@ -206,7 +198,7 @@
       "published": "2026-10-03",
       "desc": "* 본 영상은 슈나이더일렉트릭코리아의 지원 하에 제작되었습니다.",
       "title_ko": "정전 한 번에 수천억 손실? 반도체 공장 전력설비의 중요성",
-      "summary_ko": "반도체 공장 전력 설비가 정전 시 수천억 손실을 초래할 수 있어 그 중요성을 강조하는 영상입니다."
+      "summary_ko": "반도체 공장 전력설비가 정전 시 초대형 손실을 초래한다는 점을 강조한 영상입니다."
     },
     {
       "title": "역대 최대 규모로 열린 #멋쟁이사자처럼 대학 14기 중앙해커톤 부스 인터뷰🔥",
@@ -214,8 +206,8 @@
       "url": "https://www.youtube.com/shorts/3KM-XtmSHwQ",
       "published": "2026-10-02",
       "desc": "이번 해커톤에는 조금 특별한 게 있었다는데… 👀 🦁 “각 대학마다 동물이 하나씩 배정됐다고?” 80개 대학이 각자 배정받은 동물을 활용해 개성 넘치는 부스를 직접 꾸몄다고 합니다! 같은 동물 컨셉도 대학마다 해석하는 방식은 제각각 🐯🐰🐻 과연 어떤 동물들이, 어떤 모습의 부스로 탄생했을까요? 직접 현장에 나가 하나씩 살펴봤습니다! 👀 여러분이 가장 마음에 드는 부스는 어디인가요? 💭 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼",
-      "title_ko": "멋쟁이사자처럼 대학 14기 중앙해커톤 부스 인터뷰",
-      "summary_ko": "80개 대학이 동물 테마 부스를 직접 꾸며 선보인 해커톤 현장을 인터뷰로 소개합니다."
+      "title_ko": "멋쟁이사자처럼 14기 중앙해커톤 부스 인터뷰",
+      "summary_ko": "80개 대학이 동물 테마 부스를 꾸며 선보인 해커톤 현장을 탐방합니다."
     },
     {
       "title": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대에서 살아남기 (허예찬 / gajae-code / founder)",
@@ -223,8 +215,8 @@
       "url": "https://www.youtube.com/watch?v=UUMqEQwog4E",
       "published": "2026-10-02",
       "desc": "가재코드 개발기 - 왜 4/4 스킬 / 에이전트의 간단한 포맷으로 왔을까 앞으로는 상호운영성이다 - 가재코드 SDK Gajae-way - 가재코드 SDK로 만든 상주형 에이전트 Gajae Memory - 몇년치 코퍼스가 쌓여있지 않는 이상 에이전트가 만든 메모리는 BM25와 잘 정렬된 인덱스면 충분하다 Ouroboros 소개, 하네스 및 루프엔지니어링 트렌드 소개, 하네스 관련 논문 소개 🎙️ New to streaming or looking to level up? Check out StreamY",
-      "title_ko": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대 살아남기",
-      "summary_ko": "가재코드 SDK와 에이전트 개발 과정을 통해 상호운용성과 메모리 관리 전략을 설명합니다."
+      "title_ko": "OmC - 가재코드 SDK와 하네스·루프엔지니어링 이야기",
+      "summary_ko": "가재코드 SDK와 에이전트 상호운용성, 메모리 설계 등을 다룬 개발기 영상입니다."
     },
     {
       "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
@@ -232,17 +224,8 @@
       "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
       "published": "2026-10-01",
       "desc": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus",
-      "title_ko": "OpenAI 보안: 모델 제어가 이제 ‘지옥’이 되다",
-      "summary_ko": "OpenAI 보안 경고와 최신 해킹 사례를 통해 모델 제어의 어려움을 조명합니다."
-    },
-    {
-      "title": "Waifus incoming, GPT 6 Sol, Grok 4.7, Opus 5.5, Mimo 2.6, Step 5, OpenMuse: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=nX0fgBL3sIM",
-      "published": "2026-09-27",
-      "desc": "HUGE AI NEWS: GPT 6 Sol, Gemini 3.8 TTS, Grok 4.7, Opus 5.5, Mimo 2.6 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-sep5 #ai #ainews #aitools #aivideo #agi #singularity WorldCrafter https://drexubery.github.io/WorldCrafter/ Ming Image https://huggi",
-      "title_ko": "AI 뉴스: GPT‑6, Grok 4.7, Opus 5.5 등 최신 소식",
-      "summary_ko": "GPT‑6, Gemini 3.8 TTS 등 최신 AI 모델과 도구들의 출시 소식을 한눈에 정리합니다."
+      "title_ko": "OpenAI 보안: 모델 제어가 ‘지옥’이 되다",
+      "summary_ko": "OpenAI 보안 경고와 최신 해킹 동향, Gemini 4 Argon 등 주요 이슈를 분석합니다."
     },
     {
       "title": "The Phone Number puzzle",
@@ -251,7 +234,7 @@
       "published": "2026-09-25",
       "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
       "title_ko": "전화번호 퍼즐",
-      "summary_ko": "월간 퍼즐 시리즈 중 하나로, 전화번호와 관련된 논리 퍼즐을 소개합니다."
+      "summary_ko": "수학 퍼즐 시리즈 중 하나인 전화번호 퍼즐을 소개하는 영상입니다."
     },
     {
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
@@ -259,8 +242,8 @@
       "url": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "published": "2026-09-24",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Note: in the walking creatures experiment, Astra used a simplified model and was unable to implement the correct one. Things did not improve after simulating it for more generations. Claude Opus 5.",
-      "title_ko": "Claude Opus 5.5 AI: 놀라운 도약",
-      "summary_ko": "Claude Opus 5.5가 보여준 성능 향상과 실험 결과를 간략히 설명합니다."
+      "title_ko": "Claude Opus 5.5 AI: 놀라운 도약",
+      "summary_ko": "Claude Opus 5.5 모델의 성능 향상과 실험 결과를 간략히 설명합니다."
     },
     {
       "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
@@ -269,7 +252,7 @@
       "published": "2026-09-22",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
       "title_ko": "시그문 프로이트가 정신의학을 혁신한 이야기",
-      "summary_ko": "프로이트의 정신분석 이론이 정신의학에 끼친 영향과 현대적 의미를 탐구합니다."
+      "summary_ko": "프로이트의 정신의학 혁신을 Andrew Scull과 Lex Fridman이 대화합니다."
     },
     {
       "title": "Burn Water - New Millennium",
@@ -278,9 +261,18 @@
       "published": "2026-09-20",
       "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
       "title_ko": "Burn Water - New Millennium",
-      "summary_ko": "ColdFusion이 소개하는 ‘Burn Water’ 앨범과 음악적 배경을 다룹니다."
+      "summary_ko": "ColdFusion이 소개하는 ‘Burn Water’ 앨범과 음악 감상 영상을 제공합니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
+      "handle": "@news",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "note": "HN 452pts · 92 댓글",
+      "title_ko": "Valve의 Timur Kristóf가 Linux에서 구형 AMD GPU 개선 작업",
+      "summary_ko": "Valve 엔지니어 Timur Kristóf가 Linux에서 구형 AMD GPU 성능 및 호환성을 향상시키는 작업을 진행해 주목받고 있다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
