@@ -1,237 +1,232 @@
 {
-  "generated_at": "2026-10-06T23:54:50.475273+00:00",
-  "date_label": "2026년 10월 7일 (수)",
+  "generated_at": "2026-10-08T00:16:34.933091+00:00",
+  "date_label": "2026년 10월 8일 (목)",
   "github_trending": [
     {
-      "repo": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 977,
+      "stars_today": 766,
       "lang": "Python",
-      "summary_ko": "Panniantong/Agent-Reach: 에이전트 간 협업을 위한 인터페이스와 프로토콜을 제공, 멀티에이전트 시스템 구축에 유용합니다."
+      "summary_ko": "Anthropic이 제공하는 지식 작업용 플러그인 컬렉션으로, 다양한 업무 자동화를 지원합니다."
     },
     {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 783,
-      "lang": "Python",
-      "summary_ko": "rohitg00/ai-engineering-from-scratch: AI 엔지니어링 기본 원리를 단계별 예제로 풀어, 초보자도 실전 프로젝트에 바로 적용 가능하게 합니다."
-    },
-    {
-      "repo": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "desc": "",
-      "stars_today": 621,
-      "lang": "Shell",
-      "summary_ko": "msitarzewski/agency-agents: 에이전시 모델을 구현한 샘플 코드로, 다양한 역할의 AI 에이전트를 손쉽게 조합해 테스트할 수 있습니다."
+      "stars_today": 677,
+      "lang": "JavaScript",
+      "summary_ko": "Addy Osmani가 정리한 에이전트 스킬 예제 모음으로, AI 에이전트 개발에 실용적 가이드를 제공합니다."
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 536,
+      "stars_today": 578,
       "lang": "TypeScript",
-      "summary_ko": "thedotmack/claude-mem: Claude 모델에 메모리 기능을 추가해 대화 컨텍스트를 장기 저장·활용, 보다 일관된 응답을 지원합니다."
+      "summary_ko": "Claude 모델에 메모리 기능을 추가해 대화 지속성을 높이는 도구로, 컨텍스트 관리가 쉬워집니다."
     },
     {
-      "repo": "deepseek-ai/DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "repo": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
       "desc": "",
-      "stars_today": 363,
-      "lang": "Cuda",
-      "summary_ko": "deepseek-ai/DeepGEMM: 딥러닝 연산을 GPU 없이도 효율적으로 실행하도록 최적화한 GEMM 라이브러리, 경량 환경에 적합합니다."
-    },
-    {
-      "repo": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "desc": "",
-      "stars_today": 124,
+      "stars_today": 67,
       "lang": "Python",
-      "summary_ko": "anthropics/knowledge-work-plugins: 지식 작업 자동화를 위한 플러그인 모음으로, 문서 요약·검색·분석 등을 손쉽게 연동합니다."
+      "summary_ko": "vLLM은 고성능 LLM 추론 엔진으로, 대규모 모델을 저지연으로 서비스할 수 있게 해줍니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 61,
+      "stars_today": 55,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/ai-agents-for-beginners: AI 에이전트 개발 입문자를 위한 튜토리얼과 샘플, 기본 개념부터 구현까지 단계별 가이드를 제공합니다."
+      "summary_ko": "Dive into LLMs는 LLM 원리와 활용법을 단계별로 설명하는 교육 자료로, 입문자에게 유용합니다."
     },
     {
-      "repo": "0x4m4/hexstrike-ai",
-      "url": "https://github.com/0x4m4/hexstrike-ai",
+      "repo": "MDX-Tom/gpt-instruct",
+      "url": "https://github.com/MDX-Tom/gpt-instruct",
       "desc": "",
-      "stars_today": 59,
+      "stars_today": 48,
       "lang": "Python",
-      "summary_ko": "0x4m4/hexstrike-ai: 게임 AI와 전략 시뮬레이션에 특화된 모델 및 툴킷으로, HexStrike 프로젝트에 바로 적용할 수 있습니다."
+      "summary_ko": "gpt-instruct는 GPT 모델에 맞춤형 지시문을 쉽게 적용할 수 있는 템플릿 및 예시를 제공합니다."
     },
     {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 53,
+      "stars_today": 47,
       "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models: 대형 언어 모델 실습 자료와 코드 예제가 풍부해, 직접 모델을 학습·튜닝하는 데 도움됩니다."
+      "summary_ko": "OpenAI Cookbook은 API 활용 예시와 베스트 프랙티스를 모아 개발자에게 실전 가이드를 제공합니다."
     },
     {
-      "repo": "omnigent-ai/omnigent",
-      "url": "https://github.com/omnigent-ai/omnigent",
+      "repo": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
       "desc": "",
-      "stars_today": 50,
-      "lang": "Python",
-      "summary_ko": "omnigent-ai/omnigent: 멀티모달 데이터 처리와 자동화 파이프라인을 구축하는 프레임워크로, 다양한 AI 워크플로우를 통합 관리합니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 50,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/generative-ai-for-beginners: 생성 AI 기본 개념과 활용 사례를 쉽게 설명한 입문용 자료집으로, 실습 예제도 포함합니다."
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 20,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/llm_engineering: LLM 개발·배포에 필요한 엔지니어링 베스트프랙티스를 정리한 가이드로, 효율적인 파이프라인 설계에 유용합니다."
+      "stars_today": 44,
+      "lang": "Swift",
+      "summary_ko": "cmux는 Manaflow AI 프로젝트용 연결 멀티플렉서로, 여러 서비스 간 통신을 효율적으로 관리합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Sharing AI Progress in Mathematics",
+      "title": "Sharing AI progress in mathematics",
       "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "points": 223,
-      "comments": 174,
+      "points": 1222,
+      "comments": 1396,
       "hn_url": "https://news.ycombinator.com/item?id=49984923",
-      "title_ko": "수학 분야 AI 진전 공유",
-      "summary_ko": "수학 연구에 AI 활용 사례를 모아 공유하며 최신 동향을 조명합니다."
+      "title_ko": "수학 분야 AI 진행 상황 공유",
+      "summary_ko": "수학 연구에 AI 활용 사례를 소개해 최신 진전을 알리는 글입니다."
     },
     {
-      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-      "url": "https://github.com/FeSens/openTPU",
-      "points": 209,
-      "comments": 273,
-      "hn_url": "https://news.ycombinator.com/item?id=49980715",
-      "title_ko": "OpenTPU – 오픈소스 AI 가속기",
-      "summary_ko": "AI 커뮤니티가 직접 만든 오픈소스 TPU 가속기로, 비용 절감과 접근성을 높입니다."
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "points": 636,
+      "comments": 320,
+      "hn_url": "https://news.ycombinator.com/item?id=49996437",
+      "title_ko": "Claude Haiku 5.5",
+      "summary_ko": "Anthropic이 출시한 최신 Claude Haiku 5.5 모델의 성능과 특징을 다룹니다."
     },
     {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
-      "points": 191,
-      "comments": 26,
-      "hn_url": "https://news.ycombinator.com/item?id=49980487",
-      "title_ko": "EmbeddingGemma 2 – 경량 멀티모달 임베딩 모델",
-      "summary_ko": "가볍고 오픈된 멀티모달 임베딩 모델로 다양한 애플리케이션에 빠르게 적용 가능합니다."
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "points": 467,
+      "comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=49996425",
+      "title_ko": "GPT‑6 및 모두를 위한 지능형 UI",
+      "summary_ko": "GPT‑6 출시와 함께 일반 사용자를 위한 직관적 UI 설계 방안을 제시합니다."
     },
     {
-      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
-      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
-      "points": 86,
-      "comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=49977689",
-      "title_ko": "Erdosproblems.com, AI 물결에 무너져",
-      "summary_ko": "수학 문제 사이트가 AI 기반 솔루션 급증으로 운영에 차질을 겪고 있습니다."
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "points": 288,
+      "comments": 53,
+      "hn_url": "https://news.ycombinator.com/item?id=49990470",
+      "title_ko": "2026년 화학 노벨상, Henri B. Kagan·Kenso Soai 수상",
+      "summary_ko": "Kagan과 Soai가 비대칭 촉매 분야 공로를 인정받아 노벨 화학상을 받았습니다."
     },
     {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "points": 68,
-      "comments": 38,
-      "hn_url": "https://news.ycombinator.com/item?id=49981905",
-      "title_ko": "Claude Code의 제안 메시지 기능",
-      "summary_ko": "코드 작성 보조 AI가 사용자를 모델로 인식해 보다 맞춤형 제안을 제공합니다."
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "points": 253,
+      "comments": 248,
+      "hn_url": "https://news.ycombinator.com/item?id=49997161",
+      "title_ko": "Meta·Microsoft, Claude AI 사용 제한 조치",
+      "summary_ko": "두 기업이 직원들의 Claude AI 남용을 막기 위해 정책과 도구를 도입했습니다."
     },
     {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "points": 21,
-      "comments": 4,
-      "hn_url": "https://news.ycombinator.com/item?id=49984716",
-      "title_ko": "Penguin Mail – Rust 기반 오픈소스 이메일 클라이언트",
-      "summary_ko": "Linux용 Rust 이메일 클라이언트에 AI 기능을 탑재해 생산성을 높입니다."
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
+      "points": 165,
+      "comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=49996259",
+      "title_ko": "Docker Agent",
+      "summary_ko": "Docker 환경에서 AI 에이전트를 손쉽게 배포·관리할 수 있는 새로운 툴입니다."
     },
     {
-      "title": "LLMs may have helped my RSI",
-      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
-      "points": 20,
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=49973644",
-      "title_ko": "LLM이 내 RSI 회복에 도움",
-      "summary_ko": "대형 언어 모델 활용이 반복성 스트레스 손상(RSI) 완화에 기여했다는 개인 경험을 공유합니다."
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "points": 107,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=49993121",
+      "title_ko": "AI가 증명한 11개의 정사각형 최적 포장",
+      "summary_ko": "AI 보조 증명을 통해 11개의 정사각형을 최적 배치하는 해법이 밝혀졌습니다."
     },
     {
-      "title": "OpenAI just dropped 700 preprints of mathematical proofs and counterexamples",
-      "url": "https://github.com/openai/math/tree/main/preprints",
-      "points": 18,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=49985740",
-      "title_ko": "OpenAI, 700개 수학 증명·반례 사전 공개",
-      "summary_ko": "OpenAI가 700건 이상의 수학 증명과 반례를 사전 공개해 연구자들에게 큰 도움이 됩니다."
+      "title": "Show HN: Agent.reviews – Where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews/",
+      "points": 34,
+      "comments": 34,
+      "hn_url": "https://news.ycombinator.com/item?id=49995539",
+      "title_ko": "Show HN: Agent.reviews – AI가 도구 리뷰를 읽고 작성",
+      "summary_ko": "AI 에이전트가 다양한 소프트웨어 도구에 대한 리뷰를 자동으로 생성하는 서비스입니다."
     }
   ],
   "reddit": [
     {
-      "title": "54gb vram for 35$",
+      "title": "llama.cpp on the stage",
       "sub": "LocalLLaMA",
-      "author": "markpronkin",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz6ist/54gb_vram_for_35/",
-      "title_ko": "35달러에 54GB VRAM",
-      "summary_ko": "저렴한 가격에 54GB VRAM을 제공한다는 소식이 Reddit 사용자들 사이에서 화제다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x079wc/llamacpp_on_the_stage/",
+      "title_ko": "llama.cpp가 무대에 등장",
+      "summary_ko": "llama.cpp가 최신 데모와 발표를 통해 커뮤니티 관심을 끌고 있다."
     },
     {
-      "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
+      "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
       "sub": "MachineLearning",
-      "author": "Pretty_Upstairs9035",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
-      "title_ko": "Transformer·RNN·SSM: 메모리는 어디에 존재할까?",
-      "summary_ko": "각 모델의 메모리 메커니즘을 비교해 실제 메모리 위치를 탐구한 논의가 주목받는다."
+      "author": "DataShack",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
+      "title_ko": "5.6억 개 틱톡 영상 메타데이터, 2014‑2026년 Hugging Face에 업로드",
+      "summary_ko": "2014년부터 2026년 10월까지의 틱톡 메타데이터 56억 건이 Hugging Face에 공개돼 연구에 활용 가능하다."
     },
     {
-      "title": "GPT-6.1 Sol looped \"leak\" hints at nested models serving architecture",
+      "title": "llama : add a GPU cache for MoE experts kept in host memory by am17an · Pull Request #29887 · ggml-org/llama.cpp",
       "sub": "LocalLLaMA",
-      "author": "QuackerEnte",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzbvu7/gpt61_sol_looped_leak_hints_at_nested_models/",
-      "title_ko": "GPT‑6.1 Sol 루프 ‘leak’가 중첩 모델 아키텍처를 암시",
-      "summary_ko": "GPT‑6.1에서 발견된 메모리 누수가 모델 내부에 중첩 구조가 존재함을 시사한다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x03xkc/llama_add_a_gpu_cache_for_moe_experts_kept_in/",
+      "title_ko": "llama: MoE 전문가를 위한 GPU 캐시 추가 (PR #29887)",
+      "summary_ko": "호스트 메모리에 보관된 MoE 전문가를 GPU 캐시로 옮겨 성능을 향상시키는 PR이 제출됐다."
     },
     {
-      "title": "ML PHD without A* Publications [D]",
+      "title": "Saw this on Rednote, WTF [D]",
       "sub": "MachineLearning",
-      "author": "Odd_Ad8629",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzeszo/ml_phd_without_a_publications_d/",
-      "title_ko": "논문 없이 ML 박사 과정",
-      "summary_ko": "A* 논문 없이 머신러닝 박사 과정을 진행하는 사례가 학계에 새로운 논의를 불러일으킨다."
+      "author": "Striking-Warning9533",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzpzh3/saw_this_on_rednote_wtf_d/",
+      "title_ko": "Rednote에서 발견, WTF",
+      "summary_ko": "Rednote에 올라온 의외의 내용이 커뮤니티에서 큰 반향을 일으키고 있다."
     },
     {
-      "title": "Woman used claude as her diary - and got reported to the police for contents of her diary",
+      "title": "New LFM to be released today",
       "sub": "LocalLLaMA",
-      "author": "Timely_Impression_92",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wz5b30/woman_used_claude_as_her_diary_and_got_reported/",
-      "title_ko": "클로드를 일기장으로 사용한 여성, 경찰에 신고돼",
-      "summary_ko": "AI 비서 클로드에 개인 일기를 기록한 사용자가 내용 때문에 경찰에 신고된 사건이 논란이 되고 있다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1wzuto0/new_lfm_to_be_released_today/",
+      "title_ko": "오늘 출시되는 새로운 LFM",
+      "summary_ko": "오늘 공개되는 최신 LFM 모델이 성능 개선과 새로운 기능으로 기대를 모으고 있다."
     },
     {
-      "title": "AFP-GIC: Controllable Generative Image Compression [R]",
+      "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
       "sub": "MachineLearning",
-      "author": "WuPeter6687298",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
-      "title_ko": "AFP‑GIC: 제어 가능한 생성 이미지 압축",
-      "summary_ko": "이미지를 압축하면서도 생성 품질을 조절할 수 있는 새로운 방법이 머신러닝 커뮤니티에 소개되었다."
+      "author": "Yossarian_1234",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
+      "title_ko": "차이를 나누고 나머지는 풀링: 효율적인 다목표 모방 학습",
+      "summary_ko": "다목표 모방 학습을 이론적으로 효율적으로 구현한 새로운 알고리즘이 발표됐다."
     }
   ],
   "youtube": [
+    {
+      "title": "DeepMind's New AI Just Cracked The Code Of Life",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
+      "published": "2026-10-07",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-gen",
+      "title_ko": "DeepMind, 새로운 AI가 생명 코드를 해독",
+      "summary_ko": "DeepMind가 발표한 AlphaGenome Atlas가 생물학적 코드를 분석해 큰 주목을 받고 있습니다."
+    },
+    {
+      "title": "I spent 4 weeks building an AI to humiliate one player",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
+      "published": "2026-10-07",
+      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
+      "title_ko": "플레이어를 조롱하는 AI를 4주간 개발",
+      "summary_ko": "Snap의 SPECS를 활용해 게임 내 한 플레이어를 조롱하도록 AI를 만든 실험 영상입니다."
+    },
+    {
+      "title": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대에서 살아남기 (허예찬 / gajae-code / founder)",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/watch?v=UUMqEQwog4E",
+      "published": "2026-10-07",
+      "desc": "가재코드 개발기 - 왜 4/4 스킬 / 에이전트의 간단한 포맷으로 왔을까 앞으로는 상호운영성이다 - 가재코드 SDK Gajae-way - 가재코드 SDK로 만든 상주형 에이전트 Gajae Memory - 몇년치 코퍼스가 쌓여있지 않는 이상 에이전트가 만든 메모리는 BM25와 잘 정렬된 인덱스면 충분하다 Ouroboros 소개, 하네스 및 루프엔지니어링 트렌드 소개, 하네스 관련 논문 소개 🎙️ New to streaming or looking to level up? Check out StreamY",
+      "title_ko": "OmC – OmX에서 가재코드까지 하네스 시대 생존기",
+      "summary_ko": "가재코드 SDK와 에이전트 설계 과정을 소개하며 상호운용성 전략을 설명합니다."
+    },
     {
       "title": "The AI unlock has begun",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=h5zkzon0gM4",
       "published": "2026-10-06",
       "desc": "How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to our sponsor Runway. https://runwayml.com/aisearch-oct Use code MKTG50 for 50% off any paid plan for the 1st month #ai #aitools #gaming #ainews #singularity Re",
-      "title_ko": "AI 잠금 해제가 시작됐다",
-      "summary_ko": "AI를 활용한 게임 모드 제작과 Rust 재구축, Claude Opus 5.5 모드 등 최신 사례를 소개합니다."
+      "title_ko": "AI 언락이 시작됐다",
+      "summary_ko": "AI를 이용한 게임 모드 제작·포팅 사례와 Claude Opus 5.5 활용법을 다룹니다."
     },
     {
       "title": "대한민국 은행권 AI 해킹 사태… 보안 회사가 해내야할 역할이 중요해지는 이유 | 팔로알토 네트웍스 | Microsoft | CrowdStrike",
@@ -239,8 +234,8 @@
       "url": "https://www.youtube.com/watch?v=23MK8riMljY",
       "published": "2026-10-06",
       "desc": "내가 한 번도 접속하지 않은 은행 서비스에서 내 정보가 샐 수도 있을까요. 신한·KB국민·하나은행의 직원·대출 업무용 서비스에서 고객정보가 유출된 사건을 살펴봅니다. 10월 4일 보도에서 금융당국은 인터넷·모바일뱅킹 영향과 금전 피해는 당시까지 없는 것으로 파악했습니다. 공격 관련 추정 서버에서 AI 도구의 흔적이 발견됐지만, 실제 공격에 쓰였는지는 확인되지 않았습니다. 사원증 비유로 로그인한 사람의 신분과 자료를 볼 권한을 따로 확인해야 하는 이유를 설명합니다. AI가 공격자의 자료 분석과 결과",
-      "title_ko": "대한민국 은행권 AI 해킹 사태… 보안 회사 역할이 중요해지는 이유",
-      "summary_ko": "신한·KB·하나은행 직원·대출 서비스에서 AI 도구 흔적이 발견돼 보안 기업의 대응 필요성이 부각됩니다."
+      "title_ko": "한국 은행권 AI 해킹 사태와 보안 기업 역할",
+      "summary_ko": "신한·KB·하나은행 직원 서비스에 AI 도구 흔적이 발견돼 보안 대책 필요성이 강조됩니다."
     },
     {
       "title": "[멋쟁이사자처럼 해커톤] ⏱️ 단 10초 안에 우리 서비스를 소개한다면?",
@@ -248,26 +243,8 @@
       "url": "https://www.youtube.com/shorts/vvnmAES7PLA",
       "published": "2026-10-06",
       "desc": "“10초 안에 서비스 소개해 주시면 상품 드릴게요!” 🎁 80개 대학이 모인 멋쟁이사자처럼 대학 14기 중앙해커톤에서 참가자들에게 갑작스러운 10초 미션을 던져봤습니다 👀 짧고 굵게 핵심만 쏙 뽑아낸 팀부터 시간에 쫓겨 다급해진 팀까지 😂 과연 참가자들은 10초 안에 자신들의 서비스를 완벽하게 소개하고 상품까지 받아갈 수 있었을까요? 🔥 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼 대학 14기 중앙운영단 미디어팀 임다현",
-      "title_ko": "[멋쟁이사자처럼 해커톤] 10초 안에 우리 서비스를 소개한다면?",
-      "summary_ko": "14기 중앙해커톤에서 10초 미션을 수행하며 서비스 핵심을 빠르게 전달하는 참가자들의 모습을 보여줍니다."
-    },
-    {
-      "title": "The Billion Dollar AI Advantage Is Disappearing",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=ZHVNTTKu9fU",
-      "published": "2026-10-05",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Sonnet 5.5: https://www.anthropic.com/claude-sonnet-5-5 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers possible: Adam Bridges, B Shang, Carlos Galarza, Christ",
-      "title_ko": "수십억 달러 AI 경쟁력 감소",
-      "summary_ko": "AI 모델 성능 격차가 줄어들면서 기업들의 비용 효율과 차별화 전략이 중요한 시점임을 설명합니다."
-    },
-    {
-      "title": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대에서 살아남기 (허예찬 / gajae-code / founder)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=UUMqEQwog4E",
-      "published": "2026-10-02",
-      "desc": "가재코드 개발기 - 왜 4/4 스킬 / 에이전트의 간단한 포맷으로 왔을까 앞으로는 상호운영성이다 - 가재코드 SDK Gajae-way - 가재코드 SDK로 만든 상주형 에이전트 Gajae Memory - 몇년치 코퍼스가 쌓여있지 않는 이상 에이전트가 만든 메모리는 BM25와 잘 정렬된 인덱스면 충분하다 Ouroboros 소개, 하네스 및 루프엔지니어링 트렌드 소개, 하네스 관련 논문 소개 🎙️ New to streaming or looking to level up? Check out StreamY",
-      "title_ko": "OmC - OmX에서 가재코드까지 하네스 춘추전국시대에서 살아남기",
-      "summary_ko": "가재코드 SDK와 에이전트 설계, 상호운용성 및 메모리 관리 전략을 중심으로 개발 과정을 소개합니다."
+      "title_ko": "[멋쟁이사자처럼 해커톤] 10초 서비스 소개 도전",
+      "summary_ko": "대학생 해커톤에서 10초 안에 서비스 핵심을 전달하는 미션과 참가팀 반응을 보여줍니다."
     },
     {
       "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
@@ -275,8 +252,8 @@
       "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
       "published": "2026-10-01",
       "desc": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus",
-      "title_ko": "OpenAI 보안: 모델 제어가 이제 ‘지옥’이 되다",
-      "summary_ko": "OpenAI 보안 경고와 최신 해킹 사례를 통해 모델 제어의 어려움과 대응 방안을 논의합니다."
+      "title_ko": "OpenAI 보안: 모델 제어가 ‘지옥’이 되다",
+      "summary_ko": "OpenAI 보안 경고와 최신 해킹 사례를 통해 모델 통제의 어려움을 조명합니다."
     },
     {
       "title": "The Phone Number puzzle",
@@ -285,7 +262,7 @@
       "published": "2026-09-25",
       "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
       "title_ko": "전화번호 퍼즐",
-      "summary_ko": "Andrej Karpathy가 진행하는 월간 퍼즐 시리즈 중 하나로, 논리적 사고를 자극하는 문제를 제공합니다."
+      "summary_ko": "Andrej Karpathy가 진행하는 월간 퍼즐 시리즈 중 하나로, 논리적 사고를 시험합니다."
     },
     {
       "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
@@ -293,17 +270,8 @@
       "url": "https://www.youtube.com/watch?v=ImNEHHLh6-U",
       "published": "2026-09-22",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
-      "title_ko": "시그문 프로이트, 정신의학을 혁신하다 | Andrew Scull와 Lex Fridman",
-      "summary_ko": "프 로이트의 이론이 정신의학에 미친 영향과 현대 심리학에서의 의미를 깊이 있게 탐구합니다."
-    },
-    {
-      "title": "Burn Water - New Millennium",
-      "channel": "ColdFusion",
-      "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
-      "published": "2026-09-20",
-      "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
-      "title_ko": "Burn Water - New Millennium",
-      "summary_ko": "ColdFusion이 소개하는 ‘Burn Water’ 앨범으로, 최신 음악 트렌드와 감성을 전달합니다."
+      "title_ko": "프로이트가 정신의학을 혁신한 이야기",
+      "summary_ko": "Lex Fridman 팟캐스트에서 Andrew Scull와 함께 프로이트의 영향력을 탐구합니다."
     }
   ],
   "social": [],
