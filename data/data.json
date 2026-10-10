@@ -1,186 +1,270 @@
 {
-  "generated_at": "2026-10-09T00:30:14.382605+00:00",
-  "date_label": "2026년 10월 9일 (금)",
+  "generated_at": "2026-10-10T00:06:51.970767+00:00",
+  "date_label": "2026년 10월 10일 (토)",
   "github_trending": [
-    {
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "desc": "",
-      "stars_today": 670,
-      "lang": "TypeScript",
-      "summary_ko": "the dotmack의 Claude-MEM은 메모리 강화 LLM으로 장기 컨텍스트를 효율적으로 관리해 개발 생산성을 높입니다."
-    },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 392,
+      "stars_today": 709,
       "lang": "Python",
-      "summary_ko": "anthropics의 Knowledge‑Work‑Plugins는 업무 자동화를 위한 플러그인 프레임워크로 AI 활용을 손쉽게 확장합니다."
+      "summary_ko": "anthropics/knowledge-work-plugins: 업무 효율을 높이는 AI 플러그인 모음으로, 다양한 도구와 연동해 지식 작업을 자동화합니다."
     },
     {
-      "repo": "CursorTouch/Windows-MCP",
-      "url": "https://github.com/CursorTouch/Windows-MCP",
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 360,
-      "lang": "Python",
-      "summary_ko": "CursorTouch의 Windows‑MCP는 마우스 클릭을 최소화하는 키보드 중심 UI로 Windows 작업 효율을 크게 개선합니다."
+      "stars_today": 436,
+      "lang": "JavaScript",
+      "summary_ko": "addyosmani/agent-skills: 웹 개발자용 AI 에이전트 스킬 예시를 제공해 자동화와 생산성 향상을 돕는 레포지터리입니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
       "desc": "",
-      "stars_today": 76,
+      "stars_today": 229,
+      "lang": "Python",
+      "summary_ko": "bojieli/ai-agent-book: AI 에이전트 설계와 활용 방법을 체계적으로 정리한 전자책 형태의 가이드입니다."
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "desc": "",
+      "stars_today": 205,
+      "lang": "Python",
+      "summary_ko": "datawhalechina/hello-agents: 초보자를 위한 AI 에이전트 입문 튜토리얼로, 실습 예제와 단계별 설명을 포함합니다."
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 136,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft의 AI‑Agents‑for‑Beginners는 초보자를 위한 에이전트 구축 튜토리얼로 실전 AI 활용 입문을 돕습니다."
+      "summary_ko": "Lordog/dive-into-llms: 대형 언어 모델(LLM) 구조와 활용법을 깊이 있게 탐구하는 학습 자료 모음입니다."
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "desc": "",
+      "stars_today": 132,
+      "lang": "Python",
+      "summary_ko": "unslothai/unsloth: 경량화된 LLM 구현체로, 저사양 환경에서도 빠른 추론과 학습이 가능합니다."
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "",
+      "stars_today": 130,
+      "lang": "Python",
+      "summary_ko": "K-Dense-AI/scientific-agent-skills: 과학 연구에 특화된 AI 에이전트 스킬을 제공해 데이터 분석과 논문 작성을 지원합니다."
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "desc": "",
+      "stars_today": 104,
+      "lang": "Python",
+      "summary_ko": "headroomlabs-ai/headroom: AI 기반 회의 요약·액션 아이템 추출 도구로, 협업 효율을 크게 개선합니다."
+    },
+    {
+      "repo": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "desc": "",
+      "stars_today": 95,
+      "lang": "Python",
+      "summary_ko": "BerriAI/litellm: 경량 LLM API 래퍼로, 간편한 호출과 비용 절감 효과를 제공합니다."
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "desc": "",
+      "stars_today": 88,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "xiaolai/the-craft-of-selfteaching: 자기주도 학습을 위한 AI 활용법을 정리한 실용 가이드입니다."
+    },
+    {
+      "repo": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "desc": "",
+      "stars_today": 65,
+      "lang": "",
+      "summary_ko": "twostraws/SwiftUI-Agent-Skill: SwiftUI 앱에 AI 에이전트 기능을 손쉽게 통합할 수 있는 샘플 코드입니다."
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 61,
+      "stars_today": 64,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft의 Generative‑AI‑for‑Beginners는 생성 AI 개념과 실습을 단계별로 제공해 학습 장벽을 낮춥니다."
+      "summary_ko": "microsoft/generative-ai-for-beginners: 생성 AI 개념과 실습을 단계별로 설명해 입문자를 돕는 마이크로소프트 공식 자료입니다."
     },
     {
       "repo": "openai/openai-cookbook",
       "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 51,
+      "stars_today": 60,
       "lang": "Jupyter Notebook",
-      "summary_ko": "openai의 OpenAI‑Cookbook은 다양한 활용 예제와 코드 스니펫을 모아 AI 개발 가이드를 체계화합니다."
+      "summary_ko": "openai/openai-cookbook: 다양한 OpenAI API 활용 예시와 베스트 프랙티스를 제공하는 종합 레시피 모음입니다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
       "desc": "",
-      "stars_today": 43,
+      "stars_today": 28,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft의 AI‑For‑Beginners는 비전공자를 위한 AI 기본 개념·실습을 한눈에 정리한 교육 리소스입니다."
+      "summary_ko": "datawhalechina/happy-llm: LLM 학습·배포 파이프라인을 자동화해 개발 생산성을 높이는 툴킷입니다."
     },
     {
-      "repo": "microsoft/agent-framework",
-      "url": "https://github.com/microsoft/agent-framework",
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
       "desc": "",
       "stars_today": 27,
-      "lang": "Python",
-      "summary_ko": "microsoft의 Agent‑Framework는 멀티‑에이전트 시스템 구축을 위한 표준화된 SDK로 복잡한 워크플로를 단순화합니다."
-    },
-    {
-      "repo": "AI4Finance-Foundation/FinGPT",
-      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
-      "desc": "",
-      "stars_today": 22,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI4Finance‑Foundation의 FinGPT는 금융 데이터 분석에 특화된 GPT 모델로 투자·리스크 인사이트를 자동화합니다."
+      "summary_ko": "NirDiamant/RAG_Techniques: Retrieval‑Augmented Generation 기법을 정리한 실용 가이드로, 검색 기반 생성 모델 구현에 유용합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "AI-ready biological data: $1.8B global commitment",
-      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-      "points": 55,
-      "comments": 4,
-      "hn_url": "https://news.ycombinator.com/item?id=50011999",
-      "title_ko": "AI 활용 생물학 데이터: 18억 달러 글로벌 투자",
-      "summary_ko": "전 세계 18억 달러 규모의 AI 기반 생물학 데이터 구축 약속이 발표돼 연구 가속화에 주목받고 있습니다."
+      "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "points": 364,
+      "comments": 161,
+      "hn_url": "https://news.ycombinator.com/item?id=50018817",
+      "title_ko": "AI 에이전트가 화면에 화살표·상자·텍스트를 그리게 하세요",
+      "summary_ko": "스크린에 직접 시각 요소를 표시하도록 AI 에이전트를 제어하는 오픈소스 도구 소개"
     },
     {
-      "title": "OpenAI, the Partition Principle, and Mathematics",
-      "url": "https://karagila.org/2026/openai-pp/",
-      "points": 36,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=50013902",
-      "title_ko": "OpenAI와 분할 원리, 그리고 수학",
-      "summary_ko": "OpenAI가 제시한 ‘분할 원리’가 수학적 문제 해결에 어떻게 적용되는지 논의되는 기사입니다."
+      "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "points": 306,
+      "comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50018350",
+      "title_ko": "OpenAI, 안전 연구원 3명 해고…연구 정보 오용 논란",
+      "summary_ko": "안전팀 연구원들이 내부 연구 정보를 부적절하게 다뤘다는 이유로 해고됐음"
     },
     {
-      "title": "Show HN: Jevman – AI decision models play Pac-Man",
-      "url": "https://opper.ai/jevman-benchmark/",
-      "points": 20,
+      "title": "Typesafe AI raises $870M at $7.5B",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "points": 235,
+      "comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50023450",
+      "title_ko": "Typesafe AI, 8천7백만 달러 투자 유치·가치 75억 달러 도달",
+      "summary_ko": "타입 안전 AI 플랫폼이 대규모 투자 라운드에서 870 M달러를 모아 기업가치를 75 B달러로 끌어올림"
+    },
+    {
+      "title": "Microsoft-Decision-1, our model for fast decision-making",
+      "url": "https://commandline.microsoft.com/microsoft-decision-1-model-foundry/",
+      "points": 125,
+      "comments": 48,
+      "hn_url": "https://news.ycombinator.com/item?id=50024913",
+      "title_ko": "Microsoft-Decision-1: 빠른 의사결정을 위한 모델",
+      "summary_ko": "실시간 의사결정 속도를 높이기 위해 설계된 Microsoft의 새로운 AI 모델 발표"
+    },
+    {
+      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+      "points": 95,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50019056",
+      "title_ko": "AI로 아카이브 탐색, 잊힌 운석·실종 코뿔소 등 발견",
+      "summary_ko": "대규모 기록을 AI가 분석해 과거에 놓친 자연·역사적 사건들을 재발견함"
+    },
+    {
+      "title": "Training Text-to-Image Models Without a VAE",
+      "url": "https://www.linum.ai/field-notes/pyramid-jit",
+      "points": 46,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=49983582",
+      "title_ko": "VAE 없이 텍스트‑투‑이미지 모델 훈련하기",
+      "summary_ko": "오토인코더 없이도 고품질 이미지 생성이 가능한 새로운 학습 기법을 제시"
+    },
+    {
+      "title": "OpenAI mistranslated mathematics into code for its Navier-Stokes proof",
+      "url": "https://www.newscientist.com/article/2592824-openai-mistranslated-mathematics-into-code-for-its-navier-stokes-proof/",
+      "points": 29,
       "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=50007993",
-      "title_ko": "Show HN: Jevman – Pac-Man을 플레이하는 AI 의사결정 모델",
-      "summary_ko": "AI가 Pac-Man 게임을 직접 플레이하며 의사결정 과정을 시각화한 오픈소스 프로젝트를 소개합니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50026734",
+      "title_ko": "OpenAI, Navier‑Stokes 증명 코드에서 수학 오번역",
+      "summary_ko": "수학 식을 코드로 변환하는 과정에서 오류가 발생해 증명 결과가 잘못 구현됨"
     },
     {
-      "title": "Show HN: Pocketty – iPhone SSH terminal that pings you when an agent is blocked",
-      "url": "https://pocketty.app/",
-      "points": 12,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=50009634",
-      "title_ko": "Show HN: Pocketty – 차단된 에이전트 알림 iPhone SSH 터미널",
-      "summary_ko": "iPhone에서 SSH 접속 시 에이전트 차단을 감지해 알림을 보내는 경량 터미널 앱 Pocketty를 선보였습니다."
-    },
-    {
-      "title": "Show HN: Edi Life OS – self-hosted life dashboard with an MCP server for AI",
-      "url": "https://github.com/edrisranjbar/lifeos",
-      "points": 3,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50014150",
-      "title_ko": "Show HN: Edi Life OS – AI용 MCP 서버가 포함된 자체 호스팅 생활 대시보드",
-      "summary_ko": "AI와 연동 가능한 MCP 서버를 탑재한 개인용 생활 관리 대시보드 Edi Life OS를 공개했습니다."
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "points": 20,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50024090",
+      "title_ko": "수학자를 위한 Lean 정리 증명기: 신뢰성·AI 활용",
+      "summary_ko": "Lean 정리 증명기의 신뢰성 특징과 AI와의 연계 가능성을 설명하는 안내서"
     }
   ],
   "reddit": [
     {
-      "title": "Strata rewrote their Github history to wipe evidence of Claude-authoring",
+      "title": "OpenAI's math findings built on stolen user data",
       "sub": "LocalLLaMA",
-      "author": "dasbin",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x15a8w/strata_rewrote_their_github_history_to_wipe/",
-      "title_ko": "Strata, Github 히스토리를 재작성해 Claude 작성 흔적 삭제",
-      "summary_ko": "Strata가 Github 기록을 지워 Claude가 만든 코드 흔적을 없앴다."
+      "author": "CuTe_M0nitor",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rk4o/openais_math_findings_built_on_stolen_user_data/",
+      "title_ko": "OpenAI의 수학 연구, 도용된 사용자 데이터 기반",
+      "summary_ko": "OpenAI가 수학 연구에 사용자 데이터를 무단 사용했다는 의혹이 제기돼 논란이 되고 있다."
     },
     {
-      "title": "$2800 rig with 8x Radeon Pro V620 (256 GB VRAM) + custom vLLM fork = Qwen3.8-Flash-Next at 60 to 100 t/s decode and 3000+ t/s prefill",
-      "sub": "LocalLLaMA",
-      "author": "_TheWolfOfWalmart_",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wnz1/2800_rig_with_8x_radeon_pro_v620_256_gb_vram/",
-      "title_ko": "8x Radeon Pro V620·256GB VRAM·맞춤 vLLM 포크로 Qwen3.8-Flash-Next 60~100t/s 디코드",
-      "summary_ko": "고성능 GPU 8대와 커스텀 vLLM으로 Qwen3.8-Flash-Next을 초당 100토큰 디코드 구현했다."
+      "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
+      "sub": "MachineLearning",
+      "author": "Old_Cow_6636",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1v71p/talus_a_23mparameter_diffusion_model_for_game/",
+      "title_ko": "Talus: 2300만 파라미터 확산 모델, 웹GPU로 브라우저에서 지형 생성",
+      "summary_ko": "Talus는 2300만 파라미터 확산 모델로, 웹GPU 기반 브라우저에서 실시간 게임 지형을 생성하고 실제‑실제 잡음 기준으로 평가된다."
     },
     {
-      "title": "Last week some of South Korea's biggest banks were hit by a cyberattack. We now know the entire hack may have been done by a single person. He used a combined stack of an open-source AI penetration tool named ARTEX, DeepSeek v4.1-Flash, GLM-5.3, Grok 4.6, and Claude Code (CrowdStrike)",
+      "title": "Qwen/Qwen-Image-2.1-Turbo · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0n4pt/last_week_some_of_south_koreas_biggest_banks_were/",
-      "title_ko": "한국 대형 은행 해킹, 단일 공격자·오픈소스 AI 침투 도구 ARTEX 사용",
-      "summary_ko": "최근 은행 사이버공격이 한 사람에 의해 오픈소스 AI 도구와 모델로 수행된 것으로 밝혀졌다."
+      "author": "chocofoxy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1ldef/qwenqwenimage21turbo_hugging_face/",
+      "title_ko": "Qwen-Image-2.1-Turbo 모델, Hugging Face에 공개",
+      "summary_ko": "Qwen-Image-2.1-Turbo는 이미지 생성 전용 최신 대형 모델로, Hugging Face에서 무료로 이용할 수 있다."
     },
     {
-      "title": "jevman: AI decision models play Pac-Man",
-      "sub": "LocalLLaMA",
-      "author": "facethef",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0sm1b/jevman_ai_decision_models_play_pacman/",
-      "title_ko": "jevman: AI 의사결정 모델이 팩맨 게임을 플레이",
-      "summary_ko": "jevman이 만든 AI 의사결정 모델이 팩맨을 직접 조작해 게임을 진행한다."
+      "title": "ARR Oct Discussion [D]",
+      "sub": "MachineLearning",
+      "author": "StriderKing27",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1ke20/arr_oct_discussion_d/",
+      "title_ko": "ARR 10월 토론",
+      "summary_ko": "ARR 커뮤니티가 10월 최신 연구와 트렌드를 공유하며 활발히 토론하는 스레드이다."
     },
     {
-      "title": "Running decision model locally on an RTX 4090 to find out which one is the fastest",
+      "title": "GLM 5.3 Flash opensource @ the top of Artificial Analysis Cyber Index over Claude.",
       "sub": "LocalLLaMA",
-      "author": "Fun-Meaning-6474",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0wg85/running_decision_model_locally_on_an_rtx_4090_to/",
-      "title_ko": "RTX 4090 로컬 실행, 가장 빠른 의사결정 모델 찾기 실험",
-      "summary_ko": "RTX 4090에서 다양한 의사결정 모델을 실행해 속도 비교 테스트를 진행했다."
+      "author": "LegacyRemaster",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x1rwof/glm_53_flash_opensource_the_top_of_artificial/",
+      "title_ko": "GLM 5.3 Flash, 인공지능 분석 사이버 지수에서 Claude 앞섰다",
+      "summary_ko": "GLM 5.3 Flash가 오픈소스로 공개돼 Claude보다 높은 인공지능 분석 사이버 지수를 기록했다."
     },
     {
-      "title": "Thank you :) Swift Models hit 2.2 million+ downloads / Early Access to New Models, Free Compute for Researchers",
-      "sub": "LocalLLaMA",
-      "author": "Secure_Recording_472",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x0ui6f/thank_you_swift_models_hit_22_million_downloads/",
-      "title_ko": "Swift Models 220만 다운로드 돌파·신규 모델 얼리액세스·연구자 무료 연산 제공",
-      "summary_ko": "Swift Models가 220만 다운로드를 넘어섰으며, 신규 모델 얼리액세스와 연구자용 무료 연산을 발표했다."
+      "title": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+      "sub": "MachineLearning",
+      "author": "Less_Dream_6331",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/",
+      "title_ko": "MaRN: 저차원 파라미터 매핑으로 신경망 훈련하는 PyTorch 라이브러리",
+      "summary_ko": "MaRN은 파라미터를 저차원 공간에 매핑해 효율적인 신경망 학습을 지원하는 새로운 PyTorch 라이브러리다."
     }
   ],
   "youtube": [
     {
-      "title": "덕테이프 코드로 기회를 잡은 OMC 출시기 #shorts",
+      "title": "Manus 2.0으로 만든 반도체 쇼티지 게임!! ㅋㅋㅋ 원하는 영상 넣으면 스타일도 만들어준다!",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/tKaUk1pKvOQ",
+      "published": "2026-10-09",
+      "desc": "* Manus 바로가기 - http://manus.im/ * Cue 바로가기 - https://cue.im/ 마누스 2.0으로 패치가 직접 반도체를 모으는 게임을 만들어봤습니다. 메모리 쇼티지와 파운드리를 배경으로, 직접 플레이하며 캐릭터의 움직임과 점프 높이를 다듬었습니다. 게임 화면과 채널 이미지를 활용해 트레일러와 안될공학 인트로도 제작했습니다. 참고 영상으로 원하는 분위기를 전달하고, 타임라인에서 필요한 부분을 수정하는 과정도 살펴봤습니다. 영상 생성과 코드 기반 그래픽이 어떻게 함께 쓰이",
+      "title_ko": "Manus 2.0으로 만든 반도체 쇼티지 게임",
+      "summary_ko": "Manus 2.0을 활용해 반도체 생산 과정을 게임화한 영상으로, 직접 만든 트레일러와 인트로가 눈길을 끈다."
+    },
+    {
+      "title": "스킬 40개를 4개로 줄인 이유 #shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/rqw_mhvJyUk",
-      "published": "2026-10-08",
-      "desc": "2시간 만에 만든 첫 OMC. Anthropic이 OpenCode의 Claude OAuth 사용을 막았을 때 1~2시간 만에 내놓아 하루 만에 별 수백 개를 받았어요. 허예찬(gajae-code founder) · AI프렌즈 라이브 #214 풀영상 👉 https://youtu.be/D405oOFHgHY #AI프렌즈 #OMC #ClaudeCode #오픈소스",
-      "title_ko": "덕테이프 코드로 기회를 잡은 OMC 출시기",
-      "summary_ko": "Anthropic 차단에도 2시간 만에 OMC를 출시해 하루에 수백 건 다운로드를 기록한 사례"
+      "url": "https://www.youtube.com/shorts/l9vMdtFEevY",
+      "published": "2026-10-09",
+      "desc": "에이전트 20개, 스킬 40개로 블로트웨어가 된 OMC·OMX. 가재코드는 스킬 4개·에이전트 4개만 남겼어요. 허예찬(gajae-code founder) · AI프렌즈 라이브 #214 풀영상 👉 https://youtu.be/D405oOFHgHY #AI프렌즈 #가재코드 #하네스 #AI에이전트",
+      "title_ko": "스킬 40개를 4개로 줄인 이유",
+      "summary_ko": "복잡했던 OMC·OMX 에이전트를 4개 스킬·4개 에이전트로 축소해 개발 효율성을 강조한다."
     },
     {
       "title": "DeepMind's New AI Just Cracked The Code Of Life",
@@ -188,8 +272,8 @@
       "url": "https://www.youtube.com/watch?v=Wkaw03p3BrM",
       "published": "2026-10-07",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Thank you Google DeepMind for the invite. 📝 AlphaGenome Atlas is available here: https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-gen",
-      "title_ko": "DeepMind, 생명 코드 해독에 성공한 새로운 AI",
-      "summary_ko": "DeepMind가 발표한 AlphaGenome Atlas가 생물학적 코드를 분석해 새로운 가능성을 열었다"
+      "title_ko": "DeepMind, 생명 코드 해독 AI 발표",
+      "summary_ko": "DeepMind가 AlphaGenome Atlas를 공개하며 생물학적 정보 해석에 획기적인 AI 모델을 선보였다."
     },
     {
       "title": "I spent 4 weeks building an AI to humiliate one player",
@@ -197,8 +281,8 @@
       "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
       "published": "2026-10-07",
       "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "4주간 AI를 만들어 한 플레이어를 조롱한 실험",
-      "summary_ko": "Snap의 SPECS를 활용해 게임 내 특정 플레이어를 목표로 하는 AI를 제작한 과정 소개"
+      "title_ko": "플레이어를 괴롭히는 AI를 4주간 제작",
+      "summary_ko": "Snap의 SPECS 플랫폼을 이용해 특정 플레이어를 조롱하도록 설계한 AI 프로젝트 과정을 소개한다."
     },
     {
       "title": "The AI unlock has begun",
@@ -206,17 +290,8 @@
       "url": "https://www.youtube.com/watch?v=h5zkzon0gM4",
       "published": "2026-10-06",
       "desc": "How AI is used to mod games. Pass through mod, rebuilding in rust, porting mechanics. Claude Opus 5.5 game mod. Thanks to our sponsor Runway. https://runwayml.com/aisearch-oct Use code MKTG50 for 50% off any paid plan for the 1st month #ai #aitools #gaming #ainews #singularity Re",
-      "title_ko": "AI 언락이 시작됐다",
-      "summary_ko": "AI를 이용해 게임 모드를 자동 변환·재구성하는 최신 기술과 Runway 스폰서 혜택 안내"
-    },
-    {
-      "title": "대한민국 은행권 AI 해킹 사태… 보안 회사가 해내야할 역할이 중요해지는 이유 | 팔로알토 네트웍스 | Microsoft | CrowdStrike",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=23MK8riMljY",
-      "published": "2026-10-06",
-      "desc": "내가 한 번도 접속하지 않은 은행 서비스에서 내 정보가 샐 수도 있을까요. 신한·KB국민·하나은행의 직원·대출 업무용 서비스에서 고객정보가 유출된 사건을 살펴봅니다. 10월 4일 보도에서 금융당국은 인터넷·모바일뱅킹 영향과 금전 피해는 당시까지 없는 것으로 파악했습니다. 공격 관련 추정 서버에서 AI 도구의 흔적이 발견됐지만, 실제 공격에 쓰였는지는 확인되지 않았습니다. 사원증 비유로 로그인한 사람의 신분과 자료를 볼 권한을 따로 확인해야 하는 이유를 설명합니다. AI가 공격자의 자료 분석과 결과",
-      "title_ko": "한국 은행권 AI 해킹 사태와 보안 기업의 역할",
-      "summary_ko": "신한·KB·하나은행 직원 서비스에 AI 도구 흔적이 발견돼 보안 기업의 대응 중요성이 부각"
+      "title_ko": "AI 모드 해제 시작",
+      "summary_ko": "AI를 활용해 게임을 모드화하고 Rust로 재구축하는 방법을 Claude Opus 5.5와 함께 시연한다."
     },
     {
       "title": "[멋쟁이사자처럼 해커톤] ⏱️ 단 10초 안에 우리 서비스를 소개한다면?",
@@ -224,8 +299,8 @@
       "url": "https://www.youtube.com/shorts/vvnmAES7PLA",
       "published": "2026-10-06",
       "desc": "“10초 안에 서비스 소개해 주시면 상품 드릴게요!” 🎁 80개 대학이 모인 멋쟁이사자처럼 대학 14기 중앙해커톤에서 참가자들에게 갑작스러운 10초 미션을 던져봤습니다 👀 짧고 굵게 핵심만 쏙 뽑아낸 팀부터 시간에 쫓겨 다급해진 팀까지 😂 과연 참가자들은 10초 안에 자신들의 서비스를 완벽하게 소개하고 상품까지 받아갈 수 있었을까요? 🔥 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼 대학 14기 중앙운영단 미디어팀 임다현",
-      "title_ko": "[멋쟁이사자처럼 해커톤] 10초 안에 서비스 소개하기",
-      "summary_ko": "대학 80곳이 참여한 해커톤에서 10초 미션을 수행하며 핵심 아이디어를 압축해 발표한 사례"
+      "title_ko": "[멋쟁이사자처럼 해커톤] 10초 서비스 소개 도전",
+      "summary_ko": "대학 80개가 모인 해커톤에서 10초 안에 서비스 핵심을 전달하는 미션을 진행한다."
     },
     {
       "title": "OpenAI Security: Controlling Models is Now ‘Hell’",
@@ -233,8 +308,8 @@
       "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
       "published": "2026-10-01",
       "desc": "This video is hard to summarise. A cracked cipher, an OpenAI security warning, Gemini 4 Argon, RSI paper (co-authored by a who’s who of AI), Lab White House commitments, new hacks emerging, ‘deep personas’, biology Kasparov competitions, and so much more, ending with an epic Opus",
-      "title_ko": "OpenAI 보안: 모델 제어가 이제 ‘지옥’",
-      "summary_ko": "OpenAI가 모델 제어 어려움을 경고하며 최신 보안 위협과 대응 방안을 논의한 영상"
+      "title_ko": "OpenAI 보안: 모델 제어가 ‘지옥’이 되다",
+      "summary_ko": "OpenAI의 최신 보안 경고와 모델 통제 어려움을 짚으며 최신 해킹 동향을 조명한다."
     },
     {
       "title": "The Phone Number puzzle",
@@ -243,7 +318,7 @@
       "published": "2026-09-25",
       "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
       "title_ko": "전화번호 퍼즐",
-      "summary_ko": "Andrej Karpathy가 진행하는 월간 퍼즐 시리즈 중 하나로 논리적 사고를 테스트한다"
+      "summary_ko": "Andrej Karpathy가 진행하는 월간 퍼즐 시리즈 중 하나로, 논리적 사고를 요구한다."
     },
     {
       "title": "How Sigmund Freud revolutionized psychiatry | Andrew Scull and Lex Fridman",
@@ -252,7 +327,7 @@
       "published": "2026-09-22",
       "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=s7d2d8FhevU Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10058-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
       "title_ko": "프로이트가 정신의학을 혁신한 이야기",
-      "summary_ko": "Lex Fridman 팟캐스트에서 Andrew Scull이 프로이트의 정신분석이 현대 정신의학에 미친 영향 탐구"
+      "summary_ko": "Lex Fridman 팟캐스트에서 프로이트와 정신의학 변천사를 Andrew Scull이 설명한다."
     }
   ],
   "social": [],
