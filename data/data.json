@@ -1,151 +1,212 @@
 {
-  "generated_at": "2026-10-10T23:41:01.833622+00:00",
-  "date_label": "2026년 10월 11일 (일)",
-  "github_trending": [],
+  "generated_at": "2026-10-11T23:46:31.065681+00:00",
+  "date_label": "2026년 10월 12일 (월)",
+  "github_trending": [
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 541,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "lyogavin/airllm: LLM을 손쉽게 배포·관리할 수 있는 Airflow 기반 파이프라인 도구로, 개발·운영 효율성을 높입니다."
+    },
+    {
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "desc": "",
+      "stars_today": 536,
+      "lang": "Python",
+      "summary_ko": "huggingface/transformers: 다양한 사전학습 모델과 토크나이저를 제공해 NLP 연구·응용을 빠르게 시작하게 해줍니다."
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "desc": "",
+      "stars_today": 511,
+      "lang": "Python",
+      "summary_ko": "MadsLorentzen/ai-job-search: AI 직무 검색 엔진으로, 최신 AI 채용 정보를 자동 수집·분류해 구직자를 돕습니다."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 461,
+      "lang": "Python",
+      "summary_ko": "Alishahryar1/free-claude-code: Claude API 예제 코드를 무료로 제공해, Anthropic 모델을 손쉽게 테스트할 수 있게 합니다."
+    },
+    {
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "",
+      "stars_today": 443,
+      "lang": "Python",
+      "summary_ko": "anthropics/knowledge-work-plugins: 지식 작업 자동화를 위한 Anthropic 플러그인 모음으로, 업무 흐름에 AI를 통합합니다."
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 260,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 활용법을 단계별로 설명하는 교육 자료로, 입문자에게 실용적인 가이드를 제공합니다."
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "desc": "",
+      "stars_today": 167,
+      "lang": "Python",
+      "summary_ko": "Shubhamsaboo/awesome-llm-apps: 다양한 LLM 기반 애플리케이션을 정리한 리스트로, 아이디어 발굴과 구현에 참고됩니다."
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "desc": "",
+      "stars_today": 126,
+      "lang": "Python",
+      "summary_ko": "datawhalechina/hello-agents: 멀티에이전트 프레임워크 예제로, 에이전트 간 협업 및 상호작용 구현 방법을 보여줍니다."
+    },
+    {
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "desc": "",
+      "stars_today": 59,
+      "lang": "Python",
+      "summary_ko": "ComposioHQ/awesome-claude-skills: Claude용 스킬(플러그인) 컬렉션으로, 기능 확장과 맞춤형 AI 서비스를 쉽게 만들 수 있습니다."
+    },
+    {
+      "repo": "NirDiamant/agents-towards-production",
+      "url": "https://github.com/NirDiamant/agents-towards-production",
+      "desc": "",
+      "stars_today": 48,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/agents-towards-production: 에이전트를 프로덕션 환경에 적용하기 위한 설계·배포 전략을 정리한 가이드입니다."
+    },
+    {
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "desc": "",
+      "stars_today": 38,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/RAG_Techniques: Retrieval‑Augmented Generation 기법을 상세히 정리해, 검색 기반 생성 모델 구현에 도움을 줍니다."
+    },
+    {
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "desc": "",
+      "stars_today": 32,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/GenAI_Agents: 생성형 AI 에이전트 설계와 구현 사례를 모아, 실전 프로젝트에 바로 적용할 수 있게 합니다."
+    }
+  ],
   "hackernews": [
     {
-      "title": "Bitwarden Dual License Model",
-      "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-      "points": 329,
-      "comments": 242,
-      "hn_url": "https://news.ycombinator.com/item?id=50033407",
-      "title_ko": "Bitwarden 듀얼 라이선스 모델",
-      "summary_ko": "Bitwarden이 무료·유료 두 가지 라이선스를 동시에 제공해 보안·비용 선택 폭을 넓힌다."
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "points": 174,
+      "comments": 251,
+      "hn_url": "https://news.ycombinator.com/item?id=50047422",
+      "title_ko": "LLM 능력에 대한 공유 이해 격차가 확대되고 있다",
+      "summary_ko": "대형 언어 모델의 실제 역량에 대한 공통 인식이 점점 차이 나며, 개발·비즈니스 전략에 영향을 미친다."
     },
     {
-      "title": "Grieving the loss of details",
-      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-      "points": 320,
-      "comments": 259,
-      "hn_url": "https://news.ycombinator.com/item?id=49980880",
-      "title_ko": "상실의 세부 사항을 애도하기",
-      "summary_ko": "디지털 시대에 사라진 작은 정보들이 우리 기억과 문화에 미치는 영향을 조명한다."
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "points": 135,
+      "comments": 101,
+      "hn_url": "https://news.ycombinator.com/item?id=50039092",
+      "title_ko": "500B 토큰 이후: AI 에이전트가 1인칭 슈팅 게임을 디컴파일하도록 허용",
+      "summary_ko": "5천억 토큰을 학습한 AI가 게임 코드를 역분석해 1인칭 슈팅 게임을 자동으로 이해·조작하는 실험을 소개한다."
     },
     {
-      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-      "url": "https://github.com/rociiu/talorys",
-      "points": 230,
-      "comments": 118,
-      "hn_url": "https://news.ycombinator.com/item?id=50031614",
-      "title_ko": "Talorys – Cloudflare 무료 티어에서 구동되는 셀프 호스팅 AI 에이전트",
-      "summary_ko": "Talorys는 Cloudflare 무료 플랜으로 개인 AI 에이전트를 직접 운영할 수 있게 해 비용을 크게 절감한다."
+      "title": "JulianFlux: Electrodynamic vector retrieval and causal routing for AI",
+      "url": "https://github.com/julianjohnson-web/julianflux-research",
+      "points": 4,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50048702",
+      "title_ko": "JulianFlux: AI를 위한 전자기 벡터 검색 및 인과 라우팅",
+      "summary_ko": "AI 시스템에 전자기적 벡터 검색과 인과적 라우팅을 적용해 효율적인 정보 흐름을 구현하는 새로운 프레임워크를 발표한다."
     },
     {
-      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-      "points": 149,
-      "comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=50016956",
-      "title_ko": "Mxc: Microsoft Execution Containers 1.0.0",
-      "summary_ko": "Microsoft가 경량 실행 컨테이너인 Mxc를 출시해 클라우드·엣지 환경에서 빠른 배포를 지원한다."
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
-      "points": 102,
-      "comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=50035886",
-      "title_ko": "Nvidia, 미국 ‘오픈’ 모델 스타트업 Reflection AI 인수 논의",
-      "summary_ko": "Nvidia가 오픈 AI 모델을 개발하는 Reflection AI와 인수 협상을 진행 중이며, 생태계 확장을 목표로 한다."
-    },
-    {
-      "title": "Food processing influences metabolism and brain activity",
-      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-      "points": 94,
-      "comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=50029830",
-      "title_ko": "식품 가공이 대사와 뇌 활동에 미치는 영향",
-      "summary_ko": "연구는 식품 가공 과정이 신진대사와 뇌 파형을 변화시켜 건강에 중요한 역할을 한다고 밝힌다."
-    },
-    {
-      "title": "OpenSCAD the Programmers Solid 3D CAD Modeller",
-      "url": "https://openscad.org/",
-      "points": 84,
-      "comments": 77,
-      "hn_url": "https://news.ycombinator.com/item?id=49984349",
-      "title_ko": "OpenSCAD – 프로그래머용 3D CAD 모델러",
-      "summary_ko": "OpenSCAD는 코드 기반 설계로 정밀한 3D 모델을 만들 수 있는 오픈소스 CAD 툴이다."
-    },
-    {
-      "title": "Recent AI models struggled to match a human algorithmic innovation",
-      "url": "https://epoch.ai/publications/innovationeval",
-      "points": 66,
-      "comments": 53,
-      "hn_url": "https://news.ycombinator.com/item?id=50027257",
-      "title_ko": "최근 AI 모델, 인간 알고리즘 혁신에 미치지 못해",
-      "summary_ko": "최신 AI 모델들이 인간이 만든 새로운 알고리즘 수준에 도달하지 못해 한계가 드러났다."
+      "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "points": 0,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50042330",
+      "title_ko": "Weave (YC W25) ML·AI·제품·디자인 엔지니어 채용",
+      "summary_ko": "YC W25 스타트업 Weave가 머신러닝·AI·제품·디자인 분야 엔지니어를 모집하며, 차세대 협업 플랫폼 개발을 목표로 한다."
     }
   ],
   "reddit": [
     {
-      "title": "Open-source Mac app that runs EmbeddingGemma 2 locally to search your files by what’s in them",
+      "title": "Every Model That Can Be Run On 10-16GB VRAM Ranked",
       "sub": "LocalLLaMA",
-      "author": "A-Rahim",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2eeds/opensource_mac_app_that_runs_embeddinggemma_2/",
-      "title_ko": "오픈소스 Mac 앱, EmbeddingGemma 2 로컬 실행으로 파일 내용 검색",
-      "summary_ko": "EmbeddingGemma 2를 로컬에서 구동해 파일 내용을 의미 기반으로 검색할 수 있는 Mac용 오픈소스 앱이다."
+      "author": "WEREWOLF_BX13",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x3gpyi/every_model_that_can_be_run_on_1016gb_vram_ranked/",
+      "title_ko": "10~16GB VRAM에서 실행 가능한 모든 모델 순위",
+      "summary_ko": "10~16GB VRAM에 맞는 LLM을 성능·용량별로 정리해 비교한 리스트"
     },
     {
-      "title": "NVIDIA reportedly discontinuing RTX 5090, GB202 GPUs to be reserved for RTX PRO series",
+      "title": "World Action Models vs VLAs: Robotics Just Had Its GPT-2 Moment [N]",
+      "sub": "MachineLearning",
+      "author": "moschles",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x38qpy/world_action_models_vs_vlas_robotics_just_had_its/",
+      "title_ko": "World Action Models vs VLA: 로봇이 GPT‑2 순간을 맞이하다",
+      "summary_ko": "World Action Models와 VLA를 비교해 로봇 제어가 대규모 언어 모델 수준으로 진화함을 조명"
+    },
+    {
+      "title": "Here’s why RTX 5090 costs $5,000: AI firms are buying gaming GPUs by the pallet",
       "sub": "LocalLLaMA",
       "author": "chemist_slime",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2bt6r/nvidia_reportedly_discontinuing_rtx_5090_gb202/",
-      "title_ko": "NVIDIA, RTX 5090 및 GB202 GPU 단종·RTX PRO 시리즈에 전용",
-      "summary_ko": "RTX 5090과 GB202 GPU가 단종되고, 해당 제품군은 RTX PRO 라인에만 배정될 전망이다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x37tg6/heres_why_rtx_5090_costs_5000_ai_firms_are_buying/",
+      "title_ko": "RTX 5090이 5천 달러인 이유: AI 기업이 게임 GPU를 대량 구매",
+      "summary_ko": "AI 기업들의 대규모 GPU 수요가 RTX 5090 가격 상승과 공급 부족을 초래하고 있다"
     },
     {
-      "title": "big or small?",
-      "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x29hx8/big_or_small/",
-      "title_ko": "크기 선택: 대형 vs 소형",
-      "summary_ko": "프로젝트나 모델 선택 시 대형과 소형 옵션 중 어떤 것이 적합한지 논의하는 게시물이다."
+      "title": "What's up with google scholar citations ? [D]",
+      "sub": "MachineLearning",
+      "author": "ade17_in",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3fbv4/whats_up_with_google_scholar_citations_d/",
+      "title_ko": "Google Scholar 인용수는 왜 변동이 심한가?",
+      "summary_ko": "Google Scholar 인용 데이터의 변동 원인과 신뢰성 문제를 분석한 글"
     },
     {
-      "title": "No more RTX 5090",
+      "title": "Qualcomm CEO reveals AI companies want phones running 100-billion-parameter models continuously by 2028.",
       "sub": "LocalLLaMA",
-      "author": "Hot_Arachnid3547",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2hs1e/no_more_rtx_5090/",
-      "title_ko": "RTX 5090, 더 이상 출시되지 않음",
-      "summary_ko": "RTX 5090이 출시 취소돼 향후 그래픽 카드 라인업에 영향을 미칠 것으로 보인다."
+      "author": "Recoil42",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2z14s/qualcomm_ceo_reveals_ai_companies_want_phones/",
+      "title_ko": "Qualcomm CEO, 2028년까지 1000억 파라미터 모델을 휴대폰에 탑재 목표",
+      "summary_ko": "Qualcomm은 2028년까지 스마트폰이 1000억 파라미터 모델을 지속적으로 구동하도록 지원할 계획이다"
     },
     {
-      "title": "Engineer / developer observations of Gemma4-31B, Qwen3.8-27B, and 6.1-Sol for software engineering work",
-      "sub": "LocalLLaMA",
-      "author": "therealjerseytom",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2mw1o/engineer_developer_observations_of_gemma431b/",
-      "title_ko": "엔지니어·개발자, Gemma4-31B·Qwen3.8-27B·6.1‑Sol 사용 후기",
-      "summary_ko": "Gemma4-31B, Qwen3.8-27B, 6.1‑Sol을 소프트웨어 엔지니어링에 적용한 실제 경험을 공유한다."
-    },
-    {
-      "title": "Is anyone running Qwen3.8 Flash Next with a 1M context?",
-      "sub": "LocalLLaMA",
-      "author": "IngwiePhoenix",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x2lgca/is_anyone_running_qwen38_flash_next_with_a_1m/",
-      "title_ko": "Qwen3.8 Flash Next 1M 컨텍스트 실행 사례 있나요?",
-      "summary_ko": "1백만 토큰 컨텍스트를 지원하는 Qwen3.8 Flash Next를 실제로 구동한 사례를 묻는 질문이다."
+      "title": "I built a browser tool to visualize how a small LLM picks its next word and see what it's attending to [P]",
+      "sub": "MachineLearning",
+      "author": "Minute-Mountain2665",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x3lgnz/i_built_a_browser_tool_to_visualize_how_a_small/",
+      "title_ko": "소형 LLM이 다음 단어를 선택하는 과정을 시각화한 브라우저 도구",
+      "summary_ko": "작은 언어 모델의 토큰 선택과 어텐션을 실시간으로 보여주는 웹 기반 시각화 툴을 소개"
     }
   ],
   "youtube": [
     {
-      "title": "Manus 2.0으로 만든 반도체 쇼티지 게임!! ㅋㅋㅋ 원하는 영상 넣으면 스타일도 만들어준다!",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/tKaUk1pKvOQ",
-      "published": "2026-10-09",
-      "desc": "* Manus 바로가기 - http://manus.im/ * Cue 바로가기 - https://cue.im/ 마누스 2.0으로 패치가 직접 반도체를 모으는 게임을 만들어봤습니다. 메모리 쇼티지와 파운드리를 배경으로, 직접 플레이하며 캐릭터의 움직임과 점프 높이를 다듬었습니다. 게임 화면과 채널 이미지를 활용해 트레일러와 안될공학 인트로도 제작했습니다. 참고 영상으로 원하는 분위기를 전달하고, 타임라인에서 필요한 부분을 수정하는 과정도 살펴봤습니다. 영상 생성과 코드 기반 그래픽이 어떻게 함께 쓰이",
-      "title_ko": "Manus 2.0으로 만든 반도체 쇼트지 게임",
-      "summary_ko": "Manus 2.0을 활용해 반도체 부족을 주제로 한 게임과 트레일러를 직접 제작한 사례입니다."
-    },
-    {
-      "title": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
-      "channel": "테디노트",
-      "url": "https://www.youtube.com/watch?v=jAVTcozZBdw",
-      "published": "2026-07-11",
-      "desc": "\"브레인크루는 어떤 제품을 만들고 어떻게 일하나요?\" 저희는 20인 이상 구성된 빠르게 성장하고 있는 AI 제품을 만들고 고객의 AI 문제를 해결하는 스타트업입니다. 투자 없이 바닥부터 치열하게 현장에서 부딪히면서 기업의 AI 고민을 해결하는데 집중하고 있습니다. 그리고, 브레인크루의 2026 하반기 대규모 채용이 시작되었습니다. 그리고 이번 채용을 통해 새로운 10명+ 새로운 팀원을 찾습니다. 우리는 이미 경험한 바 있습니다. 어려운 AI 문제를 해결함에 있어 우리에게 진짜 필요한 것은 \"좋은 ",
-      "title_ko": "[브레인크루 X 테디노트] 브레인크루 유튜브 LIVE 크루 채용 설명회 2026🔥",
-      "summary_ko": "AI 스타트업 브레인크루가 2026년 하반기 대규모 채용을 알리는 라이브 설명회를 진행합니다."
+      "title": "I spent 4 weeks building an AI to humiliate one player",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
+      "published": "2026-10-07",
+      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
+      "title_ko": "한 플레이어를 조롱하기 위해 4주간 AI를 만들었습니다",
+      "summary_ko": "sentdex 유튜브 영상으로, 한 명의 플레이어를 조롱하도록 AI를 4주간 개발한 과정을 소개합니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "handle": "@karpathy",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "note": "HN 174pts · 251 댓글",
+      "title_ko": "LLM 능력에 대한 공유 이해의 격차가 확대되고 있다",
+      "summary_ko": "LLM의 실제 성능과 기대 사이 인식 차이가 커져 연구·산업 현장에서 오해 위험이 커지고 있다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
