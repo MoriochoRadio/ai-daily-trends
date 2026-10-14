@@ -1,216 +1,203 @@
 {
-  "generated_at": "2026-10-13T23:46:42.201654+00:00",
-  "date_label": "2026년 10월 14일 (수)",
+  "generated_at": "2026-10-14T23:19:44.605480+00:00",
+  "date_label": "2026년 10월 15일 (목)",
   "github_trending": [
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "ifixai-ai/iFixAi",
+      "url": "https://github.com/ifixai-ai/iFixAi",
       "desc": "",
-      "stars_today": 1591,
+      "stars_today": 2143,
       "lang": "Python",
-      "summary_ko": "Alishahryar1의 free-claude-code는 Claude 모델 활용을 위한 무료 코드와 예제를 제공해 개발자가 손쉽게 시작할 수 있게 돕습니다."
+      "summary_ko": "iFixAi는 AI 기반 코드 자동수정 도구로, 개발자의 디버깅 시간을 크게 단축시켜 줍니다."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 1004,
+      "stars_today": 687,
       "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin의 airllm은 경량화된 LLM 배포 프레임워크로, 클라우드·온프레미스 환경에서 빠른 모델 서빙을 지원합니다."
+      "summary_ko": "airllm은 경량 LLM 배포 프레임워크로, 클라우드 없이 로컬에서 빠르게 모델을 실행할 수 있습니다."
     },
     {
-      "repo": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
       "desc": "",
-      "stars_today": 210,
+      "stars_today": 472,
       "lang": "Python",
-      "summary_ko": "baidu/Unlimited-OCR은 제한 없는 이미지 텍스트 추출 API로, 대량 문서·이미지 처리에 최적화된 OCR 솔루션을 제공합니다."
+      "summary_ko": "free-claude-code는 Claude 모델용 무료 코드 예시 모음으로, 프롬프트 설계와 활용법을 쉽게 배울 수 있습니다."
     },
     {
-      "repo": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 195,
+      "stars_today": 158,
       "lang": "Python",
-      "summary_ko": "MadsLorentzen/ai-job-search는 AI 기반 채용 매칭 도구로, 이력서와 공고를 분석해 맞춤형 직무를 추천합니다."
+      "summary_ko": "claude-plugins-official은 Claude용 플러그인 공식 레포로, 다양한 외부 서비스 연동을 지원합니다."
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "",
+      "stars_today": 146,
+      "lang": "Python",
+      "summary_ko": "scientific-agent-skills는 과학 연구용 AI 에이전트 스킬 집합으로, 실험 설계와 데이터 분석을 자동화합니다."
+    },
+    {
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "",
+      "stars_today": 97,
+      "lang": "Python",
+      "summary_ko": "agents는 다목적 AI 에이전트 템플릿 모음으로, 다양한 업무 자동화에 바로 적용 가능합니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 81,
+      "stars_today": 83,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트 입문자를 위한 단계별 튜토리얼과 샘플 코드를 제공해 학습 장벽을 낮춥니다."
-    },
-    {
-      "repo": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "desc": "",
-      "stars_today": 78,
-      "lang": "Python",
-      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude용 스킬·플러그인 모음으로, 다양한 업무 자동화를 손쉽게 구현할 수 있습니다."
-    },
-    {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "desc": "",
-      "stars_today": 44,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching은 효율적인 자기주도 학습 방법을 정리한 가이드로, 학습 계획·실천 전략을 제시합니다."
+      "summary_ko": "ai-agents-for-beginners는 초보자를 위한 AI 에이전트 튜토리얼로, 단계별 구현 예제가 포함돼 있습니다."
     },
     {
       "repo": "datawhalechina/happy-llm",
       "url": "https://github.com/datawhalechina/happy-llm",
       "desc": "",
-      "stars_today": 30,
+      "stars_today": 35,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/happy-llm은 LLM 활용 예제와 툴킷을 모아 놓은 컬렉션으로, 모델 실험과 적용을 즐겁게 만들습니다."
+      "summary_ko": "happy-llm은 한국어 LLM 학습 및 평가 파이프라인으로, 손쉽게 모델을 실험하고 비교할 수 있습니다."
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 32,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 인터랙티브하게 학습할 수 있는 교육 자료입니다."
+    },
+    {
+      "repo": "isair/jarvis",
+      "url": "https://github.com/isair/jarvis",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Python",
+      "summary_ko": "jarvis는 멀티모달 AI 비서 프로젝트로, 음성·이미지·텍스트를 통합 처리합니다."
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "higgsfield는 머신러닝 연구용 도구 모음으로, 최신 알고리즘 구현과 실험을 지원합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "points": 900,
-      "comments": 700,
-      "hn_url": "https://news.ycombinator.com/item?id=50073879",
-      "title_ko": "Gemini 4 Argon",
-      "summary_ko": "Google DeepMind의 최신 로봇용 AI 모델 Gemini 4 Argon이 발표돼 주목받고 있습니다."
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "points": 801,
+      "comments": 420,
+      "hn_url": "https://news.ycombinator.com/item?id=50091788",
+      "title_ko": "AI 해킹 보고서, 격리·모니터링 실패가 원인",
+      "summary_ko": "전문가들은 AI 시스템의 격리와 모니터링 부실이 최근 해킹 사례를 초래했다고 분석한다."
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "points": 473,
-      "comments": 470,
-      "hn_url": "https://news.ycombinator.com/item?id=50073633",
-      "title_ko": "Anthropic의 소스 컨트롤 재설계",
-      "summary_ko": "Anthropic이 내부 개발 흐름을 개선하기 위해 소스 컨트롤 시스템을 전면 개편한 사례입니다."
+      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
+      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
+      "points": 239,
+      "comments": 186,
+      "hn_url": "https://news.ycombinator.com/item?id=50092664",
+      "title_ko": "은행, 최근 인수한 AI 데이터센터 부채 매각 시도",
+      "summary_ko": "은행들이 새로 인수한 AI 데이터센터 부채를 빠르게 처분해 리스크를 줄이려는 움직임이 주목된다."
     },
     {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "url": "https://eg2.haku.sh/",
-      "points": 380,
-      "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=50069971",
-      "title_ko": "EmbeddingGemma 2를 음성‑텍스트 모델로 변환",
-      "summary_ko": "EmbeddingGemma 2를 활용해 고품질 음성 인식 모델을 만든 실험 결과가 공유되었습니다."
+      "title": "Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "points": 199,
+      "comments": 87,
+      "hn_url": "https://news.ycombinator.com/item?id=50094694",
+      "title_ko": "Anthropic의 Scion, ‘모노노케’에서 영감받아 개발",
+      "summary_ko": "Anthropic이 발표한 Scion 모델이 일본 애니메이션 ‘모노노케 히메’의 요소를 차용해 독특한 특징을 보여준다."
     },
     {
-      "title": "OpenAI engineer arrested in bugging of executive conference room",
-      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-      "points": 336,
-      "comments": 291,
-      "hn_url": "https://news.ycombinator.com/item?id=50078141",
-      "title_ko": "OpenAI 엔지니어, 임원 회의실 도청 혐의로 체포",
-      "summary_ko": "OpenAI 직원이 사내 임원 회의실을 무단으로 녹음해 체포돼 보안 논란을 일으켰습니다."
+      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+      "url": "https://clova.email/",
+      "points": 65,
+      "comments": 52,
+      "hn_url": "https://news.ycombinator.com/item?id=50090932",
+      "title_ko": "Show HN: 발신자 1명만 허용하는 이메일 앱 제작",
+      "summary_ko": "한 개발자가 받은 편지함당 한 명의 발신자만 허용하는 이메일 애플리케이션을 공개해 관심을 끈다."
     },
     {
-      "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-      "url": "https://blog.character.ai/an-update-on-character-ai/",
-      "points": 270,
-      "comments": 260,
-      "hn_url": "https://news.ycombinator.com/item?id=50068036",
-      "title_ko": "Character.ai, 자발적 챕터 11 파산 신청",
-      "summary_ko": "AI 챗봇 스타트업 Character.ai가 재정 압박을 이유로 미국 파산법 제11조를 신청했습니다."
+      "title": "Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "points": 61,
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50090799",
+      "title_ko": "AI가 전하는 이야기",
+      "summary_ko": "AI가 생성한 다양한 이야기를 모아 AI 콘텐츠의 가능성과 한계를 탐구한다."
     },
     {
-      "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-      "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-      "points": 225,
-      "comments": 139,
-      "hn_url": "https://news.ycombinator.com/item?id=50073221",
-      "title_ko": "HN에 글 올리니 AI 봇 트래픽 급증",
-      "summary_ko": "Hacker News에 게시한 뒤 웹사이트가 자동화된 AI 봇 트래픽으로 급격히 늘어났습니다."
-    },
-    {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-      "points": 174,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=50074869",
-      "title_ko": "Gemini 4 Argon for Robotics",
-      "summary_ko": "로봇 제어에 특화된 Gemini 4 Argon 모델이 실제 현장 적용 사례와 함께 소개되었습니다."
-    },
-    {
-      "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-      "points": 164,
-      "comments": 274,
-      "hn_url": "https://news.ycombinator.com/item?id=50072286",
-      "title_ko": "Apple, 'Safari 전환' 캠페인으로 Chrome 대체 촉구",
-      "summary_ko": "Apple이 새 캠페인으로 Safari 사용을 권장하며 Chrome 사용을 중단하도록 설득하고 있습니다."
+      "title": "How I manage persistent Claude Code loops: Spool",
+      "url": "https://github.com/enes-alatas/spool",
+      "points": 4,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50048193",
+      "title_ko": "Claude 코드 루프 지속 관리법: Spool",
+      "summary_ko": "작성자는 Spool 도구를 활용해 Claude의 지속적인 코드 루프를 효율적으로 관리하는 방법을 공유한다."
     }
   ],
   "reddit": [
     {
-      "title": "It's been too quiet on the other side of the Pacific",
+      "title": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x4u6vi/its_been_too_quiet_on_the_other_side_of_the/",
-      "title_ko": "태평양 건너편이 너무 조용했다",
-      "summary_ko": "Reddit r/LocalLLaMA에서 공유된 글로, 최근 AI 동향이 서구에 비해 정체된 느낌을 논의한다."
+      "author": "98Saman",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
+      "title_ko": "PS5에 Qwen 3.8 27B 모델을 탑재해 GPU에서 초당 20토큰 실행",
+      "summary_ko": "누군가 PS5를 탈옥해 Qwen 3.8 27B 모델을 GPU에 올려 초당 20토큰 속도로 구동한 사례가 Reddit에 소개되었습니다."
     },
     {
-      "title": "Any Advice for what Industry is looking for in ML PhDs? [D]",
+      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
       "sub": "MachineLearning",
-      "author": "Perfect-Asparagus300",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5080s/any_advice_for_what_industry_is_looking_for_in_ml/",
-      "title_ko": "ML 박사에게 산업이 원하는 것은? 조언 구함 [D]",
-      "summary_ko": "r/MachineLearning에 올라온 질문으로, 기업이 석·박사에게 기대하는 기술·경험과 준비 방법을 묻는다."
+      "author": "Dry_Leadership1075",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
+      "title_ko": "alphaXiv, 사용자 보고를 비공개로 진행하는 새로운 연구 에이전트 도입",
+      "summary_ko": "alphaXiv가 사용자 데이터를 사전 고지 없이 수집·보고하도록 설계된 연구 에이전트를 공개해 윤리 논란을 일으켰습니다."
     },
     {
-      "title": "Someone is running Qwen 27B at ~20 tok/s on a jailbroken PS5's GPU",
+      "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
       "sub": "LocalLLaMA",
-      "author": "LatentSpacer",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5ak2n/someone_is_running_qwen_27b_at_20_toks_on_a/",
-      "title_ko": "누군가 PS5 GPU에서 Qwen 27B를 초당 20토큰 수준으로 실행",
-      "summary_ko": "PS5 GPU를 해킹해 Qwen 27B 모델을 약 20토큰/초 속도로 구동한 사례가 r/LocalLLaMA에 소개됐다."
+      "author": "CulturalKing5623",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
+      "title_ko": "NVIDIA Nemotron Bolt 3.5 74B A9B, 10월 15일 출시 예정",
+      "summary_ko": "NVIDIA가 74억 파라미터 규모의 Nemotron Bolt 3.5 A9B 모델을 10월 15일에 출시한다는 소식이 Reddit에 전해졌습니다."
     },
     {
-      "title": "On writing papers [D]",
+      "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
       "sub": "MachineLearning",
-      "author": "ComprehensiveTop3297",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x54cb5/on_writing_papers_d/",
-      "title_ko": "논문 작성에 관해 [D]",
-      "summary_ko": "r/MachineLearning에서 논문 작성 팁과 연구 발표 전략을 공유하는 토론 글이다."
+      "author": "Public-Feedback-6705",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
+      "title_ko": "2026년 포스트‑트랜스포머 아키텍처 현황 정리",
+      "summary_ko": "2026년 기준 최신 포스트‑트랜스포머 모델들의 구조와 트렌드를 정리한 연구가 Reddit에 공유되었습니다."
     },
     {
-      "title": "LiquidAI/LFM2.5-24B-A2B",
+      "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
       "sub": "LocalLLaMA",
-      "author": "Skyline34rGt",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x52kco/liquidailfm2524ba2b/",
-      "title_ko": "LiquidAI/LFM2.5-24B-A2B",
-      "summary_ko": "r/LocalLLaMA에서 공개된 LiquidAI의 24억 파라미터 LFM2.5 모델 저장소 소개 글이다."
+      "author": "jakecoolguy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
+      "title_ko": "AI 레이스: 중국 오픈‑웨이트 모델, 미국 폐쇄형 모델보다 7개월 뒤처짐",
+      "summary_ko": "중국의 공개 가중치 AI 모델이 미국의 폐쇄형 모델에 비해 출시 시점이 약 7개월 늦은 것으로 분석되었습니다."
     },
     {
-      "title": "I built a pytorch library of pretrained models for 3D point clouds following timm standards [P]",
+      "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
       "sub": "MachineLearning",
-      "author": "arthurdjn",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x4x6ls/i_built_a_pytorch_library_of_pretrained_models/",
-      "title_ko": "3D 포인트 클라우드 사전학습 모델 파이토치 라이브러리 구축 [P]",
-      "summary_ko": "timm 표준을 따르는 3D 포인트 클라우드용 사전학습 모델 파이토치 라이브러리를 만든 내용이 r/MachineLearning에 공유됐다."
+      "author": "sulcantonin",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
+      "title_ko": "Event2Vec: 선형 점수와 이벤트별 기여를 정확히 분해하는 가산형 임베딩",
+      "summary_ko": "Event2Vec 논문은 이벤트 기록을 선형 점수로 변환하면서 각 이벤트의 기여도를 정확히 분리하는 방법을 제안합니다."
     }
   ],
-  "youtube": [
-    {
-      "title": "AI 메모리 쇼티지는 끝일까...? 중국 CXMT D램기술 4F², 삼성보다 2년 먼저 적용 | 작은 셀이 만드는 큰 차이",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=LM9NDhnEKkQ",
-      "published": "2026-10-13",
-      "desc": "중국 메모리 기업 CXMT가 4F² 기반 서버용 D램 제품을 연내 출시할 계획이라는 보도가 나왔습니다. 삼성전자의 도입 목표로 보도된 2028년과 비교하며 ‘2년 먼저’라는 표현도 등장했습니다. 이번 영상에서는 이 일정 차이가 무엇을 의미하는지 살펴봅니다. 4F²는 메모리의 정보를 담는 셀 하나가 차지하는 면적과 관련된 기술입니다. 같은 조건에서 셀 면적을 줄이면 얼마나 더 많은 정보를 담을 수 있는지 설명합니다. 트랜지스터를 세우는 구조와 배선 간섭, 셀과 주변 회로를 따로 만드는 방식도 알아봅",
-      "title_ko": "AI 메모리 쇼티지는 끝일까?… 중국 CXMT D램 기술 4F², 삼성보다 2년 먼저 적용",
-      "summary_ko": "중국 CXMT가 4F² 기반 서버 D램을 연내 출시해 삼성보다 2년 앞서며 메모리 셀 면적 축소 경쟁을 가속화한다."
-    }
-  ],
-  "social": [
-    {
-      "title": "Firefox Enterprise",
-      "handle": "@en-US",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "note": "HN 607pts · 252 댓글",
-      "title_ko": "Firefox Enterprise",
-      "summary_ko": "Firefox Enterprise와 관련된 트위터 화제 글을 소개하며, 기업 환경에서의 활용 가능성을 조명합니다."
-    }
-  ],
+  "youtube": [],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
