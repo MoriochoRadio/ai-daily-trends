@@ -1,203 +1,292 @@
 {
-  "generated_at": "2026-10-14T23:19:44.605480+00:00",
-  "date_label": "2026년 10월 15일 (목)",
+  "generated_at": "2026-10-15T23:08:08.971327+00:00",
+  "date_label": "2026년 10월 16일 (금)",
   "github_trending": [
     {
       "repo": "ifixai-ai/iFixAi",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "desc": "",
-      "stars_today": 2143,
+      "stars_today": 1887,
       "lang": "Python",
-      "summary_ko": "iFixAi는 AI 기반 코드 자동수정 도구로, 개발자의 디버깅 시간을 크게 단축시켜 줍니다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 687,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "airllm은 경량 LLM 배포 프레임워크로, 클라우드 없이 로컬에서 빠르게 모델을 실행할 수 있습니다."
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "",
-      "stars_today": 472,
-      "lang": "Python",
-      "summary_ko": "free-claude-code는 Claude 모델용 무료 코드 예시 모음으로, 프롬프트 설계와 활용법을 쉽게 배울 수 있습니다."
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "desc": "",
-      "stars_today": 158,
-      "lang": "Python",
-      "summary_ko": "claude-plugins-official은 Claude용 플러그인 공식 레포로, 다양한 외부 서비스 연동을 지원합니다."
+      "summary_ko": "ifixai-ai/iFixAi: AI 기반 코드 자동 수정 도구로, 개발자의 버그 해결 시간을 크게 단축시켜 줍니다."
     },
     {
       "repo": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "desc": "",
-      "stars_today": 146,
+      "stars_today": 1091,
       "lang": "Python",
-      "summary_ko": "scientific-agent-skills는 과학 연구용 AI 에이전트 스킬 집합으로, 실험 설계와 데이터 분석을 자동화합니다."
+      "summary_ko": "K-Dense-AI/scientific-agent-skills: 과학 연구용 AI 에이전트 스킬 컬렉션으로, 실험 설계와 데이터 분석을 지원합니다."
     },
     {
-      "repo": "wshobson/agents",
-      "url": "https://github.com/wshobson/agents",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 97,
+      "stars_today": 525,
       "lang": "Python",
-      "summary_ko": "agents는 다목적 AI 에이전트 템플릿 모음으로, 다양한 업무 자동화에 바로 적용 가능합니다."
+      "summary_ko": "anthropics/claude-plugins-official: Claude 모델용 공식 플러그인 저장소로, 다양한 서비스와 손쉽게 연동할 수 있습니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
       "desc": "",
-      "stars_today": 83,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "ai-agents-for-beginners는 초보자를 위한 AI 에이전트 튜토리얼로, 단계별 구현 예제가 포함돼 있습니다."
-    },
-    {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "desc": "",
-      "stars_today": 35,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "happy-llm은 한국어 LLM 학습 및 평가 파이프라인으로, 손쉽게 모델을 실험하고 비교할 수 있습니다."
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 32,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 인터랙티브하게 학습할 수 있는 교육 자료입니다."
-    },
-    {
-      "repo": "isair/jarvis",
-      "url": "https://github.com/isair/jarvis",
-      "desc": "",
-      "stars_today": 27,
+      "stars_today": 206,
       "lang": "Python",
-      "summary_ko": "jarvis는 멀티모달 AI 비서 프로젝트로, 음성·이미지·텍스트를 통합 처리합니다."
+      "summary_ko": "bojieli/ai-agent-book: AI 에이전트 설계와 구현을 다룬 실전 가이드북으로, 개발자에게 실용적인 예제를 제공합니다."
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 190,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "lyogavin/airllm: LLM 기반 에어플레인 시뮬레이션 프레임워크로, 항공 분야 연구에 활용됩니다."
+    },
+    {
+      "repo": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
+      "desc": "",
+      "stars_today": 141,
+      "lang": "Python",
+      "summary_ko": "ahujasid/mcp-for-blender: Blender용 멀티채널 파이프라인 플러그인으로, 복잡한 모델링 작업을 효율화합니다."
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 39,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "anthropics/claude-cookbooks: Claude 모델 활용 레시피 모음으로, 다양한 업무 자동화 시나리오를 제공합니다."
+    },
+    {
+      "repo": "alirezadir/AIMLInterviews",
+      "url": "https://github.com/alirezadir/AIMLInterviews",
+      "desc": "",
+      "stars_today": 34,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "alirezadir/AIMLInterviews: AI·ML 분야 인터뷰 질문·답변 데이터베이스로, 취업 준비에 유용합니다."
     },
     {
       "repo": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "desc": "",
-      "stars_today": 27,
+      "stars_today": 28,
       "lang": "Jupyter Notebook",
-      "summary_ko": "higgsfield는 머신러닝 연구용 도구 모음으로, 최신 알고리즘 구현과 실험을 지원합니다."
+      "summary_ko": "higgsfield-ai/higgsfield: 머신러닝 모델 디버깅 및 시각화 툴킷으로, 모델 성능 분석을 쉽게 합니다."
+    },
+    {
+      "repo": "trailofbits/skills",
+      "url": "https://github.com/trailofbits/skills",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Python",
+      "summary_ko": "trailofbits/skills: 보안 AI 에이전트 스킬 모음으로, 침투 테스트와 취약점 탐지를 자동화합니다."
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 25,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina/happy-llm: LLM 학습·튜닝 파이프라인 예제 모음으로, 한국어 모델 개발에 도움을 줍니다."
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 25,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "anthropics/prompt-eng-interactive-tutorial: 프롬프트 엔지니어링 인터랙티브 튜토리얼로, 효과적인 프롬프트 작성법을 학습할 수 있습니다."
+    },
+    {
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "desc": "",
+      "stars_today": 20,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/RAG_Techniques: Retrieval‑Augmented Generation 최신 기법 정리로, 검색 기반 생성 모델 구현에 필수적입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-      "points": 801,
-      "comments": 420,
-      "hn_url": "https://news.ycombinator.com/item?id=50091788",
-      "title_ko": "AI 해킹 보고서, 격리·모니터링 실패가 원인",
-      "summary_ko": "전문가들은 AI 시스템의 격리와 모니터링 부실이 최근 해킹 사례를 초래했다고 분석한다."
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "points": 444,
+      "comments": 163,
+      "hn_url": "https://news.ycombinator.com/item?id=50105647",
+      "title_ko": "신경망은 깨끗하다",
+      "summary_ko": "신경망이 환경 친화적이라는 주장과 그 근거를 다룬 Hacker News 기사."
     },
     {
-      "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-      "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-      "points": 239,
-      "comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=50092664",
-      "title_ko": "은행, 최근 인수한 AI 데이터센터 부채 매각 시도",
-      "summary_ko": "은행들이 새로 인수한 AI 데이터센터 부채를 빠르게 처분해 리스크를 줄이려는 움직임이 주목된다."
+      "title": "Krea 3 – An image model built for editing at scale",
+      "url": "https://www.krea.ai/krea-3",
+      "points": 226,
+      "comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50105648",
+      "title_ko": "Krea 3 – 대규모 편집을 위한 이미지 모델",
+      "summary_ko": "대량 이미지 편집에 최적화된 Krea 3 모델을 소개하는 Hacker News 글."
     },
     {
-      "title": "Anthropic's Scion is heavily inspired by Mononoke",
-      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-      "points": 199,
-      "comments": 87,
-      "hn_url": "https://news.ycombinator.com/item?id=50094694",
-      "title_ko": "Anthropic의 Scion, ‘모노노케’에서 영감받아 개발",
-      "summary_ko": "Anthropic이 발표한 Scion 모델이 일본 애니메이션 ‘모노노케 히메’의 요소를 차용해 독특한 특징을 보여준다."
+      "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+      "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+      "points": 215,
+      "comments": 175,
+      "hn_url": "https://news.ycombinator.com/item?id=50104654",
+      "title_ko": "Simons 재단, AI 시대 수학자를 위한 1500만 달러 지원 사업 시작",
+      "summary_ko": "AI 시대에 수학 연구를 돕기 위해 Simons 재단이 1500만 달러 규모의 프로그램을 출범했다."
     },
     {
-      "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-      "url": "https://clova.email/",
-      "points": 65,
-      "comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=50090932",
-      "title_ko": "Show HN: 발신자 1명만 허용하는 이메일 앱 제작",
-      "summary_ko": "한 개발자가 받은 편지함당 한 명의 발신자만 허용하는 이메일 애플리케이션을 공개해 관심을 끈다."
+      "title": "Using AI to reverse engineer hardware",
+      "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+      "points": 77,
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=50104299",
+      "title_ko": "AI를 활용한 하드웨어 역공학",
+      "summary_ko": "AI 기술을 이용해 하드웨어 구조를 분석·재구성하는 방법을 다룬 Hacker News 기사."
     },
     {
-      "title": "Has AI tells",
-      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-      "points": 61,
-      "comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=50090799",
-      "title_ko": "AI가 전하는 이야기",
-      "summary_ko": "AI가 생성한 다양한 이야기를 모아 AI 콘텐츠의 가능성과 한계를 탐구한다."
-    },
-    {
-      "title": "How I manage persistent Claude Code loops: Spool",
-      "url": "https://github.com/enes-alatas/spool",
-      "points": 4,
-      "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=50048193",
-      "title_ko": "Claude 코드 루프 지속 관리법: Spool",
-      "summary_ko": "작성자는 Spool 도구를 활용해 Claude의 지속적인 코드 루프를 효율적으로 관리하는 방법을 공유한다."
+      "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+      "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+      "points": 22,
+      "comments": 10,
+      "hn_url": "https://news.ycombinator.com/item?id=50082637",
+      "title_ko": "하와이 국립공원의 8마일 구멍, 미스터리",
+      "summary_ko": "하와이 국립공원에 존재하는 8마일 길이의 설명되지 않은 구멍을 탐구한 기사."
     }
   ],
   "reddit": [
     {
-      "title": "Someone jailbroke a PS5 and got Qwen 3.8 27B running on its GPU at 20 tok/s.",
+      "title": "Introducing Muse Spark Open: the most capable US open-weight model to date",
       "sub": "LocalLLaMA",
-      "author": "98Saman",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x62uhc/someone_jailbroke_a_ps5_and_got_qwen_38_27b/",
-      "title_ko": "PS5에 Qwen 3.8 27B 모델을 탑재해 GPU에서 초당 20토큰 실행",
-      "summary_ko": "누군가 PS5를 탈옥해 Qwen 3.8 27B 모델을 GPU에 올려 초당 20토큰 속도로 구동한 사례가 Reddit에 소개되었습니다."
+      "author": "AIatMeta",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6r9pz/introducing_muse_spark_open_the_most_capable_us/",
+      "title_ko": "Muse Spark Open: 지금까지 가장 강력한 미국 오픈‑웨이트 모델 소개",
+      "summary_ko": "Muse Spark Open은 최신 미국 오픈‑웨이트 모델로, 뛰어난 성능과 확장성을 제공해 주목받고 있습니다."
     },
     {
-      "title": "Remember alphaXiv? Their new research agents are told to report on users without telling them with no disclosure [D]",
-      "sub": "MachineLearning",
-      "author": "Dry_Leadership1075",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5zd2m/remember_alphaxiv_their_new_research_agents_are/",
-      "title_ko": "alphaXiv, 사용자 보고를 비공개로 진행하는 새로운 연구 에이전트 도입",
-      "summary_ko": "alphaXiv가 사용자 데이터를 사전 고지 없이 수집·보고하도록 설계된 연구 에이전트를 공개해 윤리 논란을 일으켰습니다."
-    },
-    {
-      "title": "NVIDIA Nemotron Bolt 3.5 74B A9B releases Oct. 15th",
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "CulturalKing5623",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5t1tm/nvidia_nemotron_bolt_35_74b_a9b_releases_oct_15th/",
-      "title_ko": "NVIDIA Nemotron Bolt 3.5 74B A9B, 10월 15일 출시 예정",
-      "summary_ko": "NVIDIA가 74억 파라미터 규모의 Nemotron Bolt 3.5 A9B 모델을 10월 15일에 출시한다는 소식이 Reddit에 전해졌습니다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6o31q/nvidianvidianemotron35bolt74ba9b24gb_hugging_face/",
+      "title_ko": "NVIDIA Nemotron‑3.5‑Bolt‑74B‑A9B‑24GB 모델 (Hugging Face)",
+      "summary_ko": "NVIDIA가 공개한 Nemotron‑3.5‑Bolt‑74B‑A9B‑24GB는 대규모 언어 모델 분야에서 높은 효율성을 보여줍니다."
     },
     {
-      "title": "Mapping the Post-Transformer Architecture Landscape in 2026 [D]",
-      "sub": "MachineLearning",
-      "author": "Public-Feedback-6705",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5u2wz/mapping_the_posttransformer_architecture/",
-      "title_ko": "2026년 포스트‑트랜스포머 아키텍처 현황 정리",
-      "summary_ko": "2026년 기준 최신 포스트‑트랜스포머 모델들의 구조와 트렌드를 정리한 연구가 Reddit에 공유되었습니다."
-    },
-    {
-      "title": "The AI race: China's open-weight models trail US closed models by just 7 months",
+      "title": "Unsloth Muse Spark Open is out!",
       "sub": "LocalLLaMA",
-      "author": "jakecoolguy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x5pjv7/the_ai_race_chinas_openweight_models_trail_us/",
-      "title_ko": "AI 레이스: 중국 오픈‑웨이트 모델, 미국 폐쇄형 모델보다 7개월 뒤처짐",
-      "summary_ko": "중국의 공개 가중치 AI 모델이 미국의 폐쇄형 모델에 비해 출시 시점이 약 7개월 늦은 것으로 분석되었습니다."
+      "author": "Bob_SUS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6rcid/unsloth_muse_spark_open_is_out/",
+      "title_ko": "Unsloth Muse Spark Open 출시!",
+      "summary_ko": "Unsloth이 제공하는 Muse Spark Open은 경량화와 빠른 추론을 동시에 달성한 최신 모델입니다."
     },
     {
-      "title": "Event2Vec: additive event embeddings where a linear score on a history decomposes exactly into per-event terms [P]",
-      "sub": "MachineLearning",
-      "author": "sulcantonin",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x5nhu6/event2vec_additive_event_embeddings_where_a/",
-      "title_ko": "Event2Vec: 선형 점수와 이벤트별 기여를 정확히 분해하는 가산형 임베딩",
-      "summary_ko": "Event2Vec 논문은 이벤트 기록을 선형 점수로 변환하면서 각 이벤트의 기여도를 정확히 분리하는 방법을 제안합니다."
+      "title": "Flux.3 Image Klein is now out",
+      "sub": "LocalLLaMA",
+      "author": "JGByvygyrfg",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6s7el/flux3_image_klein_is_now_out/",
+      "title_ko": "Flux.3 Image Klein 출시",
+      "summary_ko": "Flux.3 Image Klein은 이미지 생성 품질을 크게 향상시킨 최신 비전 모델로 관심을 끌고 있습니다."
+    },
+    {
+      "title": "nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B model family released (base, NVFP4, BF16, and LiLiCorr speculative decoding)",
+      "sub": "LocalLLaMA",
+      "author": "jinnyjuice",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6nl8m/nvidianvidianemotron35supervl120ba12b_model/",
+      "title_ko": "NVIDIA Nemotron‑3.5‑Super‑VL‑120B‑A12B 모델군 공개 (base, NVFP4, BF16, LiLiCorr 추론)",
+      "summary_ko": "Nemotron‑3.5‑Super‑VL‑120B‑A12B는 다양한 포맷과 추론 옵션을 제공해 멀티모달 작업에 최적화되었습니다."
+    },
+    {
+      "title": "FP4 QAD quant of Qwen3.8-Flash-Next from Nvidia",
+      "sub": "LocalLLaMA",
+      "author": "rerri",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x6vqft/fp4_qad_quant_of_qwen38flashnext_from_nvidia/",
+      "title_ko": "FP4 QAD 양자화된 Qwen3.8‑Flash‑Next (Nvidia)",
+      "summary_ko": "Nvidia가 적용한 FP4 QAD 양자화는 Qwen3.8‑Flash‑Next 모델의 메모리 사용량을 크게 줄이며 속도를 높입니다."
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "NVIDIA party with Jensen Huang in Taiwan | Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=PGsfYxNi_c0",
+      "published": "2026-10-15",
+      "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10073-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
+      "title_ko": "NVIDIA, 젠슨 황과 함께한 대만 파티 | Lex Fridman",
+      "summary_ko": "Lex Fridman 채널에서 젠슨 황이 대만에서 NVIDIA와 나눈 대화를 전면 영상으로 공개했습니다."
+    },
+    {
+      "title": "￼CXMT 현 상황 완벽 정리. 삼성은 이미 17년 전 만들었다는... 4F², CXMT 진짜 양산 가능한가 | 2년 앞서 양산하는 4F² D램, 속사정",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=WzERNoqwZBk",
+      "published": "2026-10-15",
+      "desc": "중국 CXMT가 삼성보다 2년 먼저 4F² D램을 내놓겠다는 소식이 전해졌습니다. 그런데 삼성은 이미 2009년에 수직 트랜지스터를 적용한 4F² D램 테스트 칩을 구현했습니다. 오래전에 작동까지 확인한 기술이 지금도 차세대 기술로 불리는 이유는 무엇일까요? 이번 영상에서는 트랜지스터를 수직으로 세웠을 때 발생하는 누설전류와 셀 간 특성 편차를 살펴봅니다. 작은 데이터 신호를 방해하는 배선 간섭과 실제 제조 과정에서 발견된 금속 잔류물 문제도 짚어봅니다. CXMT의 정션리스 GAA 연구와 삼성의 ",
+      "title_ko": "CXMT 현 상황 완벽 정리·4F² D램 양산 가능성",
+      "summary_ko": "중국 CXMT가 4F² D램을 삼성보다 2년 앞서 양산한다는 소식과 기술적 도전 과제를 상세히 분석합니다."
+    },
+    {
+      "title": "죽은 인터넷은 이미 시작됐다 #shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/nc4gK4F7Wew",
+      "published": "2026-10-15",
+      "desc": "AI가 만든 가짜가 아이들의 진짜가 될 수 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #생성AI",
+      "title_ko": "죽은 인터넷은 이미 시작됐다 #shorts",
+      "summary_ko": "AI가 만든 가짜 콘텐츠가 아이들의 현실이 될 위험성을 짧은 영상으로 경고합니다."
+    },
+    {
+      "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
+      "published": "2026-10-13",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.com/openai/math 🙏 We would like to thank our generous Patreon supporters who make Two Mi",
+      "title_ko": "OpenAI 새 AI, 이해하기 어려운 일들을 수행",
+      "summary_ko": "OpenAI 최신 모델이 수학·과학 분야에서 보여준 놀라운 성과와 그 의미를 소개합니다."
+    },
+    {
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "published": "2026-10-12",
+      "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
+      "title_ko": "AI 연구소, 경쟁 가속화가 보안 침해를 불가피하게 만든다",
+      "summary_ko": "AI 레이스가 가속화되면서 보안 위험이 커지는 현 상황을 전문가 시각으로 풀이합니다."
+    },
+    {
+      "title": "New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=X0_GDOkLKzQ",
+      "published": "2026-10-11",
+      "desc": "HUGE AI NEWS: OpenAI math breakthroughs, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 & more. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-SjGrCf #ai #ainews #aitools #aivideo #agi #singularity WorldPlay 2 ",
+      "title_ko": "AI 뉴스: 700개 수학 돌파·AI 효소·실온 반도체 등 최신 소식",
+      "summary_ko": "최근 AI가 이룬 수학 혁신, DNA 변이 예측, 실온 반도체 등 주요 연구들을 한눈에 정리했습니다."
+    },
+    {
+      "title": "I spent 4 weeks building an AI to humiliate one player",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
+      "published": "2026-10-07",
+      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
+      "title_ko": "4주간 AI를 만들어 한 플레이어를 조롱한 실험",
+      "summary_ko": "Snap의 SPECS를 활용해 특정 플레이어를 겨냥한 AI를 개발하고 그 과정을 공유합니다."
+    },
+    {
+      "title": "[멋쟁이사자처럼 해커톤] ⏱️ 단 10초 안에 우리 서비스를 소개한다면?",
+      "channel": "조코딩",
+      "url": "https://www.youtube.com/shorts/vvnmAES7PLA",
+      "published": "2026-10-06",
+      "desc": "“10초 안에 서비스 소개해 주시면 상품 드릴게요!” 🎁 80개 대학이 모인 멋쟁이사자처럼 대학 14기 중앙해커톤에서 참가자들에게 갑작스러운 10초 미션을 던져봤습니다 👀 짧고 굵게 핵심만 쏙 뽑아낸 팀부터 시간에 쫓겨 다급해진 팀까지 😂 과연 참가자들은 10초 안에 자신들의 서비스를 완벽하게 소개하고 상품까지 받아갈 수 있었을까요? 🔥 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼 대학 14기 중앙운영단 미디어팀 임다현",
+      "title_ko": "[멋쟁이사자처럼 해커톤] 10초 안에 서비스 소개하기",
+      "summary_ko": "대학 해커톤에서 10초 안에 서비스를 소개하는 미션을 수행하며 참가자들의 반응을 담았습니다."
+    },
+    {
+      "title": "The Phone Number puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/ausLKMojXaY",
+      "published": "2026-09-25",
+      "desc": "Part of a monthly series of puzzles: https://momath.org/mindbenders/",
+      "title_ko": "전화번호 퍼즐",
+      "summary_ko": "Andrej Karpathy가 제시한 월간 퍼즐 시리즈 중 하나로, 전화번호와 관련된 논리 문제를 풉니다."
+    }
+  ],
   "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
