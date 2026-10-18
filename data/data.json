@@ -1,194 +1,220 @@
 {
-  "generated_at": "2026-10-17T22:28:48.905125+00:00",
-  "date_label": "2026년 10월 18일 (일)",
+  "generated_at": "2026-10-18T22:29:46.909968+00:00",
+  "date_label": "2026년 10월 19일 (월)",
   "github_trending": [
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "desc": "",
-      "stars_today": 1397,
+      "stars_today": 2213,
       "lang": "Python",
-      "summary_ko": "MadsLorentzen/ai-job-search: AI 기반 구직 플랫폼으로 맞춤형 직업 매칭을 자동화해 채용 효율을 높입니다."
+      "summary_ko": "MadsLorentzen/ai-job-search: AI를 활용해 맞춤형 구직 정보를 자동으로 탐색·추천해주는 도구로, 채용 시장 효율성을 높입니다."
     },
     {
       "repo": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 1383,
+      "stars_today": 1187,
       "lang": "Python",
-      "summary_ko": "anthropics/claude-plugins-official: Claude 모델용 플러그인 공식 레포로, 기능 확장을 손쉽게 구현할 수 있습니다."
-    },
-    {
-      "repo": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "desc": "",
-      "stars_today": 879,
-      "lang": "Python",
-      "summary_ko": "K-Dense-AI/scientific-agent-skills: 과학 연구 에이전트에 특화된 스킬 세트를 제공해 자동 실험 설계와 분석을 지원합니다."
+      "summary_ko": "anthropics/claude-plugins-official: Claude 모델용 공식 플러그인 컬렉션으로, 다양한 외부 서비스와 손쉽게 연동할 수 있습니다."
     },
     {
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "desc": "",
-      "stars_today": 829,
+      "stars_today": 1146,
       "lang": "TypeScript",
-      "summary_ko": "stablyai/orca: 고성능 텍스트‑이미지 생성 모델 Orca의 오픈소스 구현으로 안정적인 이미지 합성을 가능하게 합니다."
+      "summary_ko": "stablyai/orca: 이미지·동영상 생성에 특화된 Stable Diffusion 기반 모델로, 고품질 시각 콘텐츠 제작을 지원합니다."
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "",
+      "stars_today": 672,
+      "lang": "Python",
+      "summary_ko": "K-Dense-AI/scientific-agent-skills: 과학 연구 에이전트에 필요한 전문 스킬을 정의·학습시키는 프레임워크이며, 자동화된 실험 설계에 활용됩니다."
     },
     {
       "repo": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "desc": "",
-      "stars_today": 208,
+      "stars_today": 513,
       "lang": "Rust",
-      "summary_ko": "akitaonrails/ai-memory: 장기 기억 관리 모듈로 LLM이 대화 흐름을 기억하고 일관된 응답을 제공하도록 돕습니다."
+      "summary_ko": "akitaonrails/ai-memory: LLM의 장기 기억 기능을 구현한 라이브러리로, 대화 컨텍스트를 지속적으로 보존합니다."
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 168,
-      "lang": "TypeScript",
-      "summary_ko": "anthropics/claude-code: Claude 전용 코딩 어시스턴트로, 코드 생성·디버깅·리팩터링을 자연어로 수행합니다."
+      "stars_today": 242,
+      "lang": "Python",
+      "summary_ko": "TauricResearch/TradingAgents: 금융 시장 자동 매매를 위한 강화학습 기반 트레이딩 에이전트 구현 예제로, 전략 테스트에 유용합니다."
     },
     {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "repo": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
       "desc": "",
-      "stars_today": 128,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models: LLM 실습 가이드와 튜토리얼을 모아 초보자도 직접 모델을 다룰 수 있게 합니다."
+      "stars_today": 197,
+      "lang": "Python",
+      "summary_ko": "ahujasid/mcp-for-blender: Blender용 메타버스 콘텐츠 파이프라인(MCP) 플러그인으로, 3D 모델링과 실시간 렌더링을 간소화합니다."
     },
     {
-      "repo": "chiphuyen/aie-book",
-      "url": "https://github.com/chiphuyen/aie-book",
+      "repo": "mlabonne/llm-course",
+      "url": "https://github.com/mlabonne/llm-course",
       "desc": "",
-      "stars_today": 63,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "chiphuyen/aie-book: AI·엔지니어링 분야 최신 트렌드를 정리한 전자책으로, 실무 적용 사례를 풍부히 담고 있습니다."
+      "stars_today": 81,
+      "lang": "",
+      "summary_ko": "mlabonne/llm-course: LLM 이론·실습을 단계별로 학습할 수 있는 온라인 강좌 자료 모음이며, 초·중급 개발자에게 적합합니다."
+    },
+    {
+      "repo": "mozilla-ai/otari",
+      "url": "https://github.com/mozilla-ai/otari",
+      "desc": "",
+      "stars_today": 46,
+      "lang": "Python",
+      "summary_ko": "mozilla-ai/otari: Mozilla가 개발한 프라이버시 중심 AI 프레임워크로, 사용자 데이터 보호와 투명성을 강조합니다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 49,
+      "stars_today": 40,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/AI-For-Beginners: AI 입문자를 위한 단계별 학습 자료와 실습 프로젝트를 제공해 기초를 탄탄히 합니다."
+      "summary_ko": "microsoft/AI-For-Beginners: AI 입문자를 위한 마이크로소프트 공식 학습 키트로, 실습 중심 튜토리얼과 프로젝트를 제공합니다."
     },
     {
-      "repo": "AI4Finance-Foundation/FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 23,
+      "stars_today": 26,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI4Finance-Foundation/FinRL: 강화학습 기반 금융 투자 프레임워크로, 포트폴리오 최적화와 전략 백테스트를 자동화합니다."
+      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models: 대형 언어 모델 실습 가이드로, 구축·튜닝·응용 예제를 통해 실전 역량을 키울 수 있습니다."
     }
   ],
   "hackernews": [
     {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "points": 467,
-      "comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=50122878",
-      "title_ko": "기억만으로도 트랜스포머를 발명할 수 있었다면",
-      "summary_ko": "트랜스포머 구조를 기억만으로도 재구성할 수 있다는 아이디어를 다룬 HN 글."
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "points": 324,
+      "comments": 158,
+      "hn_url": "https://news.ycombinator.com/item?id=50142866",
+      "title_ko": "Namecheap이 내 모든 도메인을 압수·비활성화",
+      "summary_ko": "Namecheap이 사용자 도메인을 전부 차단해 서비스 중단 위험이 커졌습니다."
     },
     {
-      "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-      "url": "https://llmspeed.dev/",
-      "points": 229,
-      "comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=50127979",
-      "title_ko": "Show HN: Llmspeed – 하드웨어 구매 전 로컬 LLM 속도를 체험",
-      "summary_ko": "로컬 LLM의 실행 속도를 미리 측정해 최적 하드웨어 선택을 돕는 도구 소개."
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "points": 237,
+      "comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=50137950",
+      "title_ko": "Show HN: Sphinx – AI 코드 출고 전 퀴즈 훅",
+      "summary_ko": "Sphinx는 AI가 생성한 코드를 배포 전에 퀴즈 형태로 검증해 오류를 사전 차단합니다."
     },
     {
-      "title": "Pele – Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "points": 149,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=50132193",
-      "title_ko": "Pele – 테마 적용 가능한 SVG 형태의 Mermaid 다이어그램",
-      "summary_ko": "Mermaid 다이어그램을 SVG로 변환하고 테마를 자유롭게 적용할 수 있는 도구."
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "points": 83,
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=50145337",
+      "title_ko": "Hybrid Reasoning Agents: 잠재공간 사고·텍스트 행동 LLM 에이전트",
+      "summary_ko": "잠재공간에서 사고하고 텍스트로 실행하는 하이브리드 LLM 에이전트가 복합 문제 해결에 주목받고 있습니다."
     },
     {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
       "points": 38,
-      "comments": 43,
-      "hn_url": "https://news.ycombinator.com/item?id=50133830",
-      "title_ko": "Microsoft와 CMU, 초기 경력 소프트웨어 엔지니어 교육 협업",
-      "summary_ko": "Microsoft와 카네기멜론 대학이 신입 개발자를 위한 실무 교육 프로그램을 공동 진행."
+      "comments": 30,
+      "hn_url": "https://news.ycombinator.com/item?id=50135762",
+      "title_ko": "LLM이 사용할 수 없는 프로그래밍 언어를 만들다",
+      "summary_ko": "LLM이 코드를 이해하지 못하도록 설계된 새로운 언어가 AI 기반 코딩 도구의 한계를 시험합니다."
     }
   ],
   "reddit": [
     {
-      "title": "Linux creator says anti-AI rules are \"idiotic.\" (Absolute god-tier take.)",
+      "title": "72 hours, four big open weights drops. The only one that fits in 24GB came from NVIDIA, of all companies.",
       "sub": "LocalLLaMA",
-      "author": "HolidayBit143",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8e4wd/linux_creator_says_antiai_rules_are_idiotic/",
-      "title_ko": "리눅스 창시자, 반 AI 규제 “어리석다” 발언",
-      "summary_ko": "리눅스 창시자가 AI 규제 정책을 비판하며, 과도한 제한이 혁신을 저해한다는 입장을 밝혔습니다."
+      "author": "BTA_Labs",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9d23j/72_hours_four_big_open_weights_drops_the_only_one/",
+      "title_ko": "24GB에 맞는 유일한 오픈 가중치, NVIDIA 제공",
+      "summary_ko": "NVIDIA가 24GB GPU에 맞는 대형 오픈 모델을 공개해 AI 개발자들의 관심을 끈다."
     },
     {
-      "title": "How many of you have seen this honest ICLR submission? [D]",
+      "title": "Beating Warcraft III’s insane AI with self-play reinforcement learning on one desktop [P]",
       "sub": "MachineLearning",
-      "author": "fighraccoon",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x819z7/how_many_of_you_have_seen_this_honest_iclr/",
-      "title_ko": "솔직한 ICLR 논문 사례 공유",
-      "summary_ko": "ICLR 제출 논문 중 솔직함이 돋보이는 사례를 소개해, 연구 투명성의 중요성을 강조합니다."
+      "author": "ToraxXx",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9c5ty/beating_warcraft_iiis_insane_ai_with_selfplay/",
+      "title_ko": "한 데스크톱으로 자체 플레이 강화학습으로 워크래프트 III 초강력 AI 제압",
+      "summary_ko": "단일 PC에서 자체 플레이 강화학습으로 워크래프트 III AI를 능가한 연구가 주목받는다."
     },
     {
-      "title": "Opencode breached, rotate keys to be safe.",
+      "title": "Two pallets of ZOTAC RTX 5090 graphics cards worth $470,000 disappear at Brazilian airport",
       "sub": "LocalLLaMA",
       "author": "chemist_slime",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8gtvs/opencode_breached_rotate_keys_to_be_safe/",
-      "title_ko": "Opencode 침해 발생, 키 교체 권고",
-      "summary_ko": "Opencode 서비스가 침해당해 보안 위험이 커졌으며, 사용자에게 키 교체를 즉시 권고하고 있습니다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x91svd/two_pallets_of_zotac_rtx_5090_graphics_cards/",
+      "title_ko": "브라질 공항에서 ZOTAC RTX 5090 그래픽카드 2팔레트(470,000달러) 분실",
+      "summary_ko": "브라질 공항에서 고가의 RTX 5090 그래픽카드 2팔레트가 사라져 업계에 충격을 주었다."
     },
     {
-      "title": "17 AIs, 7,700 hands of poker: frontier vs cheap vs local vs Jev [P]",
+      "title": "Conference papers are cooked! [D]",
       "sub": "MachineLearning",
-      "author": "Civil-Demand555",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x8j8kg/17_ais_7700_hands_of_poker_frontier_vs_cheap_vs/",
-      "title_ko": "17개 AI와 7,700번의 포커 대결 비교",
-      "summary_ko": "다양한 AI 모델을 포커 게임에 투입해 성능을 비교한 결과, 최신 모델이 기존 모델을 크게 앞섰습니다."
+      "author": "Fantastic-Nerve-4056",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x9fyhd/conference_papers_are_cooked_d/",
+      "title_ko": "학회 논문이 조작됐다!",
+      "summary_ko": "학술 논문 표절·조작 의혹이 제기돼 연구 신뢰성이 위협받고 있다."
     },
     {
-      "title": "DeepSeek V4.1 Flash (1017) Now Leads Open-Weight Models",
+      "title": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "Informal-Trouble2183",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x8bb6b/deepseek_v41_flash_1017_now_leads_openweight/",
-      "title_ko": "DeepSeek V4.1 Flash, 오픈 가중치 모델 선두",
-      "summary_ko": "DeepSeek V4.1 Flash가 최신 오픈 가중치 모델 중 가장 높은 성능을 기록해 주목받고 있습니다."
+      "author": "MundanePercentage674",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x95491/unslothdeepseekv41flash1017gguf_hugging_face/",
+      "title_ko": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF (Hugging Face)",
+      "summary_ko": "Hugging Face에 공개된 DeepSeek V4.1 플래시 모델이 빠른 추론으로 주목받는다."
     },
     {
-      "title": "Go to neurIPS just for a workshop. [D]",
+      "title": "TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting [R]",
       "sub": "MachineLearning",
-      "author": "strammerrammer",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x86e17/go_to_neurips_just_for_a_workshop_d/",
-      "title_ko": "NeurIPS 워크숍만 참석해도 좋은 이유",
-      "summary_ko": "NeurIPS에서 워크숍만 참석해도 최신 연구 트렌드와 네트워킹 기회를 얻을 수 있음을 강조합니다."
+      "author": "Yossarian_1234",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x97v19/tempopfn_synthetic_pretraining_of_linear_rnns_for/",
+      "title_ko": "TempoPFN: 선형 RNN의 합성 사전학습으로 제로샷 시계열 예측",
+      "summary_ko": "합성 데이터 사전학습으로 선형 RNN이 제로샷 시계열 예측 성능을 크게 향상시킨다."
     }
   ],
   "youtube": [
     {
-      "title": "The best street food in Taiwan with Jensen Huang | Lex Fridman",
+      "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
       "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=LpH9BnXDEf0",
-      "published": "2026-10-17",
-      "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10083-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
-      "title_ko": "Jensen Huang와 함께하는 대만 최고의 길거리 음식 | Lex Fridman",
-      "summary_ko": "Lex Fridman 인터뷰에서 엔비디아 창업자 Jensen Huang이 대만 길거리 음식 탐방을 소개합니다."
+      "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
+      "published": "2026-10-18",
+      "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
+      "title_ko": "Jensen Huang, 대만 성장 이야기 | Lex Fridman",
+      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경을 Lex Fridman과 대화하며 공유합니다."
     },
     {
-      "title": "기억은 볼 때보다 꺼낼 때 남는다 #shorts",
+      "title": "Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=tDWtcyeNNew",
+      "published": "2026-10-18",
+      "desc": "HUGE AI NEWS: Gemini 4 Argon, Muse Wonder, Drama 3, MOSS Image, Krea 3, KLING 4, Flux 3 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct2 #ai #ainews #aitools #aivideo #agi #singularity Drama 3 https://fish.audio/drama-3/ Matrix-Game 4.0 https://m",
+      "title_ko": "AI 최신 소식: Gemini 4 Argon·MOSS Image·KLING 4 등",
+      "summary_ko": "Gemini 4 Argon, MOSS Image, KLING 4 등 최신 AI 모델과 도구들의 주요 업데이트를 정리했습니다."
+    },
+    {
+      "title": "닌텐도 독점작 젤다가 PS5에서 돌아간다? PS5에서 돌아간 젤다로 보는 기술과 게임 시장의 변화  | 소니·애플·스팀이 같은 변화를 다르게 보는 이유",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/watch?v=K-nAWPCBRUw",
+      "published": "2026-10-18",
+      "desc": "플스5에서 닌텐도의 젤다를 실행하고, 플스용 게임을 PC에서 돌리는 비공식 개발 사례가 공개됐습니다. 소니는 과거 독점작을 PC로 판매하고, 애플은 게임회사들이 맥 버전을 만들도록 개발 도구를 제공하고 있습니다. 게임을 할 수 있는 기기가 늘어나면 소비자의 선택과 기업들의 사업은 어떻게 달라질까요? 이번 영상에서는 GPU가 있어도 다른 기기의 게임을 그대로 실행할 수 없는 이유부터 살펴봤습니다. 하드웨어마다 다른 명령과 메모리 사용 방식을 소프트웨어가 어떻게 맞춰주는지 설명합니다. 에뮬레이터와 그",
+      "title_ko": "닌텐도 독점작 ‘젤다’, PS5에서 실행되는 이유와 시장 변화",
+      "summary_ko": "PS5에서 닌텐도 ‘젤다’가 구동된 사례를 통해 플랫폼 경계와 게임 산업 흐름을 분석합니다."
+    },
+    {
+      "title": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
       "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/TtxZL4B1tXQ",
-      "published": "2026-10-17",
-      "desc": "손으로 써보고 남을 가르치듯 꺼낼 때 빈 구멍이 보입니다. 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #기억법 #학습법 #인출연습",
-      "title_ko": "기억은 꺼낼 때 남는다 #shorts",
-      "summary_ko": "손으로 써보고 가르치는 과정에서 기억이 어떻게 강화되는지 설명하는 짧은 영상입니다."
+      "url": "https://www.youtube.com/shorts/5-nnCkTsdQs",
+      "published": "2026-10-18",
+      "desc": "문제가 터지기 전부터 오래 고민한 사람에게 답의 단서가 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #문제해결",
+      "title_ko": "문제 발생 전, 오타쿠에게 묻는 이유 #shorts",
+      "summary_ko": "문제 해결을 위해 사전 고민한 전문가의 조언을 들어보는 짧은 영상입니다."
     },
     {
       "title": "There's never been a better time to go into math",
@@ -196,17 +222,8 @@
       "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
       "published": "2026-10-16",
       "desc": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the pulse of how mathematicians are ",
-      "title_ko": "수학에 뛰어들기 최고의 시기",
-      "summary_ko": "Andrej Karpathy가 수학의 미래와 현재가 투자와 연구에 최적기임을 논합니다."
-    },
-    {
-      "title": "자동차가 진짜 날았다… 머스크는 왜 자동차에 로켓을 달았나 |  신형 로드스터가 보여준 기술과 테슬라의 다음 승부수",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=B3NBhTRaWgs",
-      "published": "2026-10-16",
-      "desc": "테슬라가 공개한 차세대 로드스터는 거꾸로 달리고 공중에서 회전하는 모습을 보여줬습니다.가속 시연에서는 정지 상태에서 시속 약 97km까지 0.81초라는 수치도 제시했습니다.2017년 처음 등장한 로드스터가 오랜 기다림 끝에 어떤 기술을 꺼냈는지 살펴봅니다.팬으로 차체 아래의 압력을 낮춰 타이어를 주행면에 붙이는 원리를 설명합니다.압축가스를 분사해 차체를 밀고 공중에서 자세를 바꾸는 냉가스 추진기도 알아봅니다.2톤 차량의 호버링에 필요한 추력과 평균 약 3.4G라는 가속도가 뜻하는 바를 짚습니다.퍼",
-      "title_ko": "테슬라 차세대 로드스터, 공중 회전과 초고속 가속 시연",
-      "summary_ko": "테슬라 신형 로드스터가 0.81초에 시속 97km까지 가속하고 공중 회전 기술을 공개했습니다."
+      "title_ko": "수학에 뛰어들기 가장 좋은 시기",
+      "summary_ko": "Andrej Karpathy가 수학의 미래와 현재 진입 시점의 가치를 이야기합니다."
     },
     {
       "title": "OpenAI’s New AI Is Doing Things We Barely Understand",
@@ -214,8 +231,8 @@
       "url": "https://www.youtube.com/watch?v=z_sXLlLVUls",
       "published": "2026-10-13",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 The papers are available here: https://openai.com/index/sharing-ai-progress-in-mathematics/ https://github.com/openai/math 🙏 We would like to thank our generous Patreon supporters who make Two Mi",
-      "title_ko": "OpenAI 최신 AI, 이해하기 어려운 새로운 능력",
-      "summary_ko": "OpenAI가 발표한 최신 모델이 수학 문제 해결 등 인간 수준의 추론을 보여줍니다."
+      "title_ko": "OpenAI 신형 AI, 이해하기 어려운 행동들",
+      "summary_ko": "OpenAI 최신 모델이 보여주는 예측 불가능한 동작과 그 의미를 탐구합니다."
     },
     {
       "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
@@ -223,17 +240,8 @@
       "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
       "published": "2026-10-12",
       "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
-      "title_ko": "AI 연구 경쟁, 보안 침해 위험을 가속화한다",
-      "summary_ko": "AI 레이스가 급속히 진행되면서 보안 침해 위험이 불가피해질 수 있다는 경고입니다."
-    },
-    {
-      "title": "New AI enzymes, 700+ math breakthroughs, AI for DNA mutations, room temp semiconductors: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=X0_GDOkLKzQ",
-      "published": "2026-10-11",
-      "desc": "HUGE AI NEWS: OpenAI math breakthroughs, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 & more. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-SjGrCf #ai #ainews #aitools #aivideo #agi #singularity WorldPlay 2 ",
-      "title_ko": "AI 뉴스: 700개 수학 혁신·AI 효소·실온 반도체 등",
-      "summary_ko": "최근 AI가 만든 수학 성과, DNA 변이 예측 효소, 실온 반도체 등 주요 소식을 정리했습니다."
+      "title_ko": "AI 레이스, 보안 침해 위험을 가속화한다",
+      "summary_ko": "AI 경쟁이 심화될수록 보안 침해 위험이 커진다는 경고를 다룹니다."
     },
     {
       "title": "I spent 4 weeks building an AI to humiliate one player",
@@ -241,8 +249,8 @@
       "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
       "published": "2026-10-07",
       "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "4주간 AI를 만들어 한 플레이어를 괴롭힌 실험",
-      "summary_ko": "Snap의 SPECS를 활용해 AI가 게임 내 특정 플레이어를 지속적으로 괴롭히는 방법을 소개합니다."
+      "title_ko": "4주간 AI를 만들어 한 플레이어를 조롱한 실험",
+      "summary_ko": "Snap의 SPECS를 활용해 AI가 특정 플레이어를 조롱하도록 만든 과정을 소개합니다."
     },
     {
       "title": "[멋쟁이사자처럼 해커톤] ⏱️ 단 10초 안에 우리 서비스를 소개한다면?",
@@ -251,18 +259,9 @@
       "published": "2026-10-06",
       "desc": "“10초 안에 서비스 소개해 주시면 상품 드릴게요!” 🎁 80개 대학이 모인 멋쟁이사자처럼 대학 14기 중앙해커톤에서 참가자들에게 갑작스러운 10초 미션을 던져봤습니다 👀 짧고 굵게 핵심만 쏙 뽑아낸 팀부터 시간에 쫓겨 다급해진 팀까지 😂 과연 참가자들은 10초 안에 자신들의 서비스를 완벽하게 소개하고 상품까지 받아갈 수 있었을까요? 🔥 앞으로도 다양한 IT·개발 콘텐츠가 올라올 예정! 🔥 팔로우하고 놓치지 마세요 🦁 💝 콘텐츠 제작 : 멋쟁이사자처럼 대학 14기 중앙운영단 미디어팀 임다현",
       "title_ko": "[멋쟁이사자처럼 해커톤] 10초 안에 서비스 소개하기",
-      "summary_ko": "대학 해커톤에서 10초 안에 서비스 핵심을 전달하면 상품을 받는 도전 과제를 보여줍니다."
+      "summary_ko": "대학 해커톤에서 10초 미션으로 서비스 핵심을 전달하는 참가자들의 모습을 보여줍니다."
     }
   ],
-  "social": [
-    {
-      "title": "OpenCode Hacked: User credentials leaked",
-      "handle": "@opencode",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
-      "note": "HN 591pts · 93 댓글",
-      "title_ko": "OpenCode 해킹: 사용자 자격 증명 유출",
-      "summary_ko": "OpenCode 서비스가 해킹당해 사용자 ID·비밀번호가 외부에 노출돼 보안 우려가 커졌다."
-    }
-  ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
