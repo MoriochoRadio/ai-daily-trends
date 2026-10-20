@@ -1,230 +1,235 @@
 {
-  "generated_at": "2026-10-19T23:49:22.971017+00:00",
-  "date_label": "2026년 10월 20일 (화)",
+  "generated_at": "2026-10-20T23:15:13.161795+00:00",
+  "date_label": "2026년 10월 21일 (수)",
   "github_trending": [
     {
       "repo": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "desc": "",
-      "stars_today": 3860,
+      "stars_today": 3890,
       "lang": "Python",
-      "summary_ko": "MadsLorentzen/ai-job-search: AI 기반 채용 검색 툴로, 직무와 스킬 매칭을 자동화해 구직 효율을 높입니다."
+      "summary_ko": "AI 기반 구직 도구로, 이력서와 채용 공고 매칭을 자동화해 구직 효율을 높입니다."
     },
     {
       "repo": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "desc": "",
-      "stars_today": 1591,
+      "stars_today": 1559,
       "lang": "TypeScript",
-      "summary_ko": "stablyai/orca: Stable Diffusion 이미지 생성 모델을 최적화·배포하는 오픈소스 프레임워크입니다."
+      "summary_ko": "Stably AI의 Orca는 텍스트‑이미지 생성 모델로, 고품질 이미지 합성을 지원합니다."
     },
     {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "repo": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
       "desc": "",
-      "stars_today": 814,
-      "lang": "Python",
-      "summary_ko": "anthropics/claude-plugins-official: Claude LLM에 플러그인 연동을 공식 지원해 기능 확장을 가능하게 합니다."
+      "stars_today": 1396,
+      "lang": "JavaScript",
+      "summary_ko": "Ponytail은 대규모 언어 모델을 위한 효율적인 파이프라인 관리 프레임워크입니다."
     },
     {
-      "repo": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
+      "repo": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
       "desc": "",
-      "stars_today": 666,
-      "lang": "Rust",
-      "summary_ko": "akitaonrails/ai-memory: AI 에이전트의 장기 기억 관리 라이브러리로, 컨텍스트 유지에 도움을 줍니다."
+      "stars_today": 590,
+      "lang": "Shell",
+      "summary_ko": "Agency‑Agents는 멀티‑에이전트 협업 환경을 제공해 복잡한 작업을 분산 처리합니다."
     },
     {
       "repo": "headroomlabs-ai/headroom",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "desc": "",
-      "stars_today": 317,
+      "stars_today": 555,
       "lang": "Python",
-      "summary_ko": "headroomlabs-ai/headroom: 면접 준비용 AI 코치 서비스로, 실시간 피드백과 질문 연습을 제공합니다."
+      "summary_ko": "Headroom은 AI 기반 면접 연습 도구로, 실시간 피드백으로 면접 스킬을 향상시킵니다."
     },
     {
-      "repo": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
+      "repo": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 167,
-      "lang": "TypeScript",
-      "summary_ko": "anthropics/claude-code: 코드 작성·디버깅에 특화된 Claude 모델로, 개발 생산성을 향상시킵니다."
+      "stars_today": 262,
+      "lang": "Python",
+      "summary_ko": "Knowledge‑Work‑Plugins는 생산성 앱에 AI 플러그인을 쉽게 연결해 업무 자동화를 돕습니다."
     },
     {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
       "desc": "",
-      "stars_today": 72,
+      "stars_today": 185,
+      "lang": "Python",
+      "summary_ko": "Claude‑SEO는 Claude 모델을 활용해 검색 엔진 최적화 전략을 자동 생성해 줍니다."
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "desc": "",
+      "stars_today": 98,
+      "lang": "Python",
+      "summary_ko": "vLLM은 대규모 언어 모델의 추론 속도를 크게 높이는 고성능 엔진입니다."
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "",
+      "stars_today": 71,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/generative-ai-for-beginners: 생성 AI 입문자를 위한 단계별 튜토리얼과 실습 자료를 제공합니다."
+      "summary_ko": "AI‑For‑Beginners는 마이크로소프트가 제공하는 AI 입문 교육 자료 모음으로 학습에 유용합니다."
+    },
+    {
+      "repo": "ScrapeGraphAI/Scrapegraph-ai",
+      "url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+      "desc": "",
+      "stars_today": 57,
+      "lang": "Python",
+      "summary_ko": "Scrapegraph‑ai는 웹 스크래핑 결과를 그래프 형태로 시각화해 데이터 분석을 간편하게 합니다."
+    },
+    {
+      "repo": "abus-aikorea/voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "desc": "",
+      "stars_today": 48,
+      "lang": "Python",
+      "summary_ko": "Voice‑Pro는 한국어 음성 인식·합성 모델을 제공해 음성 기반 서비스 개발을 지원합니다."
     },
     {
       "repo": "mrdbourke/zero-to-mastery-ml",
       "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
       "desc": "",
-      "stars_today": 45,
+      "stars_today": 47,
       "lang": "Jupyter Notebook",
-      "summary_ko": "mrdbourke/zero-to-mastery-ml: 머신러닝 기초부터 실전 프로젝트까지 체계적으로 학습할 수 있는 무료 코스입니다."
+      "summary_ko": "Zero‑to‑Mastery‑ML은 머신러닝 입문자를 위한 단계별 실습 자료와 프로젝트를 제공합니다."
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "desc": "",
+      "stars_today": 24,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "GEPA는 효율적인 그래프 임베딩 및 분석을 위한 파이썬 라이브러리입니다."
     },
     {
       "repo": "xiaolai/the-craft-of-selfteaching",
       "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
       "desc": "",
-      "stars_today": 41,
+      "stars_today": 20,
       "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching: 자기주도 학습 방법론을 정리한 가이드로, 효율적인 학습 전략을 제시합니다."
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 29,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks: 다양한 활용 시나리오별 Claude 프롬프트와 예제를 모아둔 레시피 모음집입니다."
+      "summary_ko": "The‑Craft‑of‑Self‑Teaching은 자기주도 학습 방법론을 정리한 실용 가이드북입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Timestral: Mistral's time-series foundation models",
-      "url": "https://mistral.ai/news/timestral/",
-      "points": 528,
-      "comments": 97,
-      "hn_url": "https://news.ycombinator.com/item?id=50150434",
-      "title_ko": "Timestral: Mistral의 시계열 기반 모델",
-      "summary_ko": "Mistral이 발표한 시계열 전용 파운데이션 모델로, 시계열 데이터 분석에 특화된 새로운 접근법을 제시합니다."
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "points": 2077,
+      "comments": 813,
+      "hn_url": "https://news.ycombinator.com/item?id=50163277",
+      "title_ko": "DeepInfer: DeepSeek 모델용 고성능 추론 프레임워크",
+      "summary_ko": "DeepSeek 모델의 추론 속도를 크게 높이는 고성능 프레임워크로, 개발자들이 효율적인 AI 서비스 구축을 지원합니다."
     },
     {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-      "points": 237,
-      "comments": 76,
-      "hn_url": "https://news.ycombinator.com/item?id=50150809",
-      "title_ko": "Let's Encrypt, 도메인 검증을 위한 두 가지 원격 방식 추가",
-      "summary_ko": "Let's Encrypt가 도메인 검증 시 보안을 강화하기 위해 두 가지 새로운 원격 검증 방식을 도입했습니다."
+      "title": "Facebook Pages require paid subscription to post more than two links per month",
+      "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
+      "points": 398,
+      "comments": 360,
+      "hn_url": "https://news.ycombinator.com/item?id=50167536",
+      "title_ko": "페이스북 페이지, 월 2개 링크 초과 시 유료 구독 필요",
+      "summary_ko": "페이스북이 페이지에서 한 달에 두 개 이상의 링크를 공유하려면 유료 구독을 요구해 마케팅 전략에 변화를 촉구합니다."
     },
     {
-      "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-      "url": "https://news.ycombinator.com/item?id=50151036",
-      "points": 222,
-      "comments": 362,
-      "hn_url": "https://news.ycombinator.com/item?id=50151036",
-      "title_ko": "Ask HN: 이해하지 못한 AI 작성 코드를 어떻게 배포할까?",
-      "summary_ko": "AI가 만든 코드를 완전히 파악하지 못한 상황에서 배포 위험성을 최소화하는 방안을 논의합니다."
+      "title": "Claude designed protein binders against scorpion neurotoxins",
+      "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design",
+      "points": 82,
+      "comments": 47,
+      "hn_url": "https://news.ycombinator.com/item?id=50170021",
+      "title_ko": "Claude, 전갈 독소에 결합하는 단백질 바인더 설계",
+      "summary_ko": "AI Claude가 전갈 신경독소를 중화할 수 있는 단백질 바인더를 설계해 바이오헬스 분야의 AI 활용 가능성을 보여줍니다."
     },
     {
-      "title": "Mercury 3: Diffusion at scale",
-      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-      "points": 211,
-      "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=50155245",
-      "title_ko": "Mercury 3: 대규모 확산 모델",
-      "summary_ko": "Mercury 3 프로젝트가 대규모 확산(디퓨전) 모델을 공개해 이미지 생성 효율성을 크게 높였습니다."
-    },
-    {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "points": 136,
-      "comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=50136126",
-      "title_ko": "RuneScape Bench: 에이전트를 위한 MMO 환경 [동영상]",
-      "summary_ko": "에이전트 학습을 위해 RuneScape MMO를 벤치마크로 활용한 영상으로, 게임 환경에서 AI 성능을 측정합니다."
-    },
-    {
-      "title": "Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas",
-      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
-      "points": 95,
-      "comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=50147462",
-      "title_ko": "시카고 오헤어 공항, 활주로 아래 50톤 바위 발굴·이름 공모",
-      "summary_ko": "시카고 오헤어 공항이 활주로 밑에 묻힌 50톤 바위를 발견하고, 시민에게 이름 아이디어를 모집하고 있습니다."
-    },
-    {
-      "title": "The fire retardant in the seafood chain",
-      "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-      "points": 95,
-      "comments": 32,
-      "hn_url": "https://news.ycombinator.com/item?id=50134359",
-      "title_ko": "해산물 공급망에 사용되는 난연제",
-      "summary_ko": "해산물 가공 과정에 쓰이는 난연제가 인체에 미치는 영향과 환경 문제를 조명한 기사입니다."
-    },
-    {
-      "title": "Ukraine claims first drone evacuation of wounded soldier",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-      "points": 51,
-      "comments": 65,
-      "hn_url": "https://news.ycombinator.com/item?id=50153664",
-      "title_ko": "우크라이나, 부상 병사 첫 드론 구조 성공",
-      "summary_ko": "우크라이나 군이 드론을 이용해 부상 병사를 최초로 구조했으며, 전쟁 현장 의료 지원에 새로운 가능성을 열었습니다."
+      "title": "Launch HN: Respan (YC W24) – Open-source Rust AI gateway built around plugins",
+      "url": "https://news.ycombinator.com/item?id=50167583",
+      "points": 37,
+      "comments": 16,
+      "hn_url": "https://news.ycombinator.com/item?id=50167583",
+      "title_ko": "Launch HN: Respan – 플러그인 기반 오픈소스 Rust AI 게이트웨이",
+      "summary_ko": "YC W24 스타트업 Respan이 플러그인 중심의 오픈소스 Rust AI 게이트웨이를 출시해 확장성과 성능을 동시에 제공한다는 점이 주목됩니다."
     }
   ],
   "reddit": [
     {
-      "title": "MiniMax M3.1 Flash released, Model weights Oct 23",
+      "title": "yes",
       "sub": "LocalLLaMA",
-      "author": "MagicZhang",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9uzv9/minimax_m31_flash_released_model_weights_oct_23/",
-      "title_ko": "MiniMax M3.1 Flash 출시, 모델 가중치 10월 23일 공개",
-      "summary_ko": "MiniMax M3.1 Flash 모델이 공개됐으며, 가중치 파일이 10월 23일에 배포돼 로컬 LLM 실험에 활용 가능하다."
+      "author": "Ne00n",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb5qxn/yes/",
+      "title_ko": "yes",
+      "summary_ko": "Reddit r/LocalLLaMA에서 언급된 간단한 확인 메시지로, 추가 내용은 없습니다."
     },
     {
-      "title": "Let's delve into the tapestry of AI slop on r/LocalLLaMA",
+      "title": "Deepseek released DeepInfer - Open Source high-performance, large-scale inference framework for DeepSeek models!",
       "sub": "LocalLLaMA",
-      "author": "Uhlo",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa7hi8/lets_delve_into_the_tapestry_of_ai_slop_on/",
-      "title_ko": "r/LocalLLaMA에서 AI 잡다한 이야기 탐구",
-      "summary_ko": "r/LocalLLaMA 커뮤니티에서 AI 최신 소식과 토론을 정리해 소개하는 글이다."
+      "author": "feelspeaceman",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xanm55/deepseek_released_deepinfer_open_source/",
+      "title_ko": "Deepseek, DeepInfer 공개 – DeepSeek 모델용 고성능 오픈소스 추론 프레임워크",
+      "summary_ko": "DeepSeek 모델 전용 고성능 대규모 추론 프레임워크 DeepInfer를 오픈소스로 출시했습니다."
     },
     {
-      "title": "llama.cpp support for Cohere models",
+      "title": "Pocket TTS which supports voice cloning is now just 1.9 million parameters",
       "sub": "LocalLLaMA",
-      "author": "nick_frosst",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa0cyz/llamacpp_support_for_cohere_models/",
-      "title_ko": "llama.cpp, Cohere 모델 지원 추가",
-      "summary_ko": "llama.cpp가 Cohere 계열 모델을 실행하도록 업데이트돼 경량화된 로컬 추론이 가능해졌다."
+      "author": "Affectionate_Hat_585",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xauekr/pocket_tts_which_supports_voice_cloning_is_now/",
+      "title_ko": "Pocket TTS, 음성 클로닝 지원 190만 파라미터 모델 공개",
+      "summary_ko": "음성 클로닝 기능을 갖춘 경량 Pocket TTS가 190만 파라미터 규모로 공개돼 효율적인 음성 합성이 가능해졌습니다."
     },
     {
-      "title": "MiniMax-M3.1-Flash is coming",
+      "title": "XHToken/Spark-X2.6-4B · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "Nunki08",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9suvs/minimaxm31flash_is_coming/",
-      "title_ko": "MiniMax-M3.1-Flash 곧 출시",
-      "summary_ko": "MiniMax-M3.1-Flash가 곧 출시될 예정이며, 높은 효율성과 빠른 추론 속도를 기대한다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xb0nr9/xhtokensparkx264b_hugging_face/",
+      "title_ko": "XHToken의 Spark-X2.6-4B 모델 (Hugging Face)",
+      "summary_ko": "Hugging Face에 공개된 XHToken의 4B 파라미터 규모 Spark-X2.6 모델로, 다양한 언어 작업에 활용됩니다."
     },
     {
-      "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF updated",
+      "title": "ornith-ai/Ornith-1.5-122B (Qwen finetune)",
       "sub": "LocalLLaMA",
-      "author": "Murky-Routine-4255",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1x9yvgw/istadaslabqwen38flashnextgsqrcocodergguf_updated/",
-      "title_ko": "ISTA-DASLab, Qwen3.8-Flash-Next 업데이트",
-      "summary_ko": "Qwen3.8-Flash-Next 모델이 최신 GGUF 형식으로 업데이트돼 다양한 코딩 작업에 활용 가능하다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xatebw/ornithaiornith15122b_qwen_finetune/",
+      "title_ko": "Ornith-1.5-122B (Qwen 파인튜닝) 모델",
+      "summary_ko": "Qwen 기반으로 파인튜닝된 Ornith-1.5-122B 모델이 공개돼 대규모 언어 처리에 활용됩니다."
     },
     {
-      "title": "Jev Based Adaptive Thinking for LLMs",
+      "title": "Phonon is now open-source, 31M and 40M TTS models designed to run on the edge",
       "sub": "LocalLLaMA",
-      "author": "dimknaf",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xa9ffa/jev_based_adaptive_thinking_for_llms/",
-      "title_ko": "LLM을 위한 Jev 기반 적응형 사고",
-      "summary_ko": "Jev 기반 적응형 사고 기법이 LLM의 추론 유연성을 높이는 방법으로 제안되었다."
+      "author": "l-m-z",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xaw2vt/phonon_is_now_opensource_31m_and_40m_tts_models/",
+      "title_ko": "Phonon, 31M·40M 경량 TTS 모델 오픈소스 공개",
+      "summary_ko": "에지 디바이스에서 실행 가능한 31M와 40M 파라미터 규모의 Phonon TTS 모델이 오픈소스로 제공됩니다."
     }
   ],
   "youtube": [
     {
-      "title": "Gemini 4 Argon Really Surprised Me",
+      "title": "New top local AI image generator is here!",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
+      "published": "2026-10-20",
+      "desc": "MOSS Image review & tutorial. How to use MOSS Image in ComfyUI. How to edit images with MOSS. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-rxYPHC #ai #aiart #imagegenerator #aitools #ainews #agi https://huggingface.co/Comfy-Org/MOSS-Image htt",
+      "title_ko": "새로운 로컬 AI 이미지 생성기 등장",
+      "summary_ko": "MOSS Image를 ComfyUI에 적용해 이미지 생성·편집 방법을 소개하는 영상입니다."
+    },
+    {
+      "title": "애플 아이폰18 프로 성능, A20 PRO 칩 얼마나 좋아졌을까?",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/9968iWlK5dc",
+      "published": "2026-10-20",
+      "desc": "",
+      "title_ko": "아이폰 18 프로 성능, A20 PRO 칩은 얼마나 개선됐을까?",
+      "summary_ko": "애플 최신 아이폰 18 프로의 A20 PRO 칩 성능 변화를 분석하는 리뷰 영상입니다."
+    },
+    {
+      "title": "Gemini 4 Argon Is Not What I Expected",
       "channel": "Two Minute Papers",
       "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
       "published": "2026-10-19",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: htt",
-      "title_ko": "Gemini 4 Argon, 놀라운 성능 공개",
-      "summary_ko": "DeepMind의 Gemini 4 Argon 모델과 보고서가 공개돼 AI 최신 동향을 확인할 수 있습니다."
-    },
-    {
-      "title": "테슬라 로드스터가 거꾸로 붙어있는 원리",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/xgqI-RzrNjc",
-      "published": "2026-10-19",
-      "desc": "",
-      "title_ko": "테슬라 로드스터가 거꾸로 붙어있는 원리",
-      "summary_ko": "테슬라 로드스터의 독특한 역방향 부착 메커니즘을 과학적으로 설명합니다."
+      "title_ko": "Gemini 4 Argon, 기대와 다른 점",
+      "summary_ko": "DeepMind Gemini 4 Argon 모델과 보고서를 살펴보며 예상과 차이를 짚는 내용입니다."
     },
     {
       "title": "[테디노트 X AutoRAG] 🔥 AI 에이전트 시대, #RAG 는 끝났을까? 완전히 달라진 AutoRAG와 #Agent Harness 개발기",
@@ -232,8 +237,8 @@
       "url": "https://www.youtube.com/watch?v=ZvgmMilxFkY",
       "published": "2026-10-19",
       "desc": "\"AI 에이전트 시대에도 RAG는 여전히 필요할까요?\" 최근 AI 에이전트가 빠르게 발전하면서 검색하고, 추론하고, 도구를 사용하는 방식이 크게 달라지고 있습니다. 그렇다면 기존의 RAG는 앞으로 어떤 모습으로 진화해야 할까요? 이번 라이브에서는 AutoRAG 개발팀 리더 김동규 님을 모시고, 에이전트 시대에 RAG가 나아가야 할 방향에 대해 이야기 나눠보려고 합니다. 특히 완전히 새로워진 AutoRAG Agent와 AI Finder Dazzi를 소개하고, RAG 기반 Agent Harness를 ",
-      "title_ko": "AI 에이전트 시대, AutoRAG와 Agent Harness 개발기",
-      "summary_ko": "AI 에이전트가 급성장하는 가운데, AutoRAG가 기존 RAG를 어떻게 혁신하는지 논의합니다."
+      "title_ko": "[테디노트 X AutoRAG] AI 에이전트 시대, RAG는 여전히 필요할까?",
+      "summary_ko": "AutoRAG 개발팀이 에이전트 시대에 RAG의 진화 방향을 논의하는 라이브 토크입니다."
     },
     {
       "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
@@ -241,17 +246,8 @@
       "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
       "published": "2026-10-18",
       "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
-      "title_ko": "Jensen Huang, 대만 성장 이야기 (Lex Fridman 인터뷰)",
-      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경과 비전을 공유합니다."
-    },
-    {
-      "title": "Quantum breakthrough, Gemini 4 Argon, MOSS Image, KLING 4, OpenAI spy, Muse Wonder: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=tDWtcyeNNew",
-      "published": "2026-10-18",
-      "desc": "HUGE AI NEWS: Gemini 4 Argon, Muse Wonder, Drama 3, MOSS Image, Krea 3, KLING 4, Flux 3 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct2 #ai #ainews #aitools #aivideo #agi #singularity Drama 3 https://fish.audio/drama-3/ Matrix-Game 4.0 https://m",
-      "title_ko": "AI 최신 소식: Gemini 4 Argon·Muse Wonder·KLING 4 등",
-      "summary_ko": "Gemini 4 Argon, Muse Wonder, KLING 4 등 최신 AI 모델과 연구 동향을 한눈에 정리했습니다."
+      "title_ko": "Jensen Huang, 대만 성장 이야기 | Lex Fridman",
+      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경을 Lex Fridman과 대화합니다."
     },
     {
       "title": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
@@ -259,8 +255,8 @@
       "url": "https://www.youtube.com/shorts/5-nnCkTsdQs",
       "published": "2026-10-18",
       "desc": "문제가 터지기 전부터 오래 고민한 사람에게 답의 단서가 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #문제해결",
-      "title_ko": "문제 터지기 전, 오타쿠에게 물어라 (shorts)",
-      "summary_ko": "문제 발생 전에 고민한 사람에게서 해답을 찾는 방법을 짧게 소개합니다."
+      "title_ko": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
+      "summary_ko": "문제 발생 전 고민한 사람에게 답이 있다는 점을 강조하는 짧은 영상입니다."
     },
     {
       "title": "There's never been a better time to go into math",
@@ -268,8 +264,8 @@
       "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
       "published": "2026-10-16",
       "desc": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the pulse of how mathematicians are ",
-      "title_ko": "수학에 뛰어들기 좋은 시기라는 이야기",
-      "summary_ko": "Andrej Karpathy가 수학의 미래와 현재가 최고의 도전 시점임을 설명합니다."
+      "title_ko": "수학에 뛰어들기 가장 좋은 시기",
+      "summary_ko": "Andrej Karpathy가 수학의 미래와 현재가 최고의 도전 시점임을 이야기합니다."
     },
     {
       "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
@@ -277,8 +273,8 @@
       "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
       "published": "2026-10-12",
       "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
-      "title_ko": "AI 레이스, 보안 침해 위험이 불가피해",
-      "summary_ko": "AI 경쟁이 가속화되면서 보안 침해 위험이 커지고 있다는 경고를 전합니다."
+      "title_ko": "AI Labs, 경쟁이 보안 침해를 불가피하게 만든다 경고",
+      "summary_ko": "AI 레이스가 보안 위험을 가중시키며 침해가 필연적일 수 있음을 경고합니다."
     },
     {
       "title": "I spent 4 weeks building an AI to humiliate one player",
@@ -286,8 +282,8 @@
       "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
       "published": "2026-10-07",
       "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "플레이어를 조롱하는 AI를 4주간 만든 이야기",
-      "summary_ko": "4주간 AI를 개발해 게임 플레이어를 조롱하는 실험 과정을 공개합니다."
+      "title_ko": "4주간 AI를 만들어 한 플레이어를 조롱했어요",
+      "summary_ko": "AI를 활용해 특정 플레이어를 괴롭히는 게임을 만든 과정을 소개하는 영상입니다."
     }
   ],
   "social": [],
