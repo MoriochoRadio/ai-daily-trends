@@ -1,253 +1,238 @@
 {
-  "generated_at": "2026-10-22T23:28:35.256970+00:00",
-  "date_label": "2026년 10월 23일 (금)",
+  "generated_at": "2026-10-23T23:15:42.426814+00:00",
+  "date_label": "2026년 10월 24일 (토)",
   "github_trending": [
-    {
-      "repo": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "desc": "",
-      "stars_today": 1949,
-      "lang": "JavaScript",
-      "summary_ko": "Ponytail은 경량화된 LLM 서빙 프레임워크로, 빠른 배포와 쉬운 확장이 특징입니다."
-    },
-    {
-      "repo": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "desc": "",
-      "stars_today": 552,
-      "lang": "Python",
-      "summary_ko": "Headroom은 회의 내용을 실시간으로 요약·정리해 주는 AI 회의 비서 도구입니다."
-    },
-    {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "desc": "",
-      "stars_today": 469,
-      "lang": "Python",
-      "summary_ko": "vLLM은 대규모 모델을 GPU 메모리 효율적으로 실행하도록 최적화된 고성능 추론 엔진입니다."
-    },
     {
       "repo": "luongnv89/claude-howto",
       "url": "https://github.com/luongnv89/claude-howto",
       "desc": "",
-      "stars_today": 370,
+      "stars_today": 1168,
       "lang": "Python",
-      "summary_ko": "Claude‑HowTo는 Anthropic Claude를 효과적으로 활용하기 위한 단계별 가이드 모음입니다."
+      "summary_ko": "Claude AI 활용법을 단계별로 정리한 가이드 레포로, 초보자도 쉽게 적용 가능해요."
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 303,
+      "stars_today": 643,
       "lang": "Python",
-      "summary_ko": "Knowledge‑Work‑Plugins은 Claude에 업무 자동화·검색 기능을 추가하는 플러그인 컬렉션입니다."
+      "summary_ko": "Anthropic 모델에 지식 작업 플러그인을 추가해 업무 자동화를 지원하는 도구 모음입니다."
+    },
+    {
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "",
+      "stars_today": 547,
+      "lang": "TypeScript",
+      "summary_ko": "사주·자위 운세 분석을 위한 파이썬 구현체로, 전통 운세 계산을 자동화합니다."
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "",
+      "stars_today": 498,
+      "lang": "Python",
+      "summary_ko": "다양한 전략을 테스트하고 실행할 수 있는 고성능 트레이딩 에이전트 프레임워크입니다."
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "",
+      "stars_today": 209,
+      "lang": "Python",
+      "summary_ko": "Claude 모델을 활용한 레드팀 시나리오 구현 예제로, 보안 테스트에 활용됩니다."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 188,
+      "stars_today": 157,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AirLLM은 클라우드 환경에서 LLM을 손쉽게 배포·관리할 수 있게 해 주는 경량 툴킷입니다."
+      "summary_ko": "경량화된 LLM 배포를 목표로 한 AirLLM 프로젝트로, 클라우드 없이도 빠른 추론이 가능해요."
     },
     {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "repo": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
       "desc": "",
-      "stars_today": 104,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Generative‑AI‑for‑Beginners는 초보자를 위한 생성 AI 개념·실습 자료를 제공합니다."
+      "stars_today": 111,
+      "lang": "Python",
+      "summary_ko": "vLLM은 대규모 언어 모델을 초고속으로 서빙하도록 최적화된 고성능 엔진입니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 102,
+      "stars_today": 105,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Dive‑into‑LLMs는 LLM 구조와 학습 과정을 체계적으로 탐구하는 교육용 레포지터리입니다."
+      "summary_ko": "LLM의 원리와 실습을 체계적으로 다루는 교육용 레포로, 입문자에게 유용합니다."
     },
     {
-      "repo": "BerriAI/litellm",
-      "url": "https://github.com/BerriAI/litellm",
+      "repo": "baidu/Unlimited-OCR",
+      "url": "https://github.com/baidu/Unlimited-OCR",
       "desc": "",
-      "stars_today": 101,
+      "stars_today": 93,
       "lang": "Python",
-      "summary_ko": "LiteLLM은 여러 LLM 서비스(OpenAI, Anthropic 등)를 통합해 간단히 호출할 수 있게 해 줍니다."
+      "summary_ko": "바이두가 제공하는 무제한 OCR 서비스로, 다양한 이미지 텍스트 추출을 지원합니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 70,
+      "stars_today": 84,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI‑Agents‑for‑Beginners는 AI 에이전트 개발 입문자를 위한 실습 예제와 튜토리얼을 담고 있습니다."
+      "summary_ko": "생성 AI 입문자를 위한 마이크로소프트 공식 튜토리얼로, 실습 중심 학습을 제공합니다."
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 30,
+      "stars_today": 42,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Claude‑Cookbooks는 다양한 업무 시나리오에 맞춘 Claude 프롬프트 예시를 정리한 레시피 모음입니다."
-    },
-    {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "desc": "",
-      "stars_today": 24,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Happy‑LLM은 중국어 환경에서 LLM을 학습·활용하는 단계별 실습 가이드를 제공합니다."
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 23,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "OpenAI‑Cookbook은 OpenAI API 활용법을 코드 예제로 상세히 설명한 공식 레시피집입니다."
-    },
-    {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "desc": "",
-      "stars_today": 20,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "RAG_Techniques는 Retrieval‑Augmented Generation 구현을 위한 최신 기법과 사례를 정리했습니다."
+      "summary_ko": "AI 기본 개념부터 실습까지 포괄적으로 다루는 마이크로소프트 교육 자료 모음입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Jailbreaking the Switch 2",
-      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
-      "points": 682,
-      "comments": 240,
-      "hn_url": "https://news.ycombinator.com/item?id=50192536",
-      "title_ko": "Switch 2 탈옥",
-      "summary_ko": "새로운 Switch 2 콘솔을 해킹해 제한을 풀어 사용하는 방법을 다룬 글."
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "points": 189,
+      "comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=50214218",
+      "title_ko": "구글, Gmail·Google 포토 데이터로 광고 타깃팅 가능성 언급",
+      "summary_ko": "구글이 사용자 Gmail·Photos 데이터를 광고 타깃팅에 활용할 수 있다고 밝혀 개인정보 보호 논란이 커지고 있습니다."
     },
     {
-      "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "points": 257,
-      "comments": 134,
-      "hn_url": "https://news.ycombinator.com/item?id=50198675",
-      "title_ko": "OpenShell – 안전하고 프라이버시를 보장하는 자율 AI 에이전트 런타임",
-      "summary_ko": "다수의 자율 AI 에이전트를 안전하게 운영할 수 있는 프라이빗 런타임 플랫폼 소개."
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "url": "https://block.xyz/dessa",
+      "points": 158,
+      "comments": 63,
+      "hn_url": "https://news.ycombinator.com/item?id=50213925",
+      "title_ko": "Dessa: 가장 정교한 전이중 음성 모델",
+      "summary_ko": "Dessa는 양방향으로 자연스러운 대화를 구현한 최신 전이중 음성 생성 모델로, 실시간 음성 인터페이스에 혁신을 기대하게 합니다."
     },
     {
-      "title": "Every AI model has the same \"controversial\" take on humans",
-      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
-      "points": 183,
-      "comments": 197,
-      "hn_url": "https://news.ycombinator.com/item?id=50197313",
-      "title_ko": "모든 AI 모델이 인간에 대해 갖는 ‘논란’ 의견",
-      "summary_ko": "다양한 AI 모델이 인간을 평가할 때 공통적으로 보이는 논쟁적인 시각을 분석."
+      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+      "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+      "points": 106,
+      "comments": 66,
+      "hn_url": "https://news.ycombinator.com/item?id=50212320",
+      "title_ko": "150만 달러짜리 Looker를 HTML 파일 묶음으로 대체할 수 있을까?",
+      "summary_ko": "고가의 Looker BI 툴을 정적 HTML 파일로 대체하는 방안을 탐구하며 비용 절감과 유지보수 이슈를 검토합니다."
     },
     {
-      "title": "AI and the Enclosure of the Scientific Commons",
-      "url": "https://arxiv.org/abs/2610.27251",
-      "points": 97,
-      "comments": 54,
-      "hn_url": "https://news.ycombinator.com/item?id=50199230",
-      "title_ko": "AI와 과학 공동체의 폐쇄",
-      "summary_ko": "AI 기술이 과학 연구의 공개성을 어떻게 제한하고 있는지 논의하는 글."
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "points": 54,
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=50214416",
+      "title_ko": "프론티어 모델 학습 환경 보안 강화",
+      "summary_ko": "대규모 AI 모델 학습 시 보안을 강화하기 위한 최신 방안과 인프라 설계 전략을 소개합니다."
     },
     {
-      "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
-      "url": "https://www.biograph.com/newsroom/biograph-completes-first-u.s.-study-with-caristo-diagnostics%E2%80%99-ai-powered-coronary-inflammation-detection-finding-risk-in-over-42-of-asymptomatic-patients",
-      "points": 72,
-      "comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=50198940",
-      "title_ko": "AI 기반 CT 스캔 분석, 환자 42.9%에 관상동맥 염증 발견",
-      "summary_ko": "AI가 CT 영상을 분석해 관상동맥 염증을 높은 비율로 식별한 연구 결과 소개."
+      "title": "Air Purifiers as White Noise Machines",
+      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "points": 42,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=50212507",
+      "title_ko": "공기청정기를 화이트 노이즈 머신으로 활용하기",
+      "summary_ko": "공기청정기의 소음이 백색소음 역할을 해 수면·집중 환경을 개선하는 새로운 활용법을 제안합니다."
     },
     {
-      "title": "Show HN: UI micro interactions prompts for AI",
-      "url": "https://www.typeui.sh/micro-interactions",
-      "points": 67,
-      "comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=50199290",
-      "title_ko": "Show HN: AI용 UI 마이크로 인터랙션 프롬프트",
-      "summary_ko": "AI와 상호작용할 때 UI 마이크로 인터랙션을 설계하기 위한 프롬프트 컬렉션 제공."
+      "title": "A whirlwind tour of systemd-nspawn containers",
+      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "points": 18,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50214983",
+      "title_ko": "systemd-nspawn 컨테이너 빠르게 살펴보기",
+      "summary_ko": "systemd-nspawn을 이용한 경량 컨테이너 생성·관리 방법을 실전 예제로 간결히 정리했습니다."
     },
     {
-      "title": "Mini brain organoids ‘reading’ Braille key step towards biohybrid computing",
-      "url": "https://www.frontiersin.org/news/2026/10/16/mini-brain-organoids-reading-braille-biohybrid-computing-frontiers-artificial-intelligence",
-      "points": 36,
-      "comments": 37,
-      "hn_url": "https://news.ycombinator.com/item?id=50197450",
-      "title_ko": "미니 뇌 오가노이드가 점자를 ‘읽는’ 바이오하이브리드 컴퓨팅 단계",
-      "summary_ko": "뇌 오가노이드를 활용해 점자를 인식하는 실험으로 바이오하이브리드 컴퓨팅 가능성을 시사."
-    },
-    {
-      "title": "Show HN: Turn regular JavaScript into a neural net",
-      "url": "https://chenglou.me/handwired/",
-      "points": 29,
-      "comments": 10,
-      "hn_url": "https://news.ycombinator.com/item?id=50172984",
-      "title_ko": "Show HN: 일반 JavaScript를 신경망으로 변환",
-      "summary_ko": "기존 JavaScript 코드를 손쉽게 신경망 모델로 변환해 실행할 수 있는 도구 소개."
+      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
+      "url": "https://corgi.computer/",
+      "points": 4,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50214373",
+      "title_ko": "Show HN: Corgi – 다목적 에이전트·터미널 멀티플렉서",
+      "summary_ko": "Corgi는 터미널과 에이전트를 하나로 묶어 작업 흐름을 효율화하는 새로운 멀티플렉서 도구입니다."
     }
   ],
   "reddit": [
     {
-      "title": "Qwen4 and Kimi3.1 on Arena apperantly",
+      "title": "Vibecoding your own inference engine is easy they said",
       "sub": "LocalLLaMA",
-      "author": "thatscoolbutno123",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcj1wm/qwen4_and_kimi31_on_arena_apperantly/",
-      "title_ko": "Arena에 Qwen4와 Kimi3.1이 등장",
-      "summary_ko": "Reddit r/LocalLLaMA 글에 따르면 최신 대형 언어 모델 Qwen4와 Kimi3.1이 Arena 플랫폼에 통합되었습니다."
+      "author": "CodeMichaelD",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
+      "title_ko": "Vibecoding, 직접 추론 엔진 만들기 쉬워요",
+      "summary_ko": "Reddit r/LocalLLaMA에서 Vibecoding을 활용해 손쉽게 자체 추론 엔진을 구축하는 방법을 소개합니다."
     },
     {
-      "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
+      "title": "Is symbolic ai dead? [D]",
       "sub": "MachineLearning",
-      "author": "jatingargiitk",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
-      "title_ko": "DNA와 텍스트를 함께 학습한 14.8B 규모 오픈 모델 Carbon‑X",
-      "summary_ko": "Reddit r/MachineLearning 글에서 DNA 서열과 텍스트를 공동 학습한 14.8억 파라미터 오픈 모델 Carbon‑X가 소개되었습니다."
+      "author": "Velocitank",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
+      "title_ko": "심볼릭 AI는 사라졌는가?",
+      "summary_ko": "Reddit r/MachineLearning에서 심볼릭 인공지능의 현황과 향후 가능성을 논의하는 스레드입니다."
     },
     {
-      "title": "Meta's 816B Muse Spark Open scores 39 on Artificial Analysis, the 180B Qwen3.8-Flash-Next scores 40. Score vs size for 11 open-weight models",
+      "title": "Models disappearing from Huggingface",
       "sub": "LocalLLaMA",
-      "author": "BTA_Labs",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcthj8/metas_816b_muse_spark_open_scores_39_on/",
-      "title_ko": "Meta 816B Muse Spark Open, Qwen3.8‑Flash‑Next 성능 비교",
-      "summary_ko": "Reddit r/LocalLLaMA 글에선 816억 파라미터 Muse Spark Open이 39점, 180억 파라미터 Qwen3.8‑Flash‑Next가 40점을 받아 모델 규모 대비 성능을 비교했습니다."
+      "author": "umarmnaq",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
+      "title_ko": "Huggingface에서 모델이 사라지는 현상",
+      "summary_ko": "Reddit r/LocalLLaMA에서 Huggingface에 있던 모델들이 갑자기 삭제되는 사례와 원인을 탐구합니다."
     },
     {
-      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
       "sub": "MachineLearning",
-      "author": "Working_Hat5120",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
-      "title_ko": "스티어러블 소형 TTS 11.84 MB로 축소, 품질 유지",
-      "summary_ko": "Reddit r/MachineLearning 글에 따르면 크기 11.84 MB로 축소한 스티어러블 TTS가 WER은 동일하고 UTMOS가 약 0.1 감소했습니다."
+      "author": "mistlab",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
+      "title_ko": "Hive Mind: 단일 강화학습 에이전트와 군집 동역학의 등가성",
+      "summary_ko": "Reddit r/MachineLearning에서 스웜 다이내믹스를 다중 무장 밴딧 문제와 정확히 동일하게 만드는 연구를 소개합니다."
     },
     {
-      "title": "DeepSeek and MiniMax Clear China’s AI Export Rules for Overseas Open-Source Releases",
+      "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
       "sub": "LocalLLaMA",
-      "author": "Stannis_Loyalist",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xcoelw/deepseek_and_minimax_clear_chinas_ai_export_rules/",
-      "title_ko": "DeepSeek·MiniMax, 중국 AI 수출 규제 해제 후 해외 오픈소스 출시",
-      "summary_ko": "Reddit r/LocalLLaMA 글에선 DeepSeek와 MiniMax가 중국의 AI 수출 규제 완화에 따라 해외 오픈소스 모델을 공개했습니다."
+      "author": "brainExploded99",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
+      "title_ko": "새 GitHub 계정이 만든 신비한 Qwen4 등장",
+      "summary_ko": "Reddit r/LocalLLaMA에서 신규 계정들이 공개한 Qwen4 모델의 출현과 그 의미를 다룹니다."
     },
     {
-      "title": "ICLR Text Editor [D]",
+      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
       "sub": "MachineLearning",
-      "author": "Whatever_635",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcq2an/iclr_text_editor_d/",
-      "title_ko": "ICLR 텍스트 편집기 출시",
-      "summary_ko": "Reddit r/MachineLearning 글에서 발표된 ICLR 텍스트 편집기는 학술 논문 작성 시 편리한 기능을 제공하는 새로운 도구입니다."
+      "author": "PanelReader",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
+      "title_ko": "Next-Concept Modeling, 매력적인 아이디어",
+      "summary_ko": "Reddit r/MachineLearning에서 최근 소개된 Next-Concept Modeling 개념과 그 흥미로운 적용 사례를 살펴봅니다."
     }
   ],
   "youtube": [
     {
-      "title": "New top local AI image generator is here!",
+      "title": "Deepseek strikes again",
       "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=cUeZMUGCxrw",
-      "published": "2026-10-20",
-      "desc": "MOSS Image review & tutorial. How to use MOSS Image in ComfyUI. How to edit images with MOSS. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-rxYPHC #ai #aiart #imagegenerator #aitools #ainews #agi https://huggingface.co/Comfy-Org/MOSS-Image htt",
-      "title_ko": "새 로컬 AI 이미지 생성기 출시",
-      "summary_ko": "MOSS Image를 ComfyUI와 연동해 사용하는 방법과 편집 튜토리얼을 소개합니다."
+      "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w",
+      "published": "2026-10-23",
+      "desc": "New Deepseek model. Deepseek V4.1 Flash 1017 and DeepInfer review. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-ZsWXGm #ainews #ai #agi #singularity #llm #aitools Deepseek V4.1 1017 https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 ",
+      "title_ko": "Deepseek 모델 V4.1 Flash 1017 및 DeepInfer 리뷰",
+      "summary_ko": "Deepseek 최신 모델과 DeepInfer를 소개하며 사용법을 안내하는 영상입니다."
+    },
+    {
+      "title": "일론 머스크, 우주통신을 넘어 지상 통신까지 다 먹는다",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/vvllRxsPnbY",
+      "published": "2026-10-23",
+      "desc": "",
+      "title_ko": "일론 머스크, 우주통신을 넘어 지상 통신까지 장악한다",
+      "summary_ko": "일론 머스크가 우주와 지상 통신 시장을 모두 확대하려는 전략을 다룹니다."
+    },
+    {
+      "title": "[테디노트 X AutoRAG] 🔥 AI 에이전트 시대, #RAG 는 끝났을까? 완전히 달라진 AutoRAG와 #Agent Harness 개발기",
+      "channel": "테디노트",
+      "url": "https://www.youtube.com/watch?v=ZvgmMilxFkY",
+      "published": "2026-10-22",
+      "desc": "\"AI 에이전트 시대에도 RAG는 여전히 필요할까요?\" 최근 AI 에이전트가 빠르게 발전하면서 검색하고, 추론하고, 도구를 사용하는 방식이 크게 달라지고 있습니다. 그렇다면 기존의 RAG는 앞으로 어떤 모습으로 진화해야 할까요? 이번 라이브에서는 AutoRAG 개발팀 리더 김동규 님을 모시고, 에이전트 시대에 RAG가 나아가야 할 방향에 대해 이야기 나눠보려고 합니다. 특히 완전히 새로워진 AutoRAG Agent와 AI Finder Dazzi를 소개하고, RAG 기반 Agent Harness를 ",
+      "title_ko": "AutoRAG와 Agent Harness 개발기 – AI 에이전트 시대의 RAG 변화",
+      "summary_ko": "AI 에이전트 시대에 RAG가 어떻게 진화해야 하는지 AutoRAG 팀이 설명합니다."
     },
     {
       "title": "Gemini 4 Argon Is Not What I Expected",
@@ -256,18 +241,63 @@
       "published": "2026-10-19",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: htt",
       "title_ko": "Gemini 4 Argon, 기대와 다른 점",
-      "summary_ko": "Gemini 4 Argon 모델과 보고서를 살펴보고 Lambda GPU 클라우드 이용을 안내합니다."
+      "summary_ko": "Gemini 4 Argon 모델의 실제 성능과 예상 차이를 분석하는 영상입니다."
     },
     {
-      "title": "I built a DeepSeek R1 powered VS Code extension…",
-      "channel": "Fireship",
-      "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
-      "published": "2025-01-28",
-      "desc": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-st",
-      "title_ko": "DeepSeek R1 기반 VS Code 확장 만들기",
-      "summary_ko": "DeepSeek R1을 활용해 맞춤형 AI 어시스턴트 VS Code 확장을 만드는 과정을 설명합니다."
+      "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
+      "published": "2026-10-18",
+      "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
+      "title_ko": "Jensen Huang, 대만 성장 이야기 – Lex Fridman 인터뷰",
+      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경을 이야기합니다."
+    },
+    {
+      "title": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
+      "channel": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/shorts/5-nnCkTsdQs",
+      "published": "2026-10-18",
+      "desc": "문제가 터지기 전부터 오래 고민한 사람에게 답의 단서가 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #문제해결",
+      "title_ko": "문제 발생 전 답을 찾는 법 – 오타쿠에게 물어라 #shorts",
+      "summary_ko": "문제 발생 전에 고민한 사람에게서 해답을 찾는 방법을 소개합니다."
+    },
+    {
+      "title": "There's never been a better time to go into math",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "published": "2026-10-16",
+      "desc": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the pulse of how mathematicians are ",
+      "title_ko": "수학에 뛰어들기 좋은 시기",
+      "summary_ko": "수학의 미래와 현재가 학습하기에 최적임을 설명하는 강연입니다."
+    },
+    {
+      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "published": "2026-10-12",
+      "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
+      "title_ko": "AI 레이스가 보안 침해를 불가피하게 만든다",
+      "summary_ko": "AI 경쟁이 가속화되면서 보안 침해 위험이 커지는 현상을 경고합니다."
+    },
+    {
+      "title": "I spent 4 weeks building an AI to humiliate one player",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
+      "published": "2026-10-07",
+      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
+      "title_ko": "플레이어를 조롱하는 AI를 4주간 만든 이야기",
+      "summary_ko": "4주간 AI를 개발해 특정 플레이어를 조롱하도록 만든 과정을 공유합니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+      "handle": "@robbietilton",
+      "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+      "note": "HN 57pts · 16 댓글",
+      "title_ko": "TV를 게임보이 컬러로 바꾸고 포켓몬 마을을 홈 화면으로",
+      "summary_ko": "트위터에서 화제가 된 이 프로젝트는 TV를 게임보이 컬러처럼 변형해 포켓몬 마을을 홈 화면으로 구현한 창의적인 해킹 사례다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
