@@ -1,78 +1,54 @@
 {
-  "generated_at": "2026-10-23T23:15:42.426814+00:00",
-  "date_label": "2026년 10월 24일 (토)",
+  "generated_at": "2026-10-24T22:35:57.295863+00:00",
+  "date_label": "2026년 10월 25일 (일)",
   "github_trending": [
     {
-      "repo": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
       "desc": "",
-      "stars_today": 1168,
+      "stars_today": 770,
       "lang": "Python",
-      "summary_ko": "Claude AI 활용법을 단계별로 정리한 가이드 레포로, 초보자도 쉽게 적용 가능해요."
+      "summary_ko": "SnailSploit/Claude-Red는 Claude 모델을 활용한 레드팀 시뮬레이션 도구로 보안 테스트에 유용합니다."
     },
     {
       "repo": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "desc": "",
-      "stars_today": 643,
+      "stars_today": 598,
       "lang": "Python",
-      "summary_ko": "Anthropic 모델에 지식 작업 플러그인을 추가해 업무 자동화를 지원하는 도구 모음입니다."
+      "summary_ko": "anthropics/knowledge-work-plugins는 업무 효율을 높이는 Anthropic 플러그인 모음으로 기업 활용도가 높습니다."
     },
     {
-      "repo": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "repo": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
       "desc": "",
-      "stars_today": 547,
-      "lang": "TypeScript",
-      "summary_ko": "사주·자위 운세 분석을 위한 파이썬 구현체로, 전통 운세 계산을 자동화합니다."
+      "stars_today": 570,
+      "lang": "CSS",
+      "summary_ko": "Nutlope/hallmark은 텍스트에 서명·인증 기능을 추가하는 라이브러리로 문서 무결성 검증에 쓰입니다."
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "desc": "",
+      "stars_today": 442,
+      "lang": "Python",
+      "summary_ko": "luongnv89/claude-howto는 Claude 사용법을 단계별로 정리한 튜토리얼 레포로 입문자에게 도움이 됩니다."
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 498,
+      "stars_today": 307,
       "lang": "Python",
-      "summary_ko": "다양한 전략을 테스트하고 실행할 수 있는 고성능 트레이딩 에이전트 프레임워크입니다."
-    },
-    {
-      "repo": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "desc": "",
-      "stars_today": 209,
-      "lang": "Python",
-      "summary_ko": "Claude 모델을 활용한 레드팀 시나리오 구현 예제로, 보안 테스트에 활용됩니다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 157,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "경량화된 LLM 배포를 목표로 한 AirLLM 프로젝트로, 클라우드 없이도 빠른 추론이 가능해요."
-    },
-    {
-      "repo": "vllm-project/vllm",
-      "url": "https://github.com/vllm-project/vllm",
-      "desc": "",
-      "stars_today": 111,
-      "lang": "Python",
-      "summary_ko": "vLLM은 대규모 언어 모델을 초고속으로 서빙하도록 최적화된 고성능 엔진입니다."
+      "summary_ko": "TauricResearch/TradingAgents는 금융 트레이딩 자동화를 위한 에이전트 프레임워크이며 전략 구현에 적합합니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 105,
+      "stars_today": 164,
       "lang": "Jupyter Notebook",
-      "summary_ko": "LLM의 원리와 실습을 체계적으로 다루는 교육용 레포로, 입문자에게 유용합니다."
-    },
-    {
-      "repo": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
-      "desc": "",
-      "stars_today": 93,
-      "lang": "Python",
-      "summary_ko": "바이두가 제공하는 무제한 OCR 서비스로, 다양한 이미지 텍스트 추출을 지원합니다."
+      "summary_ko": "Lordog/dive-into-llms는 LLM 구조와 활용법을 깊이 있게 탐구하는 교육 자료 모음입니다."
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
@@ -80,150 +56,181 @@
       "desc": "",
       "stars_today": 84,
       "lang": "Jupyter Notebook",
-      "summary_ko": "생성 AI 입문자를 위한 마이크로소프트 공식 튜토리얼로, 실습 중심 학습을 제공합니다."
+      "summary_ko": "microsoft/generative-ai-for-beginners는 초보자를 위한 생성 AI 개념과 실습 예제를 제공하는 마이크로소프트 가이드입니다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "desc": "",
-      "stars_today": 42,
+      "stars_today": 73,
+      "lang": "Python",
+      "summary_ko": "ComposioHQ/awesome-claude-skills는 Claude용 스킬 예시를 모아 생산성 향상에 활용할 수 있습니다."
+    },
+    {
+      "repo": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "desc": "",
+      "stars_today": 64,
+      "lang": "Python",
+      "summary_ko": "agentskills/agentskills는 다양한 AI 에이전트 스킬을 정의·공유하는 오픈소스 레포로 재사용성이 높습니다."
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "desc": "",
+      "stars_today": 38,
+      "lang": "TypeScript",
+      "summary_ko": "google-gemini/gemini-cli는 Gemini 모델을 명령줄에서 쉽게 호출할 수 있게 해 개발 효율을 높입니다."
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "",
+      "stars_today": 35,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI 기본 개념부터 실습까지 포괄적으로 다루는 마이크로소프트 교육 자료 모음입니다."
+      "summary_ko": "anthropics/claude-cookbooks는 Claude 활용 레시피를 모아 복잡한 작업을 간단히 구현하도록 돕습니다."
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "url": "https://github.com/crewAIInc/crewAI",
+      "desc": "",
+      "stars_today": 32,
+      "lang": "Python",
+      "summary_ko": "crewAIInc/crewAI는 팀 기반 AI 워크플로우를 설계·운영하는 프레임워크로 협업에 최적화돼 있습니다."
+    },
+    {
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "openai/openai-cookbook은 OpenAI API 활용 예시를 풍부하게 제공해 개발 속도를 크게 단축시킵니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "points": 189,
-      "comments": 88,
-      "hn_url": "https://news.ycombinator.com/item?id=50214218",
-      "title_ko": "구글, Gmail·Google 포토 데이터로 광고 타깃팅 가능성 언급",
-      "summary_ko": "구글이 사용자 Gmail·Photos 데이터를 광고 타깃팅에 활용할 수 있다고 밝혀 개인정보 보호 논란이 커지고 있습니다."
-    },
-    {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "title": "Dessa: Conversation Model trained only on speech",
       "url": "https://block.xyz/dessa",
-      "points": 158,
-      "comments": 63,
+      "points": 498,
+      "comments": 188,
       "hn_url": "https://news.ycombinator.com/item?id=50213925",
-      "title_ko": "Dessa: 가장 정교한 전이중 음성 모델",
-      "summary_ko": "Dessa는 양방향으로 자연스러운 대화를 구현한 최신 전이중 음성 생성 모델로, 실시간 음성 인터페이스에 혁신을 기대하게 합니다."
+      "title_ko": "Dessa: 음성만으로 학습된 대화 모델",
+      "summary_ko": "음성 데이터만 사용해 훈련된 대화 모델 Dessa가 기존 텍스트 기반 모델과 차별화된 성능을 보여 주목받는다."
     },
     {
-      "title": "Can we replace a $150k Looker with a bucket of HTML files?",
-      "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
-      "points": 106,
-      "comments": 66,
-      "hn_url": "https://news.ycombinator.com/item?id=50212320",
-      "title_ko": "150만 달러짜리 Looker를 HTML 파일 묶음으로 대체할 수 있을까?",
-      "summary_ko": "고가의 Looker BI 툴을 정적 HTML 파일로 대체하는 방안을 탐구하며 비용 절감과 유지보수 이슈를 검토합니다."
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "points": 373,
+      "comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=50224463",
+      "title_ko": "AI 투자 수익, 기술 분야 외에서는 미미",
+      "summary_ko": "AI 기술에 대한 투자 확대에도 불구하고 비기술 산업에서는 실질적인 성과가 아직 나타나지 않아 우려가 제기된다."
     },
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
-      "points": 54,
-      "comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=50214416",
-      "title_ko": "프론티어 모델 학습 환경 보안 강화",
-      "summary_ko": "대규모 AI 모델 학습 시 보안을 강화하기 위한 최신 방안과 인프라 설계 전략을 소개합니다."
+      "title": "A practical guide to AI image generation, from diffusion to agents",
+      "url": "https://danielball.com/notes/ai_image_generation.html",
+      "points": 237,
+      "comments": 79,
+      "hn_url": "https://news.ycombinator.com/item?id=50171379",
+      "title_ko": "AI 이미지 생성 실전 가이드: 확산부터 에이전트까지",
+      "summary_ko": "확산 모델부터 에이전트 활용까지 AI 이미지 생성 전 과정을 단계별로 정리한 실용적인 안내서이다."
     },
     {
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-      "points": 42,
-      "comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=50212507",
-      "title_ko": "공기청정기를 화이트 노이즈 머신으로 활용하기",
-      "summary_ko": "공기청정기의 소음이 백색소음 역할을 해 수면·집중 환경을 개선하는 새로운 활용법을 제안합니다."
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "points": 128,
+      "comments": 123,
+      "hn_url": "https://news.ycombinator.com/item?id=50223647",
+      "title_ko": "AI 생성 언어가 이해하기 어려운 이유",
+      "summary_ko": "AI가 만든 텍스트가 인간에게 난해한 이유를 언어 구조와 모델 한계 측면에서 분석한다."
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-      "points": 18,
-      "comments": 2,
-      "hn_url": "https://news.ycombinator.com/item?id=50214983",
-      "title_ko": "systemd-nspawn 컨테이너 빠르게 살펴보기",
-      "summary_ko": "systemd-nspawn을 이용한 경량 컨테이너 생성·관리 방법을 실전 예제로 간결히 정리했습니다."
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "points": 74,
+      "comments": 24,
+      "hn_url": "https://news.ycombinator.com/item?id=50222525",
+      "title_ko": "신경칩, 뇌 영역 간 상호작용 해독",
+      "summary_ko": "최신 신경칩이 뇌의 서로 다른 영역 간 상호작용을 실시간으로 해독해 신경과학 연구에 혁신을 가져온다."
     },
     {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "points": 4,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50214373",
-      "title_ko": "Show HN: Corgi – 다목적 에이전트·터미널 멀티플렉서",
-      "summary_ko": "Corgi는 터미널과 에이전트를 하나로 묶어 작업 흐름을 효율화하는 새로운 멀티플렉서 도구입니다."
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "points": 25,
+      "comments": 17,
+      "hn_url": "https://news.ycombinator.com/item?id=50222283",
+      "title_ko": "Oai-math-revised: OpenAI 수학 글 수정 커뮤니티",
+      "summary_ko": "OpenAI의 수학 관련 글을 공동 검토·수정하는 플랫폼으로, 정확도 향상과 지식 공유를 목표로 한다."
     }
   ],
   "reddit": [
     {
-      "title": "Vibecoding your own inference engine is easy they said",
+      "title": "Kimi K3.1 removes cyberattack training data from open weight release",
       "sub": "LocalLLaMA",
-      "author": "CodeMichaelD",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdh57e/vibecoding_your_own_inference_engine_is_easy_they/",
-      "title_ko": "Vibecoding, 직접 추론 엔진 만들기 쉬워요",
-      "summary_ko": "Reddit r/LocalLLaMA에서 Vibecoding을 활용해 손쉽게 자체 추론 엔진을 구축하는 방법을 소개합니다."
+      "author": "zxyzyxz",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xecgrf/kimi_k31_removes_cyberattack_training_data_from/",
+      "title_ko": "Kimi K3.1, 사이버공격 학습 데이터 오픈 가중치에서 삭제",
+      "summary_ko": "Kimi K3.1이 보안 위험을 줄이기 위해 사이버공격 훈련 데이터를 공개 가중치에서 제거했습니다."
     },
     {
-      "title": "Is symbolic ai dead? [D]",
-      "sub": "MachineLearning",
-      "author": "Velocitank",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdekrf/is_symbolic_ai_dead_d/",
-      "title_ko": "심볼릭 AI는 사라졌는가?",
-      "summary_ko": "Reddit r/MachineLearning에서 심볼릭 인공지능의 현황과 향후 가능성을 논의하는 스레드입니다."
-    },
-    {
-      "title": "Models disappearing from Huggingface",
+      "title": "KLD is misunderstood",
       "sub": "LocalLLaMA",
-      "author": "umarmnaq",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xd7ptj/models_disappearing_from_huggingface/",
-      "title_ko": "Huggingface에서 모델이 사라지는 현상",
-      "summary_ko": "Reddit r/LocalLLaMA에서 Huggingface에 있던 모델들이 갑자기 삭제되는 사례와 원인을 탐구합니다."
+      "author": "Positive-Resource922",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeim3m/kld_is_misunderstood/",
+      "title_ko": "KLD에 대한 오해",
+      "summary_ko": "KLD(쿨백-라이블러 발산)의 의미와 적용 범위가 잘못 이해되고 있다는 점을 짚어줍니다."
     },
     {
-      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-      "sub": "MachineLearning",
-      "author": "mistlab",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-      "title_ko": "Hive Mind: 단일 강화학습 에이전트와 군집 동역학의 등가성",
-      "summary_ko": "Reddit r/MachineLearning에서 스웜 다이내믹스를 다중 무장 밴딧 문제와 정확히 동일하게 만드는 연구를 소개합니다."
-    },
-    {
-      "title": "Mysterious Qwen4 Appearance by New GitHub Accounts",
+      "title": "Meta trained small AI models to read raw bytes instead of tokens. They start out worse, but the paper predicts they end up better",
       "sub": "LocalLLaMA",
-      "author": "brainExploded99",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xdmt2o/mysterious_qwen4_appearance_by_new_github_accounts/",
-      "title_ko": "새 GitHub 계정이 만든 신비한 Qwen4 등장",
-      "summary_ko": "Reddit r/LocalLLaMA에서 신규 계정들이 공개한 Qwen4 모델의 출현과 그 의미를 다룹니다."
+      "author": "DotaMate",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe88ja/meta_trained_small_ai_models_to_read_raw_bytes/",
+      "title_ko": "Meta, 토큰 대신 원시 바이트를 읽는 소형 AI 모델 훈련",
+      "summary_ko": "Meta가 바이트 기반 모델을 개발했으며 초기 성능은 낮지만 장기적으로는 토큰 모델을 능가할 것으로 예측합니다."
     },
     {
-      "title": "I just came across Next-Concept Modeling and the idea is fascinating[R]",
-      "sub": "MachineLearning",
-      "author": "PanelReader",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xd7bsu/i_just_came_across_nextconcept_modeling_and_the/",
-      "title_ko": "Next-Concept Modeling, 매력적인 아이디어",
-      "summary_ko": "Reddit r/MachineLearning에서 최근 소개된 Next-Concept Modeling 개념과 그 흥미로운 적용 사례를 살펴봅니다."
+      "title": "8 GB GPU, 262K context 3.5 BPW Qwen-Flash-Next Coder 70 T/s using llama.cpp",
+      "sub": "LocalLLaMA",
+      "author": "jonathanx37",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xebdzl/8_gb_gpu_262k_context_35_bpw_qwenflashnext_coder/",
+      "title_ko": "8 GB GPU, 262K 컨텍스트 3.5 BPW Qwen-Flash-Next Coder, llama.cpp로 초당 70 T",
+      "summary_ko": "8 GB GPU에서도 llama.cpp를 이용해 262 K 토큰 컨텍스트와 3.5 BPW를 달성, 초당 70 T 처리 속도를 기록했습니다."
+    },
+    {
+      "title": "Made a rhythm game where 4 small neural nets listen to your song right in the browser tab (open source)",
+      "sub": "LocalLLaMA",
+      "author": "MrFelliks",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xeia9o/made_a_rhythm_game_where_4_small_neural_nets/",
+      "title_ko": "브라우저 탭에서 4개의 소형 신경망이 곡을 듣는 리듬 게임 (오픈소스)",
+      "summary_ko": "브라우저만으로 4개의 경량 신경망이 실시간으로 음악을 분석해 플레이하는 오픈소스 리듬 게임을 만들었습니다."
+    },
+    {
+      "title": "The RTX 5090 Isn't Gone, It's In Chinese Labs, Where Technicians Rip Off Its Die And 32GB VRAM For AI Servers",
+      "sub": "LocalLLaMA",
+      "author": "chemist_slime",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xe1zsr/the_rtx_5090_isnt_gone_its_in_chinese_labs_where/",
+      "title_ko": "RTX 5090, 사라진 것이 아니라 중국 연구소에서 다이와 32 GB VRAM을 분리해 AI 서버에 재활용",
+      "summary_ko": "중국 연구소가 RTX 5090 다이를 분리해 32 GB VRAM을 AI 서버용으로 재구성하고 있다는 소식입니다."
     }
   ],
   "youtube": [
+    {
+      "title": "아틀라스 손가락이 4개인 이유",
+      "channel": "안될공학",
+      "url": "https://www.youtube.com/shorts/sLQcVJ4M1pQ",
+      "published": "2026-10-24",
+      "desc": "",
+      "title_ko": "아틀라스 손가락이 4개인 이유",
+      "summary_ko": "안될공학 채널에서 아틀라스 로봇의 손가락 4개 설계 배경을 설명합니다."
+    },
     {
       "title": "Deepseek strikes again",
       "channel": "AI Search",
       "url": "https://www.youtube.com/watch?v=1Aqhg0FVm-w",
       "published": "2026-10-23",
       "desc": "New Deepseek model. Deepseek V4.1 Flash 1017 and DeepInfer review. Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-ZsWXGm #ainews #ai #agi #singularity #llm #aitools Deepseek V4.1 1017 https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017 ",
-      "title_ko": "Deepseek 모델 V4.1 Flash 1017 및 DeepInfer 리뷰",
-      "summary_ko": "Deepseek 최신 모델과 DeepInfer를 소개하며 사용법을 안내하는 영상입니다."
-    },
-    {
-      "title": "일론 머스크, 우주통신을 넘어 지상 통신까지 다 먹는다",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/shorts/vvllRxsPnbY",
-      "published": "2026-10-23",
-      "desc": "",
-      "title_ko": "일론 머스크, 우주통신을 넘어 지상 통신까지 장악한다",
-      "summary_ko": "일론 머스크가 우주와 지상 통신 시장을 모두 확대하려는 전략을 다룹니다."
+      "title_ko": "Deepseek 또다시 도전",
+      "summary_ko": "Deepseek V4.1 Flash 1017 모델과 DeepInfer 리뷰를 소개하는 AI Search 영상입니다."
     },
     {
       "title": "[테디노트 X AutoRAG] 🔥 AI 에이전트 시대, #RAG 는 끝났을까? 완전히 달라진 AutoRAG와 #Agent Harness 개발기",
@@ -231,8 +238,8 @@
       "url": "https://www.youtube.com/watch?v=ZvgmMilxFkY",
       "published": "2026-10-22",
       "desc": "\"AI 에이전트 시대에도 RAG는 여전히 필요할까요?\" 최근 AI 에이전트가 빠르게 발전하면서 검색하고, 추론하고, 도구를 사용하는 방식이 크게 달라지고 있습니다. 그렇다면 기존의 RAG는 앞으로 어떤 모습으로 진화해야 할까요? 이번 라이브에서는 AutoRAG 개발팀 리더 김동규 님을 모시고, 에이전트 시대에 RAG가 나아가야 할 방향에 대해 이야기 나눠보려고 합니다. 특히 완전히 새로워진 AutoRAG Agent와 AI Finder Dazzi를 소개하고, RAG 기반 Agent Harness를 ",
-      "title_ko": "AutoRAG와 Agent Harness 개발기 – AI 에이전트 시대의 RAG 변화",
-      "summary_ko": "AI 에이전트 시대에 RAG가 어떻게 진화해야 하는지 AutoRAG 팀이 설명합니다."
+      "title_ko": "[테디노트 X AutoRAG] AI 에이전트 시대, RAG는 끝났을까?",
+      "summary_ko": "AutoRAG 개발팀이 에이전트 시대에 RAG의 진화 방향을 논의하는 라이브 토크입니다."
     },
     {
       "title": "Gemini 4 Argon Is Not What I Expected",
@@ -241,7 +248,7 @@
       "published": "2026-10-19",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: htt",
       "title_ko": "Gemini 4 Argon, 기대와 다른 점",
-      "summary_ko": "Gemini 4 Argon 모델의 실제 성능과 예상 차이를 분석하는 영상입니다."
+      "summary_ko": "Two Minute Papers가 Gemini 4 Argon 모델의 실제 성능과 차이를 분석합니다."
     },
     {
       "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
@@ -249,8 +256,8 @@
       "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
       "published": "2026-10-18",
       "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
-      "title_ko": "Jensen Huang, 대만 성장 이야기 – Lex Fridman 인터뷰",
-      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경을 이야기합니다."
+      "title_ko": "Jensen Huang, 대만 성장 이야기 | Lex Fridman",
+      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경을 Lex와 대화합니다."
     },
     {
       "title": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
@@ -258,8 +265,8 @@
       "url": "https://www.youtube.com/shorts/5-nnCkTsdQs",
       "published": "2026-10-18",
       "desc": "문제가 터지기 전부터 오래 고민한 사람에게 답의 단서가 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #문제해결",
-      "title_ko": "문제 발생 전 답을 찾는 법 – 오타쿠에게 물어라 #shorts",
-      "summary_ko": "문제 발생 전에 고민한 사람에게서 해답을 찾는 방법을 소개합니다."
+      "title_ko": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
+      "summary_ko": "문제 발생 전 고민한 사람에게 답이 있다는 점을 강조하는 짧은 영상입니다."
     },
     {
       "title": "There's never been a better time to go into math",
@@ -267,8 +274,8 @@
       "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
       "published": "2026-10-16",
       "desc": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the pulse of how mathematicians are ",
-      "title_ko": "수학에 뛰어들기 좋은 시기",
-      "summary_ko": "수학의 미래와 현재가 학습하기에 최적임을 설명하는 강연입니다."
+      "title_ko": "수학에 뛰어들기 최고의 시기",
+      "summary_ko": "Andrej Karpathy가 수학의 미래와 현재 진입 시점의 가치를 이야기합니다."
     },
     {
       "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
@@ -276,8 +283,8 @@
       "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
       "published": "2026-10-12",
       "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
-      "title_ko": "AI 레이스가 보안 침해를 불가피하게 만든다",
-      "summary_ko": "AI 경쟁이 가속화되면서 보안 침해 위험이 커지는 현상을 경고합니다."
+      "title_ko": "AI 연구소, 경쟁이 침해를 ‘불가피’하게 만든다 경고",
+      "summary_ko": "AI 레이스가 가속화되며 보안 침해 위험이 커진다는 점을 경고합니다."
     },
     {
       "title": "I spent 4 weeks building an AI to humiliate one player",
@@ -285,19 +292,10 @@
       "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
       "published": "2026-10-07",
       "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "플레이어를 조롱하는 AI를 4주간 만든 이야기",
-      "summary_ko": "4주간 AI를 개발해 특정 플레이어를 조롱하도록 만든 과정을 공유합니다."
+      "title_ko": "4주간 AI를 만들어 한 플레이어를 조롱했다",
+      "summary_ko": "sentdex가 AI를 활용해 특정 플레이어를 괴롭히는 프로젝트 과정을 공개합니다."
     }
   ],
-  "social": [
-    {
-      "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
-      "handle": "@robbietilton",
-      "url": "https://twitter.com/robbietilton/status/2111936458923851923",
-      "note": "HN 57pts · 16 댓글",
-      "title_ko": "TV를 게임보이 컬러로 바꾸고 포켓몬 마을을 홈 화면으로",
-      "summary_ko": "트위터에서 화제가 된 이 프로젝트는 TV를 게임보이 컬러처럼 변형해 포켓몬 마을을 홈 화면으로 구현한 창의적인 해킹 사례다."
-    }
-  ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
