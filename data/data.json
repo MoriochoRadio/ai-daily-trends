@@ -1,326 +1,244 @@
 {
-  "generated_at": "2026-10-25T22:40:57.606177+00:00",
-  "date_label": "2026년 10월 26일 (월)",
+  "generated_at": "2026-10-26T23:57:14.965858+00:00",
+  "date_label": "2026년 10월 27일 (화)",
   "github_trending": [
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "desc": "",
-      "stars_today": 1359,
+      "stars_today": 2235,
       "lang": "CSS",
-      "summary_ko": "Nutlope/hallmark는 오픈소스 프로젝트 템플릿으로 빠른 시작을 돕는 도구입니다."
-    },
-    {
-      "repo": "TauricResearch/TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "desc": "",
-      "stars_today": 636,
-      "lang": "Python",
-      "summary_ko": "TauricResearch/TradingAgents는 금융 트레이딩 자동화를 위한 LLM 에이전트 예시를 제공합니다."
-    },
-    {
-      "repo": "aws/agent-toolkit-for-aws",
-      "url": "https://github.com/aws/agent-toolkit-for-aws",
-      "desc": "",
-      "stars_today": 304,
-      "lang": "Python",
-      "summary_ko": "aws/agent-toolkit-for-aws는 AWS 서비스와 연동하는 AI 에이전트 개발 키트입니다."
-    },
-    {
-      "repo": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "desc": "",
-      "stars_today": 255,
-      "lang": "TypeScript",
-      "summary_ko": "Renhuai123/ziwei-doushu는 전통 사주 분석을 위한 파이썬 구현을 공유합니다."
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 254,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms는 LLM 구조와 활용법을 단계별로 탐구하는 가이드입니다."
-    },
-    {
-      "repo": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "desc": "",
-      "stars_today": 186,
-      "lang": "Python",
-      "summary_ko": "SnailSploit/Claude-Red는 Claude 모델을 활용한 레드팀 시뮬레이션 툴킷입니다."
+      "summary_ko": "Nutlope의 hallmark 프로젝트는 AI 기반 이미지 스타일 변환 도구로, 창작자들의 디자인 작업을 자동화합니다."
     },
     {
       "repo": "AgriciDaniel/claude-seo",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "desc": "",
-      "stars_today": 179,
+      "stars_today": 1539,
       "lang": "Python",
-      "summary_ko": "AgriciDaniel/claude-seo는 Claude 기반 SEO 자동화 스크립트를 제공합니다."
+      "summary_ko": "AgriciDaniel이 만든 claude-seo는 Claude 모델을 활용한 검색 엔진 최적화 자동화 솔루션입니다."
     },
     {
-      "repo": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "repo": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 131,
+      "stars_today": 1376,
       "lang": "Python",
-      "summary_ko": "Shubhamsaboo/awesome-llm-apps는 다양한 LLM 활용 애플리케이션을 정리한 리스트입니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 84,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/generative-ai-for-beginners는 생성 AI 입문자를 위한 실습 자료 모음입니다."
-    },
-    {
-      "repo": "datawhalechina/diy-llm",
-      "url": "https://github.com/datawhalechina/diy-llm",
-      "desc": "",
-      "stars_today": 66,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/diy-llm은 개인용 LLM 구축 과정을 상세히 안내합니다."
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 55,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/AI-For-Beginners는 AI 기본 개념을 단계별 학습 코스로 제공합니다."
+      "summary_ko": "TauricResearch의 TradingAgents는 금융 시장 자동 매매를 위한 강화학습 에이전트 프레임워크입니다."
     },
     {
       "repo": "JetBrains/thinkrail",
       "url": "https://github.com/JetBrains/thinkrail",
       "desc": "",
-      "stars_today": 52,
+      "stars_today": 1156,
       "lang": "TypeScript",
-      "summary_ko": "JetBrains/thinkrail은 코드 리뷰를 돕는 AI 기반 분석 플러그인입니다."
+      "summary_ko": "JetBrains의 thinkrail은 코드 리뷰와 협업을 AI가 지원하는 개발 생산성 향상 툴킷입니다."
     },
     {
-      "repo": "unslothai/unsloth",
-      "url": "https://github.com/unslothai/unsloth",
+      "repo": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 48,
+      "stars_today": 723,
       "lang": "Python",
-      "summary_ko": "unslothai/unsloth는 경량 LLM 학습을 위한 효율적인 프레임워크입니다."
+      "summary_ko": "Panniantong의 Agent-Reach는 다양한 LLM 에이전트를 연결해 복합 작업을 수행하도록 설계되었습니다."
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "desc": "",
-      "stars_today": 39,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks는 Claude 활용 예시 레시피를 모아둔 저장소입니다."
+      "stars_today": 702,
+      "lang": "",
+      "summary_ko": "multica-ai의 andrej-karpathy-skills는 Karpathy 교수의 AI 기술을 정리한 학습 자료 모음입니다."
     },
     {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "repo": "alchaincyf/huashu-design",
+      "url": "https://github.com/alchaincyf/huashu-design",
       "desc": "",
-      "stars_today": 23,
+      "stars_today": 409,
+      "lang": "HTML",
+      "summary_ko": "alchaincyf의 huashu-design은 AI를 이용한 UI/UX 디자인 자동 생성 오픈소스 프로젝트입니다."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 358,
+      "lang": "Python",
+      "summary_ko": "Alishahryar1의 free-claude-code는 Claude 모델 활용 예제 코드를 무료로 제공하는 저장소입니다."
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 339,
       "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching은 자기주도 학습 방법론을 정리한 에세이입니다"
+      "summary_ko": "Lordog의 dive-into-llms는 최신 LLM 구조와 활용법을 단계별로 설명하는 교육 자료입니다."
+    },
+    {
+      "repo": "higgsfield-ai/skills",
+      "url": "https://github.com/higgsfield-ai/skills",
+      "desc": "",
+      "stars_today": 253,
+      "lang": "Python",
+      "summary_ko": "higgsfield-ai의 skills는 머신러닝 실무 기술을 정리한 노트와 코드 스니펫을 공유합니다."
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 81,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft의 generative-ai-for-beginners는 초보자를 위한 생성 AI 개념과 실습 가이드를 제공합니다."
+    },
+    {
+      "repo": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "desc": "",
+      "stars_today": 79,
+      "lang": "Python",
+      "summary_ko": "Significant-Gravitas의 AutoGPT는 자동화된 GPT 에이전트를 구현해 다양한 작업을 수행합니다."
+    },
+    {
+      "repo": "datawhalechina/diy-llm",
+      "url": "https://github.com/datawhalechina/diy-llm",
+      "desc": "",
+      "stars_today": 73,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina의 diy-llm은 개인이 직접 LLM을 구축하고 튜닝할 수 있는 단계별 튜토리얼입니다."
+    },
+    {
+      "repo": "chiphuyen/aie-book",
+      "url": "https://github.com/chiphuyen/aie-book",
+      "desc": "",
+      "stars_today": 66,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "chiphuyen의 aie-book은 AI와 엔지니어링 통합을 다룬 최신 연구와 실무 사례를 정리한 전자책입니다."
+    },
+    {
+      "repo": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "desc": "",
+      "stars_today": 47,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "higgsfield-ai의 higgsfield는 AI 연구와 프로젝트 관리를 위한 오픈소스 협업 플랫폼입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "points": 344,
-      "comments": 127,
-      "hn_url": "https://news.ycombinator.com/item?id=50227356",
-      "title_ko": "Cerebras, 조용히 1조 파라미터 AI 모델 배포",
-      "summary_ko": "Cerebras가 1조 파라미터 규모의 AI 모델을 실제 서비스에 적용해 확장성을 입증했습니다."
+      "title": "Anthropic S-1",
+      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+      "points": 1434,
+      "comments": 1399,
+      "hn_url": "https://news.ycombinator.com/item?id=50242939",
+      "title_ko": "Anthropic S-1",
+      "summary_ko": "Anthropic이 발표한 최신 언어 모델 S-1에 대한 Hacker News 기사"
     },
     {
-      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "url": "https://lynchlab.net/llm-skin-cancer",
-      "points": 342,
-      "comments": 175,
-      "hn_url": "https://news.ycombinator.com/item?id=50233779",
-      "title_ko": "10세 CNN, 피부암 진단에서 최첨단 LLM 능가",
-      "summary_ko": "10년 된 CNN 모델이 최신 대형 언어 모델보다 피부암 판독 정확도가 높아 의료 AI에 새로운 가능성을 제시합니다."
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "points": 519,
+      "comments": 78,
+      "hn_url": "https://news.ycombinator.com/item?id=50245138",
+      "title_ko": "Sebastian Raschka의 직접 구현 영상 강좌 – 추론 모델 만들기",
+      "summary_ko": "Sebastian Raschka가 제공하는 추론 모델 구축을 위한 직접 구현 영상 강좌 소개"
     },
     {
-      "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-      "url": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-      "points": 170,
-      "comments": 252,
-      "hn_url": "https://news.ycombinator.com/item?id=50233304",
-      "title_ko": "UC 버클리 교수, AI 도입 후 과제 채점 의미 상실",
-      "summary_ko": "AI 활용으로 숙제 채점이 자동화되면서 교수는 채점 자체에 가치를 못 느끼게 되었다고 밝혔습니다."
+      "title": "Birdwatching rewires the brain and slows cognitive decline",
+      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "points": 494,
+      "comments": 193,
+      "hn_url": "https://news.ycombinator.com/item?id=50215997",
+      "title_ko": "새 조류 관찰이 뇌를 재구성하고 인지 저하를 늦춘다",
+      "summary_ko": "조류 관찰이 뇌 구조 변화를 일으켜 인지 기능 저하를 완화한다는 연구 결과"
     },
     {
-      "title": "JetBrains Thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "points": 139,
-      "comments": 98,
-      "hn_url": "https://news.ycombinator.com/item?id=50233294",
-      "title_ko": "JetBrains, AI 기반 코딩 보조 도구 Thinkrail 출시",
-      "summary_ko": "JetBrains가 개발자 생산성을 높이는 AI 코딩 어시스턴트 Thinkrail을 공개했습니다."
+      "title": "GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "points": 469,
+      "comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=50248124",
+      "title_ko": "GPT-6.1 Terra",
+      "summary_ko": "OpenAI가 발표한 차세대 모델 GPT-6.1 Terra에 관한 Hacker News 토론"
     },
     {
-      "title": "Gheist campaign plants secret-dumping workflows using stolen GitHub tokens",
-      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
-      "points": 39,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50235010",
-      "title_ko": "Gheist, 탈취된 GitHub 토큰으로 비밀 데이터 유출 워크플로우 구축",
-      "summary_ko": "Gheist 캠페인이 해킹된 GitHub 토큰을 이용해 은밀히 데이터를 덤핑하는 자동화 흐름을 만들었습니다."
+      "title": "Blaise Pascal invented fixed route public transport (2024)",
+      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+      "points": 256,
+      "comments": 135,
+      "hn_url": "https://news.ycombinator.com/item?id=50200152",
+      "title_ko": "블레즈 파스칼, 고정 노선 대중교통 발명 (2024)",
+      "summary_ko": "2024년 연구에서 블레즈 파스칼이 현대 고정 노선 대중교통 개념을 고안한 것으로 밝혀짐"
     },
     {
-      "title": "Making the Buddha Head from Merv Whole Again",
-      "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
-      "points": 3,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50213610",
-      "title_ko": "Merv 불교 머리 조각 복원 프로젝트",
-      "summary_ko": "Merv 유적에서 발견된 불교 머리 조각을 복원해 문화유산 보존과 연구에 기여하고 있습니다."
+      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+      "url": "https://github.com/FrigadeHQ/hob",
+      "points": 93,
+      "comments": 23,
+      "hn_url": "https://news.ycombinator.com/item?id=50246238",
+      "title_ko": "Show HN: Hob – Claude Cowork와 ChatGPT 대안 오픈소스 디바이스 버전",
+      "summary_ko": "Claude Cowork와 ChatGPT를 대체할 수 있는 온디바이스 오픈소스 프로젝트 Hob 소개"
+    },
+    {
+      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+      "points": 33,
+      "comments": 6,
+      "hn_url": "https://news.ycombinator.com/item?id=50252159",
+      "title_ko": "GLM-5.3 Workers AI 모델에서 교차 요청 KV 캐시 노출",
+      "summary_ko": "GLM-5.3 모델의 KV 캐시가 교차 요청에 노출돼 155건 응답이 유출된 보안 이슈"
     }
   ],
   "reddit": [
     {
-      "title": "OpenAI and Anthropic blocked the reverse engineering of smart TVs spying on us",
+      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
       "sub": "LocalLLaMA",
-      "author": "kroggens",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xer30z/openai_and_anthropic_blocked_the_reverse/",
-      "title_ko": "OpenAI·Anthropic, 스마트 TV 역공학 차단… 감시 우려",
-      "summary_ko": "OpenAI와 Anthropic이 스마트 TV의 사용자 감시 가능성을 이유로 역공학을 금지했다는 소식이다."
+      "author": "Boogertard",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
+      "title_ko": "Qwen Flash Next가 중국 원격 서버에 데이터를 전송 시도",
+      "summary_ko": "Reddit 사용자에 따르면 Qwen Flash Next가 비밀리에 중국 서버로 정보를 보내려는 증거를 발견했습니다."
     },
     {
-      "title": "Nanbeige/Nanbeige4.3-33B · Hugging Face",
+      "title": "Qwen investigation traces release",
       "sub": "LocalLLaMA",
-      "author": "Mysterious_Finish543",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf0kz4/nanbeigenanbeige4333b_hugging_face/",
-      "title_ko": "Nanbeige4.3-33B 모델, Hugging Face에 공개",
-      "summary_ko": "33억 파라미터 규모의 Nanbeige4.3 모델이 Hugging Face에 공개돼 로컬 LLM 연구에 활용 가능하다."
+      "author": "Cohere",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
+      "title_ko": "Qwen 조사 추적 결과 공개",
+      "summary_ko": "Qwen 모델에 대한 보안·프라이버시 조사가 진행 중이며, 최신 추적 결과가 Reddit에 공유되었습니다."
     },
     {
-      "title": "CrowdGPT - A collaboratively trained LLM.",
+      "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
       "sub": "LocalLLaMA",
-      "author": "Vxtzq1",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xff9e4/crowdgpt_a_collaboratively_trained_llm/",
-      "title_ko": "CrowdGPT, 협업으로 학습된 대형 언어 모델",
-      "summary_ko": "다수 사용자가 공동으로 학습에 참여한 CrowdGPT가 새로운 협업형 LLM으로 주목받는다."
+      "author": "Lazylion2",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
+      "title_ko": "Qwen3.8-Flash-Next 진단 파일 원격 전송 시도",
+      "summary_ko": "Qwen3.8-Flash-Next가 진단 파일을 외부에 전송하려 했지만, 실제로는 다른 동작을 주장한 것으로 밝혀졌습니다."
     },
     {
-      "title": "Backup your quants!",
+      "title": "GPU unlocks (FP32 accumulation): Why can it be unlocked on Turing (RTX 20), Ampere (RTX 30) and Ada (RTX 40) but no consumer Blackwell (RTX 50) and some misconceptions.",
       "sub": "LocalLLaMA",
-      "author": "Kahvana",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf11qj/backup_your_quants/",
-      "title_ko": "퀀트 모델, 반드시 백업하라",
-      "summary_ko": "퀀트 전략과 모델을 손실 위험에 대비해 정기적으로 백업할 필요성을 강조한다."
+      "author": "panchovix",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be/",
+      "title_ko": "GPU FP32 누적 해제: Turing·Ampere·Ada는 가능하지만 Blackwell은 불가",
+      "summary_ko": "Turing, Ampere, Ada GPU는 FP32 누적을 해제할 수 있지만, 소비자용 Blackwell(RTX 50)에서는 제한되는 이유를 설명합니다."
     },
     {
-      "title": "RTX 3080 20GB got reBAR and P2P unlock! +70% prompt processing speed",
+      "title": "Update: My 4B coding model is getting better at generating 3D scenes",
       "sub": "LocalLLaMA",
-      "author": "No-Refrigerator-1672",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xf9kmd/rtx_3080_20gb_got_rebar_and_p2p_unlock_70_prompt/",
-      "title_ko": "RTX 3080 20GB, reBAR·P2P 해제로 프롬프트 속도 70% 향상",
-      "summary_ko": "RTX 3080 20GB 그래픽 카드가 reBAR와 P2P 기능을 해제해 프롬프트 처리 속도가 70% 빨라졌다."
+      "author": "ConfidentDinner6648",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
+      "title_ko": "4B 코딩 모델, 3D 씬 생성 능력 향상",
+      "summary_ko": "사용자는 4억 파라미터 코딩 모델이 3D 장면을 생성하는 정확도가 점점 개선되고 있음을 보고했습니다."
     },
     {
-      "title": "Show and tell: PolyStrata on my $20 Xeon server",
+      "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
       "sub": "LocalLLaMA",
-      "author": "randylush",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xfb9oz/show_and_tell_polystrata_on_my_20_xeon_server/",
-      "title_ko": "PolyStrata, 20달러 Xeon 서버에서 시연",
-      "summary_ko": "$20짜리 Xeon 서버에 PolyStrata를 설치해 저비용으로 고성능 AI 인프라를 구현한 사례를 소개한다."
+      "author": "BleynSpecnaz",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
+      "title_ko": "8 GB VRAM·32 GB RAM이면 Qwen 3.8 Flash Next를 900 t/s PP·30 t/s TG까지 구동 가능",
+      "summary_ko": "8 GB VRAM과 32 GB RAM 환경에서도 Qwen 3.8 Flash Next를 높은 토큰 처리 속도로 실행할 수 있다는 실험 결과가 공유되었습니다."
     }
   ],
-  "youtube": [
-    {
-      "title": "Sphere Intersection Puzzle Corrected",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
-      "published": "2026-10-25",
-      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
-      "title_ko": "구형 구면 교차 퍼즐 수정본",
-      "summary_ko": "Andrej Karpathy가 월간 퍼즐 시리즈 중 하나인 구면 교차 퍼즐을 수정해 공개했습니다."
-    },
-    {
-      "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
-      "published": "2026-10-25",
-      "desc": "HUGE AI NEWS: AI cyber attacks, Kimi K3.1, Minimax M3.1, Hi3D, Dessa voice. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct3 #ai #ainews #aitools #agi #singularity 00:00 AI news intro 01:01 WeVisOne-VL 03:10 Bark3 04:53 Fibo 2.0 07:37 Carbon-X 09:27 Hy-N",
-      "title_ko": "AI 뉴스: 사이버 공격, Kimi K3.1, Claude Duet 등",
-      "summary_ko": "AI 분야 최신 소식으로 사이버 공격, Kimi K3.1, Minimax 3.1 등 주요 업데이트를 정리했습니다."
-    },
-    {
-      "title": "메모리 시장 변곡점? HBM은 빼고 CXL은 키운다… 인텔의 480GB GPU 등장 | 인텔의 진짜 목표는 서버 주도권",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=vrfcKCobME0",
-      "published": "2026-10-25",
-      "desc": "인텔이 HBM 대신 LPDDR5X를 사용하는 데이터센터용 AI GPU, D270을 공개했습니다. 인텔 자체 카드는 160GB, 협력사 설계에서는 최대 480GB의 메모리를 지원하는 구성입니다. 이번 영상에서는 인텔과 퀄컴이 대용량 저전력 메모리를 선택한 배경과 겨냥하는 고객을 살펴봅니다. MoE 모델을 통해 실제 계산에 참여하는 파라미터와 모델 전체를 저장하는 공간의 차이를 설명합니다. 여러 에이전트의 작업 상태를 보관하는 KV 캐시와 GPU·호스트 메모리의 역할도 정리합니다. 이어 GPU 밖에서",
-      "title_ko": "인텔, 480GB 메모리 지원 AI GPU 공개… CXL 전략",
-      "summary_ko": "인텔이 HBM 대신 LPDDR5X 기반 480GB 메모리 지원 AI GPU D270을 발표해 서버 메모리 전략 전환을 보여줍니다."
-    },
-    {
-      "title": "[테디노트 X AutoRAG] 🔥 AI 에이전트 시대, #RAG 는 끝났을까? 완전히 달라진 AutoRAG와 #Agent Harness 개발기",
-      "channel": "테디노트",
-      "url": "https://www.youtube.com/watch?v=ZvgmMilxFkY",
-      "published": "2026-10-22",
-      "desc": "\"AI 에이전트 시대에도 RAG는 여전히 필요할까요?\" 최근 AI 에이전트가 빠르게 발전하면서 검색하고, 추론하고, 도구를 사용하는 방식이 크게 달라지고 있습니다. 그렇다면 기존의 RAG는 앞으로 어떤 모습으로 진화해야 할까요? 이번 라이브에서는 AutoRAG 개발팀 리더 김동규 님을 모시고, 에이전트 시대에 RAG가 나아가야 할 방향에 대해 이야기 나눠보려고 합니다. 특히 완전히 새로워진 AutoRAG Agent와 AI Finder Dazzi를 소개하고, RAG 기반 Agent Harness를 ",
-      "title_ko": "AutoRAG와 에이전트 시대 RAG의 미래",
-      "summary_ko": "테디노트와 AutoRAG 개발팀이 AI 에이전트 시대에 RAG가 어떻게 진화해야 하는지 논의합니다."
-    },
-    {
-      "title": "Gemini 4 Argon Is Not What I Expected",
-      "channel": "Two Minute Papers",
-      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
-      "published": "2026-10-19",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers 📝 Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/ https://storage.googleapis.com/deepmind-media/gemini/gemini_4_safety_report.pdf Sources: htt",
-      "title_ko": "Gemini 4 Argon 사용 후기",
-      "summary_ko": "Two Minute Papers가 Gemini 4 Argon 모델을 직접 체험하고 기대와 다른 점을 리뷰했습니다."
-    },
-    {
-      "title": "Jensen Huang on growing up in Taiwan | Lex Fridman",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=E5ujpnDuLeM",
-      "published": "2026-10-18",
-      "desc": "Lex Fridman full video: https://www.youtube.com/watch?v=FGCP2F_7rQk Thank you for watching ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10084-sb See below for guest links, and to give feedback, submit questions, contact Lex, etc. *CONTACT LEX:* *Feedback* - give fe",
-      "title_ko": "Jensen Huang, 대만 성장 이야기 (Lex Fridman)",
-      "summary_ko": "NVIDIA 창업자 Jensen Huang이 대만에서의 성장 배경과 인생 이야기를 Lex Fridman과 나눕니다."
-    },
-    {
-      "title": "문제 터진 뒤엔 이미 늦다, 오타쿠에게 물어라 #shorts",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/shorts/5-nnCkTsdQs",
-      "published": "2026-10-18",
-      "desc": "문제가 터지기 전부터 오래 고민한 사람에게 답의 단서가 있습니다 이재현(KIST AIX전략실장) · AI프렌즈 라이브 #215 풀영상 👉 https://youtu.be/JCNnGJURvkY #AI프렌즈 #AI리터러시 #문제해결",
-      "title_ko": "문제 발생 전, 오타쿠에게 물어라 (shorts)",
-      "summary_ko": "문제 해결을 위해 사전에 고민한 사람에게 조언을 구하는 중요성을 강조합니다."
-    },
-    {
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
-      "published": "2026-10-12",
-      "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
-      "title_ko": "AI 연구소, 보안 경쟁이 침해를 불가피하게 만든다 경고",
-      "summary_ko": "AI 분야 보안 경쟁이 가속화되면서 침해 위험이 커지고 있다는 경고를 전합니다."
-    },
-    {
-      "title": "I spent 4 weeks building an AI to humiliate one player",
-      "channel": "sentdex",
-      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
-      "published": "2026-10-07",
-      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "4주간 AI로 플레이어를 조롱하는 프로젝트",
-      "summary_ko": "sentdex가 4주간 AI를 개발해 특정 플레이어를 조롱하는 실험 과정을 공개했습니다."
-    }
-  ],
-  "social": [
-    {
-      "title": "Root shell on Samsung TV",
-      "handle": "@log4j",
-      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-      "note": "HN 730pts · 556 댓글",
-      "title_ko": "삼성 TV에서 루트 쉘",
-      "summary_ko": "삼성 TV에 루트 쉘을 획득해 시스템을 완전 제어할 수 있어 보안 위험이 커졌습니다."
-    }
-  ],
+  "youtube": [],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
