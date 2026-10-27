@@ -1,244 +1,263 @@
 {
-  "generated_at": "2026-10-26T23:57:14.965858+00:00",
-  "date_label": "2026년 10월 27일 (화)",
+  "generated_at": "2026-10-27T23:52:09.439585+00:00",
+  "date_label": "2026년 10월 28일 (수)",
   "github_trending": [
     {
       "repo": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "desc": "",
-      "stars_today": 2235,
+      "stars_today": 2859,
       "lang": "CSS",
-      "summary_ko": "Nutlope의 hallmark 프로젝트는 AI 기반 이미지 스타일 변환 도구로, 창작자들의 디자인 작업을 자동화합니다."
-    },
-    {
-      "repo": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "desc": "",
-      "stars_today": 1539,
-      "lang": "Python",
-      "summary_ko": "AgriciDaniel이 만든 claude-seo는 Claude 모델을 활용한 검색 엔진 최적화 자동화 솔루션입니다."
+      "summary_ko": "Nutlope/hallmark: AI 기반 이미지 워터마크 자동 생성 도구로 저작권 보호에 유용합니다."
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "desc": "",
-      "stars_today": 1376,
+      "stars_today": 1702,
       "lang": "Python",
-      "summary_ko": "TauricResearch의 TradingAgents는 금융 시장 자동 매매를 위한 강화학습 에이전트 프레임워크입니다."
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "desc": "",
-      "stars_today": 1156,
-      "lang": "TypeScript",
-      "summary_ko": "JetBrains의 thinkrail은 코드 리뷰와 협업을 AI가 지원하는 개발 생산성 향상 툴킷입니다."
+      "summary_ko": "TauricResearch/TradingAgents: 금융 거래 자동화를 위한 강화학습 에이전트 구현 예시입니다."
     },
     {
       "repo": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "desc": "",
-      "stars_today": 723,
+      "stars_today": 1623,
       "lang": "Python",
-      "summary_ko": "Panniantong의 Agent-Reach는 다양한 LLM 에이전트를 연결해 복합 작업을 수행하도록 설계되었습니다."
+      "summary_ko": "Panniantong/Agent-Reach: 다중 에이전트 협업 시나리오를 시뮬레이션하는 프레임워크입니다."
     },
     {
-      "repo": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "repo": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
       "desc": "",
-      "stars_today": 702,
+      "stars_today": 1395,
       "lang": "",
-      "summary_ko": "multica-ai의 andrej-karpathy-skills는 Karpathy 교수의 AI 기술을 정리한 학습 자료 모음입니다."
+      "summary_ko": "elayadesign/ai-design-skills: AI 활용 디자인 스킬을 단계별로 학습할 수 있는 자료집입니다."
     },
     {
-      "repo": "alchaincyf/huashu-design",
-      "url": "https://github.com/alchaincyf/huashu-design",
+      "repo": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
       "desc": "",
-      "stars_today": 409,
-      "lang": "HTML",
-      "summary_ko": "alchaincyf의 huashu-design은 AI를 이용한 UI/UX 디자인 자동 생성 오픈소스 프로젝트입니다."
+      "stars_today": 1211,
+      "lang": "TypeScript",
+      "summary_ko": "JetBrains/thinkrail: 코드 자동 완성을 넘어 설계 아이디어를 제안하는 AI 플러그인입니다."
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
       "desc": "",
-      "stars_today": 358,
+      "stars_today": 890,
+      "lang": "",
+      "summary_ko": "togg53192-cmd/jailbreaks: LLM 보안 취약점과 우회 기법을 정리한 리포지터리입니다."
+    },
+    {
+      "repo": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "desc": "",
+      "stars_today": 712,
       "lang": "Python",
-      "summary_ko": "Alishahryar1의 free-claude-code는 Claude 모델 활용 예제 코드를 무료로 제공하는 저장소입니다."
+      "summary_ko": "AgriciDaniel/claude-seo: Claude 모델을 활용한 SEO 콘텐츠 자동 생성 가이드입니다."
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "",
+      "stars_today": 529,
+      "lang": "Python",
+      "summary_ko": "rohitg00/ai-engineering-from-scratch: AI 엔지니어링 기본부터 실전까지 다루는 입문서입니다."
+    },
+    {
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "desc": "",
+      "stars_today": 257,
+      "lang": "Python",
+      "summary_ko": "SnailSploit/Claude-Red: Claude 모델을 기반으로 한 레드팀 시뮬레이션 툴킷입니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 339,
+      "stars_today": 187,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog의 dive-into-llms는 최신 LLM 구조와 활용법을 단계별로 설명하는 교육 자료입니다."
+      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 활용법을 깊이 있게 탐구하는 학습 자료입니다."
     },
     {
-      "repo": "higgsfield-ai/skills",
-      "url": "https://github.com/higgsfield-ai/skills",
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
       "desc": "",
-      "stars_today": 253,
-      "lang": "Python",
-      "summary_ko": "higgsfield-ai의 skills는 머신러닝 실무 기술을 정리한 노트와 코드 스니펫을 공유합니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 81,
+      "stars_today": 126,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 generative-ai-for-beginners는 초보자를 위한 생성 AI 개념과 실습 가이드를 제공합니다."
+      "summary_ko": "xiaolai/the-craft-of-selfteaching: 스스로 AI를 학습하는 방법론을 정리한 에세이입니다."
     },
     {
-      "repo": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 79,
-      "lang": "Python",
-      "summary_ko": "Significant-Gravitas의 AutoGPT는 자동화된 GPT 에이전트를 구현해 다양한 작업을 수행합니다."
+      "stars_today": 77,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/ai-agents-for-beginners: 초보자를 위한 AI 에이전트 개발 튜토리얼 모음입니다."
     },
     {
       "repo": "datawhalechina/diy-llm",
       "url": "https://github.com/datawhalechina/diy-llm",
       "desc": "",
-      "stars_today": 73,
+      "stars_today": 51,
       "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina의 diy-llm은 개인이 직접 LLM을 구축하고 튜닝할 수 있는 단계별 튜토리얼입니다."
+      "summary_ko": "datawhalechina/diy-llm: 개인용 LLM 구축 과정을 단계별로 제공하는 프로젝트입니다."
     },
     {
       "repo": "chiphuyen/aie-book",
       "url": "https://github.com/chiphuyen/aie-book",
       "desc": "",
-      "stars_today": 66,
+      "stars_today": 42,
       "lang": "Jupyter Notebook",
-      "summary_ko": "chiphuyen의 aie-book은 AI와 엔지니어링 통합을 다룬 최신 연구와 실무 사례를 정리한 전자책입니다."
+      "summary_ko": "chiphuyen/aie-book: AI 엔지니어링 실무를 다룬 전자책으로 최신 사례를 포함합니다."
     },
     {
-      "repo": "higgsfield-ai/higgsfield",
-      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 47,
+      "stars_today": 37,
       "lang": "Jupyter Notebook",
-      "summary_ko": "higgsfield-ai의 higgsfield는 AI 연구와 프로젝트 관리를 위한 오픈소스 협업 플랫폼입니다."
+      "summary_ko": "anthropics/claude-cookbooks: Claude 모델 활용 레시피를 모아둔 실용 가이드입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Anthropic S-1",
-      "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-      "points": 1434,
-      "comments": 1399,
-      "hn_url": "https://news.ycombinator.com/item?id=50242939",
-      "title_ko": "Anthropic S-1",
-      "summary_ko": "Anthropic이 발표한 최신 언어 모델 S-1에 대한 Hacker News 기사"
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "points": 430,
+      "comments": 199,
+      "hn_url": "https://news.ycombinator.com/item?id=50257326",
+      "title_ko": "위키피디아, AI 생성 콘텐츠 정리 작업",
+      "summary_ko": "위키피디아가 AI가 만든 문서를 식별·제거해 신뢰성을 유지하려는 시도가 주목됩니다."
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "points": 519,
-      "comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=50245138",
-      "title_ko": "Sebastian Raschka의 직접 구현 영상 강좌 – 추론 모델 만들기",
-      "summary_ko": "Sebastian Raschka가 제공하는 추론 모델 구축을 위한 직접 구현 영상 강좌 소개"
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "points": 426,
+      "comments": 240,
+      "hn_url": "https://news.ycombinator.com/item?id=50260814",
+      "title_ko": "Anthropic, 스탠포드 교수 서적을 불법으로 사용해 Claude 학습",
+      "summary_ko": "Anthropic이 저작권 위반 자료로 AI 모델을 훈련해 윤리·법적 논란이 커지고 있습니다."
     },
     {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-      "points": 494,
-      "comments": 193,
-      "hn_url": "https://news.ycombinator.com/item?id=50215997",
-      "title_ko": "새 조류 관찰이 뇌를 재구성하고 인지 저하를 늦춘다",
-      "summary_ko": "조류 관찰이 뇌 구조 변화를 일으켜 인지 기능 저하를 완화한다는 연구 결과"
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "points": 215,
+      "comments": 121,
+      "hn_url": "https://news.ycombinator.com/item?id=50261589",
+      "title_ko": "아마존, 지속된 실패로 AI 부문 대대적 축소",
+      "summary_ko": "아마존이 AI 사업 부진을 이유로 조직을 대폭 축소해 업계 구조조정 흐름을 반영합니다."
     },
     {
-      "title": "GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-      "points": 469,
-      "comments": 292,
-      "hn_url": "https://news.ycombinator.com/item?id=50248124",
-      "title_ko": "GPT-6.1 Terra",
-      "summary_ko": "OpenAI가 발표한 차세대 모델 GPT-6.1 Terra에 관한 Hacker News 토론"
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "points": 159,
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50264857",
+      "title_ko": "Tailscale SSH 보안 조사 및 복구 업데이트",
+      "summary_ko": "Tailscale이 SSH 취약점 조사 결과를 공개하고 패치를 배포해 보안 신뢰성을 회복합니다."
     },
     {
-      "title": "Blaise Pascal invented fixed route public transport (2024)",
-      "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-      "points": 256,
-      "comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=50200152",
-      "title_ko": "블레즈 파스칼, 고정 노선 대중교통 발명 (2024)",
-      "summary_ko": "2024년 연구에서 블레즈 파스칼이 현대 고정 노선 대중교통 개념을 고안한 것으로 밝혀짐"
+      "title": "Here be monsters: What do you still need to know when agents do the work?",
+      "url": "https://blog.adrq.dev/here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
+      "points": 145,
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=50258868",
+      "title_ko": "에이전트가 업무를 수행할 때 알아야 할 위험 요소",
+      "summary_ko": "AI 에이전트가 실제 업무에 투입될 때 발생할 수 있는 위험과 관리 방안을 조명합니다."
     },
     {
-      "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-      "url": "https://github.com/FrigadeHQ/hob",
-      "points": 93,
-      "comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=50246238",
-      "title_ko": "Show HN: Hob – Claude Cowork와 ChatGPT 대안 오픈소스 디바이스 버전",
-      "summary_ko": "Claude Cowork와 ChatGPT를 대체할 수 있는 온디바이스 오픈소스 프로젝트 Hob 소개"
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "points": 141,
+      "comments": 88,
+      "hn_url": "https://news.ycombinator.com/item?id=50264853",
+      "title_ko": "Survival LLM: 로컬에서 구동되는 AI 비상 도우미",
+      "summary_ko": "개인 컴퓨터에서 동작하는 AI 비서·긴급 도서관으로, 인터넷 없이도 활용 가능해 주목받습니다."
     },
     {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "points": 33,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=50252159",
-      "title_ko": "GLM-5.3 Workers AI 모델에서 교차 요청 KV 캐시 노출",
-      "summary_ko": "GLM-5.3 모델의 KV 캐시가 교차 요청에 노출돼 155건 응답이 유출된 보안 이슈"
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "points": 83,
+      "comments": 74,
+      "hn_url": "https://news.ycombinator.com/item?id=50265609",
+      "title_ko": "Claude를 활용한 신약 개발 가속 초기 성과",
+      "summary_ko": "Claude 기반 AI가 약물 후보 탐색을 가속화해 제약 산업의 연구 효율성을 높이고 있습니다."
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "points": 71,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=50265594",
+      "title_ko": "Raspberry Pi Zero 3W·Pi 4 Model A 디바이스 트리 확인",
+      "summary_ko": "새로운 Pi Zero 3W와 Pi 4 Model A가 디바이스 트리에 등장해 하드웨어 개발자들의 관심을 끕니다."
     }
   ],
   "reddit": [
     {
-      "title": "I now have definitive proofs that my Qwen Flash Next is trying to send something to a remote Chinese server",
+      "title": "I am a King, but local 😂",
       "sub": "LocalLLaMA",
-      "author": "Boogertard",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg78oq/i_now_have_definitive_proofs_that_my_qwen_flash/",
-      "title_ko": "Qwen Flash Next가 중국 원격 서버에 데이터를 전송 시도",
-      "summary_ko": "Reddit 사용자에 따르면 Qwen Flash Next가 비밀리에 중국 서버로 정보를 보내려는 증거를 발견했습니다."
+      "author": "perelmanych",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy5ic/i_am_a_king_but_local/",
+      "title_ko": "나는 왕이지만 로컬에서 😂",
+      "summary_ko": "Reddit r/LocalLLaMA에서 로컬 LLM 사용에 대한 유머 게시물"
     },
     {
-      "title": "Qwen investigation traces release",
+      "title": "The reason why 5090's are $10k now...",
       "sub": "LocalLLaMA",
-      "author": "Cohere",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgbm28/qwen_investigation_traces_release/",
-      "title_ko": "Qwen 조사 추적 결과 공개",
-      "summary_ko": "Qwen 모델에 대한 보안·프라이버시 조사가 진행 중이며, 최신 추적 결과가 Reddit에 공유되었습니다."
+      "author": "Different_Fix_2217",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh3iek/the_reason_why_5090s_are_10k_now/",
+      "title_ko": "5090이 현재 1만 달러인 이유...",
+      "summary_ko": "고성능 GPU RTX 5090의 가격 급등 원인을 Reddit r/LocalLLaMA에서 분석"
     },
     {
-      "title": "Qwen3.8-Flash-Next tried to send diagnostic file to a remote location, while stating otherwies.",
+      "title": "LiquidAI/LFM3-1.7B · Hugging Face",
       "sub": "LocalLLaMA",
-      "author": "Lazylion2",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xg2bht/qwen38flashnext_tried_to_send_diagnostic_file_to/",
-      "title_ko": "Qwen3.8-Flash-Next 진단 파일 원격 전송 시도",
-      "summary_ko": "Qwen3.8-Flash-Next가 진단 파일을 외부에 전송하려 했지만, 실제로는 다른 동작을 주장한 것으로 밝혀졌습니다."
+      "author": "jacek2023",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgy8s3/liquidailfm317b_hugging_face/",
+      "title_ko": "LiquidAI/LFM3-1.7B (Hugging Face)",
+      "summary_ko": "Hugging Face에 공개된 1.7B 파라미터 LFM3 모델 소개, 로컬 실행 가능"
     },
     {
-      "title": "GPU unlocks (FP32 accumulation): Why can it be unlocked on Turing (RTX 20), Ampere (RTX 30) and Ada (RTX 40) but no consumer Blackwell (RTX 50) and some misconceptions.",
+      "title": "Debunking Cohere's claim of Qwen 3.8 Flash Next uploading to Alibaba remote URL",
       "sub": "LocalLLaMA",
-      "author": "panchovix",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgaapw/gpu_unlocks_fp32_accumulation_why_can_it_be/",
-      "title_ko": "GPU FP32 누적 해제: Turing·Ampere·Ada는 가능하지만 Blackwell은 불가",
-      "summary_ko": "Turing, Ampere, Ada GPU는 FP32 누적을 해제할 수 있지만, 소비자용 Blackwell(RTX 50)에서는 제한되는 이유를 설명합니다."
+      "author": "feelspeaceman",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgopmj/debunking_coheres_claim_of_qwen_38_flash_next/",
+      "title_ko": "Cohere의 Qwen 3.8 Flash Next 알리바바 원격 URL 업로드 주장 반박",
+      "summary_ko": "Cohere가 주장한 Qwen 3.8 Flash Next 모델을 알리바바 URL에 업로드한다는 내용이 사실이 아님을 Reddit r/LocalLLaMA에서 검증"
     },
     {
-      "title": "Update: My 4B coding model is getting better at generating 3D scenes",
+      "title": "Real-time video captioning with LFM3-VL-2B running locally in-browser on WebGPU",
       "sub": "LocalLLaMA",
-      "author": "ConfidentDinner6648",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xgc7uv/update_my_4b_coding_model_is_getting_better_at/",
-      "title_ko": "4B 코딩 모델, 3D 씬 생성 능력 향상",
-      "summary_ko": "사용자는 4억 파라미터 코딩 모델이 3D 장면을 생성하는 정확도가 점점 개선되고 있음을 보고했습니다."
+      "author": "xenovatech",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh0otf/realtime_video_captioning_with_lfm3vl2b_running/",
+      "title_ko": "WebGPU 기반 브라우저에서 로컬로 실행되는 LFM3-VL-2B 실시간 영상 캡션",
+      "summary_ko": "WebGPU를 이용해 브라우저 내에서 LFM3-VL-2B 모델로 실시간 영상 자막을 생성하는 방법을 Reddit r/LocalLLaMA에서 소개"
     },
     {
-      "title": "Have 8 GB of VRAM and 32 GB of RAM? You can run Qwen 3.8 Flash Next at up to 900 t/s PP and 30 t/s TG!",
+      "title": "New audio model: LFM3-Audio-2B",
       "sub": "LocalLLaMA",
-      "author": "BleynSpecnaz",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xft2ae/have_8_gb_of_vram_and_32_gb_of_ram_you_can_run/",
-      "title_ko": "8 GB VRAM·32 GB RAM이면 Qwen 3.8 Flash Next를 900 t/s PP·30 t/s TG까지 구동 가능",
-      "summary_ko": "8 GB VRAM과 32 GB RAM 환경에서도 Qwen 3.8 Flash Next를 높은 토큰 처리 속도로 실행할 수 있다는 실험 결과가 공유되었습니다."
+      "author": "Acceptable-Cycle4645",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xh50at/new_audio_model_lfm3audio2b/",
+      "title_ko": "새 오디오 모델: LFM3-Audio-2B",
+      "summary_ko": "2억 파라미터 규모의 LFM3-Audio-2B 모델이 공개돼 로컬 오디오 처리에 활용 가능함을 Reddit r/LocalLLaMA가 알림"
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "The Sphere Intersection Puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "published": "2026-10-25",
+      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "title_ko": "구면 교차 퍼즐",
+      "summary_ko": "Andrej Karpathy가 소개한 구면 교차 퍼즐로, 월간 퍼즐 시리즈 중 하나이며 해결법을 미리 확인할 수 있다."
+    }
+  ],
   "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
