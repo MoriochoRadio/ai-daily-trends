@@ -1,265 +1,272 @@
 {
-  "generated_at": "2026-10-30T00:00:27.279951+00:00",
-  "date_label": "2026년 10월 30일 (금)",
+  "generated_at": "2026-10-30T23:55:16.393779+00:00",
+  "date_label": "2026년 10월 31일 (토)",
   "github_trending": [
     {
       "repo": "togg53192-cmd/jailbreaks",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "desc": "",
-      "stars_today": 1594,
+      "stars_today": 2053,
       "lang": "",
-      "summary_ko": "togg53192-cmd/jailbreaks: AI 모델 제한을 우회하는 프롬프트 기법을 정리한 저장소로 보안·윤리 관점에서 주목됩니다."
+      "summary_ko": "togg53192-cmd/jailbreaks: LLM 제약을 우회하는 프롬프트 기법 모음으로 보안·윤리 관점에서 주목됩니다."
     },
     {
-      "repo": "elayadesign/ai-design-skills",
-      "url": "https://github.com/elayadesign/ai-design-skills",
+      "repo": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
       "desc": "",
-      "stars_today": 1187,
-      "lang": "",
-      "summary_ko": "elayadesign/ai-design-skills: AI 활용 디자인 역량 강화를 위한 실무 가이드와 사례를 제공해 디자이너에게 유용합니다."
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "desc": "",
-      "stars_today": 1117,
+      "stars_today": 1146,
       "lang": "TypeScript",
-      "summary_ko": "JetBrains/thinkrail: AI 기반 코드 보조 플러그인으로 개발 생산성 향상에 기여할 가능성이 있습니다."
-    },
-    {
-      "repo": "AgriciDaniel/claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "desc": "",
-      "stars_today": 682,
-      "lang": "Python",
-      "summary_ko": "AgriciDaniel/claude-seo: Claude 모델을 활용한 SEO 자동화 도구로 검색 최적화 작업을 효율화합니다."
-    },
-    {
-      "repo": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "desc": "",
-      "stars_today": 443,
-      "lang": "Python",
-      "summary_ko": "rohitg00/ai-engineering-from-scratch: AI 엔지니어링 전 과정을 단계별로 설명해 입문자 학습에 적합합니다."
-    },
-    {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
-      "desc": "",
-      "stars_today": 365,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching: 스스로 AI를 학습하는 방법론을 정리해 자기주도 학습에 도움이 됩니다."
-    },
-    {
-      "repo": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "desc": "",
-      "stars_today": 353,
-      "lang": "Shell",
-      "summary_ko": "Donchitos/Claude-Code-Game-Studios: Claude를 이용한 게임 스튜디오 자동화 예제로 게임 개발에 AI 적용을 보여줍니다."
+      "summary_ko": "Renhuai123/ziwei-doushu: 전통 중국 사주(자위) 분석 도구로, AI 기반 운세 예측에 관심을 끕니다."
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 336,
+      "stars_today": 1145,
       "lang": "TypeScript",
-      "summary_ko": "thedotmack/claude-mem: Claude 모델의 메모리 관리 기법을 탐구해 대규모 프롬프트 처리에 유용합니다."
+      "summary_ko": "thedotmack/claude-mem: Claude 모델의 메모리 관리 예시를 제공해 대규모 대화 유지에 유용합니다."
     },
     {
-      "repo": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
+      "repo": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
       "desc": "",
-      "stars_today": 320,
-      "lang": "Python",
-      "summary_ko": "beenuar/AiSOC: AI 보안 운영센터 구현 예제로 사이버 보안 분야 AI 적용 사례를 제공합니다."
+      "stars_today": 717,
+      "lang": "TypeScript",
+      "summary_ko": "JetBrains/thinkrail: 코드 자동완성·리팩터링을 돕는 JetBrains 플러그인으로 개발 생산성 향상에 기여합니다."
     },
     {
-      "repo": "baidu/Unlimited-OCR",
-      "url": "https://github.com/baidu/Unlimited-OCR",
+      "repo": "datawhalechina/diy-llm",
+      "url": "https://github.com/datawhalechina/diy-llm",
       "desc": "",
-      "stars_today": 247,
+      "stars_today": 312,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina/diy-llm: 개인이 직접 LLM을 구축·학습할 수 있는 가이드와 코드가 포함돼 실험적 연구에 적합합니다."
+    },
+    {
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "",
+      "stars_today": 287,
       "lang": "Python",
-      "summary_ko": "baidu/Unlimited-OCR: 무제한 OCR 엔진으로 이미지 텍스트 추출 성능을 향상시켜 다양한 앱에 활용됩니다."
+      "summary_ko": "anthropics/skills: Anthropic Claude 모델용 스킬(플러그인) 템플릿 모음으로 기능 확장에 활용됩니다."
+    },
+    {
+      "repo": "ethanplusai/harvey",
+      "url": "https://github.com/ethanplusai/harvey",
+      "desc": "",
+      "stars_today": 248,
+      "lang": "Python",
+      "summary_ko": "ethanplusai/harvey: 금융 데이터 분석에 특화된 LLM 파이프라인으로 투자·리스크 모델링에 관심을 모읍니다."
+    },
+    {
+      "repo": "NirDiamant/RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "desc": "",
+      "stars_today": 73,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "NirDiamant/RAG_Techniques: Retrieval‑Augmented Generation 구현 기법을 정리해 검색 기반 생성 모델 개발에 도움됩니다."
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "url": "https://github.com/langchain-ai/deepagents",
+      "desc": "",
+      "stars_today": 60,
+      "lang": "Python",
+      "summary_ko": "langchain-ai/deepagents: LangChain 기반의 다중 에이전트 프레임워크로 복합 작업 자동화에 유용합니다."
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "desc": "",
+      "stars_today": 54,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "xiaolai/the-craft-of-selfteaching: AI를 활용한 자기주도 학습 방법론을 정리해 교육·학습 혁신에 기여합니다."
+    },
+    {
+      "repo": "AI4Finance-Foundation/FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "desc": "",
+      "stars_today": 37,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI4Finance-Foundation/FinRL: 강화학습을 이용한 금융 포트폴리오 최적화 오픈소스로 투자 전략 연구에 활용됩니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 53,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks: Claude 활용 레시피 모음으로 다양한 업무 자동화 아이디어를 제공합니다."
-    },
-    {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "desc": "",
-      "stars_today": 34,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/prompt-eng-interactive-tutorial: 인터랙티브 프롬프트 엔지니어링 튜토리얼로 실습 기반 학습을 지원합니다."
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
       "stars_today": 33,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/AI-For-Beginners: 마이크로소프트가 제공하는 AI 입문 교육 자료로 초보자에게 폭넓은 학습 기회를 줍니다."
+      "summary_ko": "anthropics/claude-cookbooks: Claude 모델용 다양한 활용 예시와 프롬프트 레시피를 제공해 실무 적용을 돕습니다."
+    },
+    {
+      "repo": "ed-donner/llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "desc": "",
+      "stars_today": 31,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "ed-donner/llm_engineering: LLM 개발·배포 전반을 다루는 엔지니어링 가이드로 운영 효율성을 높입니다."
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina/happy-llm: LLM 학습·튜닝을 쉽게 할 수 있는 튜토리얼과 예제 모음으로 입문자에게 유용합니다."
+    },
+    {
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "desc": "",
+      "stars_today": 20,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models: LLM 실습 프로젝트와 코드 예시를 제공해 실전 경험을 쌓게 합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "LLM Voice",
-      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-      "points": 315,
-      "comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=50290177",
-      "title_ko": "LLM 보이스",
-      "summary_ko": "대형 언어 모델을 활용한 음성 합성 기술 소식으로, AI 음성 인터페이스의 가능성을 보여줍니다."
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "points": 729,
+      "comments": 456,
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "title_ko": "VS Code 확장용 Claude 코드에 백도어 발견",
+      "summary_ko": "Cursor 마켓플레이스에 올라온 Claude VS Code 확장에 보안 백도어가 포함돼 주목받고 있습니다."
     },
     {
-      "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-      "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-      "points": 272,
-      "comments": 135,
-      "hn_url": "https://news.ycombinator.com/item?id=50286987",
-      "title_ko": "Chained PHP2Shell 익스플로잇, 미국 정부 서버 포함 25개 서버 침해",
-      "summary_ko": "PHP2Shell 체인 공격이 25개 서버를 장악했으며, 그 중 미국 정부 서버도 포함돼 보안 위험이 커졌습니다."
+      "title": "AI isn't replacing SREs, it's deskilling them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "points": 476,
+      "comments": 355,
+      "hn_url": "https://news.ycombinator.com/item?id=50305693",
+      "title_ko": "AI가 SRE를 대체하지 않고 역량을 약화시킨다",
+      "summary_ko": "AI 도입이 사이트 신뢰성 엔지니어의 전문성을 저하시키며 업무 수준을 낮추는 위험을 지적합니다."
     },
     {
-      "title": "What we know so far about Spain train crash",
-      "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-      "points": 137,
-      "comments": 284,
-      "hn_url": "https://news.ycombinator.com/item?id=50286197",
-      "title_ko": "스페인 열차 사고 현황 정리",
-      "summary_ko": "스페인 열차 충돌 사고의 원인과 피해 상황을 정리한 최신 보도이며, 안전 대책 논의가 진행 중입니다."
+      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "points": 151,
+      "comments": 12,
+      "hn_url": "https://news.ycombinator.com/item?id=50272479",
+      "title_ko": "Sleep 프레임워크: LLM 지속 학습을 위한 새로운 기억 방식",
+      "summary_ko": "LLM이 학습 중 지식을 유지하도록 설계된 Sleep 프레임워크가 연속 학습 효율성을 높입니다."
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-      "points": 136,
-      "comments": 60,
-      "hn_url": "https://news.ycombinator.com/item?id=50290283",
-      "title_ko": "Zombie 통계: AI 인용 수치의 출처는?",
-      "summary_ko": "AI가 제시하는 통계 수치의 실제 출처와 신뢰성을 분석해 ‘좀비 통계’ 문제를 짚어봅니다."
+      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+      "points": 147,
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50309647",
+      "title_ko": "캡틴 장-뤽 피카드, 패트릭 스튜어트가 보여준 인간의 기준",
+      "summary_ko": "스타트렉의 피카드 선장이 인간다움의 의미를 어떻게 정의했는지 조명합니다."
     },
     {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "title": "Building an AI-native engineering org",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
       "points": 93,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=50296486",
-      "title_ko": "AI 에이전트 군집을 마인크래프트와 마인드스트리에서 실행",
-      "summary_ko": "다중 AI 에이전트가 협업해 마인크래프트와 마인드스트리 게임을 플레이하는 실험 결과를 소개합니다."
+      "comments": 128,
+      "hn_url": "https://news.ycombinator.com/item?id=50296730",
+      "title_ko": "AI‑네이티브 엔지니어링 조직 구축",
+      "summary_ko": "AI를 중심으로 조직 구조와 문화·프로세스를 재설계하는 방안을 제시합니다."
     },
     {
-      "title": "Claude Duet is the first personal-assistant-type harness that feels useful",
-      "url": "https://fig.blue/posts/duet-is-the-future/",
-      "points": 90,
-      "comments": 68,
-      "hn_url": "https://news.ycombinator.com/item?id=50292727",
-      "title_ko": "Claude Duet, 실용적인 개인 비서형 AI 최초 출시",
-      "summary_ko": "Claude Duet이 실제 업무에 활용 가능한 개인 비서형 AI로 평가받으며, 사용자 경험이 크게 향상되었습니다."
+      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+      "points": 77,
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50304122",
+      "title_ko": "Cisco, 엔지니어에게 무제한 AI 토큰 제공해 레거시 코드 재작성",
+      "summary_ko": "시스코가 AI 토큰을 무제한으로 배포해 기존 코드를 AI가 자동으로 현대화하도록 지원합니다."
     },
     {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "url": "https://github.com/SheepSeb/tinyworldformer",
-      "points": 80,
+      "title": "AO3 Down for Maintenance",
+      "url": "https://www.otwstatus.org",
+      "points": 72,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50310258",
+      "title_ko": "AO3 점검 중",
+      "summary_ko": "아카이브 오브 온리 원(오버드라이브) 사이트가 현재 유지보수 작업으로 일시 중단되었습니다."
+    },
+    {
+      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+      "url": "https://sketch.wakeshift.ai/games/q5ucru",
+      "points": 19,
       "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=50295450",
-      "title_ko": "라즈베리 파이 피코 2 W에서 구동되는 초소형 게임용 월드 모델",
-      "summary_ko": "라즈베리 파이 피코 2 W에 탑재된 경량 월드 모델이 게임 실행을 가능하게 해 임베디드 AI의 새로운 가능성을 제시합니다."
-    },
-    {
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116",
-      "points": 47,
-      "comments": 14,
-      "hn_url": "https://news.ycombinator.com/item?id=50291116",
-      "title_ko": "Launch HN: Simantic (YC F26) – AI 에이전트를 위한 펌웨어 시뮬레이션",
-      "summary_ko": "Simantic은 AI 에이전트의 펌웨어를 가상 환경에서 테스트·검증할 수 있는 플랫폼으로, 개발 효율성을 높입니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50305218",
+      "title_ko": "Show HN: Sketch Stadium – 에이전트가 그림 맞추기 게임을 플레이",
+      "summary_ko": "사용자가 만든 AI 에이전트가 Pictionary 스타일 게임을 실시간으로 진행하는 데모를 공개했습니다."
     }
   ],
   "reddit": [
     {
-      "title": "AMA Announcement: MOSS, the Team Behind MOSS-Image, MOSS-TTS, and More (Friday, Oct 30, 8–11 AM PT)",
+      "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xhouci/ama_announcement_moss_the_team_behind_mossimage/",
-      "title_ko": "AMA 발표: MOSS 팀(이미지·음성·기타)과의 대화 (10월 30일 금요일, 오전 8–11시 PT)",
-      "summary_ko": "MOSS‑Image·MOSS‑TTS 등 다양한 모델을 만든 팀이 AMA를 진행해 최신 로컬 AI 개발 현황을 공유합니다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
+      "title_ko": "MOSS 팀 AMA – 이미지·음성 모델 등 소개",
+      "summary_ko": "MOSS-Image·MOSS-TTS 등 개발팀이 직접 참여해 프로젝트와 로드맵을 설명합니다."
     },
     {
-      "title": "Old-school classifiers are still generally better than Jev [P]",
-      "sub": "MachineLearning",
-      "author": "csinva",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xil53d/oldschool_classifiers_are_still_generally_better/",
-      "title_ko": "구식 분류기가 여전히 Jev보다 전반적으로 우수",
-      "summary_ko": "전통적인 클래시피케이션 기법이 최신 Jev 모델보다 전반적인 성능에서 여전히 앞선다는 논의가 제기되었습니다."
+      "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
+      "sub": "LocalLLaMA",
+      "author": "Bestlife73",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
+      "title_ko": "자체 컴퓨팅 필요성 – 업데이트로 계정 차단 위험",
+      "summary_ko": "새로운 업데이트가 로컬 실행 사용자를 차단할 수 있어, 직접 서버를 운영할 이유를 강조합니다."
+    },
+    {
+      "title": "Qwen27b vs GPT 6",
+      "sub": "LocalLLaMA",
+      "author": "Express_Quail_1493",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6/",
+      "title_ko": "Qwen‑27B와 GPT‑6 성능 비교",
+      "summary_ko": "대규모 언어 모델 Qwen‑27B와 최신 GPT‑6을 직접 테스트한 결과를 공유합니다."
     },
     {
       "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
       "sub": "LocalLLaMA",
       "author": "ResearchCrafty1804",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
-      "title_ko": "샘 알트먼: “로컬 추론은 희소 자원의 비효율적 사용”",
-      "summary_ko": "샘 알트먼이 로컬 AI 추론이 제한된 컴퓨팅 자원을 낭비한다며 클라우드 중심 전략을 강조했습니다."
+      "title_ko": "샘 알트먼: 로컬 추론은 자원 낭비",
+      "summary_ko": "OpenAI CEO가 로컬 모델 실행이 한정된 컴퓨팅 자원을 비효율적으로 사용한다는 입장을 밝힙니다."
     },
     {
-      "title": "Leaving a job to pursue a PhD [D]",
-      "sub": "MachineLearning",
-      "author": "Ok-Hunter-7702",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xif85l/leaving_a_job_to_pursue_a_phd_d/",
-      "title_ko": "직장을 그만두고 박사과정에 도전",
-      "summary_ko": "직장을 떠나 박사 과정을 시작한 연구자의 경험과 고민을 공유하며 학계 진입 장벽을 논의합니다."
-    },
-    {
-      "title": "Mistral Large 4 (Le Chonk) is now open weight",
+      "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
       "sub": "LocalLLaMA",
-      "author": "Few_Painter_5588",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xil3qy/mistral_large_4_le_chonk_is_now_open_weight/",
-      "title_ko": "Mistral Large 4(Le Chonk) 오픈 웨이트 공개",
-      "summary_ko": "Mistral이 대형 언어 모델 Large 4(코드명 Le Chonk)의 가중치를 공개해 자유롭게 활용할 수 있게 했습니다."
+      "author": "danielhanchen",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
+      "title_ko": "DeepSeek‑V4.1‑Flash‑1017 동적 v3.1 Unsloth GGUF 출시",
+      "summary_ko": "새로운 DeepSeek‑V4.1 모델과 최적화된 GGUF 포맷이 공개돼 로컬 추론 성능을 크게 끌어올립니다."
     },
     {
-      "title": "Arc: a ~70 MB streaming speech model that transcribes links names and metadata to your own list as they're spoken, with no second model [p]",
-      "sub": "MachineLearning",
-      "author": "Working_Hat5120",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xiyuoj/arc_a_70_mb_streaming_speech_model_that/",
-      "title_ko": "Arc: 70 MB 스트리밍 음성 모델, 실시간 메타데이터 추출",
-      "summary_ko": "약 70 MB 크기의 스트리밍 음성 모델 Arc가 말하면서 링크·이름·메타데이터를 실시간으로 리스트에 기록합니다."
+      "title": "vLLM now has PLE disk offload support on nightly",
+      "sub": "LocalLLaMA",
+      "author": "rmhubbert",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
+      "title_ko": "vLLM, 나이트리 빌드에 PLE 디스크 오프로드 지원 추가",
+      "summary_ko": "vLLM이 최신 nightly 버전에서 PLE 디스크 오프로드 기능을 제공해 메모리 부담을 감소시킵니다."
     }
   ],
   "youtube": [
     {
-      "title": "우주탐사를 위한 AI: 이미지 변환에서 온보드 AI까지 (문용재/경희대학교 우주탐사학과/교수)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=HvJJrc07U50",
-      "published": "2026-10-29",
-      "desc": "1. 태양 이미지 변환 2. 우주기상 예보 3. 심볼릭 리그레션을 이용한 해석 가능 AI 4. 온보드 AI (큐브셋, 우주로버) 🎙️ New to streaming or looking to level up? Check out StreamYard and get $10 discount! 😍 https://streamyard.com/pal/d/6578432770048000",
-      "title_ko": "우주탐사를 위한 AI: 이미지 변환에서 온보드 AI까지",
-      "summary_ko": "우주 이미지 변환·기상 예보·해석 가능한 AI·큐브셋·우주로버 등 다양한 AI 활용 사례를 소개합니다."
-    },
-    {
-      "title": "I spent 4 weeks building an AI to humiliate one player",
-      "channel": "sentdex",
-      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
-      "published": "2026-10-07",
-      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "플레이어를 조롱하는 AI를 4주간 만들다",
-      "summary_ko": "4주간 AI를 개발해 특정 플레이어를 조롱하도록 설계한 과정을 상세히 보여줍니다."
-    },
-    {
-      "title": "The strange world of Influencer VPN ads",
-      "channel": "Yannic Kilcher",
-      "url": "https://www.youtube.com/watch?v=wUilk9FtIl0",
-      "published": "2023-08-13",
-      "desc": "A deep dive on Influencer VPN ads. What they say, what they don't say, and why they exist in the first place. Paper: https://ieeexplore.ieee.org/document/9833633 Abstract: One widespread, but frequently overlooked, source of security information is influencer marketing ads on You",
-      "title_ko": "인플루언서 VPN 광고의 이상한 세계",
-      "summary_ko": "인플루언서가 진행하는 VPN 광고의 내용·숨은 의도·존재 이유를 깊이 파헤칩니다."
+      "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
+      "published": "2026-10-25",
+      "desc": "HUGE AI NEWS: AI cyber attacks, Kimi K3.1, Minimax M3.1, Hi3D, Dessa voice. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct3 #ai #ainews #aitools #agi #singularity 00:00 AI news intro 01:01 WeVisOne-VL 03:10 Bark3 04:53 Fibo 2.0 07:37 Carbon-X 09:27 Hy-N",
+      "title_ko": "AI 뉴스: 사이버보안 혼란, DNA용 AI, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1",
+      "summary_ko": "AI 사이버 공격, 최신 모델 Kimi K3.1·Minimax 3.1·Claude Duet 등 최신 AI 기술과 서비스 소식을 한 영상에 정리했습니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "Building an AI-native engineering org",
+      "handle": "@sgondala2",
+      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+      "note": "HN 93pts · 128 댓글",
+      "title_ko": "AI 기반 엔지니어링 조직 구축",
+      "summary_ko": "AI 기반 엔지니어링 조직을 어떻게 설계하고 운영할지에 대한 @sgondala2의 트위터 글로, 최신 조직·문화 전략을 제시한다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
