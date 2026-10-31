@@ -1,200 +1,182 @@
 {
-  "generated_at": "2026-10-30T23:55:16.393779+00:00",
-  "date_label": "2026년 10월 31일 (토)",
+  "generated_at": "2026-10-31T23:30:26.932816+00:00",
+  "date_label": "2026년 11월 1일 (일)",
   "github_trending": [
     {
-      "repo": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 2053,
-      "lang": "",
-      "summary_ko": "togg53192-cmd/jailbreaks: LLM 제약을 우회하는 프롬프트 기법 모음으로 보안·윤리 관점에서 주목됩니다."
+      "stars_today": 1723,
+      "lang": "TypeScript",
+      "summary_ko": "thedotmack/claude-mem: Claude 모델에 메모리 기능을 추가해 대화 지속성을 향상시킨 프로젝트입니다."
+    },
+    {
+      "repo": "Orkas-AI/Orkas",
+      "url": "https://github.com/Orkas-AI/Orkas",
+      "desc": "",
+      "stars_today": 1118,
+      "lang": "JavaScript",
+      "summary_ko": "Orkas-AI/Orkas: 멀티모달 AI 파이프라인을 손쉽게 구축할 수 있는 오픈소스 프레임워크입니다."
     },
     {
       "repo": "Renhuai123/ziwei-doushu",
       "url": "https://github.com/Renhuai123/ziwei-doushu",
       "desc": "",
-      "stars_today": 1146,
+      "stars_today": 1093,
       "lang": "TypeScript",
-      "summary_ko": "Renhuai123/ziwei-doushu: 전통 중국 사주(자위) 분석 도구로, AI 기반 운세 예측에 관심을 끕니다."
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "desc": "",
-      "stars_today": 1145,
-      "lang": "TypeScript",
-      "summary_ko": "thedotmack/claude-mem: Claude 모델의 메모리 관리 예시를 제공해 대규모 대화 유지에 유용합니다."
-    },
-    {
-      "repo": "JetBrains/thinkrail",
-      "url": "https://github.com/JetBrains/thinkrail",
-      "desc": "",
-      "stars_today": 717,
-      "lang": "TypeScript",
-      "summary_ko": "JetBrains/thinkrail: 코드 자동완성·리팩터링을 돕는 JetBrains 플러그인으로 개발 생산성 향상에 기여합니다."
-    },
-    {
-      "repo": "datawhalechina/diy-llm",
-      "url": "https://github.com/datawhalechina/diy-llm",
-      "desc": "",
-      "stars_today": 312,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/diy-llm: 개인이 직접 LLM을 구축·학습할 수 있는 가이드와 코드가 포함돼 실험적 연구에 적합합니다."
+      "summary_ko": "Renhuai123/ziwei-doushu: 사주팔자를 분석해 운세를 제공하는 파이썬 기반 도구입니다."
     },
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 287,
+      "stars_today": 756,
       "lang": "Python",
-      "summary_ko": "anthropics/skills: Anthropic Claude 모델용 스킬(플러그인) 템플릿 모음으로 기능 확장에 활용됩니다."
+      "summary_ko": "anthropics/skills: Anthropic 모델에 맞춤형 스킬을 정의해 작업 자동화를 지원하는 라이브러리입니다."
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "desc": "",
+      "stars_today": 724,
+      "lang": "Shell",
+      "summary_ko": "Donchitos/Claude-Code-Game-Studios: Claude를 활용해 게임 개발 코드를 자동 생성·디버깅하는 샘플 프로젝트입니다."
+    },
+    {
+      "repo": "vorssaint/vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "desc": "",
+      "stars_today": 499,
+      "lang": "Swift",
+      "summary_ko": "vorssaint/vorssaint-utils: 데이터 전처리와 시각화를 위한 다양한 파이썬 유틸리티 모음입니다."
+    },
+    {
+      "repo": "datawhalechina/diy-llm",
+      "url": "https://github.com/datawhalechina/diy-llm",
+      "desc": "",
+      "stars_today": 235,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina/diy-llm: 개인용 LLM을 직접 구축·튜닝할 수 있는 단계별 가이드와 코드베이스를 제공합니다."
     },
     {
       "repo": "ethanplusai/harvey",
       "url": "https://github.com/ethanplusai/harvey",
       "desc": "",
-      "stars_today": 248,
+      "stars_today": 213,
       "lang": "Python",
-      "summary_ko": "ethanplusai/harvey: 금융 데이터 분석에 특화된 LLM 파이프라인으로 투자·리스크 모델링에 관심을 모읍니다."
+      "summary_ko": "ethanplusai/harvey: 코드 리뷰와 버그 탐지를 자동화하는 AI 기반 정적 분석 도구입니다."
     },
     {
-      "repo": "NirDiamant/RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "repo": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
       "desc": "",
-      "stars_today": 73,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "NirDiamant/RAG_Techniques: Retrieval‑Augmented Generation 구현 기법을 정리해 검색 기반 생성 모델 개발에 도움됩니다."
-    },
-    {
-      "repo": "langchain-ai/deepagents",
-      "url": "https://github.com/langchain-ai/deepagents",
-      "desc": "",
-      "stars_today": 60,
+      "stars_today": 118,
       "lang": "Python",
-      "summary_ko": "langchain-ai/deepagents: LangChain 기반의 다중 에이전트 프레임워크로 복합 작업 자동화에 유용합니다."
+      "summary_ko": "The-PR-Agent/pr-agent: 풀 리퀘스트 자동 리뷰와 라벨링을 지원해 협업 효율을 높이는 GitHub 액션입니다."
     },
     {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "repo": "THU-MAIC/OpenMAIC",
+      "url": "https://github.com/THU-MAIC/OpenMAIC",
       "desc": "",
-      "stars_today": 54,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching: AI를 활용한 자기주도 학습 방법론을 정리해 교육·학습 혁신에 기여합니다."
+      "stars_today": 115,
+      "lang": "TypeScript",
+      "summary_ko": "THU-MAIC/OpenMAIC: 대규모 멀티모달 모델 연구를 위한 오픈소스 데이터와 학습 파이프라인을 제공합니다."
     },
     {
-      "repo": "AI4Finance-Foundation/FinRL",
-      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "repo": "mrdbourke/zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "desc": "",
+      "stars_today": 86,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "mrdbourke/zero-to-mastery-ml: 머신러닝 입문자를 위한 실습 중심 튜토리얼과 프로젝트 컬렉션입니다."
+    },
+    {
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "desc": "",
+      "stars_today": 78,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 워크플로우와 베스트 프랙티스를 정리한 리소스 허브입니다."
+    },
+    {
+      "repo": "0x0funky/agent-sprite-forge",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "desc": "",
+      "stars_today": 51,
+      "lang": "Python",
+      "summary_ko": "0x0funky/agent-sprite-forge: 게임 캐릭터에 AI 에이전트를 부착해 행동을 자동화하는 툴킷입니다."
+    },
+    {
+      "repo": "SakanaAI/AI-Scientist",
+      "url": "https://github.com/SakanaAI/AI-Scientist",
+      "desc": "",
+      "stars_today": 40,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "SakanaAI/AI-Scientist: 과학 연구에 특화된 AI 도구를 제공해 데이터 분석과 논문 작성을 돕습니다."
+    },
+    {
+      "repo": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
       "desc": "",
       "stars_today": 37,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI4Finance-Foundation/FinRL: 강화학습을 이용한 금융 포트폴리오 최적화 오픈소스로 투자 전략 연구에 활용됩니다."
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 33,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks: Claude 모델용 다양한 활용 예시와 프롬프트 레시피를 제공해 실무 적용을 돕습니다."
-    },
-    {
-      "repo": "ed-donner/llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "desc": "",
-      "stars_today": 31,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "ed-donner/llm_engineering: LLM 개발·배포 전반을 다루는 엔지니어링 가이드로 운영 효율성을 높입니다."
-    },
-    {
-      "repo": "datawhalechina/happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "desc": "",
-      "stars_today": 27,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "datawhalechina/happy-llm: LLM 학습·튜닝을 쉽게 할 수 있는 튜토리얼과 예제 모음으로 입문자에게 유용합니다."
-    },
-    {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
-      "desc": "",
-      "stars_today": 20,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM/Hands-On-Large-Language-Models: LLM 실습 프로젝트와 코드 예시를 제공해 실전 경험을 쌓게 합니다."
+      "lang": "Python",
+      "summary_ko": "sngyai/Sequoia-X: 대규모 언어 모델을 효율적으로 파인튜닝하기 위한 분산 학습 프레임워크입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "points": 729,
-      "comments": 456,
-      "hn_url": "https://news.ycombinator.com/item?id=50300683",
-      "title_ko": "VS Code 확장용 Claude 코드에 백도어 발견",
-      "summary_ko": "Cursor 마켓플레이스에 올라온 Claude VS Code 확장에 보안 백도어가 포함돼 주목받고 있습니다."
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "points": 792,
+      "comments": 455,
+      "hn_url": "https://news.ycombinator.com/item?id=50314654",
+      "title_ko": "세르비아, 세계 최고 지능 의회 선출",
+      "summary_ko": "세르비아가 세계에서 가장 똑똑한 의회를 선출해 정치·AI 융합 논의를 촉발했습니다."
     },
     {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "points": 476,
-      "comments": 355,
-      "hn_url": "https://news.ycombinator.com/item?id=50305693",
-      "title_ko": "AI가 SRE를 대체하지 않고 역량을 약화시킨다",
-      "summary_ko": "AI 도입이 사이트 신뢰성 엔지니어의 전문성을 저하시키며 업무 수준을 낮추는 위험을 지적합니다."
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "points": 294,
+      "comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50314699",
+      "title_ko": "수학으로 증명: ChatGPT 계정 장악 방법",
+      "summary_ko": "수학적 분석을 통해 해커들이 ChatGPT 계정을 어떻게 탈취했는지 과정을 공개합니다."
     },
     {
-      "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-      "points": 151,
-      "comments": 12,
-      "hn_url": "https://news.ycombinator.com/item?id=50272479",
-      "title_ko": "Sleep 프레임워크: LLM 지속 학습을 위한 새로운 기억 방식",
-      "summary_ko": "LLM이 학습 중 지식을 유지하도록 설계된 Sleep 프레임워크가 연속 학습 효율성을 높입니다."
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "points": 148,
+      "comments": 159,
+      "hn_url": "https://news.ycombinator.com/item?id=50318871",
+      "title_ko": "GPT-5.6 Sol, 평화 모드 팩토리오 제압",
+      "summary_ko": "새로운 GPT-5.6 Sol 모델이 팩토리오 평화 모드에서 인간 플레이어를 능가했습니다."
     },
     {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "points": 147,
-      "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=50309647",
-      "title_ko": "캡틴 장-뤽 피카드, 패트릭 스튜어트가 보여준 인간의 기준",
-      "summary_ko": "스타트렉의 피카드 선장이 인간다움의 의미를 어떻게 정의했는지 조명합니다."
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "points": 137,
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50319358",
+      "title_ko": "Anthropic, 대형 모델 학습 관련 사용자 차단",
+      "summary_ko": "Anthropic이 대규모 모델 학습에 관련된 모든 행위에 대해 사용자 차단 정책을 적용했습니다."
     },
     {
-      "title": "Building an AI-native engineering org",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "points": 93,
-      "comments": 128,
-      "hn_url": "https://news.ycombinator.com/item?id=50296730",
-      "title_ko": "AI‑네이티브 엔지니어링 조직 구축",
-      "summary_ko": "AI를 중심으로 조직 구조와 문화·프로세스를 재설계하는 방안을 제시합니다."
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "points": 44,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50315782",
+      "title_ko": "Show HN: 부트 섹터에 살아있는 언어 모델",
+      "summary_ko": "부트 섹터에 탑재된 초소형 언어 모델을 공개해 하드웨어 제한을 뛰어넘는 가능성을 보여줍니다."
     },
     {
-      "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-      "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-      "points": 77,
-      "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=50304122",
-      "title_ko": "Cisco, 엔지니어에게 무제한 AI 토큰 제공해 레거시 코드 재작성",
-      "summary_ko": "시스코가 AI 토큰을 무제한으로 배포해 기존 코드를 AI가 자동으로 현대화하도록 지원합니다."
-    },
-    {
-      "title": "AO3 Down for Maintenance",
-      "url": "https://www.otwstatus.org",
-      "points": 72,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=50310258",
-      "title_ko": "AO3 점검 중",
-      "summary_ko": "아카이브 오브 온리 원(오버드라이브) 사이트가 현재 유지보수 작업으로 일시 중단되었습니다."
-    },
-    {
-      "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-      "url": "https://sketch.wakeshift.ai/games/q5ucru",
-      "points": 19,
-      "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=50305218",
-      "title_ko": "Show HN: Sketch Stadium – 에이전트가 그림 맞추기 게임을 플레이",
-      "summary_ko": "사용자가 만든 AI 에이전트가 Pictionary 스타일 게임을 실시간으로 진행하는 데모를 공개했습니다."
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "url": "https://oqtadrive.org/10.other/5-years/",
+      "points": 13,
+      "comments": 3,
+      "hn_url": "https://news.ycombinator.com/item?id=50301178",
+      "title_ko": "OqtaDrive 5년: 마이크로드라이브를 인터넷 Sinclair Network에 연결",
+      "summary_ko": "OqtaDrive 프로젝트가 5년간 마이크로드라이브 에뮬레이션을 Sinclair 네트워크와 인터넷으로 연동했습니다."
     }
   ],
   "reddit": [
@@ -203,69 +185,59 @@
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
-      "title_ko": "MOSS 팀 AMA – 이미지·음성 모델 등 소개",
-      "summary_ko": "MOSS-Image·MOSS-TTS 등 개발팀이 직접 참여해 프로젝트와 로드맵을 설명합니다."
+      "title_ko": "MOSS 팀 소개 – MOSS-Image·MOSS-TTS 등 개발자 AMA",
+      "summary_ko": "MOSS 프로젝트 팀이 직접 참여해 이미지·음성 모델 등 최신 소식을 AMA 형식으로 공유합니다."
     },
     {
-      "title": "Another reason to own your own compute. Your account may get banned in a sneaky update.",
+      "title": "Well, my local AI addiction officially got out of hand tonight.",
       "sub": "LocalLLaMA",
-      "author": "Bestlife73",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjgfuv/another_reason_to_own_your_own_compute_your/",
-      "title_ko": "자체 컴퓨팅 필요성 – 업데이트로 계정 차단 위험",
-      "summary_ko": "새로운 업데이트가 로컬 실행 사용자를 차단할 수 있어, 직접 서버를 운영할 이유를 강조합니다."
+      "author": "AnouarRifi",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xklq96/well_my_local_ai_addiction_officially_got_out_of/",
+      "title_ko": "내 로컬 AI 중독이 오늘 밤 폭발했습니다",
+      "summary_ko": "개인이 로컬 AI 실험에 빠져 과도한 사용과 문제점을 솔직히 고백한 글입니다."
     },
     {
-      "title": "Qwen27b vs GPT 6",
+      "title": "Jiahao Shao on X: \"Shame on @DarioAmodei / Anthropic. I never distilled Claude—rollouts came from a strong open-source model; Claude just helped submit jobs and run analysis. Still got tagged for \"training a competitor,\" and now anything touching RFT, SFT, or training larger models gets me blocked",
       "sub": "LocalLLaMA",
-      "author": "Express_Quail_1493",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpfvi/qwen27b_vs_gpt_6/",
-      "title_ko": "Qwen‑27B와 GPT‑6 성능 비교",
-      "summary_ko": "대규모 언어 모델 Qwen‑27B와 최신 GPT‑6을 직접 테스트한 결과를 공유합니다."
+      "author": "f0urxio",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkm5gz/jiahao_shao_on_x_shame_on_darioamodei_anthropic_i/",
+      "title_ko": "Jiahao Shao가 트위터에 올린 비난: Anthropic 차단 사유",
+      "summary_ko": "오픈소스 모델로 Claude를 재현했지만 경쟁 모델 훈련으로 오해받아 차단된 사례를 지적합니다."
     },
     {
-      "title": "Sam Altman: “Local inference is a terrible allocation of scarce resources”",
+      "title": "An LLM inside an LLM - Same guy who put a RISK-V CPU inside Qwen has now made Karpathy's stories260k run on an NPU compiled inside Qwen 3.5-4B's weights",
       "sub": "LocalLLaMA",
-      "author": "ResearchCrafty1804",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xizbq1/sam_altman_local_inference_is_a_terrible/",
-      "title_ko": "샘 알트먼: 로컬 추론은 자원 낭비",
-      "summary_ko": "OpenAI CEO가 로컬 모델 실행이 한정된 컴퓨팅 자원을 비효율적으로 사용한다는 입장을 밝힙니다."
+      "author": "LatentSpacer",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkiuut/an_llm_inside_an_llm_same_guy_who_put_a_riskv_cpu/",
+      "title_ko": "LLM 안에 LLM – Qwen 3.5‑4B 가중치에 NPU 내장",
+      "summary_ko": "RISC‑V CPU를 Qwen에 탑재한 개발자가 같은 방식으로 NPU를 내장해 모델 실행 효율을 높였습니다."
     },
     {
-      "title": "Introducing DeepSeek-V4.1-Flash-1017 Dynamic v3.1 Unsloth GGUFs",
+      "title": "Betelgeuse: Running Qwen 3.8 Flash Next at 22 tok/s sustained (spiking to 48 tok/s) on an RTX 3060 12GB + 16GB DDR4 RAM 100% bit-exact!",
       "sub": "LocalLLaMA",
-      "author": "danielhanchen",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjfuqh/introducing_deepseekv41flash1017_dynamic_v31/",
-      "title_ko": "DeepSeek‑V4.1‑Flash‑1017 동적 v3.1 Unsloth GGUF 출시",
-      "summary_ko": "새로운 DeepSeek‑V4.1 모델과 최적화된 GGUF 포맷이 공개돼 로컬 추론 성능을 크게 끌어올립니다."
+      "author": "zyxciss",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xk8s6z/betelgeuse_running_qwen_38_flash_next_at_22_toks/",
+      "title_ko": "Betelgeuse: RTX 3060에서 Qwen 3.8 Flash Next 22‑48tok/s",
+      "summary_ko": "RTX 3060 12GB와 16GB DDR4 RAM으로 Qwen 3.8 Flash Next를 초당 22~48 토큰 속도로 정확히 구동합니다."
     },
     {
-      "title": "vLLM now has PLE disk offload support on nightly",
+      "title": "CrowdGPT v2.6 - The collaborative LLM",
       "sub": "LocalLLaMA",
-      "author": "rmhubbert",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjpbcg/vllm_now_has_ple_disk_offload_support_on_nightly/",
-      "title_ko": "vLLM, 나이트리 빌드에 PLE 디스크 오프로드 지원 추가",
-      "summary_ko": "vLLM이 최신 nightly 버전에서 PLE 디스크 오프로드 기능을 제공해 메모리 부담을 감소시킵니다."
+      "author": "Vxtzq1",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xkibxw/crowdgpt_v26_the_collaborative_llm/",
+      "title_ko": "CrowdGPT v2.6 – 협업형 LLM",
+      "summary_ko": "다수 사용자가 동시에 참여해 답변을 개선하는 협업형 언어 모델 최신 버전을 소개합니다."
     }
   ],
-  "youtube": [
-    {
-      "title": "Cybersecurity chaos, AI for DNA, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=EfyQOAJjx1A",
-      "published": "2026-10-25",
-      "desc": "HUGE AI NEWS: AI cyber attacks, Kimi K3.1, Minimax M3.1, Hi3D, Dessa voice. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct3 #ai #ainews #aitools #agi #singularity 00:00 AI news intro 01:01 WeVisOne-VL 03:10 Bark3 04:53 Fibo 2.0 07:37 Carbon-X 09:27 Hy-N",
-      "title_ko": "AI 뉴스: 사이버보안 혼란, DNA용 AI, Kimi K3.1, Claude Duet, Dessa, Fibo 2, Minimax 3.1",
-      "summary_ko": "AI 사이버 공격, 최신 모델 Kimi K3.1·Minimax 3.1·Claude Duet 등 최신 AI 기술과 서비스 소식을 한 영상에 정리했습니다."
-    }
-  ],
+  "youtube": [],
   "social": [
     {
-      "title": "Building an AI-native engineering org",
-      "handle": "@sgondala2",
-      "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-      "note": "HN 93pts · 128 댓글",
-      "title_ko": "AI 기반 엔지니어링 조직 구축",
-      "summary_ko": "AI 기반 엔지니어링 조직을 어떻게 설계하고 운영할지에 대한 @sgondala2의 트위터 글로, 최신 조직·문화 전략을 제시한다."
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "handle": "@jiahaoshao1",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "note": "HN 137pts · 42 댓글",
+      "title_ko": "Anthropic, 대형 모델 학습 관련 모든 행위에 대해 사용자 차단",
+      "summary_ko": "Anthropic이 대형 모델 학습과 관련된 모든 활동을 금지해 사용자 접근을 차단, AI 안전·윤리 논란을 촉발한다."
     }
   ],
   "summary_model": "openai/gpt-oss-120b"
