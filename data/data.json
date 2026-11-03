@@ -1,235 +1,195 @@
 {
-  "generated_at": "2026-11-01T23:42:41.729850+00:00",
-  "date_label": "2026년 11월 2일 (월)",
+  "generated_at": "2026-11-03T02:28:57.585595+00:00",
+  "date_label": "2026년 11월 3일 (화)",
   "github_trending": [
     {
-      "repo": "ifixai-ai/iFixAi",
-      "url": "https://github.com/ifixai-ai/iFixAi",
+      "repo": "vercel-labs/agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
       "desc": "",
-      "stars_today": 1654,
-      "lang": "Python",
-      "summary_ko": "ifixai-ai/iFixAi: AI 기반 코드 자동 수정 도구로 개발 효율성을 크게 높일 수 있어 주목됩니다."
+      "stars_today": 2275,
+      "lang": "Rust",
+      "summary_ko": "Vercel Labs가 만든 Agent Desktop은 로컬 개발 환경을 AI 에이전트와 연동해 자동화와 디버깅을 지원합니다."
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 1527,
+      "stars_today": 1803,
       "lang": "TypeScript",
-      "summary_ko": "thedotmack/claude-mem: Claude 모델에 메모리 확장 기능을 추가해 장기 컨텍스트 처리에 강점이 있습니다."
+      "summary_ko": "Claude-Mem은 Claude 모델에 메모리 기능을 추가해 대화 흐름을 장기적으로 기억하도록 설계되었습니다."
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "desc": "",
-      "stars_today": 970,
+      "stars_today": 1379,
       "lang": "Shell",
-      "summary_ko": "Donchitos/Claude-Code-Game-Studios: Claude를 활용한 게임 스튜디오 자동화 파이프라인으로 게임 개발 속도를 단축합니다."
-    },
-    {
-      "repo": "Renhuai123/ziwei-doushu",
-      "url": "https://github.com/Renhuai123/ziwei-doushu",
-      "desc": "",
-      "stars_today": 953,
-      "lang": "TypeScript",
-      "summary_ko": "Renhuai123/ziwei-doushu: 전통 사주 분석을 AI로 구현해 문화·심리 분야에 새로운 활용 가능성을 제시합니다."
-    },
-    {
-      "repo": "togg53192-cmd/jailbreaks",
-      "url": "https://github.com/togg53192-cmd/jailbreaks",
-      "desc": "",
-      "stars_today": 730,
-      "lang": "",
-      "summary_ko": "togg53192-cmd/jailbreaks: 다양한 LLM 탈옥 프롬프트를 모아 보안·프롬프트 엔지니어링 연구에 유용합니다."
+      "summary_ko": "Claude-Code-Game-Studios는 Claude를 활용해 게임 개발 파이프라인을 자동화하고 코드 생성까지 돕는 도구입니다."
     },
     {
       "repo": "patchy631/ai-engineering-hub",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 573,
+      "stars_today": 767,
       "lang": "Jupyter Notebook",
-      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 실무 자료와 도구 모음으로 학습·프로젝트에 바로 적용 가능해요."
-    },
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 438,
-      "lang": "Python",
-      "summary_ko": "anthropics/skills: Anthropic 모델용 스킬 라이브러리로 복잡한 작업을 손쉽게 체인화합니다."
+      "summary_ko": "AI Engineering Hub은 최신 AI 엔지니어링 도구와 워크플로를 한곳에 모아 학습과 실험을 효율화합니다."
     },
     {
       "repo": "beenuar/AiSOC",
       "url": "https://github.com/beenuar/AiSOC",
       "desc": "",
-      "stars_today": 436,
+      "stars_today": 659,
       "lang": "Python",
-      "summary_ko": "beenuar/AiSOC: AI 기반 보안 운영센터(SOC) 자동화 프레임워크로 사이버 방어 효율을 높입니다."
+      "summary_ko": "AiSOC는 AI 기반 보안 운영센터 프레임워크로 위협 탐지와 대응을 자동화하는 오픈소스 프로젝트입니다."
     },
     {
-      "repo": "cjpais/Handy",
-      "url": "https://github.com/cjpais/Handy",
+      "repo": "paperclipai/paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
       "desc": "",
-      "stars_today": 383,
-      "lang": "Rust",
-      "summary_ko": "cjpais/Handy: 개발자를 위한 AI 비서 툴킷으로 코드 작성·디버깅을 빠르게 지원합니다."
-    },
-    {
-      "repo": "ethanplusai/harvey",
-      "url": "https://github.com/ethanplusai/harvey",
-      "desc": "",
-      "stars_today": 237,
-      "lang": "Python",
-      "summary_ko": "ethanplusai/harvey: LLM을 활용한 법률 문서 분석·요약 도구로 법무 업무 자동화에 기여합니다."
+      "stars_today": 412,
+      "lang": "TypeScript",
+      "summary_ko": "Paperclip은 AI 에이전트가 스스로 목표를 설정하고 실행해 문제 해결을 시도하는 실험적 프레임워크입니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 136,
+      "stars_today": 111,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/ai-agents-for-beginners: AI 에이전트 입문자를 위한 실습 가이드로 기본 개념을 쉽게 습득하게 합니다."
+      "summary_ko": "AI Agents for Beginners는 마이크로소프트가 제공하는 입문용 에이전트 튜토리얼로 실습 중심 학습을 돕습니다."
     },
     {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 119,
+      "stars_today": 50,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/generative-ai-for-beginners: 생성 AI 기본 원리와 활용 예제를 제공해 초보 개발자 학습에 최적화돼 있습니다."
+      "summary_ko": "Claude Cookbooks는 다양한 활용 시나리오와 프롬프트 예시를 모아 Claude 사용법을 체계화한 레시피 모음입니다."
     },
     {
-      "repo": "oraios/serena",
-      "url": "https://github.com/oraios/serena",
+      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 57,
-      "lang": "Python",
-      "summary_ko": "oraios/serena: 멀티모달 AI 비서 프로젝트로 이미지·텍스트 통합 인터페이스를 구현합니다."
+      "stars_today": 30,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Hands-On Large Language Models는 LLM 이론부터 실습까지 단계별 가이드를 제공하는 교육용 리포지터리입니다."
     },
     {
-      "repo": "mrdbourke/zero-to-mastery-ml",
-      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "repo": "NirDiamant/GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
       "desc": "",
-      "stars_today": 54,
+      "stars_today": 22,
       "lang": "Jupyter Notebook",
-      "summary_ko": "mrdbourke/zero-to-mastery-ml: 머신러닝 입문부터 실전까지 단계별 튜토리얼을 제공해 학습 효율을 높입니다."
-    },
-    {
-      "repo": "SakanaAI/AI-Scientist",
-      "url": "https://github.com/SakanaAI/AI-Scientist",
-      "desc": "",
-      "stars_today": 38,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "SakanaAI/AI-Scientist: AI 연구 자동화 파이프라인으로 실험·분석 과정을 크게 단축시킵니다."
+      "summary_ko": "GenAI_Agents는 생성형 AI 에이전트를 설계·배포하는 베스트 프랙티스와 코드 샘플을 공유합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "The AI cost of JavaScript frameworks",
-      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
-      "points": 276,
-      "comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=50323088",
-      "title_ko": "자바스크립트 프레임워크의 AI 비용",
-      "summary_ko": "AI 활용 시 프레임워크별 비용 구조와 효율성을 분석한 기사다."
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "points": 210,
+      "comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=50344919",
+      "title_ko": "SEC, Anthropic IPO 차단해야 공익 보호",
+      "summary_ko": "SEC가 Anthropic의 IPO를 막아야 공공 이익을 지킬 수 있다는 주장이다."
     },
     {
-      "title": "Frontier Airlines Likely Breached",
-      "url": "https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/",
-      "points": 159,
-      "comments": 52,
-      "hn_url": "https://news.ycombinator.com/item?id=50327266",
-      "title_ko": "프론티어 항공, 보안 침해 의심",
-      "summary_ko": "프론티어 항공이 해킹당해 고객 데이터가 유출됐을 가능성이 제기됐다."
+      "title": "Anthropic's growth just flattened",
+      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+      "points": 169,
+      "comments": 200,
+      "hn_url": "https://news.ycombinator.com/item?id=50344958",
+      "title_ko": "Anthropic 성장 둔화",
+      "summary_ko": "Anthropic의 최근 매출 성장세가 정체돼 투자자들의 우려가 커지고 있다."
     },
     {
-      "title": "Domain hacks with unusual Unicode characters (2018)",
-      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
-      "points": 51,
-      "comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=50324371",
-      "title_ko": "특수 유니코드 문자 도메인 해킹 (2018)",
-      "summary_ko": "특이한 유니코드 문자를 이용한 도메인 변조 사례와 보안 위험을 정리한다."
+      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
+      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
+      "points": 162,
+      "comments": 125,
+      "hn_url": "https://news.ycombinator.com/item?id=50342284",
+      "title_ko": "Oracle, AI 투자 위해 200억 달러 신규 주·채권 발행",
+      "summary_ko": "Oracle이 AI 구축 자금 조달을 위해 200억 달러 규모의 주식·채권을 신규 발행한다."
     },
     {
-      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "points": 40,
-      "comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=50330456",
-      "title_ko": "AI, 대부분 기업에 재무적 이익 ‘0’…Apollo 경제학자 주장",
-      "summary_ko": "Apollo 연구원의 분석에 따르면 AI 도입 기업 대부분이 실질적인 금전적 이득을 얻지 못하고 있다."
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "points": 128,
+      "comments": 85,
+      "hn_url": "https://news.ycombinator.com/item?id=50339913",
+      "title_ko": "Launch HN: Momentic – 앱으로 버그를 잡는 에이전트",
+      "summary_ko": "YC W24 참가 스타트업 Momentic은 사용자의 앱을 활용해 버그를 자동 탐지하는 에이전트를 제공한다."
+    },
+    {
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "points": 120,
+      "comments": 82,
+      "hn_url": "https://news.ycombinator.com/item?id=50341736",
+      "title_ko": "AI 시대의 이기심 없는 수학",
+      "summary_ko": "AI 발전과 함께 개인적 편견을 배제한 수학적 접근법의 필요성을 논한다."
+    },
+    {
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "points": 68,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50337661",
+      "title_ko": "C64 Basic 던전 크롤러: 계단·레벨·레벨업 (11부)",
+      "summary_ko": "C64 Basic으로 구현한 던전 게임의 11번째 파트에서 계단과 레벨업 시스템을 소개한다."
     }
   ],
   "reddit": [
     {
-      "title": "We’re MOSS, the team behind MOSS-Image, MOSS-TTS, and more — Ask Us Anything!",
+      "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xjhpn9/were_moss_the_team_behind_mossimage_mosstts_and/",
-      "title_ko": "MOSS 팀 AMA: 이미지·음성 모델 등 소개",
-      "summary_ko": "MOSS 팀이 이미지·음성 생성 모델 등을 개발한 배경과 향후 로드맵을 AMA 형식으로 공개한다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
+      "title_ko": "AMA 발표: Beam 뒤의 연구소 Reflection (11월 3일 화요일, 오전 8시‑11시 PT)",
+      "summary_ko": "Reflection 연구소가 Beam 프로젝트와 관련된 AMA를 진행해 최신 연구와 로드맵을 공유합니다."
     },
     {
-      "title": "Why do all NN optimizers have weird names? [d]",
-      "sub": "MachineLearning",
-      "author": "Future_Pace_5290",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xl7yv0/why_do_all_nn_optimizers_have_weird_names_d/",
-      "title_ko": "신경망 옵티마이저 이름이 특이한 이유는?",
-      "summary_ko": "다양한 옵티마이저가 독특한 이름을 갖게 된 역사와 의미를 정리해 머신러닝 초심자에게 도움을 준다."
-    },
-    {
-      "title": "Heretic 2.0 released: Model modification for everyone",
+      "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
       "sub": "LocalLLaMA",
-      "author": "-p-e-w-",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl2tcm/heretic_20_released_model_modification_for/",
-      "title_ko": "Heretic 2.0 출시: 누구나 모델 수정 가능",
-      "summary_ko": "새 버전 Heretic 2.0이 공개돼 모델 구조를 손쉽게 변형·실험할 수 있는 도구를 제공한다."
+      "author": "ResearchCrafty1804",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
+      "title_ko": "공식 성명: Qwen 모델은 끝까지 오픈소스 유지",
+      "summary_ko": "Qwen 팀이 모델을 영구적으로 오픈소스로 제공하겠다고 선언해 커뮤니티 신뢰를 강화합니다."
     },
     {
-      "title": "Are there fundamental repeating patterns in ML techniques across modalities (text, image, audio) that let us group them? [R]",
-      "sub": "MachineLearning",
-      "author": "OkCampaign8400",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkp8e9/are_there_fundamental_repeating_patterns_in_ml/",
-      "title_ko": "멀티모달 ML 기법에 공통 패턴이 있을까?",
-      "summary_ko": "텍스트·이미지·오디오 등 다양한 모달리티에서 반복되는 핵심 패턴을 탐색해 기술을 체계화한다."
-    },
-    {
-      "title": "Coding is solved* (exclusions apply)",
+      "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
       "sub": "LocalLLaMA",
-      "author": "matthewhaynesonline",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xl90rr/coding_is_solved_exclusions_apply/",
-      "title_ko": "코딩은 해결됐다* (단, 예외는 존재)",
-      "summary_ko": "특정 조건 하에 코딩 문제를 자동화·완전 해결할 수 있다는 주장과 그 한계를 논의한다."
+      "author": "chemist_slime",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
+      "title_ko": "아마존, GPU 주문 취소·계정 폐쇄…팀 스위니도 피해자",
+      "summary_ko": "아마존이 GPU 구매 고객의 주문을 취소하고 계정을 차단해 개발자와 스튜디오에 충격을 주고 있습니다."
     },
     {
-      "title": "LSREP: A Longitudinal State-Replay Protocol for Evaluating Conversational Memory [R]",
-      "sub": "MachineLearning",
-      "author": "Deepnar_S",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xkzwz9/lsrep_a_longitudinal_statereplay_protocol_for/",
-      "title_ko": "LSREP: 대화 기억 평가를 위한 장기 상태 재생 프로토콜",
-      "summary_ko": "대화형 AI의 장기 기억 능력을 측정하기 위한 LSREP 방법론을 제안하고 실험 결과를 제시한다."
+      "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+      "sub": "LocalLLaMA",
+      "author": "1-800-methdyke",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
+      "title_ko": "GPT‑6 Astra, Qwen 가중치 편집: MATH‑500 7.9%→48.1% 상승",
+      "summary_ko": "GPT‑6 Astra가 Qwen 모델 가중치를 조정해 MATH‑500 벤치마크 점수를 크게 끌어올렸습니다."
+    },
+    {
+      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "sub": "LocalLLaMA",
+      "author": "teakhop",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
+      "title_ko": "가중치 공간 프로그래밍의 시작: LLM이 직접 가중치를 읽고 쓸 수 있다",
+      "summary_ko": "LLM이 신경망 가중치를 직접 조작하는 기술이 등장해 모델 수정 방식에 혁신을 예고합니다."
+    },
+    {
+      "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+      "sub": "LocalLLaMA",
+      "author": "Balloon_Fan",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
+      "title_ko": "Qwen 3.8 27B, 때때로 너무 똑똑해 무섭다",
+      "summary_ko": "Qwen 3.8 27B 모델이 특정 상황에서 인간 수준의 추론을 보여 놀라움을 안겨줍니다."
     }
   ],
   "youtube": [
-    {
-      "title": "AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=IGICYFyP_EI",
-      "published": "2026-11-01",
-      "desc": "HUGE AI NEWS: OpenAI math breakthroughs, AlphaProtein Novo, Botanic-1, Iris 3B, Kandinsky 6.0, Mistral Large 4, Haiku 5.5 & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct4 #ai #ainews #aitools #aivideo #agi #singularity 00:00 AI news intro 01:10 M",
-      "title_ko": "AI가 마침내 휴식, Gemini 4 Carbon, ETH 해킹, 에너지 기반 모델, Anthropic IPO 등 AI 뉴스",
-      "summary_ko": "OpenAI 수학 돌파·AlphaProtein·Botanic‑1 등 최신 AI 소식을 한눈에 정리한 영상입니다."
-    },
-    {
-      "title": "AI 작업은 싸졌는데 GPU 임대료는 왜 오를까? | 구글·MS·AWS 실적으로 살펴본 처리 효율, AI가 더 많이 쓰이면 한국 메모리도 바로 늘어날까?",
-      "channel": "안될공학",
-      "url": "https://www.youtube.com/watch?v=B2QBL9TV6bI",
-      "published": "2026-10-30",
-      "desc": "일부 AI 작업의 이용 요금은 내려가는데, GPU를 빌리는 값은 오르는 곳들이 있습니다. 같은 연산 장비로 돌아가는 서비스인데 왜 두 가격은 다르게 움직일까요? 장비 한 대로 더 많은 일을 처리하면 작업당 비용은 낮아질 수 있지만, 사람들이 맡기는 일이 더 빠르게 늘면 필요한 서버도 많아질 수 있습니다. 코드 추천을 넘어 수정과 실행, 검사까지 맡기는 AI 에이전트가 이런 변화를 어떻게 만드는지 살펴봅니다. 구글과 마이크로소프트, AWS의 발표를 통해 고객의 AI 사용과 지출, 클라우드 매출이 어",
-      "title_ko": "AI 작업 비용은 낮아졌는데 GPU 임대료는 왜 오를까? – 구글·MS·AWS 실증 분석",
-      "summary_ko": "작업당 비용 감소와 GPU 임대료 상승 원인을 서비스 효율과 서버 수요 증가 관점에서 설명합니다."
-    },
     {
       "title": "The Sphere Intersection Puzzle",
       "channel": "Andrej Karpathy",
@@ -237,16 +197,16 @@
       "published": "2026-10-25",
       "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
       "title_ko": "구면 교차 퍼즐",
-      "summary_ko": "월간 퍼즐 시리즈 중 하나로, 구면 교차 문제와 풀이 힌트를 제공합니다."
+      "summary_ko": "Andrej Karpathy가 소개한 월간 퍼즐 시리즈 중 구면 교차 문제로, 3Blue1Brown에서 추가 해법을 미리 볼 수 있다."
     },
     {
-      "title": "AI Labs Warn Race Makes Breach ‘Inevitable’",
-      "channel": "AI Explained",
-      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
-      "published": "2026-10-12",
-      "desc": "In the week that software got reverse engineered, Sam Altman warned 6.1 Astra ‘tipped toward [breach risk], and Muse Wonder showed the race isn’t slowing, I try to step back and show where it is all going, on current trends. Agree or disagree, it is certainly interesting times. E",
-      "title_ko": "AI 연구소, 경쟁 가속이 보안 침해를 ‘불가피하게’ 만든다 경고",
-      "summary_ko": "소프트웨어 역공학 사례와 Altman·Astra·Muse Wonder 발언을 통해 AI 레이스 위험성을 짚어봅니다."
+      "title": "I spent 4 weeks building an AI to humiliate one player",
+      "channel": "sentdex",
+      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
+      "published": "2026-10-07",
+      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
+      "title_ko": "플레이어를 조롱하는 AI를 4주간 만들다",
+      "summary_ko": "sentdex가 Snap의 SPECS를 활용해 한 플레이어를 조롱하도록 AI를 개발한 과정을 공개한다."
     },
     {
       "title": "I built a DeepSeek R1 powered VS Code extension…",
@@ -254,19 +214,10 @@
       "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
       "published": "2025-01-28",
       "desc": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-st",
-      "title_ko": "DeepSeek R1 기반 VS Code 확장 기능 직접 만들기",
-      "summary_ko": "DeepSeek R1을 활용해 맞춤형 AI 어시스턴트를 구현하는 VS Code 확장 튜토리얼입니다."
+      "title_ko": "DeepSeek R1 기반 VS Code 확장 만들기",
+      "summary_ko": "Fireship이 DeepSeek R1을 연동한 맞춤형 AI 어시스턴트 VS Code 확장 제작 튜토리얼을 제공한다."
     }
   ],
-  "social": [
-    {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "handle": "@politics",
-      "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-      "note": "HN 332pts · 238 댓글",
-      "title_ko": "패트릭 스튜어트가 좋은 남자는 권력을 어떻게 쓰는지 가르쳐 주다",
-      "summary_ko": "패트릭 스튜어트가 권력 사용에 대한 교훈을 전한 트위터 글이 정치권에서 화제가 되었다."
-    }
-  ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
