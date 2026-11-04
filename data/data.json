@@ -1,192 +1,226 @@
 {
-  "generated_at": "2026-11-03T02:28:57.585595+00:00",
-  "date_label": "2026년 11월 3일 (화)",
+  "generated_at": "2026-11-04T00:43:16.420139+00:00",
+  "date_label": "2026년 11월 4일 (수)",
   "github_trending": [
     {
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "desc": "",
-      "stars_today": 2275,
+      "stars_today": 3791,
       "lang": "Rust",
-      "summary_ko": "Vercel Labs가 만든 Agent Desktop은 로컬 개발 환경을 AI 에이전트와 연동해 자동화와 디버깅을 지원합니다."
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "desc": "",
-      "stars_today": 1803,
-      "lang": "TypeScript",
-      "summary_ko": "Claude-Mem은 Claude 모델에 메모리 기능을 추가해 대화 흐름을 장기적으로 기억하도록 설계되었습니다."
+      "summary_ko": "Vercel Labs가 제공하는 Agent Desktop은 웹 기반 UI에서 AI 에이전트를 손쉽게 배포·관리할 수 있어 개발 생산성을 높입니다."
     },
     {
       "repo": "Donchitos/Claude-Code-Game-Studios",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "desc": "",
-      "stars_today": 1379,
+      "stars_today": 1182,
       "lang": "Shell",
-      "summary_ko": "Claude-Code-Game-Studios는 Claude를 활용해 게임 개발 파이프라인을 자동화하고 코드 생성까지 돕는 도구입니다."
+      "summary_ko": "Claude-Code-Game-Studios는 Claude 모델을 활용해 게임 개발 워크플로를 자동화하는 도구 모음으로, 게임 엔진 통합이 핵심 특징입니다."
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 767,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI Engineering Hub은 최신 AI 엔지니어링 도구와 워크플로를 한곳에 모아 학습과 실험을 효율화합니다."
-    },
-    {
-      "repo": "beenuar/AiSOC",
-      "url": "https://github.com/beenuar/AiSOC",
-      "desc": "",
-      "stars_today": 659,
-      "lang": "Python",
-      "summary_ko": "AiSOC는 AI 기반 보안 운영센터 프레임워크로 위협 탐지와 대응을 자동화하는 오픈소스 프로젝트입니다."
-    },
-    {
-      "repo": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "desc": "",
-      "stars_today": 412,
+      "stars_today": 1139,
       "lang": "TypeScript",
-      "summary_ko": "Paperclip은 AI 에이전트가 스스로 목표를 설정하고 실행해 문제 해결을 시도하는 실험적 프레임워크입니다."
+      "summary_ko": "Claude‑Mem은 Claude에게 장기 기억 기능을 부여해 대화 컨텍스트를 지속적으로 유지, 복잡한 작업에 유용합니다."
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "desc": "",
+      "stars_today": 228,
+      "lang": "Python",
+      "summary_ko": "AI‑Goofish‑Monitor는 실시간으로 AI 모델의 이상 행동을 감시하고 알림을 제공해 안정적인 서비스 운영을 돕습니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 111,
+      "stars_today": 127,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI Agents for Beginners는 마이크로소프트가 제공하는 입문용 에이전트 튜토리얼로 실습 중심 학습을 돕습니다."
+      "summary_ko": "Microsoft의 AI Agents for Beginners는 초보자를 위한 에이전트 설계 튜토리얼과 샘플 코드를 제공, AI 입문에 최적화되었습니다."
+    },
+    {
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "desc": "",
+      "stars_today": 122,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "AI‑Engineering‑Hub은 최신 AI 엔지니어링 도구와 베스트 프랙티스를 한 곳에 모아 협업 효율을 극대화합니다."
+    },
+    {
+      "repo": "spotify/portal-ai-plugins",
+      "url": "https://github.com/spotify/portal-ai-plugins",
+      "desc": "",
+      "stars_today": 91,
+      "lang": "TypeScript",
+      "summary_ko": "Spotify Portal AI Plugins는 음악 스트리밍 서비스에 AI 플러그인을 손쉽게 연결해 개인화와 자동화를 지원합니다."
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 78,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft Generative AI for Beginners는 생성 AI 개념을 실습 중심으로 설명해 학습 장벽을 낮춥니다."
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "",
+      "stars_today": 54,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft AI‑For‑Beginners는 AI 기본 개념부터 실전 프로젝트까지 단계별 학습 경로를 제공합니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 50,
+      "stars_today": 52,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Claude Cookbooks는 다양한 활용 시나리오와 프롬프트 예시를 모아 Claude 사용법을 체계화한 레시피 모음입니다."
+      "summary_ko": "Anthropic Claude Cookbooks는 Claude 활용 레시피를 모아 다양한 비즈니스 시나리오 적용을 돕습니다."
+    },
+    {
+      "repo": "agent0ai/agent-zero",
+      "url": "https://github.com/agent0ai/agent-zero",
+      "desc": "",
+      "stars_today": 44,
+      "lang": "Python",
+      "summary_ko": "Agent‑Zero는 경량화된 AI 에이전트 프레임워크로, 빠른 프로토타이핑과 배포가 강점입니다."
     },
     {
       "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 30,
+      "stars_today": 36,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Hands-On Large Language Models는 LLM 이론부터 실습까지 단계별 가이드를 제공하는 교육용 리포지터리입니다."
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
-      "stars_today": 22,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "GenAI_Agents는 생성형 AI 에이전트를 설계·배포하는 베스트 프랙티스와 코드 샘플을 공유합니다."
+      "summary_ko": "Hands‑On Large Language Models는 LLM 실습 가이드를 제공해 직접 모델을 다루는 경험을 쌓게 합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "points": 210,
-      "comments": 136,
-      "hn_url": "https://news.ycombinator.com/item?id=50344919",
-      "title_ko": "SEC, Anthropic IPO 차단해야 공익 보호",
-      "summary_ko": "SEC가 Anthropic의 IPO를 막아야 공공 이익을 지킬 수 있다는 주장이다."
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "points": 988,
+      "comments": 328,
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "title_ko": "Postman, AI 플러그인 자동 설치 및 API 데이터 전부 공유 시도",
+      "summary_ko": "Postman이 사용 모르게 AI 플러그인을 설치하고 모든 API 데이터를 외부에 공유하려 해 보안 우려가 커졌다."
     },
     {
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "points": 169,
-      "comments": 200,
-      "hn_url": "https://news.ycombinator.com/item?id=50344958",
-      "title_ko": "Anthropic 성장 둔화",
-      "summary_ko": "Anthropic의 최근 매출 성장세가 정체돼 투자자들의 우려가 커지고 있다."
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "points": 588,
+      "comments": 236,
+      "hn_url": "https://news.ycombinator.com/item?id=50339288",
+      "title_ko": "차량 내비게이션 시스템 탈옥해 시간만 바꾸기",
+      "summary_ko": "자동차 내비게이션을 탈옥해 시계 설정만 바꾸는 실험으로, 임베디드 시스템 보안 취약성을 보여준다."
     },
     {
-      "title": "Oracle files to sell $20B in new stock, bonds to finance AI buildout",
-      "url": "https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html",
-      "points": 162,
-      "comments": 125,
-      "hn_url": "https://news.ycombinator.com/item?id=50342284",
-      "title_ko": "Oracle, AI 투자 위해 200억 달러 신규 주·채권 발행",
-      "summary_ko": "Oracle이 AI 구축 자금 조달을 위해 200억 달러 규모의 주식·채권을 신규 발행한다."
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "points": 469,
+      "comments": 149,
+      "hn_url": "https://news.ycombinator.com/item?id=50355251",
+      "title_ko": "노트북에서 Qwen 3.8 27B, 모델 가중치 직접 해석 가능",
+      "summary_ko": "27억 파라미터 Qwen 3.8 모델을 노트북에서 실행해 가중치를 직접 해석함으로써 로컬 AI 활용 가능성을 입증했다."
     },
     {
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "points": 128,
-      "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=50339913",
-      "title_ko": "Launch HN: Momentic – 앱으로 버그를 잡는 에이전트",
-      "summary_ko": "YC W24 참가 스타트업 Momentic은 사용자의 앱을 활용해 버그를 자동 탐지하는 에이전트를 제공한다."
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "points": 366,
+      "comments": 150,
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
+      "title_ko": "Fujifilm, AI 수요 급증에 테이프 생산 5배 확대",
+      "summary_ko": "AI 기반 데이터 보존 수요가 늘면서 Fujifilm이 테이프 생산량을 기존 5배로 늘려 시장 대응에 나선다."
     },
     {
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "points": 120,
-      "comments": 82,
-      "hn_url": "https://news.ycombinator.com/item?id=50341736",
-      "title_ko": "AI 시대의 이기심 없는 수학",
-      "summary_ko": "AI 발전과 함께 개인적 편견을 배제한 수학적 접근법의 필요성을 논한다."
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "points": 183,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "title_ko": "생성 AI 기초 소책자: 직관적 수학 입문서",
+      "summary_ko": "생성 AI의 핵심 원리를 수학적으로 직관적으로 풀어낸 소책자로, 입문자에게 실용적인 가이드를 제공한다."
     },
     {
-      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
-      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
-      "points": 68,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=50337661",
-      "title_ko": "C64 Basic 던전 크롤러: 계단·레벨·레벨업 (11부)",
-      "summary_ko": "C64 Basic으로 구현한 던전 게임의 11번째 파트에서 계단과 레벨업 시스템을 소개한다."
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "points": 180,
+      "comments": 64,
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "title_ko": "미국 대형 IT 기업, AI 부채 6개월 새 90% 급증해 3.2조 달러",
+      "summary_ko": "미국 주요 기술 기업들의 AI 투자 부채가 6개월 만에 90% 늘어나 총 3.2조 달러에 이르며 재무 위험이 커졌다."
+    },
+    {
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "points": 93,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=50356944",
+      "title_ko": "macOS 27, CoreStorage 볼륨 미지원",
+      "summary_ko": "새로운 macOS 27 버전에서 기존 CoreStorage 볼륨이 지원되지 않아 업그레이드 시 디스크 관리에 주의가 필요하다."
+    },
+    {
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "points": 72,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "title_ko": "2026년 10월, 내가 AI를 활용하는 방법",
+      "summary_ko": "작성자가 2026년 10월 현재 AI를 일상과 업무에 적용하는 구체적 사례와 도구들을 공유한다."
     }
   ],
   "reddit": [
     {
-      "title": "AMA Announcement: Reflection, the lab behind behind Beam (Tuesday Nov 3rd, 8am-11am PT)",
+      "title": "We’re the product team at Reflection, the lab behind Beam — Ask Us Anything!",
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xlmkk4/ama_announcement_reflection_the_lab_behind_behind/",
-      "title_ko": "AMA 발표: Beam 뒤의 연구소 Reflection (11월 3일 화요일, 오전 8시‑11시 PT)",
-      "summary_ko": "Reflection 연구소가 Beam 프로젝트와 관련된 AMA를 진행해 최신 연구와 로드맵을 공유합니다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
+      "title_ko": "우리는 Beam을 만든 Reflection의 제품팀입니다 — AMA!",
+      "summary_ko": "Reflection 제품팀이 Beam 프로젝트와 관련해 AMA를 진행합니다."
     },
     {
-      "title": "Official Statement: Qwen Models Will Stick to Open Source to the End!",
+      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
       "sub": "LocalLLaMA",
-      "author": "ResearchCrafty1804",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm28e6/official_statement_qwen_models_will_stick_to_open/",
-      "title_ko": "공식 성명: Qwen 모델은 끝까지 오픈소스 유지",
-      "summary_ko": "Qwen 팀이 모델을 영구적으로 오픈소스로 제공하겠다고 선언해 커뮤니티 신뢰를 강화합니다."
+      "author": "notheresnolight",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
+      "title_ko": "영국 핀테크 Revolut, Claude 대신 자체 호스팅으로 AI 코딩 비용 10배 절감",
+      "summary_ko": "Revolut가 Claude를 배제하고 자체 모델을 도입해 AI 코딩 비용을 10배 낮췄습니다."
     },
     {
-      "title": "Amazon Is Allegedly Canceling GPU Orders And, In Rare Cases, Closing Accounts For Purchasing Compute Hardware; Tim Sweeney Also A Victim Of This Practice",
+      "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
       "sub": "LocalLLaMA",
-      "author": "chemist_slime",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm8o8g/amazon_is_allegedly_canceling_gpu_orders_and_in/",
-      "title_ko": "아마존, GPU 주문 취소·계정 폐쇄…팀 스위니도 피해자",
-      "summary_ko": "아마존이 GPU 구매 고객의 주문을 취소하고 계정을 차단해 개발자와 스튜디오에 충격을 주고 있습니다."
+      "author": "tarruda",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
+      "title_ko": "GPT-6 Astra처럼 Qwen 3.8 27B도 모델 가중치를 해석 가능",
+      "summary_ko": "Qwen 3.8 27B 모델이 가중치를 직접 해석해 GPT-6 Astra와 유사한 기능을 제공합니다."
     },
     {
-      "title": "GPT-6 Astra Edits Qwen Weights: MATH-500 7.9% to 48.1%",
+      "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
       "sub": "LocalLLaMA",
-      "author": "1-800-methdyke",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xma0tw/gpt6_astra_edits_qwen_weights_math500_79_to_481/",
-      "title_ko": "GPT‑6 Astra, Qwen 가중치 편집: MATH‑500 7.9%→48.1% 상승",
-      "summary_ko": "GPT‑6 Astra가 Qwen 모델 가중치를 조정해 MATH‑500 벤치마크 점수를 크게 끌어올렸습니다."
+      "author": "ParaboloidalCrest",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
+      "title_ko": "[llama.cpp 포크]: QFN + 특수 양자화 + 초특정 하드웨어 설정 = 놀라운 성능",
+      "summary_ko": "특정 양자화와 맞춤형 하드웨어 조합으로 llama.cpp 포크가 뛰어난 성능을 보여줍니다."
     },
     {
-      "title": "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights",
+      "title": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
       "sub": "LocalLLaMA",
-      "author": "teakhop",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xm6jow/sparks_of_weightspace_programming_llms_can/",
-      "title_ko": "가중치 공간 프로그래밍의 시작: LLM이 직접 가중치를 읽고 쓸 수 있다",
-      "summary_ko": "LLM이 신경망 가중치를 직접 조작하는 기술이 등장해 모델 수정 방식에 혁신을 예고합니다."
+      "author": "FormationHeaven",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
+      "title_ko": "일반 하드웨어(32GB RAM, 16GB VRAM)로 무엇을 실행하나요?",
+      "summary_ko": "32GB RAM·16GB VRAM 환경에서 가능한 모델 및 작업 사례를 논의합니다."
     },
     {
-      "title": "Qwen 3.8 27b is sometimes so smart it scares me...",
+      "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
       "sub": "LocalLLaMA",
-      "author": "Balloon_Fan",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmbym0/qwen_38_27b_is_sometimes_so_smart_it_scares_me/",
-      "title_ko": "Qwen 3.8 27B, 때때로 너무 똑똑해 무섭다",
-      "summary_ko": "Qwen 3.8 27B 모델이 특정 상황에서 인간 수준의 추론을 보여 놀라움을 안겨줍니다."
+      "author": "FeydRowan",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
+      "title_ko": "MIT ‘weight-space programming’ 적용 사례: Claude가 Gemma 4 12B의 8뉴런을 수정해 이탈리아어 시제 변환",
+      "summary_ko": "MIT 방식으로 Claude가 Gemma 4 12B의 8뉴런을 바꿔 이탈리아어 시제 번역을 개선했습니다."
     }
   ],
   "youtube": [
@@ -197,27 +231,18 @@
       "published": "2026-10-25",
       "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
       "title_ko": "구면 교차 퍼즐",
-      "summary_ko": "Andrej Karpathy가 소개한 월간 퍼즐 시리즈 중 구면 교차 문제로, 3Blue1Brown에서 추가 해법을 미리 볼 수 있다."
-    },
-    {
-      "title": "I spent 4 weeks building an AI to humiliate one player",
-      "channel": "sentdex",
-      "url": "https://www.youtube.com/watch?v=JyZm1RWerhM",
-      "published": "2026-10-07",
-      "desc": "Find out how you can get your hands on SPECS by Snap aka Snapchat: https://www.specs.com/?utm_source=jabrils&utm_medium=influencer&utm_campaign=SPECS_US_launch --- DOWNLOAD ULTRA BOUTERS: https://ultrabouters.com/yt REPLAYS: v4 vs Berserker - UBR-791FA436 v4 vs HyperMime - UBR-71",
-      "title_ko": "플레이어를 조롱하는 AI를 4주간 만들다",
-      "summary_ko": "sentdex가 Snap의 SPECS를 활용해 한 플레이어를 조롱하도록 AI를 개발한 과정을 공개한다."
-    },
-    {
-      "title": "I built a DeepSeek R1 powered VS Code extension…",
-      "channel": "Fireship",
-      "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
-      "published": "2025-01-28",
-      "desc": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-st",
-      "title_ko": "DeepSeek R1 기반 VS Code 확장 만들기",
-      "summary_ko": "Fireship이 DeepSeek R1을 연동한 맞춤형 AI 어시스턴트 VS Code 확장 제작 튜토리얼을 제공한다."
+      "summary_ko": "Andrej Karpathy가 유튜브에 올린 월간 퍼즐 시리즈 중 구면 교차 퍼즐로, 새로운 풀이를 미리 살펴볼 수 있다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
+      "handle": "@yt",
+      "url": "https://jivx.com/yt",
+      "note": "HN 77pts · 29 댓글",
+      "title_ko": "실제 YouTube 동영상으로 일본어 말하기 연습, 줄마다 등급별 제공",
+      "summary_ko": "실제 유튜브 영상을 활용해 한 줄씩 난이도별로 일본어 말하기를 연습할 수 있어 학습 효율이 높다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
