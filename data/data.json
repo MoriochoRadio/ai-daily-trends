@@ -1,176 +1,160 @@
 {
-  "generated_at": "2026-11-04T00:43:16.420139+00:00",
-  "date_label": "2026년 11월 4일 (수)",
+  "generated_at": "2026-11-05T00:56:49.305640+00:00",
+  "date_label": "2026년 11월 5일 (목)",
   "github_trending": [
     {
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "desc": "",
-      "stars_today": 3791,
+      "stars_today": 2470,
       "lang": "Rust",
-      "summary_ko": "Vercel Labs가 제공하는 Agent Desktop은 웹 기반 UI에서 AI 에이전트를 손쉽게 배포·관리할 수 있어 개발 생산성을 높입니다."
-    },
-    {
-      "repo": "Donchitos/Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "desc": "",
-      "stars_today": 1182,
-      "lang": "Shell",
-      "summary_ko": "Claude-Code-Game-Studios는 Claude 모델을 활용해 게임 개발 워크플로를 자동화하는 도구 모음으로, 게임 엔진 통합이 핵심 특징입니다."
+      "summary_ko": "Vercel Labs가 만든 Agent Desktop은 로컬 개발 환경에서 AI 에이전트를 시각적으로 관리·실행할 수 있게 해 생산성을 높입니다."
     },
     {
       "repo": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
       "desc": "",
-      "stars_today": 1139,
+      "stars_today": 1172,
       "lang": "TypeScript",
-      "summary_ko": "Claude‑Mem은 Claude에게 장기 기억 기능을 부여해 대화 컨텍스트를 지속적으로 유지, 복잡한 작업에 유용합니다."
+      "summary_ko": "theDotmack의 Claude‑Mem은 Claude 모델에 메모리 기능을 추가해 대화 컨텍스트를 장기 저장·재활용하도록 설계되었습니다."
     },
     {
       "repo": "Usagi-org/ai-goofish-monitor",
       "url": "https://github.com/Usagi-org/ai-goofish-monitor",
       "desc": "",
-      "stars_today": 228,
+      "stars_today": 984,
       "lang": "Python",
-      "summary_ko": "AI‑Goofish‑Monitor는 실시간으로 AI 모델의 이상 행동을 감시하고 알림을 제공해 안정적인 서비스 운영을 돕습니다."
+      "summary_ko": "Usagi‑org의 AI‑Goofish‑Monitor는 AI 서비스의 오류와 이상 행동을 실시간 감시하고 알림을 제공하는 오픈소스 모니터링 툴입니다."
+    },
+    {
+      "repo": "The-PR-Agent/pr-agent",
+      "url": "https://github.com/The-PR-Agent/pr-agent",
+      "desc": "",
+      "stars_today": 280,
+      "lang": "Python",
+      "summary_ko": "The‑PR‑Agent의 pr‑agent는 PR 설명 자동 생성·코드 리뷰 보조 등 GitHub PR 작업을 AI가 자동화하도록 돕습니다."
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
+      "desc": "",
+      "stars_today": 158,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Lordog의 dive‑into‑llms는 최신 LLM 아키텍처와 활용 사례를 단계별로 정리한 교육용 자료 모음입니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 127,
+      "stars_today": 108,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 AI Agents for Beginners는 초보자를 위한 에이전트 설계 튜토리얼과 샘플 코드를 제공, AI 입문에 최적화되었습니다."
-    },
-    {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "desc": "",
-      "stars_today": 122,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI‑Engineering‑Hub은 최신 AI 엔지니어링 도구와 베스트 프랙티스를 한 곳에 모아 협업 효율을 극대화합니다."
-    },
-    {
-      "repo": "spotify/portal-ai-plugins",
-      "url": "https://github.com/spotify/portal-ai-plugins",
-      "desc": "",
-      "stars_today": 91,
-      "lang": "TypeScript",
-      "summary_ko": "Spotify Portal AI Plugins는 음악 스트리밍 서비스에 AI 플러그인을 손쉽게 연결해 개인화와 자동화를 지원합니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 78,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft Generative AI for Beginners는 생성 AI 개념을 실습 중심으로 설명해 학습 장벽을 낮춥니다."
-    },
-    {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "desc": "",
-      "stars_today": 54,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft AI‑For‑Beginners는 AI 기본 개념부터 실전 프로젝트까지 단계별 학습 경로를 제공합니다."
+      "summary_ko": "Microsoft의 ai‑agents‑for‑beginners는 초보자를 위한 AI 에이전트 개발 튜토리얼과 샘플 코드를 제공합니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 52,
+      "stars_today": 57,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropic Claude Cookbooks는 Claude 활용 레시피를 모아 다양한 비즈니스 시나리오 적용을 돕습니다."
+      "summary_ko": "Anthropics의 claude‑cookbooks는 Claude 모델을 다양한 업무에 적용하는 실전 레시피를 모아둔 레포입니다."
     },
     {
-      "repo": "agent0ai/agent-zero",
-      "url": "https://github.com/agent0ai/agent-zero",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 44,
+      "stars_today": 37,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft의 AI‑For‑Beginners는 AI 개념부터 실습까지 비전공자를 위한 종합 학습 코스입니다."
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "",
+      "stars_today": 30,
       "lang": "Python",
-      "summary_ko": "Agent‑Zero는 경량화된 AI 에이전트 프레임워크로, 빠른 프로토타이핑과 배포가 강점입니다."
+      "summary_ko": "davila7의 claude‑code‑templates는 Claude를 활용한 코드 생성 템플릿을 모아 생산성을 높이는 컬렉션입니다."
     },
     {
       "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
       "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
       "desc": "",
-      "stars_today": 36,
+      "stars_today": 20,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Hands‑On Large Language Models는 LLM 실습 가이드를 제공해 직접 모델을 다루는 경험을 쌓게 합니다."
+      "summary_ko": "HandsOnLLM의 Hands‑On‑Large‑Language‑Models는 LLM 실습 예제와 프로젝트를 단계별로 제공하는 실전 가이드입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "points": 988,
-      "comments": 328,
-      "hn_url": "https://news.ycombinator.com/item?id=50354960",
-      "title_ko": "Postman, AI 플러그인 자동 설치 및 API 데이터 전부 공유 시도",
-      "summary_ko": "Postman이 사용 모르게 AI 플러그인을 설치하고 모든 API 데이터를 외부에 공유하려 해 보안 우려가 커졌다."
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "points": 1041,
+      "comments": 624,
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "title_ko": "AI가 40년간 쌓인 기술 부채를 상환하도록 강요한다",
+      "summary_ko": "AI 도입으로 과거 기술 부채를 정리해야 하는 압박이 커지고 있어 주목받는다."
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "points": 588,
-      "comments": 236,
-      "hn_url": "https://news.ycombinator.com/item?id=50339288",
-      "title_ko": "차량 내비게이션 시스템 탈옥해 시간만 바꾸기",
-      "summary_ko": "자동차 내비게이션을 탈옥해 시계 설정만 바꾸는 실험으로, 임베디드 시스템 보안 취약성을 보여준다."
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "points": 587,
+      "comments": 271,
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "title_ko": "Nvidia RTX Spark 암호화 펌웨어, Linux에서 추론 속도 35% 감소",
+      "summary_ko": "보안 강화 펌웨어가 Linux 환경에서 추론 성능을 크게 저하시키는 점이 이슈다."
     },
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "points": 469,
-      "comments": 149,
-      "hn_url": "https://news.ycombinator.com/item?id=50355251",
-      "title_ko": "노트북에서 Qwen 3.8 27B, 모델 가중치 직접 해석 가능",
-      "summary_ko": "27억 파라미터 Qwen 3.8 모델을 노트북에서 실행해 가중치를 직접 해석함으로써 로컬 AI 활용 가능성을 입증했다."
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "points": 352,
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50366999",
+      "title_ko": "Kimi K3.1 Pro 모델 가중치 공개",
+      "summary_ko": "Kimi K3.1 Pro의 최신 가중치가 공개돼 모델 재현과 연구에 활용 가능해졌다."
     },
     {
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "points": 366,
-      "comments": 150,
-      "hn_url": "https://news.ycombinator.com/item?id=50336918",
-      "title_ko": "Fujifilm, AI 수요 급증에 테이프 생산 5배 확대",
-      "summary_ko": "AI 기반 데이터 보존 수요가 늘면서 Fujifilm이 테이프 생산량을 기존 5배로 늘려 시장 대응에 나선다."
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "points": 209,
+      "comments": 75,
+      "hn_url": "https://news.ycombinator.com/item?id=50369925",
+      "title_ko": "Ripple-65B 프리뷰: 에이전트 코딩에서 미국 최고 수준 성능",
+      "summary_ko": "대규모 65B 모델이 에이전트 코딩 작업에서 SOTA 성능을 기록해 관심을 끈다."
     },
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "points": 183,
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=50358582",
-      "title_ko": "생성 AI 기초 소책자: 직관적 수학 입문서",
-      "summary_ko": "생성 AI의 핵심 원리를 수학적으로 직관적으로 풀어낸 소책자로, 입문자에게 실용적인 가이드를 제공한다."
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "points": 171,
+      "comments": 83,
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "title_ko": "대형 언어 모델에 대한 증명 가능한 추론 연구 진행",
+      "summary_ko": "LLM의 추론 결과를 수학적으로 검증하려는 연구가 활발히 진행 중이다."
     },
     {
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
-      "points": 180,
-      "comments": 64,
-      "hn_url": "https://news.ycombinator.com/item?id=50358422",
-      "title_ko": "미국 대형 IT 기업, AI 부채 6개월 새 90% 급증해 3.2조 달러",
-      "summary_ko": "미국 주요 기술 기업들의 AI 투자 부채가 6개월 만에 90% 늘어나 총 3.2조 달러에 이르며 재무 위험이 커졌다."
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "points": 170,
+      "comments": 55,
+      "hn_url": "https://news.ycombinator.com/item?id=50366863",
+      "title_ko": "OpenAI, Pierre Computer Company 인수 발표",
+      "summary_ko": "OpenAI가 하드웨어 전문 기업 Pierre Computer를 인수해 AI 인프라 역량을 확대한다."
     },
     {
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "points": 93,
-      "comments": 57,
-      "hn_url": "https://news.ycombinator.com/item?id=50356944",
-      "title_ko": "macOS 27, CoreStorage 볼륨 미지원",
-      "summary_ko": "새로운 macOS 27 버전에서 기존 CoreStorage 볼륨이 지원되지 않아 업그레이드 시 디스크 관리에 주의가 필요하다."
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "points": 99,
+      "comments": 112,
+      "hn_url": "https://news.ycombinator.com/item?id=50366117",
+      "title_ko": "Ask HN: 현재 사용 중인 AI 에이전트 설정은?",
+      "summary_ko": "사용자들이 직접 구축한 AI 에이전트 환경을 공유하며 최신 트렌드를 논의한다."
     },
     {
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "points": 72,
-      "comments": 69,
-      "hn_url": "https://news.ycombinator.com/item?id=50355767",
-      "title_ko": "2026년 10월, 내가 AI를 활용하는 방법",
-      "summary_ko": "작성자가 2026년 10월 현재 AI를 일상과 업무에 적용하는 구체적 사례와 도구들을 공유한다."
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "points": 94,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=50370654",
+      "title_ko": "Qualcomm Cloud AI 100 Ultra – 150W AI 가속 카드, 128GB 메모리·548GB/s 대역폭",
+      "summary_ko": "고성능 150W AI 가속 카드가 128GB 메모리와 초고속 대역폭을 제공해 클라우드 AI에 적합하다."
     }
   ],
   "reddit": [
@@ -179,70 +163,51 @@
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
-      "title_ko": "우리는 Beam을 만든 Reflection의 제품팀입니다 — AMA!",
-      "summary_ko": "Reflection 제품팀이 Beam 프로젝트와 관련해 AMA를 진행합니다."
+      "title_ko": "Reflection 팀(Beam 개발 랩) 제품팀이 AMA 진행합니다",
+      "summary_ko": "Reflection의 제품팀이 Beam 배경을 소개하고 커뮤니티 질문에 답합니다."
     },
     {
-      "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
-      "sub": "LocalLLaMA",
-      "author": "notheresnolight",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn568h/british_fintech_revolut_slashes_ai_coding_costs/",
-      "title_ko": "영국 핀테크 Revolut, Claude 대신 자체 호스팅으로 AI 코딩 비용 10배 절감",
-      "summary_ko": "Revolut가 Claude를 배제하고 자체 모델을 도입해 AI 코딩 비용을 10배 낮췄습니다."
+      "title": "A message to top tier conferences [D]",
+      "sub": "MachineLearning",
+      "author": "Vegetable-Formal-753",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
+      "title_ko": "최고 수준 학회에 보내는 메시지",
+      "summary_ko": "최고 수준 학회에 대한 비판과 개선 방안을 제시하는 내용입니다."
     },
     {
-      "title": "Like GPT-6 Astra, Qwen 3.8 27B can interpret model weights",
+      "title": "Kimi-K3.1-Pro is now open-weights",
       "sub": "LocalLLaMA",
-      "author": "tarruda",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmz9ca/like_gpt6_astra_qwen_38_27b_can_interpret_model/",
-      "title_ko": "GPT-6 Astra처럼 Qwen 3.8 27B도 모델 가중치를 해석 가능",
-      "summary_ko": "Qwen 3.8 27B 모델이 가중치를 직접 해석해 GPT-6 Astra와 유사한 기능을 제공합니다."
+      "author": "ApprehensiveAd3629",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
+      "title_ko": "Kimi-K3.1-Pro가 오픈 웨이트로 공개되었습니다",
+      "summary_ko": "Kimi-K3.1-Pro 모델이 가중치를 공개해 자유롭게 활용할 수 있게 되었습니다."
     },
     {
-      "title": "[llama.cpp fork]: QFN + [specific quant] + [ultra specific hardware config] = [incredible and irreproducible pp and tg]",
-      "sub": "LocalLLaMA",
-      "author": "ParaboloidalCrest",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn7rfh/llamacpp_fork_qfn_specific_quant_ultra_specific/",
-      "title_ko": "[llama.cpp 포크]: QFN + 특수 양자화 + 초특정 하드웨어 설정 = 놀라운 성능",
-      "summary_ko": "특정 양자화와 맞춤형 하드웨어 조합으로 llama.cpp 포크가 뛰어난 성능을 보여줍니다."
+      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
+      "sub": "MachineLearning",
+      "author": "mofoss",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
+      "title_ko": "학회는 왜 제출 제한을 합리적으로 줄일 수 없을까?",
+      "summary_ko": "학회 제출 수 제한을 현실적으로 낮추는 방안을 논의하는 비판적 글입니다."
     },
     {
-      "title": "What do people with normal hardware : 32GB ram 16GB VRAM run?",
+      "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
       "sub": "LocalLLaMA",
-      "author": "FormationHeaven",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn2jyz/what_do_people_with_normal_hardware_32gb_ram_16gb/",
-      "title_ko": "일반 하드웨어(32GB RAM, 16GB VRAM)로 무엇을 실행하나요?",
-      "summary_ko": "32GB RAM·16GB VRAM 환경에서 가능한 모델 및 작업 사례를 논의합니다."
+      "author": "Comfortable-Rock-498",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
+      "title_ko": "Deepseek가 어제 Openrouter에서 전체 토큰의 53%를 차지했습니다",
+      "summary_ko": "Deepseek가 어제 Openrouter 토큰의 절반 이상을 사용했으며, 오픈 웨이트 실험실이 전체의 75%를 넘어섰습니다."
     },
     {
-      "title": "I tried MIT's \"weight-space programming\" on my own use case: Claude rewrote 8 neurons of Gemma 4 12B to change how it translates one Italian tense",
-      "sub": "LocalLLaMA",
-      "author": "FeydRowan",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xn1gs9/i_tried_mits_weightspace_programming_on_my_own/",
-      "title_ko": "MIT ‘weight-space programming’ 적용 사례: Claude가 Gemma 4 12B의 8뉴런을 수정해 이탈리아어 시제 변환",
-      "summary_ko": "MIT 방식으로 Claude가 Gemma 4 12B의 8뉴런을 바꿔 이탈리아어 시제 번역을 개선했습니다."
+      "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
+      "sub": "MachineLearning",
+      "author": "AKAMA199",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
+      "title_ko": "Hydrogen-1.0, 오픈 웨이트 과학 모델이 GPT-6 Astra를 72% 저비용으로 능가",
+      "summary_ko": "Hydrogen-1.0이 오픈 웨이트 모델로 FSR에서 GPT-6 Astra보다 72% 낮은 비용으로 우수한 성능을 보였습니다."
     }
   ],
-  "youtube": [
-    {
-      "title": "The Sphere Intersection Puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
-      "published": "2026-10-25",
-      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
-      "title_ko": "구면 교차 퍼즐",
-      "summary_ko": "Andrej Karpathy가 유튜브에 올린 월간 퍼즐 시리즈 중 구면 교차 퍼즐로, 새로운 풀이를 미리 살펴볼 수 있다."
-    }
-  ],
-  "social": [
-    {
-      "title": "Practice speaking Japanese with real YouTube videos, graded line by line",
-      "handle": "@yt",
-      "url": "https://jivx.com/yt",
-      "note": "HN 77pts · 29 댓글",
-      "title_ko": "실제 YouTube 동영상으로 일본어 말하기 연습, 줄마다 등급별 제공",
-      "summary_ko": "실제 유튜브 영상을 활용해 한 줄씩 난이도별로 일본어 말하기를 연습할 수 있어 학습 효율이 높다."
-    }
-  ],
+  "youtube": [],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
