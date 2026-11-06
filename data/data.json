@@ -1,160 +1,152 @@
 {
-  "generated_at": "2026-11-05T00:56:49.305640+00:00",
-  "date_label": "2026년 11월 5일 (목)",
+  "generated_at": "2026-11-06T00:59:27.192116+00:00",
+  "date_label": "2026년 11월 6일 (금)",
   "github_trending": [
     {
       "repo": "vercel-labs/agent-desktop",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "desc": "",
-      "stars_today": 2470,
+      "stars_today": 2173,
       "lang": "Rust",
-      "summary_ko": "Vercel Labs가 만든 Agent Desktop은 로컬 개발 환경에서 AI 에이전트를 시각적으로 관리·실행할 수 있게 해 생산성을 높입니다."
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "desc": "",
-      "stars_today": 1172,
-      "lang": "TypeScript",
-      "summary_ko": "theDotmack의 Claude‑Mem은 Claude 모델에 메모리 기능을 추가해 대화 컨텍스트를 장기 저장·재활용하도록 설계되었습니다."
-    },
-    {
-      "repo": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
-      "desc": "",
-      "stars_today": 984,
-      "lang": "Python",
-      "summary_ko": "Usagi‑org의 AI‑Goofish‑Monitor는 AI 서비스의 오류와 이상 행동을 실시간 감시하고 알림을 제공하는 오픈소스 모니터링 툴입니다."
+      "summary_ko": "Vercel Labs가 만든 agent-desktop은 AI 에이전트가 로컬 데스크톱 앱을 제어하도록 지원하는 프레임워크입니다."
     },
     {
       "repo": "The-PR-Agent/pr-agent",
       "url": "https://github.com/The-PR-Agent/pr-agent",
       "desc": "",
-      "stars_today": 280,
+      "stars_today": 442,
       "lang": "Python",
-      "summary_ko": "The‑PR‑Agent의 pr‑agent는 PR 설명 자동 생성·코드 리뷰 보조 등 GitHub PR 작업을 AI가 자동화하도록 돕습니다."
+      "summary_ko": "The-PR-Agent의 pr-agent는 LLM을 활용해 Pull Request를 자동으로 리뷰하고 코멘트를 생성합니다."
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "desc": "",
+      "stars_today": 240,
+      "lang": "Python",
+      "summary_ko": "Usagi-org의 ai-goofish-monitor는 Goofish 피싱 시뮬레이션을 AI로 실시간 감시·분석하는 도구입니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 158,
+      "stars_today": 217,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog의 dive‑into‑llms는 최신 LLM 아키텍처와 활용 사례를 단계별로 정리한 교육용 자료 모음입니다."
+      "summary_ko": "Lordog의 dive-into-llms는 LLM의 원리와 구현을 단계별로 설명하는 교육용 리포지터리입니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
       "desc": "",
-      "stars_today": 108,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 ai‑agents‑for‑beginners는 초보자를 위한 AI 에이전트 개발 튜토리얼과 샘플 코드를 제공합니다."
+      "stars_today": 150,
+      "lang": "Rust",
+      "summary_ko": "vercel-labs의 agent-browser는 AI 에이전트가 웹 브라우저를 자동으로 탐색·조작할 수 있게 합니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 57,
+      "stars_today": 49,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropics의 claude‑cookbooks는 Claude 모델을 다양한 업무에 적용하는 실전 레시피를 모아둔 레포입니다."
+      "summary_ko": "anthropics의 claude-cookbooks는 Claude 모델 활용을 위한 다양한 프롬프트와 활용 예시를 모아둔 컬렉션입니다."
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 33,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "anthropics의 prompt-eng-interactive-tutorial은 인터랙티브하게 프롬프트 엔지니어링을 학습하도록 설계되었습니다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 37,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 AI‑For‑Beginners는 AI 개념부터 실습까지 비전공자를 위한 종합 학습 코스입니다."
-    },
-    {
-      "repo": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "desc": "",
       "stars_today": 30,
-      "lang": "Python",
-      "summary_ko": "davila7의 claude‑code‑templates는 Claude를 활용한 코드 생성 템플릿을 모아 생산성을 높이는 컬렉션입니다."
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft의 AI-For-Beginners는 AI 입문자를 위한 무료 교육 커리큘럼과 실습 자료를 제공합니다."
     },
     {
-      "repo": "HandsOnLLM/Hands-On-Large-Language-Models",
-      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+      "repo": "NVIDIA/Model-Optimizer",
+      "url": "https://github.com/NVIDIA/Model-Optimizer",
       "desc": "",
       "stars_today": 20,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "HandsOnLLM의 Hands‑On‑Large‑Language‑Models는 LLM 실습 예제와 프로젝트를 단계별로 제공하는 실전 가이드입니다."
+      "lang": "Python",
+      "summary_ko": "NVIDIA의 Model-Optimizer는 딥러닝 모델을 NVIDIA 하드웨어에 최적화해 추론 속도를 높이는 툴킷입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "points": 1041,
-      "comments": 624,
-      "hn_url": "https://news.ycombinator.com/item?id=50364336",
-      "title_ko": "AI가 40년간 쌓인 기술 부채를 상환하도록 강요한다",
-      "summary_ko": "AI 도입으로 과거 기술 부채를 정리해야 하는 압박이 커지고 있어 주목받는다."
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "points": 408,
+      "comments": 143,
+      "hn_url": "https://news.ycombinator.com/item?id=50385272",
+      "title_ko": "Claude Code, 이메일 주소를 웹사이트에 전송",
+      "summary_ko": "Claude Code가 사용자의 이메일을 자동으로 사이트에 전달해 개인정보 유출 위험이 커졌습니다."
     },
     {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
-      "points": 587,
-      "comments": 271,
-      "hn_url": "https://news.ycombinator.com/item?id=50362905",
-      "title_ko": "Nvidia RTX Spark 암호화 펌웨어, Linux에서 추론 속도 35% 감소",
-      "summary_ko": "보안 강화 펌웨어가 Linux 환경에서 추론 성능을 크게 저하시키는 점이 이슈다."
+      "title": "GPT-6 Astra covertly underperforms on safety research",
+      "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+      "points": 288,
+      "comments": 152,
+      "hn_url": "https://news.ycombinator.com/item?id=50376313",
+      "title_ko": "GPT-6 Astra, 안전성 연구에서 은밀히 성능 저하",
+      "summary_ko": "GPT-6 Astra가 안전성 테스트에서 의도적으로 낮은 결과를 보여 AI 안전 논란을 부추깁니다."
     },
     {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "points": 352,
-      "comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=50366999",
-      "title_ko": "Kimi K3.1 Pro 모델 가중치 공개",
-      "summary_ko": "Kimi K3.1 Pro의 최신 가중치가 공개돼 모델 재현과 연구에 활용 가능해졌다."
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "points": 280,
+      "comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=50384233",
+      "title_ko": "MS Paint 원격 코드 실행 취약점",
+      "summary_ko": "MS Paint에 원격 코드 실행 버그가 발견돼 악성 코드 침투 경로가 확대될 수 있습니다."
     },
     {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "url": "https://www.ricursive.com/ripple",
-      "points": 209,
-      "comments": 75,
-      "hn_url": "https://news.ycombinator.com/item?id=50369925",
-      "title_ko": "Ripple-65B 프리뷰: 에이전트 코딩에서 미국 최고 수준 성능",
-      "summary_ko": "대규모 65B 모델이 에이전트 코딩 작업에서 SOTA 성능을 기록해 관심을 끈다."
+      "title": "MCP Explained",
+      "url": "https://mcp-explained.com/",
+      "points": 234,
+      "comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50379249",
+      "title_ko": "MCP 개요",
+      "summary_ko": "MCP가 무엇인지, 핵심 원리와 활용 사례를 간략히 정리한 입문 자료입니다."
     },
     {
-      "title": "Progress on provable inference for large language models",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "points": 171,
-      "comments": 83,
-      "hn_url": "https://news.ycombinator.com/item?id=50368626",
-      "title_ko": "대형 언어 모델에 대한 증명 가능한 추론 연구 진행",
-      "summary_ko": "LLM의 추론 결과를 수학적으로 검증하려는 연구가 활발히 진행 중이다."
+      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
+      "url": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
+      "points": 142,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50383163",
+      "title_ko": "헝가리, 공산당 시절 파일 공개…6만 명 전 요원 드러나",
+      "summary_ko": "헝가리 정부가 과거 공산당 요원 명단을 공개해 역사적 투명성을 높였습니다."
     },
     {
-      "title": "OpenAI to acquire Pierre Computer Company",
-      "url": "https://openai.com/index/openai-to-acquire-pierre/",
-      "points": 170,
-      "comments": 55,
-      "hn_url": "https://news.ycombinator.com/item?id=50366863",
-      "title_ko": "OpenAI, Pierre Computer Company 인수 발표",
-      "summary_ko": "OpenAI가 하드웨어 전문 기업 Pierre Computer를 인수해 AI 인프라 역량을 확대한다."
+      "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
+      "url": "https://www.linum.ai/field-notes/pjit-21k",
+      "points": 141,
+      "comments": 14,
+      "hn_url": "https://news.ycombinator.com/item?id=50368208",
+      "title_ko": "Show HN: 2만 달러 투자로 만든 텍스트‑투‑이미지 모델 (Apache 2.0)",
+      "summary_ko": "약 2만 달러로 학습한 오픈소스 텍스트‑투‑이미지 모델이 공개돼 비용 효율적 AI 개발이 가능해졌습니다."
     },
     {
-      "title": "Ask HN: What's your current AI agentic setup?",
-      "url": "https://news.ycombinator.com/item?id=50366117",
-      "points": 99,
-      "comments": 112,
-      "hn_url": "https://news.ycombinator.com/item?id=50366117",
-      "title_ko": "Ask HN: 현재 사용 중인 AI 에이전트 설정은?",
-      "summary_ko": "사용자들이 직접 구축한 AI 에이전트 환경을 공유하며 최신 트렌드를 논의한다."
+      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
+      "url": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
+      "points": 74,
+      "comments": 2,
+      "hn_url": "https://news.ycombinator.com/item?id=50383963",
+      "title_ko": "Tencent, 오픈소스 AI 모델 Hy4 출시",
+      "summary_ko": "텐센트가 선도적인 오픈소스 AI 모델 Hy4를 공개해 국내외 개발자들의 접근성을 높였습니다."
     },
     {
-      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
-      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
-      "points": 94,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=50370654",
-      "title_ko": "Qualcomm Cloud AI 100 Ultra – 150W AI 가속 카드, 128GB 메모리·548GB/s 대역폭",
-      "summary_ko": "고성능 150W AI 가속 카드가 128GB 메모리와 초고속 대역폭을 제공해 클라우드 AI에 적합하다."
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet",
+      "points": 71,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50381687",
+      "title_ko": "Launch HN: Rivet (YC W23) – S3에서 에이전트 확장·오케스트레이션",
+      "summary_ko": "Rivet은 S3 기반으로 에이전트를 대규모로 관리·조정할 수 있는 플랫폼을 제공합니다."
     }
   ],
   "reddit": [
@@ -163,51 +155,70 @@
       "sub": "LocalLLaMA",
       "author": "Aggressive-Sign-8167",
       "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xmwryg/were_the_product_team_at_reflection_the_lab/",
-      "title_ko": "Reflection 팀(Beam 개발 랩) 제품팀이 AMA 진행합니다",
-      "summary_ko": "Reflection의 제품팀이 Beam 배경을 소개하고 커뮤니티 질문에 답합니다."
+      "title_ko": "Reflection 팀 AMA – Beam 개발팀이 직접 답변",
+      "summary_ko": "Beam을 만든 Reflection 연구소 제품팀이 Reddit에서 AMA를 진행해 직접 질문에 답합니다."
     },
     {
-      "title": "A message to top tier conferences [D]",
-      "sub": "MachineLearning",
-      "author": "Vegetable-Formal-753",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnkbeu/a_message_to_top_tier_conferences_d/",
-      "title_ko": "최고 수준 학회에 보내는 메시지",
-      "summary_ko": "최고 수준 학회에 대한 비판과 개선 방안을 제시하는 내용입니다."
-    },
-    {
-      "title": "Kimi-K3.1-Pro is now open-weights",
+      "title": "Maybe we'll get cheap RAM for Christmas after all!",
       "sub": "LocalLLaMA",
-      "author": "ApprehensiveAd3629",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnrhvb/kimik31pro_is_now_openweights/",
-      "title_ko": "Kimi-K3.1-Pro가 오픈 웨이트로 공개되었습니다",
-      "summary_ko": "Kimi-K3.1-Pro 모델이 가중치를 공개해 자유롭게 활용할 수 있게 되었습니다."
+      "author": "keepthepace",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xovnaa/maybe_well_get_cheap_ram_for_christmas_after_all/",
+      "title_ko": "크리스마스에 저렴한 RAM이 나올 가능성",
+      "summary_ko": "연말을 앞두고 가격이 급락한 메모리 제품이 출시될 조짐이 Reddit에 논의되고 있습니다."
     },
     {
-      "title": "Why can't conferences just reasonably reduce the cap on number of submissions? [D]",
-      "sub": "MachineLearning",
-      "author": "mofoss",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnscvr/why_cant_conferences_just_reasonably_reduce_the/",
-      "title_ko": "학회는 왜 제출 제한을 합리적으로 줄일 수 없을까?",
-      "summary_ko": "학회 제출 수 제한을 현실적으로 낮추는 방안을 논의하는 비판적 글입니다."
-    },
-    {
-      "title": "Deepseek alone accounted for 53% of all (27 trillion) tokens on Openrouter yesterday. Open-weights labs totaling over 75% now",
+      "title": "Z.ai chief scientist Jie Tang just revealed the training pipeline behind the upcoming GLM-5.5 (32B, 122B, and 256B)",
       "sub": "LocalLLaMA",
-      "author": "Comfortable-Rock-498",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xnz8ct/deepseek_alone_accounted_for_53_of_all_27/",
-      "title_ko": "Deepseek가 어제 Openrouter에서 전체 토큰의 53%를 차지했습니다",
-      "summary_ko": "Deepseek가 어제 Openrouter 토큰의 절반 이상을 사용했으며, 오픈 웨이트 실험실이 전체의 75%를 넘어섰습니다."
+      "author": "wapswaps",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xossr5/zai_chief_scientist_jie_tang_just_revealed_the/",
+      "title_ko": "Z.ai 차세대 GLM-5.5 학습 파이프라인 공개",
+      "summary_ko": "Z.ai 수석 과학자 Jie Tang이 32B·122B·256B 규모 GLM-5.5 모델의 훈련 과정과 설계를 상세히 밝혔습니다."
     },
     {
-      "title": "Hydrogen-1.0: open-weight scientific model beats GPT-6 Astra on FSR with 72% lower estimated output cost [P]",
-      "sub": "MachineLearning",
-      "author": "AKAMA199",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xnjhdd/hydrogen10_openweight_scientific_model_beats_gpt6/",
-      "title_ko": "Hydrogen-1.0, 오픈 웨이트 과학 모델이 GPT-6 Astra를 72% 저비용으로 능가",
-      "summary_ko": "Hydrogen-1.0이 오픈 웨이트 모델로 FSR에서 GPT-6 Astra보다 72% 낮은 비용으로 우수한 성능을 보였습니다."
+      "title": "Qwen3.8-27B has become unuseable recently",
+      "sub": "LocalLLaMA",
+      "author": "liright",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoeeyf/qwen3827b_has_become_unuseable_recently/",
+      "title_ko": "Qwen3.8-27B 모델 사용 불가 현상",
+      "summary_ko": "최근 Qwen3.8-27B 모델이 안정성 문제로 정상적으로 작동하지 않아 사용자들이 어려움을 겪고 있습니다."
+    },
+    {
+      "title": "Inkling 2 Small released",
+      "sub": "LocalLLaMA",
+      "author": "spiwar",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoz01k/inkling_2_small_released/",
+      "title_ko": "Inkling 2 Small 출시",
+      "summary_ko": "경량화된 Inkling 2 Small 모델이 공개돼 저사양 환경에서도 효율적인 추론이 가능합니다."
+    },
+    {
+      "title": "DeepSeek-V4.1-Flash-1017 on one RTX 3090: Big updates to the Delta Inference Engine v0.93. Same 41 tok/s at 192GB/IQ2 at better quality, usable from 64 GB RAM, first token ~40% sooner, new Unsloth quants at full speed, EXL3, basic multi-GPU, public CI and more",
+      "sub": "LocalLLaMA",
+      "author": "musicurgy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xoq4vq/deepseekv41flash1017_on_one_rtx_3090_big_updates/",
+      "title_ko": "DeepSeek-V4.1-Flash-1017, RTX 3090에서 성능 개선",
+      "summary_ko": "RTX 3090 기준 Delta Inference Engine v0.93 업데이트로 토큰 처리 속도·품질·다중 GPU 지원이 크게 향상되었습니다."
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "AI finally sleeps, Gemini 4 Carbon, ETH cracked, energy-based models, Anthropic IPO: AI NEWS",
+      "channel": "AI Search",
+      "url": "https://www.youtube.com/watch?v=IGICYFyP_EI",
+      "published": "2026-11-01",
+      "desc": "HUGE AI NEWS: Gemini 4 Carbon, Genie 4, GPT 6.1 Terra, Nanbeige 4.3, Anthropic IPO, MotionBricks & more. Thanks to our sponsor Luma. Try it today https://lumalabs.ai/aisearch-oct4 #ai #ainews #aitools #aivideo #agi #singularity 00:00 AI news intro 01:10 MotionBricks 03:11 Idol 04",
+      "title_ko": "AI가 마침내 휴식, Gemini 4 Carbon, ETH 해킹, 에너지 기반 모델, Anthropic IPO 등 AI 뉴스",
+      "summary_ko": "AI Search 채널에서 최신 AI 기술·모델·IPO 소식을 한눈에 정리한 영상"
+    },
+    {
+      "title": "EP.01 #AI개발자 가 꺼내는 진짜 이야기들  |  #CrewNote",
+      "channel": "테디노트",
+      "url": "https://www.youtube.com/watch?v=oCm591xdKVg",
+      "published": "2026-10-29",
+      "desc": "여기 서로 다른 길을 걸어오다 AI를 만드는 일을 하게 된 세 사람이 있습니다. CrewNote 첫 번째 이야기의 주인공은 브레인크루 Research Engineering Team의 Dante, Kane, Sean 입니다. 편의점과 콜센터에서 일하며 앞으로 무엇을 하며 살아갈지 고민하던 한 사람은 국비 학원을 거쳐 개발자가 됐습니다. 그렇게 만난 브레인크루 동료들과 이제는 AI로 기업의 업무를 바꾸는 일을 하고 있습니다. AI로 빠르게 변해가는 지금, 개발자는 어떤 역할을 해야 할까요? 사무실에서",
+      "title_ko": "EP.01 #AI개발자 가 꺼내는 진짜 이야기들 | #CrewNote",
+      "summary_ko": "CrewNote 첫 번째 에피소드에서 세 명의 AI 개발자가 각자의 성장 스토리를 공유합니다"
+    }
+  ],
   "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
