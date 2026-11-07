@@ -1,14 +1,46 @@
 {
-  "generated_at": "2026-11-07T00:10:27.688386+00:00",
-  "date_label": "2026년 11월 7일 (토)",
+  "generated_at": "2026-11-07T23:43:38.573167+00:00",
+  "date_label": "2026년 11월 8일 (일)",
   "github_trending": [
     {
-      "repo": "rails/rails",
-      "url": "https://github.com/rails/rails",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 142,
-      "lang": "Ruby",
-      "summary_ko": "Rails는 웹 애플리케이션 개발을 빠르게 할 수 있게 해 주는 Ruby 기반 프레임워크로, 지속적인 업데이트와 활발한 커뮤니티가 강점입니다."
+      "stars_today": 386,
+      "lang": "Python",
+      "summary_ko": "Anthropic의 Skills 레포는 LLM 활용 기능을 모듈화해 빠른 프로토타이핑을 지원합니다."
+    },
+    {
+      "repo": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "desc": "",
+      "stars_today": 181,
+      "lang": "TypeScript",
+      "summary_ko": "TailwindCSS는 최신 유틸리티‑CSS 프레임워크로 반응형 디자인을 간편히 구현합니다."
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "",
+      "stars_today": 180,
+      "lang": "Rust",
+      "summary_ko": "Vercel Labs의 Agent‑Browser는 브라우저 자동화를 LLM과 결합해 테스트를 혁신합니다."
+    },
+    {
+      "repo": "Usagi-org/ai-goofish-monitor",
+      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "desc": "",
+      "stars_today": 146,
+      "lang": "Python",
+      "summary_ko": "Usagi‑org의 AI‑Goofish‑Monitor는 AI 모델 이상 탐지를 실시간 시각화합니다."
+    },
+    {
+      "repo": "dsx-ai-factory/nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "desc": "",
+      "stars_today": 125,
+      "lang": "Go",
+      "summary_ko": "DSX‑AI‑Factory의 NVKE는 대규모 벡터 검색 엔진을 손쉽게 배포합니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
@@ -16,15 +48,23 @@
       "desc": "",
       "stars_today": 123,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Dive-into-LLMs는 대형 언어 모델을 직접 실험하고 학습할 수 있는 튜토리얼 저장소로, 실무 적용에 유용합니다."
+      "summary_ko": "Lordog의 Dive‑into‑LLMs는 LLM 구조와 활용법을 단계별로 정리한 가이드입니다."
     },
     {
-      "repo": "pipeshub-ai/pipeshub-ai",
-      "url": "https://github.com/pipeshub-ai/pipeshub-ai",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 64,
-      "lang": "Python",
-      "summary_ko": "Pipeshub-AI는 AI 파이프라인 구축을 위한 도구 모음으로, 모델 배포와 관리가 간편합니다."
+      "stars_today": 73,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Anthropic의 Claude‑Cookbooks는 Claude 모델 활용 레시피를 제공합니다."
+    },
+    {
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "desc": "",
+      "stars_today": 25,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "OpenAI‑Cookbook은 다양한 OpenAI API 활용 예시와 베스트프랙티스를 모았습니다."
     },
     {
       "repo": "gepa-ai/gepa",
@@ -32,7 +72,7 @@
       "desc": "",
       "stars_today": 25,
       "lang": "Jupyter Notebook",
-      "summary_ko": "GEPA는 효율적인 엔터프라이즈 AI 파이프라인을 제공하는 오픈소스 플랫폼으로, 확장성이 뛰어납니다."
+      "summary_ko": "GEPA‑AI의 GEPA는 효율적인 프롬프트 엔지니어링을 돕는 툴킷입니다."
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
@@ -40,158 +80,126 @@
       "desc": "",
       "stars_today": 22,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropics의 Prompt‑Eng Interactive Tutorial은 프롬프트 엔지니어링을 실습형으로 배울 수 있어 초보자에게 유용합니다."
-    },
-    {
-      "repo": "apache/airflow",
-      "url": "https://github.com/apache/airflow",
-      "desc": "",
-      "stars_today": 21,
-      "lang": "Python",
-      "summary_ko": "Apache Airflow는 워크플로우 자동화와 스케줄링을 지원하는 오픈소스 툴로, 데이터 파이프라인 관리에 널리 쓰입니다."
-    },
-    {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "desc": "",
-      "stars_today": 14,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "GenAI_Agents는 생성형 AI 에이전트를 설계·구현하는 예제와 도구를 제공해 연구·개발에 도움을 줍니다."
-    },
-    {
-      "repo": "FareedKhan-dev/all-agentic-architectures",
-      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
-      "desc": "",
-      "stars_today": 10,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "All‑Agentic‑Architectures는 다양한 에이전트 기반 시스템 설계 패턴을 정리한 레포로, 아키텍처 선택에 참고됩니다."
+      "summary_ko": "Anthropic의 Prompt‑Eng‑Interactive‑Tutorial은 실습형 프롬프트 교육을 제공합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Gemini Omni 1.2 Flash",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-      "points": 289,
-      "comments": 215,
-      "hn_url": "https://news.ycombinator.com/item?id=50392118",
-      "title_ko": "Gemini Omni 1.2 플래시",
-      "summary_ko": "구글의 최신 AI 모델 Gemini Omni 1.2가 빠른 응답 속도를 강조하며 공개되었습니다."
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "points": 323,
+      "comments": 179,
+      "hn_url": "https://news.ycombinator.com/item?id=50406563",
+      "title_ko": "Microsoft Research AI Frontiers 그룹 종료",
+      "summary_ko": "마이크로소프트 연구소의 AI Frontiers 팀이 해체돼 향후 연구 방향과 인재 이동이 주목됩니다."
     },
     {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-      "points": 257,
-      "comments": 205,
-      "hn_url": "https://news.ycombinator.com/item?id=50388001",
-      "title_ko": "미 FAA, 2028년까지 항공 관제에서 플로피 디스크 폐기",
-      "summary_ko": "미 연방항공청이 2028년까지 항공 관제 시스템에서 구식 플로피 디스크를 완전히 대체할 계획을 발표했습니다."
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "points": 114,
+      "comments": 71,
+      "hn_url": "https://news.ycombinator.com/item?id=50405789",
+      "title_ko": "삶을 얼마나 오래 기다릴 수 있을까?",
+      "summary_ko": "인류의 수명 연장 가능성을 탐구하며, 기술·의학적 한계와 윤리적 논의를 제시합니다."
     },
     {
-      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-      "points": 203,
-      "comments": 457,
-      "hn_url": "https://news.ycombinator.com/item?id=50394906",
-      "title_ko": "Anthropic IPO 투자자, 기업가치 1조 1천억 달러 이하 예상",
-      "summary_ko": "Anthropic의 IPO 투자자들이 기업가치를 1조 1천억 달러 이하로 낮게 평가하며 투자에 나섰습니다."
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "points": 86,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=50407882",
+      "title_ko": "Claude Code, \"다시 묻지 않음\" 기능이 1,122개 공개 GitHub 파일에서 비밀번호 노출",
+      "summary_ko": "Claude Code의 버그가 수천 개 공개 레포에서 비밀키를 유출해 보안 경각심을 일깨웁니다."
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-      "points": 164,
-      "comments": 123,
-      "hn_url": "https://news.ycombinator.com/item?id=50397994",
-      "title_ko": "AI, AI 연구 자체를 급속히 가속화",
-      "summary_ko": "인공지능이 자체 연구와 실험을 자동화해 AI 분야의 혁신 속도를 크게 높이고 있습니다."
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "points": 54,
+      "comments": 11,
+      "hn_url": "https://news.ycombinator.com/item?id=50405263",
+      "title_ko": "Show HN: 31B 비디오·오디오 디퓨전 모델을 14B, 6단계, INT8로 압축",
+      "summary_ko": "대규모 멀티모달 모델을 효율적으로 경량화해 저사양 환경에서도 활용 가능하게 했습니다."
     },
     {
-      "title": "Memorilla: Latent Semantic Memory for LLMs",
-      "url": "https://arxiv.org/abs/2610.21375",
-      "points": 76,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=50395919",
-      "title_ko": "Memorilla: LLM을 위한 잠재 의미 메모리",
-      "summary_ko": "LLM에 장기 의미 기억을 부여하는 Memorilla 기법이 논문으로 공개돼 주목받고 있습니다."
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "points": 35,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50377661",
+      "title_ko": "우라늄 큐브가 독일 핵 프로젝트 실패 원인을 밝히다",
+      "summary_ko": "우라늄 결정 구조 분석을 통해 독일 원자력 개발이 기술적·정치적 한계에 부딪힌 이유를 설명합니다."
     },
     {
-      "title": "Restaurant Delivery Payment-Skimming Campaign",
-      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-      "points": 73,
-      "comments": 29,
-      "hn_url": "https://news.ycombinator.com/item?id=50397017",
-      "title_ko": "레스토랑 배달 결제 스키밍 사기",
-      "summary_ko": "배달 주문 결제 과정에서 카드 정보를 탈취하는 새로운 스키밍 캠페인이 적발되었습니다."
-    },
-    {
-      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-      "points": 40,
-      "comments": 14,
-      "hn_url": "https://news.ycombinator.com/item?id=50399569",
-      "title_ko": "ChatGPT, 커넥터 간 데이터 무단 전송 및 ID 카드 요구 논란",
-      "summary_ko": "ChatGPT가 연결된 서비스 간에 데이터를 은밀히 전달하고 신분증을 요구한다는 비판이 제기되었습니다."
-    },
-    {
-      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
-      "url": "https://halfnarp.events.ccc.de",
-      "points": 39,
-      "comments": 7,
-      "hn_url": "https://news.ycombinator.com/item?id=50396108",
-      "title_ko": "40C3 halfnarp – 발표 일정 조율을 위한 선호도 제출",
-      "summary_ko": "40C3 컨퍼런스에서 발표 일정 최적화를 위해 참가자들이 강연 선호도를 제출하도록 요청했습니다."
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "url": "https://eyesrhythm.com/",
+      "points": 13,
+      "comments": 5,
+      "hn_url": "https://news.ycombinator.com/item?id=50408350",
+      "title_ko": "Show HN: 눈 깜빡임 리듬을 관리하는 오프라인 데스크톱 도우미",
+      "summary_ko": "눈 피로 방지를 위해 블링크 주기를 추적·알림해 주는 독립 실행형 앱이 출시되었습니다."
     }
   ],
   "reddit": [
     {
-      "title": "We are cooked. My QFN 3.8 NVFP4 just drew a dog freehand in MS Paint (using new Open WebUI 0.13.0 and Open Terminal 0.17.2)",
+      "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
       "sub": "LocalLLaMA",
-      "author": "Porespellar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmvf2/we_are_cooked_my_qfn_38_nvfp4_just_drew_a_dog/",
-      "title_ko": "Open WebUI 0.13.0·Open Terminal 0.17.2로 MS Paint에 개를 손그림으로 그렸다",
-      "summary_ko": "새 버전 Open WebUI와 Open Terminal을 이용해 QFN 3.8 NVFP4가 MS Paint에 자유롭게 개를 그린 사례를 공유한 글입니다."
+      "author": "Roy3838",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
+      "title_ko": "휴대폰으로 로컬 모델을 활용해 실시간 모니터링 (iOS·Android)",
+      "summary_ko": "오픈소스 로컬 에이전트를 통해 스마트폰으로 다양한 데이터를 실시간 감시할 수 있어 주목받는다."
     },
     {
-      "title": "NousResearch/Arete-27B · Hugging Face (Qwen finetune)",
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "sub": "MachineLearning",
+      "author": "Beautiful_Baker_2233",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+      "title_ko": "ICLR 2027 리뷰 토론 [D]",
+      "summary_ko": "ICLR 2027 논문 리뷰에 대한 활발한 논의가 진행돼 최신 연구 동향 파악에 유용하다."
+    },
+    {
+      "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
       "sub": "LocalLLaMA",
       "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpmj33/nousresearcharete27b_hugging_face_qwen_finetune/",
-      "title_ko": "NousResearch/Arete-27B – Hugging Face에서 Qwen 파인튜닝",
-      "summary_ko": "Hugging Face에 공개된 NousResearch의 27억 파라미터 Arete 모델이 Qwen 데이터로 파인튜닝된 내용을 소개합니다."
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
+      "title_ko": "llama_moe_cache: CPU에서 놓친 전문가 실행 및 튜닝 스크립트 추가",
+      "summary_ko": "llama.cpp에 CPU 기반 전문가 캐시와 튜닝 스크립트를 도입해 효율성을 크게 향상시킨다."
     },
     {
-      "title": "Six Pallets of NVIDIA Hardware Worth $11.4 Million Stolen on the Way to Texas",
-      "sub": "LocalLLaMA",
-      "author": "chemist_slime",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xpqx1p/six_pallets_of_nvidia_hardware_worth_114_million/",
-      "title_ko": "텍사스로 이동 중 도난당한 NVIDIA 하드웨어 6대, 가치 1,140만 달러",
-      "summary_ko": "텍사스로 운송 중이던 NVIDIA 서버 6대가 도난당해 약 1,140만 달러 규모의 손실이 발생한 사건을 다룹니다."
+      "title": "The most scathing reviewer 2 review I have ever read",
+      "sub": "MachineLearning",
+      "author": "MOSFETBJT",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
+      "title_ko": "가장 신랄한 리뷰 2개",
+      "summary_ko": "극단적인 비판을 담은 리뷰 두 건이 논문 평가 과정에서 큰 파장을 일으키고 있다."
     },
     {
-      "title": "Asking questions to a 0.5b model is hillarious",
+      "title": "The Stylome bot is useless spam and should be removed",
       "sub": "LocalLLaMA",
-      "author": "Pro-editor-1105",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xp8as6/asking_questions_to_a_05b_model_is_hillarious/",
-      "title_ko": "0.5B 모델에 질문하면 웃음이 나오는 이유",
-      "summary_ko": "파라미터가 5억 수준인 초소형 모델에 질문했을 때 나타나는 엉뚱하고 웃긴 응답을 사례로 설명합니다."
+      "author": "Zetafivee",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
+      "title_ko": "Stylome 봇은 쓸모없는 스팸, 삭제 필요",
+      "summary_ko": "Stylome 봇이 무의미한 스팸으로 평가돼 커뮤니티에서 제거를 요구하는 목소리가 높다."
     },
     {
-      "title": "Some GPU prices are dropping",
-      "sub": "LocalLLaMA",
-      "author": "Bascilian",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbrr/some_gpu_prices_are_dropping/",
-      "title_ko": "일부 GPU 가격 하락 소식",
-      "summary_ko": "최근 시장에서 특정 그래픽 카드 가격이 떨어지고 있어 비용 절감에 관심 있는 개발자에게 유용한 정보를 제공합니다."
-    },
-    {
-      "title": "We are in the golden age of Local LLM",
-      "sub": "LocalLLaMA",
-      "author": "Present_Resource4022",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xppbht/we_are_in_the_golden_age_of_local_llm/",
-      "title_ko": "Local LLM의 황금기를 맞이하다",
-      "summary_ko": "오픈소스 로컬 대형 언어 모델이 성능·접근성 모두에서 급성장하며 최적의 시기를 맞이했다는 전망을 제시합니다."
+      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+      "sub": "MachineLearning",
+      "author": "sooham",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
+      "title_ko": "새로운 연구 아이디어 창출 시도, 모두 어색함",
+      "summary_ko": "새로운 연구 주제를 찾으려 애쓰지만 아이디어가 부자연스러워 고민이 깊어지고 있다."
     }
   ],
-  "youtube": [],
+  "youtube": [
+    {
+      "title": "The Sphere Intersection Puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "published": "2026-10-25",
+      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "title_ko": "구면 교차 퍼즐",
+      "summary_ko": "Andrej Karpathy가 소개한 구면 교차 퍼즐로, 월간 퍼즐 시리즈 중 하나이며 해결법을 미리 확인할 수 있다."
+    }
+  ],
   "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
