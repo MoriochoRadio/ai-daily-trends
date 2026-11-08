@@ -1,152 +1,194 @@
 {
-  "generated_at": "2026-11-07T23:43:38.573167+00:00",
-  "date_label": "2026년 11월 8일 (일)",
+  "generated_at": "2026-11-08T23:49:47.164932+00:00",
+  "date_label": "2026년 11월 9일 (월)",
   "github_trending": [
-    {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "desc": "",
-      "stars_today": 386,
-      "lang": "Python",
-      "summary_ko": "Anthropic의 Skills 레포는 LLM 활용 기능을 모듈화해 빠른 프로토타이핑을 지원합니다."
-    },
-    {
-      "repo": "tailwindlabs/tailwindcss",
-      "url": "https://github.com/tailwindlabs/tailwindcss",
-      "desc": "",
-      "stars_today": 181,
-      "lang": "TypeScript",
-      "summary_ko": "TailwindCSS는 최신 유틸리티‑CSS 프레임워크로 반응형 디자인을 간편히 구현합니다."
-    },
     {
       "repo": "vercel-labs/agent-browser",
       "url": "https://github.com/vercel-labs/agent-browser",
       "desc": "",
-      "stars_today": 180,
+      "stars_today": 812,
       "lang": "Rust",
-      "summary_ko": "Vercel Labs의 Agent‑Browser는 브라우저 자동화를 LLM과 결합해 테스트를 혁신합니다."
+      "summary_ko": "Vercel Labs가 만든 agent-browser는 웹 브라우징 자동화를 위한 LLM 에이전트 프레임워크로, 개발자가 손쉽게 브라우저 작업을 스크립트화할 수 있습니다."
     },
     {
-      "repo": "Usagi-org/ai-goofish-monitor",
-      "url": "https://github.com/Usagi-org/ai-goofish-monitor",
+      "repo": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 146,
+      "stars_today": 793,
       "lang": "Python",
-      "summary_ko": "Usagi‑org의 AI‑Goofish‑Monitor는 AI 모델 이상 탐지를 실시간 시각화합니다."
+      "summary_ko": "Anthropic의 skills 레포는 Claude 모델에 플러그인 형태의 기능을 추가해 특정 작업을 수행하도록 설계된 도구 모음입니다."
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "",
+      "stars_today": 439,
+      "lang": "Python",
+      "summary_ko": "ai-engineering-from-scratch는 로히트가 정리한 AI 엔지니어링 전 과정을 단계별 코드와 설명으로 제공하는 학습 자료입니다."
     },
     {
       "repo": "dsx-ai-factory/nvke",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "desc": "",
-      "stars_today": 125,
+      "stars_today": 345,
       "lang": "Go",
-      "summary_ko": "DSX‑AI‑Factory의 NVKE는 대규모 벡터 검색 엔진을 손쉽게 배포합니다."
+      "summary_ko": "nvke는 DSX AI Factory가 만든 경량 LLM 배포 엔진으로, 빠른 추론과 쉬운 배포를 목표로 합니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 123,
+      "stars_today": 188,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog의 Dive‑into‑LLMs는 LLM 구조와 활용법을 단계별로 정리한 가이드입니다."
+      "summary_ko": "dive-into-llms는 LLM 내부 구조와 학습 원리를 깊이 있게 탐구하는 교육용 노트북 컬렉션입니다."
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "desc": "",
+      "stars_today": 99,
+      "lang": "Python",
+      "summary_ko": "claude-video는 Bradautomates가 구현한 Claude 기반 영상 생성 파이프라인으로, 텍스트 입력만으로 동영상 제작이 가능합니다."
+    },
+    {
+      "repo": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "desc": "",
+      "stars_today": 84,
+      "lang": "Python",
+      "summary_ko": "mini-swe-agent는 SWE-agent 프로젝트의 경량 버전으로, 소프트웨어 엔지니어링 작업 자동화를 위한 작은 LLM 에이전트입니다."
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 65,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "airllm은 lyogavin이 만든 클라우드 기반 LLM 서비스 프레임워크로, API 형태로 모델을 손쉽게 제공합니다."
+    },
+    {
+      "repo": "neuml/txtai",
+      "url": "https://github.com/neuml/txtai",
+      "desc": "",
+      "stars_today": 57,
+      "lang": "Python",
+      "summary_ko": "txtai는 neuml이 개발한 오픈소스 AI 검색 엔진으로, 텍스트 임베딩을 활용한 검색·분류·추천 기능을 제공합니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 73,
+      "stars_today": 45,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropic의 Claude‑Cookbooks는 Claude 모델 활용 레시피를 제공합니다."
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 25,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "OpenAI‑Cookbook은 다양한 OpenAI API 활용 예시와 베스트프랙티스를 모았습니다."
-    },
-    {
-      "repo": "gepa-ai/gepa",
-      "url": "https://github.com/gepa-ai/gepa",
-      "desc": "",
-      "stars_today": 25,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "GEPA‑AI의 GEPA는 효율적인 프롬프트 엔지니어링을 돕는 툴킷입니다."
+      "summary_ko": "claude-cookbooks는 Anthropic이 제공하는 Claude 활용 레시피 모음으로, 다양한 실무 시나리오에 적용 가능한 프롬프트와 코드 예시를 담고 있습니다."
     },
     {
       "repo": "anthropics/prompt-eng-interactive-tutorial",
       "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 22,
+      "stars_today": 33,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropic의 Prompt‑Eng‑Interactive‑Tutorial은 실습형 프롬프트 교육을 제공합니다."
+      "summary_ko": "prompt-eng-interactive-tutorial은 Anthropic이 만든 인터랙티브 프롬프트 엔지니어링 교육 도구로, 실습을 통해 최적 프롬프트 작성법을 배울 수 있습니다."
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "desc": "",
+      "stars_today": 28,
+      "lang": "Python",
+      "summary_ko": "claude-quickstarts는 Claude 모델을 빠르게 시작하도록 돕는 튜토리얼과 샘플 코드를 제공하는 입문용 레포입니다."
+    },
+    {
+      "repo": "BigBodyCobain/Shadowbroker",
+      "url": "https://github.com/BigBodyCobain/Shadowbroker",
+      "desc": "",
+      "stars_today": 21,
+      "lang": "Python",
+      "summary_ko": "Shadowbroker는 BigBodyCobain이 만든 LLM 기반 사이버 위협 인텔리전스 도구로, 자동화된 정보 수집·분석 파이프라인을 구현합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "points": 323,
-      "comments": 179,
-      "hn_url": "https://news.ycombinator.com/item?id=50406563",
-      "title_ko": "Microsoft Research AI Frontiers 그룹 종료",
-      "summary_ko": "마이크로소프트 연구소의 AI Frontiers 팀이 해체돼 향후 연구 방향과 인재 이동이 주목됩니다."
-    },
-    {
-      "title": "How Long Can Life Wait?",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "points": 114,
-      "comments": 71,
-      "hn_url": "https://news.ycombinator.com/item?id=50405789",
-      "title_ko": "삶을 얼마나 오래 기다릴 수 있을까?",
-      "summary_ko": "인류의 수명 연장 가능성을 탐구하며, 기술·의학적 한계와 윤리적 논의를 제시합니다."
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "points": 671,
+      "comments": 424,
+      "hn_url": "https://news.ycombinator.com/item?id=50410107",
+      "title_ko": "Claude와 작별, Pi와 인사",
+      "summary_ko": "Claude를 대체할 새로운 AI 챗봇 Pi가 출시돼 주목받고 있습니다."
     },
     {
       "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
       "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "points": 86,
-      "comments": 69,
+      "points": 575,
+      "comments": 390,
       "hn_url": "https://news.ycombinator.com/item?id=50407882",
-      "title_ko": "Claude Code, \"다시 묻지 않음\" 기능이 1,122개 공개 GitHub 파일에서 비밀번호 노출",
-      "summary_ko": "Claude Code의 버그가 수천 개 공개 레포에서 비밀키를 유출해 보안 경각심을 일깨웁니다."
+      "title_ko": "Claude Code \"다시 묻지 않음\" 기능, 1,122개 GitHub 파일에서 비밀번호 노출",
+      "summary_ko": "Claude Code의 설정 오류가 공개 저장소에 비밀번호를 드러내어 보안 위험이 커졌습니다."
     },
     {
-      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "points": 54,
-      "comments": 11,
-      "hn_url": "https://news.ycombinator.com/item?id=50405263",
-      "title_ko": "Show HN: 31B 비디오·오디오 디퓨전 모델을 14B, 6단계, INT8로 압축",
-      "summary_ko": "대규모 멀티모달 모델을 효율적으로 경량화해 저사양 환경에서도 활용 가능하게 했습니다."
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "points": 533,
+      "comments": 322,
+      "hn_url": "https://news.ycombinator.com/item?id=50415628",
+      "title_ko": "골드만삭스, 은행가와 트레이더에게서 Claude Code 사용 중단",
+      "summary_ko": "보안 우려와 비용 문제로 골드만삭스가 Claude Code 도입을 철회했습니다."
     },
     {
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "points": 35,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=50377661",
-      "title_ko": "우라늄 큐브가 독일 핵 프로젝트 실패 원인을 밝히다",
-      "summary_ko": "우라늄 결정 구조 분석을 통해 독일 원자력 개발이 기술적·정치적 한계에 부딪힌 이유를 설명합니다."
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "points": 265,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50368481",
+      "title_ko": "선언형 드래깅",
+      "summary_ko": "UI 개발에서 복잡한 드래그 로직을 선언형 방식으로 간단히 구현하는 방법을 소개합니다."
     },
     {
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "points": 13,
-      "comments": 5,
-      "hn_url": "https://news.ycombinator.com/item?id=50408350",
-      "title_ko": "Show HN: 눈 깜빡임 리듬을 관리하는 오프라인 데스크톱 도우미",
-      "summary_ko": "눈 피로 방지를 위해 블링크 주기를 추적·알림해 주는 독립 실행형 앱이 출시되었습니다."
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "points": 220,
+      "comments": 202,
+      "hn_url": "https://news.ycombinator.com/item?id=50418016",
+      "title_ko": "엔비디아 CEO 젠슨 황, 직원에게 보낸 사생활 스캔들 서한",
+      "summary_ko": "젠슨 황이 사내 메일로 개인 스캔들에 대한 입장을 밝히며 논란이 확산되고 있습니다."
+    },
+    {
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "points": 192,
+      "comments": 155,
+      "hn_url": "https://news.ycombinator.com/item?id=50416158",
+      "title_ko": "Outlook.com, DMARC 없는 도메인 메일을 은밀히 차단",
+      "summary_ko": "보안 강화를 위해 Outlook.com이 DMARC 인증이 없는 발신자를 자동 차단하고 있습니다."
+    },
+    {
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "points": 164,
+      "comments": 102,
+      "hn_url": "https://news.ycombinator.com/item?id=50411467",
+      "title_ko": "에이전트 메모리, OpenTelemetry 적용 시점",
+      "summary_ko": "에이전트의 상태 추적을 위해 OpenTelemetry 도입이 시급하다는 의견이 제시되었습니다."
+    },
+    {
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "points": 125,
+      "comments": 111,
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "title_ko": "AI 피로감 극복 방법",
+      "summary_ko": "과도한 AI 사용으로 인한 정신적 피로를 완화하는 실전 전략을 공유합니다."
     }
   ],
   "reddit": [
     {
-      "title": "Use your phone to monitor anything with local models! Demo of my Open Source and 100% local agent (iOS and Android!)",
+      "title": "\"Does censorship exist in [country]?\", according to various LLMs",
       "sub": "LocalLLaMA",
-      "author": "Roy3838",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqd058/use_your_phone_to_monitor_anything_with_local/",
-      "title_ko": "휴대폰으로 로컬 모델을 활용해 실시간 모니터링 (iOS·Android)",
-      "summary_ko": "오픈소스 로컬 에이전트를 통해 스마트폰으로 다양한 데이터를 실시간 감시할 수 있어 주목받는다."
+      "author": "-p-e-w-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr09nq/does_censorship_exist_in_country_according_to/",
+      "title_ko": "다양한 LLM이 답한 “해당 국가에 검열이 존재하나요?”",
+      "summary_ko": "여러 대형 언어 모델이 특정 국가의 검열 여부를 평가한 Reddit 토론으로, 모델 간 의견 차이를 살펴볼 수 있다."
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -154,42 +196,60 @@
       "author": "Beautiful_Baker_2233",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "title_ko": "ICLR 2027 리뷰 토론 [D]",
-      "summary_ko": "ICLR 2027 논문 리뷰에 대한 활발한 논의가 진행돼 최신 연구 동향 파악에 유용하다."
+      "summary_ko": "ICLR 2027 논문 리뷰에 대한 활발한 논의가 진행 중인 Reddit 스레드로, 최신 연구 흐름을 파악할 수 있다."
     },
     {
-      "title": "llama_moe_cache: run missed experts on CPU, add tuning script by am17an · Pull Request #30966 · ggml-org/llama.cpp",
+      "title": "Users have started buying RTX 5060 Ti 16GB graphics cards en masse for the sake of AI.",
       "sub": "LocalLLaMA",
-      "author": "jacek2023",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqacka/llama_moe_cache_run_missed_experts_on_cpu_add/",
-      "title_ko": "llama_moe_cache: CPU에서 놓친 전문가 실행 및 튜닝 스크립트 추가",
-      "summary_ko": "llama.cpp에 CPU 기반 전문가 캐시와 튜닝 스크립트를 도입해 효율성을 크게 향상시킨다."
+      "author": "ab2377",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr01bj/users_have_started_buying_rtx_5060_ti_16gb/",
+      "title_ko": "AI용 RTX 5060 Ti 16GB 그래픽 카드 대량 구매 현상",
+      "summary_ko": "AI 작업 수요 증가로 RTX 5060 Ti 16GB 모델을 대량 구매하는 사용자가 늘어나며 시장 흐름을 바꾸고 있다."
     },
     {
-      "title": "The most scathing reviewer 2 review I have ever read",
+      "title": "I merged attention and MLP processing into a single gated Transformer block. GAP [R]",
       "sub": "MachineLearning",
-      "author": "MOSFETBJT",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xpu1eq/the_most_scathing_reviewer_2_review_i_have_ever/",
-      "title_ko": "가장 신랄한 리뷰 2개",
-      "summary_ko": "극단적인 비판을 담은 리뷰 두 건이 논문 평가 과정에서 큰 파장을 일으키고 있다."
+      "author": "WAMFT",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xr47tw/i_merged_attention_and_mlp_processing_into_a/",
+      "title_ko": "Attention과 MLP를 하나의 게이트형 Transformer 블록으로 통합한 GAP",
+      "summary_ko": "Attention과 MLP를 결합한 단일 게이트형 Transformer 블록을 제안해 효율성을 높인 연구가 Reddit에 소개되었다."
     },
     {
-      "title": "The Stylome bot is useless spam and should be removed",
+      "title": "GPT-5.5 dataset across my used 25 billion tokens!",
       "sub": "LocalLLaMA",
-      "author": "Zetafivee",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xqinb7/the_stylome_bot_is_useless_spam_and_should_be/",
-      "title_ko": "Stylome 봇은 쓸모없는 스팸, 삭제 필요",
-      "summary_ko": "Stylome 봇이 무의미한 스팸으로 평가돼 커뮤니티에서 제거를 요구하는 목소리가 높다."
+      "author": "-MaskNinja-",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xr3ymf/gpt55_dataset_across_my_used_25_billion_tokens/",
+      "title_ko": "GPT‑5.5 데이터셋, 250억 토큰 사용 기록",
+      "summary_ko": "25 억 토큰을 활용한 GPT‑5.5 데이터셋 규모와 구축 과정을 공유한 글로, 대규모 데이터 활용 사례를 보여준다."
     },
     {
-      "title": "Try my dang hardest to come up with novel research ideas, but everything feels clunky [R]",
+      "title": "What if diffusion models generates Neural Network weights? Gen AI generate Gen AI [R]",
       "sub": "MachineLearning",
-      "author": "sooham",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xq06wu/try_my_dang_hardest_to_come_up_with_novel/",
-      "title_ko": "새로운 연구 아이디어 창출 시도, 모두 어색함",
-      "summary_ko": "새로운 연구 주제를 찾으려 애쓰지만 아이디어가 부자연스러워 고민이 깊어지고 있다."
+      "author": "Specific-Tax-6700",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xqsl8d/what_if_diffusion_models_generates_neural_network/",
+      "title_ko": "확산 모델이 신경망 가중치를 생성한다면? – 생성 AI가 생성 AI를 만든다",
+      "summary_ko": "확산 모델을 이용해 신경망 가중치를 생성하는 아이디어를 논의하며, 메타 생성 AI 가능성을 탐색한다."
     }
   ],
   "youtube": [
+    {
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "published": "2026-11-07",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ 🙏 We would like to thank our generous Patreon supporters who make Two Minute Papers ",
+      "title_ko": "OpenAI의 Astra, AI 블랙박스 공개",
+      "summary_ko": "OpenAI가 Astra 프로젝트를 통해 AI 내부 구조를 공개해 투명성과 연구 가치를 높였습니다."
+    },
+    {
+      "title": "Navier-Stokes explained by Mathematician | Lex Fridman",
+      "channel": "Lex Fridman",
+      "url": "https://www.youtube.com/watch?v=2O6wJnCGNdI",
+      "published": "2026-11-04",
+      "desc": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=ZAzWPE9CItg Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10105-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST ",
+      "title_ko": "수학자가 설명하는 Navier‑Stokes 방정식",
+      "summary_ko": "Lex Fridman 채널에서 수학자가 Navier‑Stokes 방정식의 핵심 개념을 쉽게 풀어 설명합니다."
+    },
     {
       "title": "The Sphere Intersection Puzzle",
       "channel": "Andrej Karpathy",
@@ -197,9 +257,27 @@
       "published": "2026-10-25",
       "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
       "title_ko": "구면 교차 퍼즐",
-      "summary_ko": "Andrej Karpathy가 소개한 구면 교차 퍼즐로, 월간 퍼즐 시리즈 중 하나이며 해결법을 미리 확인할 수 있다."
+      "summary_ko": "Andrej Karpathy가 제시한 구면 교차 퍼즐로, 기하학적 사고를 시험하는 월간 도전 과제입니다."
+    },
+    {
+      "title": "Burn Water - New Millennium",
+      "channel": "ColdFusion",
+      "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
+      "published": "2026-09-20",
+      "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
+      "title_ko": "Burn Water – New Millennium",
+      "summary_ko": "ColdFusion 영상에서 소개된 ‘Burn Water’ 앨범은 2000년대 초반 전자음악 트렌드를 반영합니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "Starship Flight 15 on 11/13 plans to catch both booster and ship",
+      "handle": "@launches",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "note": "HN 66pts · 27 댓글",
+      "title_ko": "11월 13일 스타십 플라이트 15, 부스터와 본체 모두 회수 목표",
+      "summary_ko": "SpaceX가 11월 13일 진행될 스타십 플라이트 15에서 부스터와 본체를 동시에 회수하려는 계획을 발표해 화제가 되고 있다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
