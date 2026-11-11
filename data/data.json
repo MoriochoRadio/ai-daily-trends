@@ -1,262 +1,263 @@
 {
-  "generated_at": "2026-11-10T02:48:44.136581+00:00",
-  "date_label": "2026년 11월 10일 (화)",
+  "generated_at": "2026-11-11T00:43:44.970395+00:00",
+  "date_label": "2026년 11월 11일 (수)",
   "github_trending": [
     {
       "repo": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "desc": "",
-      "stars_today": 1038,
+      "stars_today": 1679,
       "lang": "Python",
-      "summary_ko": "Anthropic의 Skills 레포는 Claude에게 다양한 작업 수행 능력을 부여하는 프롬프트 템플릿 모음으로, 빠른 기능 확장이 가능해요."
-    },
-    {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "desc": "",
-      "stars_today": 916,
-      "lang": "Rust",
-      "summary_ko": "Vercel Labs의 Agent‑Browser는 웹 자동화를 위한 LLM 기반 에이전트를 제공해, 브라우저 조작을 코드 없이 구현합니다."
-    },
-    {
-      "repo": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "desc": "",
-      "stars_today": 551,
-      "lang": "Python",
-      "summary_ko": "Claude‑Quickstarts는 Anthropic 모델을 빠르게 시작하도록 예제와 가이드를 모아둔 입문용 레포입니다."
+      "summary_ko": "Anthropics의 Skills 레포는 Claude 모델에 맞춘 프롬프트와 도구 세트를 제공해 AI 에이전트 개발을 빠르게 시작할 수 있게 합니다."
     },
     {
       "repo": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 506,
+      "stars_today": 960,
       "lang": "Python",
-      "summary_ko": "daily_stock_analysis는 매일 주식 데이터를 수집·분석해 자동 리포트를 생성하는 파이썬 파이프라인을 제공합니다."
+      "summary_ko": "ZhuLinsen의 daily_stock_analysis는 매일 주식 데이터를 자동 수집·분석해 투자 인사이트를 제공하는 파이썬 파이프라인입니다."
+    },
+    {
+      "repo": "homeassistant-ai/ha-mcp",
+      "url": "https://github.com/homeassistant-ai/ha-mcp",
+      "desc": "",
+      "stars_today": 790,
+      "lang": "Python",
+      "summary_ko": "homeassistant-ai/ha-mcp는 Home Assistant와 AI 모델을 연동해 스마트 홈 자동화를 위한 멀티컨텍스트 플러그인을 구현합니다."
+    },
+    {
+      "repo": "vercel-labs/agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "desc": "",
+      "stars_today": 780,
+      "lang": "Rust",
+      "summary_ko": "vercel-labs/agent-browser는 브라우저 자동화를 위한 AI 에이전트 프레임워크로, 웹 탐색·스크래핑을 코드 없이 수행합니다."
+    },
+    {
+      "repo": "anthropics/claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "desc": "",
+      "stars_today": 531,
+      "lang": "Python",
+      "summary_ko": "anthropics/claude-quickstarts는 Claude API 사용 예시와 초기 설정 가이드를 모아 초보 개발자에게 빠른 진입을 돕습니다."
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "",
+      "stars_today": 465,
+      "lang": "JavaScript",
+      "summary_ko": "addyosmani/agent-skills는 다양한 웹 퍼포먼스 최적화 작업을 AI 에이전트가 수행하도록 정의한 스킬 컬렉션입니다."
     },
     {
       "repo": "rohitg00/ai-engineering-from-scratch",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "desc": "",
-      "stars_today": 326,
+      "stars_today": 207,
       "lang": "Python",
-      "summary_ko": "AI‑Engineering‑From‑Scratch는 AI 시스템 설계·구현 전 과정을 단계별 코드와 설명으로 풀어낸 학습 자료입니다."
+      "summary_ko": "rohitg00/ai-engineering-from-scratch는 AI 엔지니어링 전 과정을 단계별 튜토리얼과 코드 예제로 정리한 학습 리포입니다."
     },
     {
-      "repo": "garrytan/gbrain",
-      "url": "https://github.com/garrytan/gbrain",
+      "repo": "ashishpatel26/500-AI-Agents-Projects",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
       "desc": "",
-      "stars_today": 216,
-      "lang": "TypeScript",
-      "summary_ko": "gbrain은 뇌과학·AI 연구를 위한 데이터셋·분석 툴킷을 제공해 신경망 모델 개발에 활용됩니다."
-    },
-    {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "desc": "",
-      "stars_today": 150,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Dive‑into‑LLMs는 대형 언어 모델의 원리와 실습 예제를 체계적으로 정리한 교육용 레포입니다."
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "desc": "",
-      "stars_today": 149,
+      "stars_today": 126,
       "lang": "Python",
-      "summary_ko": "Claude‑Plugins‑Official은 Anthropic 모델에 플러그인 연동을 위한 공식 SDK와 샘플을 담고 있습니다."
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 101,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AI‑Agents‑for‑Beginners는 초보자를 위한 에이전트 설계·구현 튜토리얼과 실습 코드를 제공해요."
+      "summary_ko": "ashishpatel26/500-AI-Agents-Projects는 500가지 AI 에이전트 아이디어와 구현 샘플을 제공해 창의적 프로젝트 발굴에 유용합니다."
     },
     {
       "repo": "microsoft/generative-ai-for-beginners",
       "url": "https://github.com/microsoft/generative-ai-for-beginners",
       "desc": "",
-      "stars_today": 98,
+      "stars_today": 77,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Generative‑AI‑for‑Beginners는 생성 AI 개념부터 실습까지 단계별 예제로 입문자를 돕는 레포입니다."
+      "summary_ko": "microsoft/generative-ai-for-beginners는 생성 AI 개념·모델·실습을 초보자 수준으로 정리한 교육 자료 모음입니다."
     },
     {
-      "repo": "neuml/txtai",
-      "url": "https://github.com/neuml/txtai",
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 70,
-      "lang": "Python",
-      "summary_ko": "txtai는 텍스트 검색·분류·요약 등 NLP 파이프라인을 손쉽게 구축할 수 있는 오픈소스 라이브러리입니다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 60,
+      "stars_today": 71,
       "lang": "Jupyter Notebook",
-      "summary_ko": "airllm은 LLM을 활용한 인공지능 응답 시스템을 빠르게 배포할 수 있는 경량 프레임워크입니다."
-    },
-    {
-      "repo": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "desc": "",
-      "stars_today": 44,
-      "lang": "Python",
-      "summary_ko": "maigret은 다양한 소셜 미디어와 공개 데이터베이스를 탐색해 개인 정보를 수집하는 OSINT 도구입니다."
+      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트 설계·구현 기본을 실습 중심으로 안내하는 입문용 레포입니다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 40,
+      "stars_today": 32,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI‑For‑Beginners는 마이크로소프트가 제공하는 AI 기본 개념·실습을 한눈에 정리한 입문 리소스입니다."
+      "summary_ko": "microsoft/AI-For-Beginners는 AI 전반을 파이썬 실습과 함께 단계별 학습 커리큘럼으로 제공합니다."
     },
     {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
       "desc": "",
-      "stars_today": 38,
+      "stars_today": 30,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Claude‑Cookbooks는 Anthropic Claude를 활용한 다양한 실전 예제와 레시피를 모아둔 컬렉션입니다."
+      "summary_ko": "anthropics/prompt-eng-interactive-tutorial은 프롬프트 엔지니어링을 인터랙티브하게 학습할 수 있는 웹 기반 튜토리얼입니다."
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "desc": "",
+      "stars_today": 26,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "langchain-ai/rag-from-scratch는 LangChain을 이용해 Retrieval‑Augmented Generation 파이프라인을 처음부터 구축하는 예제입니다."
+    },
+    {
+      "repo": "datawhalechina/happy-llm",
+      "url": "https://github.com/datawhalechina/happy-llm",
+      "desc": "",
+      "stars_today": 23,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "datawhalechina/happy-llm은 한국어 LLM 학습·평가·배포를 위한 오픈소스 툴킷으로, 실험 재현성을 높입니다."
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "desc": "",
+      "stars_today": 21,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "gepa-ai/gepa는 고성능 엔터프라이즈용 AI 파이프라인을 구성하기 위한 오픈소스 프레임워크로, 확장성과 모니터링을 강조합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "points": 864,
-      "comments": 140,
-      "hn_url": "https://news.ycombinator.com/item?id=50424581",
-      "title_ko": "접이식 비행기: 최고의 종이비행기",
-      "summary_ko": "다양한 접이식 설계로 만든 최고의 종이비행기들을 소개하는 글입니다."
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "points": 352,
+      "comments": 391,
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "title_ko": "AI 사용이 만든 취약한 코드베이스",
+      "summary_ko": "AI가 자동 생성한 코드가 유지보수와 보안에 위험을 초래한다는 경고."
     },
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "points": 479,
-      "comments": 261,
-      "hn_url": "https://news.ycombinator.com/item?id=50427362",
-      "title_ko": "캐나다 실시간 결제 시스템(RTR) 출시 발표",
-      "summary_ko": "Payments Canada가 캐나다 전역에서 즉시 결제가 가능한 RTR 시스템 도입을 발표했습니다."
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "points": 277,
+      "comments": 136,
+      "hn_url": "https://news.ycombinator.com/item?id=50443824",
+      "title_ko": "Synaptics 특허가 DisplayLink 드라이버 개발을 중단시킴",
+      "summary_ko": "Synaptics의 특허 청구가 DisplayLink 드라이버 작업을 법적 위험으로 만든다."
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "points": 445,
-      "comments": 103,
-      "hn_url": "https://news.ycombinator.com/item?id=50429426",
-      "title_ko": "구글 제미니, 개인 드라이브 파일·이메일을 인간 주석가에게 전달",
-      "summary_ko": "구글 제미니가 사용자 파일·이메일을 인간 검토자에게 보내어 품질을 향상시키는 방식을 공개했습니다."
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "points": 246,
+      "comments": 69,
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "title_ko": "Show HN: 2019 JavaScript에서 최신 웹 프리미티브로 코딩 에이전트 전환",
+      "summary_ko": "구식 JavaScript 코드를 현대 웹 API로 교체해 개발 효율성을 높인다."
     },
     {
-      "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "points": 296,
-      "comments": 217,
-      "hn_url": "https://news.ycombinator.com/item?id=50431144",
-      "title_ko": "Claude Fable 5.2, 인공지능 분석 점수 65 기록, 사상 최고",
-      "summary_ko": "Claude Fable 5.2가 인공지능 분석 벤치마크에서 65점을 받아 사상 최고 점수를 달성했습니다."
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "points": 186,
+      "comments": 46,
+      "hn_url": "https://news.ycombinator.com/item?id=50441518",
+      "title_ko": "Show HN: 시뮬시티식 등각 뷰로 보는 스페인 발렌시아",
+      "summary_ko": "발렌시아를 등각 투시도로 재현해 도시 탐험을 게임처럼 제공한다."
     },
     {
-      "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "points": 285,
-      "comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=50426175",
-      "title_ko": "반투명·컬러 CdTe 태양전지, 농업용 태양광에 적용",
-      "summary_ko": "반투명 색상의 카드뮴 텔루라이드 패널이 농업용 태양광 설비에 활용되는 연구 결과를 다룹니다."
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "points": 135,
+      "comments": 44,
+      "hn_url": "https://news.ycombinator.com/item?id=50447074",
+      "title_ko": "7개월 뒤, Glasswing가 유지보수자를 실망스러운 결과로 압도",
+      "summary_ko": "Glasswing 프로젝트가 장기간 개발 후 기대 이하의 성과와 문제점을 드러냈다."
     },
     {
-      "title": "Muse Ember: Our smallest, most efficient model",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "points": 256,
-      "comments": 107,
-      "hn_url": "https://news.ycombinator.com/item?id=50429024",
-      "title_ko": "Muse Ember: 가장 작고 효율적인 모델",
-      "summary_ko": "Muse Ember가 기존 대비 크기는 작지만 효율은 크게 향상된 새로운 모델임을 소개합니다."
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "points": 96,
+      "comments": 61,
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
+      "title_ko": "Apple, 로컬 AI 모델 실행을 간편하게 하는 새 Mac 앱 출시 예정",
+      "summary_ko": "Mac에서 로컬 AI 모델을 손쉽게 구동하도록 돕는 Apple의 신규 애플리케이션이다."
     },
     {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "points": 195,
-      "comments": 598,
-      "hn_url": "https://news.ycombinator.com/item?id=50429068",
-      "title_ko": "Claude Fable 5.2와 Mythos 5.2 출시",
-      "summary_ko": "Claude Fable 5.2와 Mythos 5.2 두 AI 모델이 동시에 발표되어 기대를 모으고 있습니다."
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "points": 68,
+      "comments": 8,
+      "hn_url": "https://news.ycombinator.com/item?id=50443714",
+      "title_ko": "추론 엔지니어링을 위한 오픈 필드 가이드",
+      "summary_ko": "효율적인 모델 추론 파이프라인 구축을 위한 실무 지침을 종합적으로 제공한다."
     },
     {
-      "title": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100",
-      "url": "https://github.com/Dodaios/ste80-humanizer",
-      "points": 61,
-      "comments": 18,
-      "hn_url": "https://news.ycombinator.com/item?id=50429144",
-      "title_ko": "Show HN: STE80 Humanizer – 텍스트를 80% 자동으로 ASD-STE100에 맞게 변환",
-      "summary_ko": "STE80 Humanizer가 AI 텍스트를 인간 친화적으로 바꾸어 ASD-STE100 표준에 80% 도달하도록 돕습니다."
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "points": 8,
+      "comments": 1,
+      "hn_url": "https://news.ycombinator.com/item?id=50447036",
+      "title_ko": "CPU 재설계를 위한 3천만 달러 투자 유치",
+      "summary_ko": "새로운 CPU 아키텍처 개발을 목표로 3천만 달러 규모의 시드 펀딩을 받았다."
     }
   ],
   "reddit": [
     {
-      "title": "Is ArtificialAnalysis biased against open weight models?",
+      "title": "Apple has new Mac app coming to make running local AI models easy",
       "sub": "LocalLLaMA",
-      "author": "Rare_Subject2343",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs5pkl/is_artificialanalysis_biased_against_open_weight/",
-      "title_ko": "인공분석이 오픈 웨이트 모델에 편향돼 있나요?",
-      "summary_ko": "Reddit r/LocalLLaMA에서 인공분석이 오픈 웨이트 모델에 편향되는지 논의하는 글입니다."
+      "author": "themixtergames",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xszbe7/apple_has_new_mac_app_coming_to_make_running/",
+      "title_ko": "Apple, 로컬 AI 모델 실행을 간편하게 해줄 새로운 macOS 앱 출시",
+      "summary_ko": "로컬 AI 모델을 macOS에서 손쉽게 실행하도록 돕는 Apple의 신규 앱 출시."
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
       "sub": "MachineLearning",
       "author": "Beautiful_Baker_2233",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-      "title_ko": "ICLR 2027 리뷰 토론 [D]",
-      "summary_ko": "Reddit r/MachineLearning에서 ICLR 2027 논문 리뷰와 토론을 진행하는 스레드입니다."
+      "title_ko": "ICLR 2027 리뷰 토론 (Discussion)",
+      "summary_ko": "ICLR 2027 논문 리뷰에 대한 활발한 토론이 진행 중인 스레드."
     },
     {
-      "title": "Got another good reminder why local matters today",
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
       "sub": "LocalLLaMA",
-      "author": "stevie_balemi",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xs3y17/got_another_good_reminder_why_local_matters_today/",
-      "title_ko": "오늘도 로컬이 중요한 이유를 다시 상기시켜 줍니다",
-      "summary_ko": "Reddit r/LocalLLaMA에서 로컬 모델의 중요성을 강조하는 최신 사례를 공유한 글입니다."
+      "author": "Thrumpwart",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xswmb7/the_surprising_effectiveness_of_deleting_weights/",
+      "title_ko": "LLM 사후 학습에서 가중치 삭제가 놀라운 효과를 보인다",
+      "summary_ko": "LLM 사후 학습 단계에서 가중치를 삭제하면 예기치 않은 성능 향상이 나타난다."
     },
     {
-      "title": "Follow-up: 2026 papers are finally in the topic pages, and we made ICML / CVPR / ICLR 2026 \"newspapers\"[P]",
+      "title": "I benchmarked TimesFM 3.0, Chronos-2 and Toto 2.0 on market time series. None beat simple baseline. [P]",
       "sub": "MachineLearning",
-      "author": "latenticlabs",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xs6494/followup_2026_papers_are_finally_in_the_topic/",
-      "title_ko": "후속: 2026년 논문이 주제 페이지에 올라왔으며 ICML·CVPR·ICLR 2026 ‘신문’ 제작",
-      "summary_ko": "Reddit r/MachineLearning에서 2026년 주요 학회 논문을 정리한 ‘신문’ 형태 페이지를 소개합니다."
+      "author": "AdelSexy",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xsqztt/i_benchmarked_timesfm_30_chronos2_and_toto_20_on/",
+      "title_ko": "TimesFM 3.0·Chronos-2·Toto 2.0을 시계열 데이터에 벤치마크, 모두 단순 베이스라인보다 못함",
+      "summary_ko": "TimesFM 3.0·Chronos-2·Toto 2.0을 시계열 데이터에 테스트했지만 모두 간단한 베이스라인보다 못했다."
     },
     {
-      "title": "More interesting and unusual Qwen3.5-4B neurons",
+      "title": "MiniMax H3-Image Released, an Open-Weight Image Model built on H3",
       "sub": "LocalLLaMA",
-      "author": "Tasty-Ad-3753",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xrydgx/more_interesting_and_unusual_qwen354b_neurons/",
-      "title_ko": "더 흥미롭고 특이한 Qwen3.5-4B 뉴런들",
-      "summary_ko": "Reddit r/LocalLLaMA에서 Qwen3.5-4B 모델의 독특한 뉴런 행동을 분석한 글입니다."
+      "author": "MagicZhang",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xso1ie/minimax_h3image_released_an_openweight_image/",
+      "title_ko": "MiniMax H3-Image, H3 기반 오픈 가중치 이미지 모델 공개",
+      "summary_ko": "H3 기반 오픈 가중치 이미지 모델 MiniMax H3-Image가 공개돼 연구자들이 자유롭게 활용 가능."
     },
     {
       "title": "Did we ever really get to the bottom of why BatchNorm works? [D]",
       "sub": "MachineLearning",
       "author": "XTXinverseXTY",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xsasyf/did_we_ever_really_get_to_the_bottom_of_why/",
-      "title_ko": "BatchNorm이 왜 작동하는지 완전히 파악했나요? [D]",
-      "summary_ko": "Reddit r/MachineLearning에서 BatchNorm 메커니즘에 대한 깊이 있는 논의를 다룬 토론 스레드입니다."
+      "title_ko": "BatchNorm 작동 원인을 완전히 이해했는가? 논의",
+      "summary_ko": "BatchNorm이 왜 효과적인지에 대한 근본적인 이해가 아직 부족하다는 논의가 이어진다."
     }
   ],
-  "youtube": [],
-  "social": [
+  "youtube": [
     {
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "handle": "@fable-5-2-one-shotted-my-nephews-dream-game",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "note": "HN 186pts · 134 댓글",
-      "title_ko": "Fable 5.2가 조카의 꿈의 게임을 한 방에 날려버렸다",
-      "summary_ko": "트위터에서 화제가 된 글로, Fable 5.2 업데이트가 조카가 기대하던 게임을 망쳤다는 반응을 보여 주목받고 있다."
+      "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin’ … (plus Gemini Carbon)",
+      "channel": "AI Explained",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "published": "2026-11-10",
+      "desc": "I’ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There’s too much to cover in one video, but let’s explore everything from how fast AI is accelerating AI, five benchmarks few others will talk ",
+      "title_ko": "Fable 5.2: 자기 개선 루프가 계속된다 … (플러스 Gemini Carbon)",
+      "summary_ko": "AI Explained가 264쪽 Fable 5.2 보고서와 Gemini Carbon을 직접 테스트하며 핵심을 짚어준다."
     }
   ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
