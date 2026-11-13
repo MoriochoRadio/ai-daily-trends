@@ -1,275 +1,229 @@
 {
-  "generated_at": "2026-11-12T01:56:41.434946+00:00",
-  "date_label": "2026년 11월 12일 (목)",
+  "generated_at": "2026-11-13T01:15:27.375661+00:00",
+  "date_label": "2026년 11월 13일 (금)",
   "github_trending": [
     {
-      "repo": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 1032,
+      "stars_today": 1294,
       "lang": "Python",
-      "summary_ko": "Anthropic이 제공하는 다양한 AI 스킬 컬렉션으로, 프롬프트 설계와 활용 예시를 확인할 수 있습니다."
+      "summary_ko": "ZhuLinsen/daily_stock_analysis는 매일 주식 데이터를 자동 분석해 투자 인사이트를 제공하는 파이썬 프로젝트로, 실시간 트렌드 파악에 유용합니다."
     },
     {
       "repo": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "desc": "",
-      "stars_today": 787,
+      "stars_today": 816,
       "lang": "JavaScript",
-      "summary_ko": "Addy Osmani가 만든 에이전트 스킬 모음으로, 웹 개발 자동화를 위한 도구와 예제가 포함됩니다."
-    },
-    {
-      "repo": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "desc": "",
-      "stars_today": 708,
-      "lang": "Rust",
-      "summary_ko": "Vercel Labs의 에이전트 브라우저 프로젝트로, 서버리스 환경에서 브라우저 자동화를 실험합니다."
+      "summary_ko": "addyosmani/agent-skills는 AI 에이전트가 수행할 수 있는 다양한 스킬을 정의·시연하는 레포로, 멀티모달 에이전트 개발에 참고됩니다."
     },
     {
       "repo": "homeassistant-ai/ha-mcp",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "desc": "",
-      "stars_today": 645,
+      "stars_today": 714,
       "lang": "Python",
-      "summary_ko": "Home Assistant AI용 MCP(멀티컨텍스트 플러그인)로, 스마트 홈 자동화를 AI와 연동합니다."
-    },
-    {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "desc": "",
-      "stars_today": 636,
-      "lang": "Python",
-      "summary_ko": "Alishahryar1이 공유한 무료 Claude 코드 샘플로, Claude API 활용 예제를 제공합니다."
-    },
-    {
-      "repo": "anthropics/claude-quickstarts",
-      "url": "https://github.com/anthropics/claude-quickstarts",
-      "desc": "",
-      "stars_today": 430,
-      "lang": "Python",
-      "summary_ko": "Anthropic의 Claude 빠른 시작 가이드로, 모델 초기 설정과 기본 사용법을 안내합니다."
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "desc": "",
-      "stars_today": 278,
-      "lang": "Python",
-      "summary_ko": "ZhuLinsen의 일일 주식 분석 스크립트로, 자동으로 시장 데이터를 수집·분석합니다."
-    },
-    {
-      "repo": "soxoj/maigret",
-      "url": "https://github.com/soxoj/maigret",
-      "desc": "",
-      "stars_today": 260,
-      "lang": "Python",
-      "summary_ko": "Soxoj가 만든 Maigret 도구는 다양한 온라인 서비스에서 사용자 정보를 수집합니다."
-    },
-    {
-      "repo": "langchain-ai/rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
-      "desc": "",
-      "stars_today": 144,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "LangChain AI의 RAG from Scratch 튜토리얼로, 검색 기반 생성 AI 파이프라인을 직접 구현합니다."
-    },
-    {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "desc": "",
-      "stars_today": 75,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 AI Agents for Beginners 교육 자료로, 에이전트 개념과 구현 예제를 배웁니다."
-    },
-    {
-      "repo": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "desc": "",
-      "stars_today": 62,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft의 Generative AI for Beginners 입문서로, 생성 AI 기본 원리와 실습을 제공합니다."
+      "summary_ko": "homeassistant-ai/ha-mcp는 Home Assistant와 AI 모델을 연동해 스마트 홈 자동화를 강화하는 통합 프레임워크입니다."
     },
     {
       "repo": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "desc": "",
-      "stars_today": 52,
+      "stars_today": 643,
       "lang": "TypeScript",
-      "summary_ko": "OpenAI의 Codex Security 가이드로, 코드 생성 AI 사용 시 보안 위험과 방지책을 설명합니다."
+      "summary_ko": "openai/codex-security는 코드 생성 AI의 보안 위험을 평가·완화하는 도구와 가이드라인을 제공해 안전한 코딩을 돕습니다."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "",
+      "stars_today": 415,
+      "lang": "Python",
+      "summary_ko": "Alishahryar1/free-claude-code는 Claude 모델용 무료 코드 템플릿을 모아 개발 생산성을 높이는 리소스 모음입니다."
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "desc": "",
+      "stars_today": 124,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "langchain-ai/rag-from-scratch는 RAG 파이프라인을 처음부터 구현하는 튜토리얼로, 검색 기반 생성 AI 학습에 적합합니다."
+    },
+    {
+      "repo": "openai/whisper",
+      "url": "https://github.com/openai/whisper",
+      "desc": "",
+      "stars_today": 113,
+      "lang": "Python",
+      "summary_ko": "openai/whisper는 고정밀 음성 인식 모델로, 다양한 언어와 환경에서 텍스트 변환을 지원합니다."
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "",
+      "stars_today": 102,
+      "lang": "Python",
+      "summary_ko": "davila7/claude-code-templates는 Claude용 코드 스니펫을 제공해 AI 보조 코딩 작업을 빠르게 시작할 수 있게 합니다."
+    },
+    {
+      "repo": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "desc": "",
+      "stars_today": 98,
+      "lang": "Python",
+      "summary_ko": "huggingface/transformers는 최신 NLP 모델을 손쉽게 활용할 수 있는 라이브러리로, 연구·실무 모두에 필수입니다."
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "desc": "",
+      "stars_today": 88,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트 개발 입문자를 위한 단계별 예제와 학습 자료를 제공합니다."
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 68,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "lyogavin/airllm은 LLM을 클라우드·에지 환경에 배포·운영하는 도구 모음으로, 확장성 높은 AI 서비스 구축에 유용합니다."
+    },
+    {
+      "repo": "oaustegard/claude-skills",
+      "url": "https://github.com/oaustegard/claude-skills",
+      "desc": "",
+      "stars_today": 34,
+      "lang": "Python",
+      "summary_ko": "oaustegard/claude-skills는 Claude 모델에 새로운 기능을 추가하는 스킬 샘플 컬렉션으로, 커스텀 AI 개발에 활용됩니다."
     }
   ],
   "hackernews": [
     {
-      "title": "My AI agents found an unmapped Maya site?",
-      "url": "https://pietromiotti.com/latest/maya-site",
-      "points": 928,
-      "comments": 338,
-      "hn_url": "https://news.ycombinator.com/item?id=50452455",
-      "title_ko": "내 AI 에이전트가 미지의 마야 유적지를 발견했나요?",
-      "summary_ko": "AI 에이전트가 지도에 없는 마야 유적지를 찾아냈다는 흥미로운 사례를 다룹니다."
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "points": 809,
+      "comments": 801,
+      "hn_url": "https://news.ycombinator.com/item?id=50465829",
+      "title_ko": "Anthropic IPO",
+      "summary_ko": "Anthropic의 기업공개 소식이 해커뉴스에 올라와 투자와 AI 업계 동향을 주목받고 있습니다."
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-      "points": 371,
-      "comments": 354,
-      "hn_url": "https://news.ycombinator.com/item?id=50458900",
-      "title_ko": "유나이티드 항공, 여행자 대신 AI 에이전트가 예약하는 행위 금지",
-      "summary_ko": "유나이티드 항공이 고객 대신 AI 에이전트가 항공권을 예약하는 것을 공식 금지했습니다."
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "points": 453,
+      "comments": 294,
+      "hn_url": "https://news.ycombinator.com/item?id=50471431",
+      "title_ko": "Gemini 4 Hydrogen",
+      "summary_ko": "Google Gemini 4 Hydrogen 모델이 발표돼 최신 멀티모달 성능과 효율성을 강조합니다."
     },
     {
-      "title": "Gemini Decisions API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "points": 273,
-      "comments": 85,
-      "hn_url": "https://news.ycombinator.com/item?id=50456791",
-      "title_ko": "Gemini Decisions API",
-      "summary_ko": "Google Gemini가 제공하는 의사결정 지원 API로, 개발자가 AI 기반 판단을 손쉽게 통합할 수 있습니다."
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "points": 290,
+      "comments": 67,
+      "hn_url": "https://news.ycombinator.com/item?id=50472260",
+      "title_ko": "Gemini 4 Hydrogen 및 Orchestrator",
+      "summary_ko": "Gemini 4 Hydrogen에 Orchestrator 기능이 추가돼 복합 작업 흐름 관리가 가능해졌습니다."
     },
     {
-      "title": "Jensen Huang said to have had relationship with executive who reports to him",
-      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-      "points": 199,
-      "comments": 181,
-      "hn_url": "https://news.ycombinator.com/item?id=50459321",
-      "title_ko": "젠슨 황, 자신에게 보고하는 임원과 연인 관계였던 것으로 알려져",
-      "summary_ko": "엔비디아 CEO 젠슨 황이 직속 부하와 사적인 관계였다는 소식이 화제를 모으고 있습니다."
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "points": 277,
+      "comments": 92,
+      "hn_url": "https://news.ycombinator.com/item?id=50468888",
+      "title_ko": "LLM을 구형·저사양 기기에 적용하기",
+      "summary_ko": "오래된 디바이스에서도 대형 언어 모델을 구동하기 위한 경량화 기술과 실험 결과를 소개합니다."
     },
     {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "url": "https://blog.atuin.sh/threads-agent-sessions/",
-      "points": 191,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "points": 145,
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "title_ko": "중국 최전선 AI 모델, 수출 제한 GPU 흔적 보유",
+      "summary_ko": "중국 AI 모델이 미국 수출 통제 GPU의 특성을 남겨 국제 반도체 정책 논쟁을 촉발합니다."
+    },
+    {
+      "title": "Libreagi – Save OSS Models",
+      "url": "https://libreagi.com/",
+      "points": 128,
+      "comments": 25,
+      "hn_url": "https://news.ycombinator.com/item?id=50467439",
+      "title_ko": "Libreagi – OSS 모델 보호 프로젝트",
+      "summary_ko": "오픈소스 AI 모델을 안전하게 보관·배포하기 위한 Libreagi 플랫폼이 소개됩니다."
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "points": 116,
+      "comments": 15,
+      "hn_url": "https://news.ycombinator.com/item?id=50474361",
+      "title_ko": "Foundation Models 프레임워크",
+      "summary_ko": "다양한 파운데이션 모델을 손쉽게 연결·활용할 수 있는 통합 프레임워크가 발표되었습니다."
+    },
+    {
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "points": 80,
       "comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=50453637",
-      "title_ko": "Atuin Threads: 모든 머신에서 에이전트 세션을 동기화",
-      "summary_ko": "Atuin Threads는 여러 컴퓨터에 걸쳐 AI 에이전트 세션을 일관되게 관리·동기화하는 도구입니다."
-    },
-    {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "url": "https://machinelearning.apple.com/research/faster-retrieval",
-      "points": 153,
-      "comments": 28,
-      "hn_url": "https://news.ycombinator.com/item?id=50455633",
-      "title_ko": "더 빠른 검색으로 효율적인 RAG 구현",
-      "summary_ko": "RAG(검색 증강 생성) 성능을 높이는 새로운 고속 검색 기법을 소개합니다."
-    },
-    {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "url": "https://www.mcmillen.dev/sigbovik/",
-      "points": 146,
-      "comments": 23,
-      "hn_url": "https://news.ycombinator.com/item?id=50459745",
-      "title_ko": "페인트 스플래터 93%가 유효한 Perl 프로그램 (2019)",
-      "summary_ko": "우연히 생성된 페인트 스플래터 코드 중 93%가 실행 가능한 Perl 프로그램이라는 재미있는 연구 결과입니다."
-    },
-    {
-      "title": "Huawei releases MACaQ, its internal quantizer for local inference",
-      "url": "https://github.com/huawei-csl/MACaQ",
-      "points": 60,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=50458166",
-      "title_ko": "화웨이, 로컬 추론용 내부 양자화기 MACaQ 출시",
-      "summary_ko": "화웨이가 자체 개발한 양자화 엔진 MACaQ를 공개해 로컬 AI 추론 효율성을 크게 향상시켰습니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "title_ko": "AI가 Apple 앱 리뷰를 난관으로 만들다",
+      "summary_ko": "생성 AI 앱이 Apple의 검토 절차에서 거부당하면서 개발자와 정책 사이 갈등이 부각됩니다."
     }
   ],
   "reddit": [
     {
-      "title": "Nvidia is Preparing to Oust Nvidia CEO Jensen Huang",
+      "title": "So this will be true in couple of years?",
       "sub": "LocalLLaMA",
-      "author": "fallingdowndizzyvr",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtvsi7/nvidia_is_preparing_to_oust_nvidia_ceo_jensen/",
-      "title_ko": "엔비디아, CEO 젠슨 황 퇴출 준비 중",
-      "summary_ko": "레딧 r/LocalLLaMA에서 엔비디아가 현 CEO를 교체하려는 움직임을 논의하고 있어 주목됩니다."
+      "author": "UltramanQuar",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
+      "title_ko": "몇 년 안에 사실이 될까?",
+      "summary_ko": "Reddit r/LocalLLaMA에서 향후 몇 년 내 실현 가능성을 논의한 글"
     },
     {
-      "title": "ICLR 2027 Reviews Discussion [D]",
-      "sub": "MachineLearning",
-      "author": "Beautiful_Baker_2233",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
-      "title_ko": "ICLR 2027 리뷰 토론 [D]",
-      "summary_ko": "레딧 r/MachineLearning에서 ICLR 2027 논문 리뷰 과정과 개선 방안을 활발히 논의하고 있습니다."
-    },
-    {
-      "title": "Open source self driving is here!",
+      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
       "sub": "LocalLLaMA",
-      "author": "Course_Latter",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtmeif/open_source_self_driving_is_here/",
-      "title_ko": "오픈소스 자율주행이 도래했습니다!",
-      "summary_ko": "레딧 r/LocalLLaMA에서 최신 오픈소스 자율주행 프로젝트가 공개돼 기술 확산 가능성이 커졌습니다."
+      "author": "Merchant_Lawrence",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
+      "title_ko": "Hugging Face CEO, Jensen Huang 퇴임 후에도 오픈소스 AI 옹호 지속 선언",
+      "summary_ko": "Hugging Face 대표가 NVIDIA CEO 사퇴에도 오픈소스 AI 지원 의지를 재확인한 내용"
     },
     {
-      "title": "Can we talk about the ML research coming from China? [D]",
-      "sub": "MachineLearning",
-      "author": "Strong_Boy_757",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
-      "title_ko": "중국 ML 연구에 대해 이야기해볼까요? [D]",
-      "summary_ko": "레딧 r/MachineLearning에서 중국의 머신러닝 연구 동향과 영향력을 심도 있게 다루고 있습니다."
-    },
-    {
-      "title": "New Qwen3.8-27B Unsloth Dynamic V3.1 GGUFs",
+      "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
       "sub": "LocalLLaMA",
-      "author": "danielhanchen",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xtlyhe/new_qwen3827b_unsloth_dynamic_v31_ggufs/",
-      "title_ko": "새로운 Qwen3.8-27B Unsloth Dynamic V3.1 GGUF 출시",
-      "summary_ko": "레딧 r/LocalLLaMA에서 최신 Qwen3.8-27B 모델의 Unsloth Dynamic V3.1 GGUF 파일이 공개돼 관심을 모으고 있습니다."
+      "author": "Limp_Classroom_2645",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
+      "title_ko": "Jensen Huang의 실수: LocalAI 과다 지지, ClosedAI·Anthropic IPO 위협",
+      "summary_ko": "Jensen Huang이 LocalAI를 지나치게 지원해 경쟁사 IPO 위험을 초래했다는 주장"
     },
     {
-      "title": "Have people given up on ICLR reviews? [D]",
-      "sub": "MachineLearning",
-      "author": "MakingComputersSmart",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt0px/have_people_given_up_on_iclr_reviews_d/",
-      "title_ko": "ICLR 리뷰 포기 현상에 대한 논의 [D]",
-      "summary_ko": "레딧 r/MachineLearning에서 ICLR 리뷰 참여 감소와 그 원인에 대해 활발히 토론되고 있습니다."
+      "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+      "sub": "LocalLLaMA",
+      "author": "ShreckAndDonkey123",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
+      "title_ko": "NVIDIA Jensen Huang 사퇴, Colette Kress interim CEO 선임",
+      "summary_ko": "NVIDIA CEO Jensen Huang이 사임하고 Colette Kress가 임시 대표로 지정됐다는 소식"
+    },
+    {
+      "title": "Jensen today at Nvidia board meeting",
+      "sub": "LocalLLaMA",
+      "author": "TheNASAguy",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
+      "title_ko": "Jensen, 오늘 NVIDIA 이사회 회의 참석",
+      "summary_ko": "Jensen Huang이 NVIDIA 이사회 회의에 오늘 참석한 사실을 전한 글"
+    },
+    {
+      "title": "CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
+      "sub": "LocalLLaMA",
+      "author": "chemist_slime",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
+      "title_ko": "CMP170hx 완전 잠금 해제, 120 SM·80GB VRAM A100 수준으로 변신",
+      "summary_ko": "전압 글리치 해킹으로 $2,500 GPU를 $20,000 A100 수준으로 업그레이드한 기술 내용"
     }
   ],
-  "youtube": [
-    {
-      "title": "The future of modern warfare | Russia-Ukraine War - Military Analysis",
-      "channel": "Lex Fridman",
-      "url": "https://www.youtube.com/watch?v=o5XUwJ7uI6U",
-      "published": "2026-11-12",
-      "desc": "Lex Fridman Podcast full episode: https://youtube.com/watch?v=2hJkprFnzhY Thank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv10135-sb See below for guest bio, transcript, links, and to give feedback, submit questions, contact Lex, etc. *GUEST BIO:",
-      "title_ko": "현대 전쟁의 미래·러시아‑우크라이나 전쟁 분석",
-      "summary_ko": "Lex Fridman 팟캐스트에서 러·우 전쟁과 현대 전쟁의 향후 방향을 군사적으로 고찰한다."
-    },
-    {
-      "title": "Claude Fable 5.2 is a freak",
-      "channel": "AI Search",
-      "url": "https://www.youtube.com/watch?v=S7lpCyZSdJQ",
-      "published": "2026-11-11",
-      "desc": "Claude Fable 5.2 review. #ai #aitools #ainews #llm #singularity #agi Thanks to our sponsor Higgsfield. Try it today https://higgsfield.ai/s/theaisearch-GjEKsU https://www.anthropic.com/claude-fable-and-mythos-5-2 00:00 Claude Fable 5.2 intro 00:23 Claude Code 00:54 Animation vide",
-      "title_ko": "Claude Fable 5.2, 놀라운 성능",
-      "summary_ko": "AI Search 채널이 Anthropic 최신 LLM Claude Fable 5.2를 리뷰하며 특징과 활용 가능성을 소개한다."
-    },
-    {
-      "title": "AI 시대, 관측을 다시 생각하다.(김도이/KAIST/박사과정)",
-      "channel": "빵형의 개발도상국",
-      "url": "https://www.youtube.com/watch?v=P41WIoa6KyE",
-      "published": "2026-11-11",
-      "desc": "AI 기상예측 기술의 발전과 함께, 시뮬레이션 데이터와 희소한 실제 관측자료를 효과적으로 결합하는 방법이 중요해지고 있습니다. 본 발표에서는 위성·지상관측자료를 활용한 고해상도 강수장 생성(QCGS)과 관측 기반 AI 기상예측 모델 초기화(DADA) 연구를 소개합니다. 나아가 전지구 관측 기반 AI 연구의 최근 동향과 AI 시대에 관측정보의 가치와 활용 방향에 대해 논의하고자 합니다. 🎙️ New to streaming or looking to level up? Check out StreamYar",
-      "title_ko": "AI 시대, 관측을 다시 생각하다.(김도이/KAIST/박사과정)",
-      "summary_ko": "KAIST 김도이 박사과정 연구자가 위성·지상 관측과 AI를 결합한 고해상도 강수장 생성 및 모델 초기화 방법을 발표한다."
-    },
-    {
-      "title": "EP.01 #AI개발자 가 꺼내는 진짜 이야기들  |  #CrewNote",
-      "channel": "테디노트",
-      "url": "https://www.youtube.com/watch?v=oCm591xdKVg",
-      "published": "2026-10-29",
-      "desc": "여기 서로 다른 길을 걸어오다 AI를 만드는 일을 하게 된 세 사람이 있습니다. CrewNote 첫 번째 이야기의 주인공은 브레인크루 Research Engineering Team의 Dante, Kane, Sean 입니다. 편의점과 콜센터에서 일하며 앞으로 무엇을 하며 살아갈지 고민하던 한 사람은 국비 학원을 거쳐 개발자가 됐습니다. 그렇게 만난 브레인크루 동료들과 이제는 AI로 기업의 업무를 바꾸는 일을 하고 있습니다. AI로 빠르게 변해가는 지금, 개발자는 어떤 역할을 해야 할까요? 사무실에서",
-      "title_ko": "EP.01 AI 개발자들의 솔직한 이야기 | CrewNote",
-      "summary_ko": "테디노트가 AI 개발자 3인의 다양한 배경과 현재 프로젝트를 인터뷰 형식으로 소개한다."
-    },
-    {
-      "title": "The Sphere Intersection Puzzle",
-      "channel": "Andrej Karpathy",
-      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
-      "published": "2026-10-25",
-      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
-      "title_ko": "구면 교차 퍼즐",
-      "summary_ko": "Andrej Karpathy가 제시한 구면 교차 퍼즐과 풀이 힌트를 통해 수학적 사고를 자극한다."
-    }
-  ],
+  "youtube": [],
   "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
