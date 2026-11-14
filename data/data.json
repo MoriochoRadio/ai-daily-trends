@@ -1,86 +1,78 @@
 {
-  "generated_at": "2026-11-13T01:15:27.375661+00:00",
-  "date_label": "2026년 11월 13일 (금)",
+  "generated_at": "2026-11-14T00:55:55.652822+00:00",
+  "date_label": "2026년 11월 14일 (토)",
   "github_trending": [
     {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
       "desc": "",
-      "stars_today": 1294,
+      "stars_today": 787,
       "lang": "Python",
-      "summary_ko": "ZhuLinsen/daily_stock_analysis는 매일 주식 데이터를 자동 분석해 투자 인사이트를 제공하는 파이썬 프로젝트로, 실시간 트렌드 파악에 유용합니다."
-    },
-    {
-      "repo": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "desc": "",
-      "stars_today": 816,
-      "lang": "JavaScript",
-      "summary_ko": "addyosmani/agent-skills는 AI 에이전트가 수행할 수 있는 다양한 스킬을 정의·시연하는 레포로, 멀티모달 에이전트 개발에 참고됩니다."
-    },
-    {
-      "repo": "homeassistant-ai/ha-mcp",
-      "url": "https://github.com/homeassistant-ai/ha-mcp",
-      "desc": "",
-      "stars_today": 714,
-      "lang": "Python",
-      "summary_ko": "homeassistant-ai/ha-mcp는 Home Assistant와 AI 모델을 연동해 스마트 홈 자동화를 강화하는 통합 프레임워크입니다."
+      "summary_ko": "Claude 기반 코드 생성 템플릿을 제공해 개발 생산성을 높이는 프로젝트입니다."
     },
     {
       "repo": "openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "desc": "",
-      "stars_today": 643,
+      "stars_today": 751,
       "lang": "TypeScript",
-      "summary_ko": "openai/codex-security는 코드 생성 AI의 보안 위험을 평가·완화하는 도구와 가이드라인을 제공해 안전한 코딩을 돕습니다."
+      "summary_ko": "OpenAI Codex 보안 가이드와 도구 모음으로 코드 안전성을 강화합니다."
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "desc": "",
-      "stars_today": 415,
+      "stars_today": 256,
       "lang": "Python",
-      "summary_ko": "Alishahryar1/free-claude-code는 Claude 모델용 무료 코드 템플릿을 모아 개발 생산성을 높이는 리소스 모음입니다."
+      "summary_ko": "일일 주식 데이터를 분석해 자동화된 투자 인사이트를 제공하는 레포입니다."
     },
     {
-      "repo": "langchain-ai/rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "repo": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
       "desc": "",
-      "stars_today": 124,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "langchain-ai/rag-from-scratch는 RAG 파이프라인을 처음부터 구현하는 튜토리얼로, 검색 기반 생성 AI 학습에 적합합니다."
+      "stars_today": 256,
+      "lang": "Go",
+      "summary_ko": "Tailscale 네트워크를 활용한 원격 로그 스트리밍 도구 tailcat을 소개합니다."
     },
     {
-      "repo": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
+      "repo": "ahujasid/mcp-for-blender",
+      "url": "https://github.com/ahujasid/mcp-for-blender",
       "desc": "",
-      "stars_today": 113,
+      "stars_today": 136,
       "lang": "Python",
-      "summary_ko": "openai/whisper는 고정밀 음성 인식 모델로, 다양한 언어와 환경에서 텍스트 변환을 지원합니다."
+      "summary_ko": "Blender용 MCP 플러그인으로 3D 모델링 워크플로우를 자동화합니다."
     },
     {
-      "repo": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
       "desc": "",
-      "stars_today": 102,
+      "stars_today": 130,
       "lang": "Python",
-      "summary_ko": "davila7/claude-code-templates는 Claude용 코드 스니펫을 제공해 AI 보조 코딩 작업을 빠르게 시작할 수 있게 합니다."
+      "summary_ko": "Claude 플러그인 공식 레포로 AI 기능 확장을 위한 샘플과 문서를 포함합니다."
     },
     {
-      "repo": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
+      "repo": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
       "desc": "",
-      "stars_today": 98,
+      "stars_today": 120,
       "lang": "Python",
-      "summary_ko": "huggingface/transformers는 최신 NLP 모델을 손쉽게 활용할 수 있는 라이브러리로, 연구·실무 모두에 필수입니다."
+      "summary_ko": "Headroom AI가 제공하는 프롬프트 최적화 및 비용 절감 솔루션입니다."
+    },
+    {
+      "repo": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "desc": "",
+      "stars_today": 69,
+      "lang": "Python",
+      "summary_ko": "Claude를 활용한 트레이딩 전략과 자동 매매 스킬을 공유하는 레포입니다."
     },
     {
       "repo": "microsoft/ai-agents-for-beginners",
       "url": "https://github.com/microsoft/ai-agents-for-beginners",
       "desc": "",
-      "stars_today": 88,
+      "stars_today": 69,
       "lang": "Jupyter Notebook",
-      "summary_ko": "microsoft/ai-agents-for-beginners는 AI 에이전트 개발 입문자를 위한 단계별 예제와 학습 자료를 제공합니다."
+      "summary_ko": "AI 에이전트 입문자를 위한 마이크로소프트 교육 자료와 실습 예제 모음입니다."
     },
     {
       "repo": "lyogavin/airllm",
@@ -88,142 +80,183 @@
       "desc": "",
       "stars_today": 68,
       "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm은 LLM을 클라우드·에지 환경에 배포·운영하는 도구 모음으로, 확장성 높은 AI 서비스 구축에 유용합니다."
+      "summary_ko": "AirLLM은 경량 LLM 배포와 추론을 위한 파이프라인을 구현한 프로젝트입니다."
     },
     {
-      "repo": "oaustegard/claude-skills",
-      "url": "https://github.com/oaustegard/claude-skills",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "desc": "",
-      "stars_today": 34,
+      "stars_today": 67,
+      "lang": "TypeScript",
+      "summary_ko": "Chrome DevTools용 MCP 플러그인으로 개발자 도구 확장 기능을 제공합니다."
+    },
+    {
+      "repo": "langchain-ai/rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "desc": "",
+      "stars_today": 64,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "RAG(Retrieval‑Augmented Generation) 구현을 처음부터 단계별로 설명하는 레포입니다."
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "desc": "",
+      "stars_today": 62,
       "lang": "Python",
-      "summary_ko": "oaustegard/claude-skills는 Claude 모델에 새로운 기능을 추가하는 스킬 샘플 컬렉션으로, 커스텀 AI 개발에 활용됩니다."
+      "summary_ko": "Claude 코드 템플릿 컬렉션으로 다양한 언어의 코드 스니펫을 제공합니다."
+    },
+    {
+      "repo": "avenoxai/avenoxbeyin",
+      "url": "https://github.com/avenoxai/avenoxbeyin",
+      "desc": "",
+      "stars_today": 51,
+      "lang": "Python",
+      "summary_ko": "AvenoxBeyin은 한국어 AI 모델 학습 및 배포를 위한 오픈소스 프레임워크입니다."
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "desc": "",
+      "stars_today": 49,
+      "lang": "Python",
+      "summary_ko": "LangChain의 최신 그래프 기반 워크플로우 엔진 LangGraph를 소개합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Anthropic IPO",
-      "url": "https://ipo.anthropic.com/us/",
-      "points": 809,
-      "comments": 801,
-      "hn_url": "https://news.ycombinator.com/item?id=50465829",
-      "title_ko": "Anthropic IPO",
-      "summary_ko": "Anthropic의 기업공개 소식이 해커뉴스에 올라와 투자와 AI 업계 동향을 주목받고 있습니다."
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "points": 669,
+      "comments": 198,
+      "hn_url": "https://news.ycombinator.com/item?id=50474959",
+      "title_ko": "코웨이 공기청정기 역공학으로 클라우드 탈피",
+      "summary_ko": "클라우드 의존을 없애기 위해 코웨이 공기청정기를 직접 분석·수정한 사례가 주목받는다."
     },
     {
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "points": 453,
-      "comments": 294,
-      "hn_url": "https://news.ycombinator.com/item?id=50471431",
-      "title_ko": "Gemini 4 Hydrogen",
-      "summary_ko": "Google Gemini 4 Hydrogen 모델이 발표돼 최신 멀티모달 성능과 효율성을 강조합니다."
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "points": 318,
+      "comments": 90,
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "title_ko": "AI가 괴델 노트북을 해독해 수백 개 정리된 정리 증명 공개",
+      "summary_ko": "AI가 괴델의 손글씨 노트를 디지털화해 수백 개의 증명된 정리를 밝혀 학계 관심을 끈다."
     },
     {
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "points": 290,
-      "comments": 67,
-      "hn_url": "https://news.ycombinator.com/item?id=50472260",
-      "title_ko": "Gemini 4 Hydrogen 및 Orchestrator",
-      "summary_ko": "Gemini 4 Hydrogen에 Orchestrator 기능이 추가돼 복합 작업 흐름 관리가 가능해졌습니다."
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "points": 208,
+      "comments": 35,
+      "hn_url": "https://news.ycombinator.com/item?id=50487185",
+      "title_ko": "600번 실험 후 밝혀진 JEPA 세계 모델의 핵심 인사이트",
+      "summary_ko": "600번의 실험을 통해 JEPA 기반 세계 모델의 성능·제한점을 체계적으로 정리했다."
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "url": "https://github.com/hyperionaidev/smolmaxxing/",
-      "points": 277,
-      "comments": 92,
-      "hn_url": "https://news.ycombinator.com/item?id=50468888",
-      "title_ko": "LLM을 구형·저사양 기기에 적용하기",
-      "summary_ko": "오래된 디바이스에서도 대형 언어 모델을 구동하기 위한 경량화 기술과 실험 결과를 소개합니다."
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "points": 163,
+      "comments": 41,
+      "hn_url": "https://news.ycombinator.com/item?id=50490593",
+      "title_ko": "KORS(캘리포니아) 전 주파수 실시간 방송 및 지상 정지 알림",
+      "summary_ko": "캘리포니아 빅토리아 지역 KORS가 모든 주파수에서 실시간 방송을 중단하고 지상 정지를 선언했다."
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
-      "points": 145,
-      "comments": 42,
-      "hn_url": "https://news.ycombinator.com/item?id=50474883",
-      "title_ko": "중국 최전선 AI 모델, 수출 제한 GPU 흔적 보유",
-      "summary_ko": "중국 AI 모델이 미국 수출 통제 GPU의 특성을 남겨 국제 반도체 정책 논쟁을 촉발합니다."
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "points": 153,
+      "comments": 31,
+      "hn_url": "https://news.ycombinator.com/item?id=50489652",
+      "title_ko": "미국 전 공항 현재 지상 정지 상태",
+      "summary_ko": "전국 모든 공항이 항공기 운항을 중단하고 지상 정지 조치를 시행하고 있다."
     },
     {
-      "title": "Libreagi – Save OSS Models",
-      "url": "https://libreagi.com/",
-      "points": 128,
-      "comments": 25,
-      "hn_url": "https://news.ycombinator.com/item?id=50467439",
-      "title_ko": "Libreagi – OSS 모델 보호 프로젝트",
-      "summary_ko": "오픈소스 AI 모델을 안전하게 보관·배포하기 위한 Libreagi 플랫폼이 소개됩니다."
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "points": 94,
+      "comments": 19,
+      "hn_url": "https://news.ycombinator.com/item?id=50488464",
+      "title_ko": "Perplexity Decider v1.3: 학습·평가·활용 사례 소개",
+      "summary_ko": "Perplexity Decider 1.3 버전의 학습 방법, 평가 지표 및 실제 활용 예시가 상세히 공개됐다."
     },
     {
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
-      "points": 116,
-      "comments": 15,
-      "hn_url": "https://news.ycombinator.com/item?id=50474361",
-      "title_ko": "Foundation Models 프레임워크",
-      "summary_ko": "다양한 파운데이션 모델을 손쉽게 연결·활용할 수 있는 통합 프레임워크가 발표되었습니다."
+      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
+      "url": "https://github.com/mjha-arya/DOC-foundry",
+      "points": 5,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50491753",
+      "title_ko": "Doc‑foundry: AI가 보안 탐지 규칙을 작성·검증",
+      "summary_ko": "AI가 자동으로 보안 탐지 규칙을 생성하고, 그 효과를 증명해 보안 엔지니어의 업무를 혁신한다."
     },
     {
-      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
-      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
-      "points": 80,
-      "comments": 73,
-      "hn_url": "https://news.ycombinator.com/item?id=50474311",
-      "title_ko": "AI가 Apple 앱 리뷰를 난관으로 만들다",
-      "summary_ko": "생성 AI 앱이 Apple의 검토 절차에서 거부당하면서 개발자와 정책 사이 갈등이 부각됩니다."
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
+      "points": 0,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50489589",
+      "title_ko": "Autonomous(YC F25), 부자산 관리 AI 에이전트 개발 인재 채용",
+      "summary_ko": "YC F25 스타트업 Autonomous가 개인 자산을 관리하는 AI 에이전트를 구축할 MTS를 모집한다."
     }
   ],
   "reddit": [
     {
-      "title": "So this will be true in couple of years?",
+      "title": "llama.cpp v1.0 is here 🦙",
       "sub": "LocalLLaMA",
-      "author": "UltramanQuar",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xukt9t/so_this_will_be_true_in_couple_of_years/",
-      "title_ko": "몇 년 안에 사실이 될까?",
-      "summary_ko": "Reddit r/LocalLLaMA에서 향후 몇 년 내 실현 가능성을 논의한 글"
+      "author": "unofficialmerve",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
+      "title_ko": "llama.cpp v1.0 출시 🦙",
+      "summary_ko": "경량 LLM 실행 엔진 llama.cpp가 버전 1.0을 공개해 성능과 호환성이 크게 향상되었습니다."
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang's exit",
+      "title": "Look what my son gave me!",
       "sub": "LocalLLaMA",
-      "author": "Merchant_Lawrence",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xut4o7/hugging_face_ceo_vows_to_keep_fighting_for_open/",
-      "title_ko": "Hugging Face CEO, Jensen Huang 퇴임 후에도 오픈소스 AI 옹호 지속 선언",
-      "summary_ko": "Hugging Face 대표가 NVIDIA CEO 사퇴에도 오픈소스 AI 지원 의지를 재확인한 내용"
+      "author": "LankyGuitar6528",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
+      "title_ko": "아들이 준 선물",
+      "summary_ko": "사용자가 아들로부터 받은 뜻밖의 아이템을 공유하며 커뮤니티의 호응을 얻고 있습니다."
     },
     {
-      "title": "Jensen Huang's mistake was being too pro LocalAI, which was a threat to companies like ClosedAI and Anthropic which are about to go IPO",
+      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
       "sub": "LocalLLaMA",
-      "author": "Limp_Classroom_2645",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xujb7c/jensen_huangs_mistake_was_being_too_pro_localai/",
-      "title_ko": "Jensen Huang의 실수: LocalAI 과다 지지, ClosedAI·Anthropic IPO 위협",
-      "summary_ko": "Jensen Huang이 LocalAI를 지나치게 지원해 경쟁사 IPO 위험을 초래했다는 주장"
+      "author": "m4rkGS",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
+      "title_ko": "Weight Space Programming으로 양자화 효율 향상",
+      "summary_ko": "Nace 양자화 기법이 Qwen 9B·27B·35B 모델에서 KL 발산을 최대 2배 개선해 GGUF 포맷에 적용되었습니다."
     },
     {
-      "title": "Nvidia's Jensen Huang Resigns as CEO, Colette Kress Named Interim",
+      "title": "Stories coming out about Jensen",
       "sub": "LocalLLaMA",
-      "author": "ShreckAndDonkey123",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xudeev/nvidias_jensen_huang_resigns_as_ceo_colette_kress/",
-      "title_ko": "NVIDIA Jensen Huang 사퇴, Colette Kress interim CEO 선임",
-      "summary_ko": "NVIDIA CEO Jensen Huang이 사임하고 Colette Kress가 임시 대표로 지정됐다는 소식"
+      "author": "Charuru",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
+      "title_ko": "젠슨에 관한 이야기들",
+      "summary_ko": "젠슨 황에 대한 다양한 소문과 일화가 레딧 커뮤니티에 퍼지고 있습니다."
     },
     {
-      "title": "Jensen today at Nvidia board meeting",
+      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
       "sub": "LocalLLaMA",
-      "author": "TheNASAguy",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xumhm3/jensen_today_at_nvidia_board_meeting/",
-      "title_ko": "Jensen, 오늘 NVIDIA 이사회 회의 참석",
-      "summary_ko": "Jensen Huang이 NVIDIA 이사회 회의에 오늘 참석한 사실을 전한 글"
+      "author": "f1yingbanana",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
+      "title_ko": "‘THE Boss’ 복귀 청원",
+      "summary_ko": "엔비디아 직원들이 젠슨 황 CEO 복귀를 요구하는 청원을 올려 화제가 되고 있습니다."
     },
     {
-      "title": "CMP170hx now fully unlockabke and more, full 120 SMs —> Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of VRAM — hack carefully blows onboard fuses to unlock entire VRAM and shader modules",
+      "title": "CXMT almost tripling RAM production from 2025 to 2028",
       "sub": "LocalLLaMA",
-      "author": "chemist_slime",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuijih/cmp170hx_now_fully_unlockabke_and_more_full_120/",
-      "title_ko": "CMP170hx 완전 잠금 해제, 120 SM·80GB VRAM A100 수준으로 변신",
-      "summary_ko": "전압 글리치 해킹으로 $2,500 GPU를 $20,000 A100 수준으로 업그레이드한 기술 내용"
+      "author": "Terminator857",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
+      "title_ko": "CXMT, 2025~2028 RAM 생산 3배 확대",
+      "summary_ko": "중국 메모리 기업 CXMT가 2025년부터 2028년까지 RAM 생산량을 거의 세 배로 늘릴 계획을 발표했습니다."
     }
   ],
   "youtube": [],
-  "social": [],
+  "social": [
+    {
+      "title": "All US airports are currently ground stopped",
+      "handle": "@flightradar24",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "note": "HN 153pts · 31 댓글",
+      "title_ko": "미국 모든 공항이 현재 운항 중단",
+      "summary_ko": "플라이트레이다24가 트위터에 올린 글에 따르면 현재 미국 전역의 공항이 모두 운항을 중단한 상태다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
