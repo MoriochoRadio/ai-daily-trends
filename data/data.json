@@ -1,261 +1,234 @@
 {
-  "generated_at": "2026-11-14T00:55:55.652822+00:00",
-  "date_label": "2026년 11월 14일 (토)",
+  "generated_at": "2026-11-14T23:59:54.841459+00:00",
+  "date_label": "2026년 11월 15일 (일)",
   "github_trending": [
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "desc": "",
-      "stars_today": 787,
-      "lang": "Python",
-      "summary_ko": "Claude 기반 코드 생성 템플릿을 제공해 개발 생산성을 높이는 프로젝트입니다."
-    },
-    {
-      "repo": "openai/codex-security",
-      "url": "https://github.com/openai/codex-security",
-      "desc": "",
-      "stars_today": 751,
+      "stars_today": 673,
       "lang": "TypeScript",
-      "summary_ko": "OpenAI Codex 보안 가이드와 도구 모음으로 코드 안전성을 강화합니다."
-    },
-    {
-      "repo": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "desc": "",
-      "stars_today": 256,
-      "lang": "Python",
-      "summary_ko": "일일 주식 데이터를 분석해 자동화된 투자 인사이트를 제공하는 레포입니다."
-    },
-    {
-      "repo": "tailscale/tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "desc": "",
-      "stars_today": 256,
-      "lang": "Go",
-      "summary_ko": "Tailscale 네트워크를 활용한 원격 로그 스트리밍 도구 tailcat을 소개합니다."
-    },
-    {
-      "repo": "ahujasid/mcp-for-blender",
-      "url": "https://github.com/ahujasid/mcp-for-blender",
-      "desc": "",
-      "stars_today": 136,
-      "lang": "Python",
-      "summary_ko": "Blender용 MCP 플러그인으로 3D 모델링 워크플로우를 자동화합니다."
-    },
-    {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "desc": "",
-      "stars_today": 130,
-      "lang": "Python",
-      "summary_ko": "Claude 플러그인 공식 레포로 AI 기능 확장을 위한 샘플과 문서를 포함합니다."
-    },
-    {
-      "repo": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "desc": "",
-      "stars_today": 120,
-      "lang": "Python",
-      "summary_ko": "Headroom AI가 제공하는 프롬프트 최적화 및 비용 절감 솔루션입니다."
+      "summary_ko": "ChromeDevTools의 최신 개발자 도구 확장으로 디버깅 효율을 크게 향상시킵니다."
     },
     {
       "repo": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 556,
       "lang": "Python",
-      "summary_ko": "Claude를 활용한 트레이딩 전략과 자동 매매 스킬을 공유하는 레포입니다."
+      "summary_ko": "Claude 기반 트레이딩 전략을 학습하고 자동화하는 예제 모음입니다."
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "repo": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 367,
+      "lang": "Python",
+      "summary_ko": "Claude API 활용 예시 코드가 무료로 제공돼 빠른 프로토타입 제작이 가능합니다."
+    },
+    {
+      "repo": "martin-olivier/airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "desc": "",
+      "stars_today": 269,
+      "lang": "Rust",
+      "summary_ko": "Airgorah는 클라우드 인프라 자동화를 위한 오픈소스 툴킷입니다."
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "",
+      "stars_today": 137,
+      "lang": "Python",
+      "summary_ko": "Claude 플러그인 공식 레포로 다양한 기능 확장을 손쉽게 적용할 수 있습니다."
+    },
+    {
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "desc": "",
+      "stars_today": 127,
+      "lang": "Python",
+      "summary_ko": "Claude 버그 탐지를 자동화해 개발 품질을 높이는 도구입니다."
+    },
+    {
+      "repo": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "desc": "",
+      "stars_today": 93,
+      "lang": "Python",
+      "summary_ko": "Headroom는 AI 기반 회의 요약 및 액션 아이템 추출 서비스입니다."
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "",
+      "stars_today": 66,
+      "lang": "Python",
+      "summary_ko": "Anthropic 사이버보안 스킬셋을 학습해 보안 AI 모델을 구축합니다."
+    },
+    {
+      "repo": "rasbt/LLMs-from-scratch",
+      "url": "https://github.com/rasbt/LLMs-from-scratch",
+      "desc": "",
+      "stars_today": 59,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI 에이전트 입문자를 위한 마이크로소프트 교육 자료와 실습 예제 모음입니다."
+      "summary_ko": "LLMs를 처음부터 구현하는 단계별 튜토리얼을 제공합니다."
     },
     {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
+      "repo": "0x0funky/agent-sprite-forge",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
       "desc": "",
-      "stars_today": 68,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "AirLLM은 경량 LLM 배포와 추론을 위한 파이프라인을 구현한 프로젝트입니다."
-    },
-    {
-      "repo": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "desc": "",
-      "stars_today": 67,
-      "lang": "TypeScript",
-      "summary_ko": "Chrome DevTools용 MCP 플러그인으로 개발자 도구 확장 기능을 제공합니다."
+      "stars_today": 56,
+      "lang": "Python",
+      "summary_ko": "Agent Sprite Forge는 게임 에이전트 제작을 위한 스프라이트 엔진입니다."
     },
     {
       "repo": "langchain-ai/rag-from-scratch",
       "url": "https://github.com/langchain-ai/rag-from-scratch",
       "desc": "",
-      "stars_today": 64,
+      "stars_today": 37,
       "lang": "Jupyter Notebook",
-      "summary_ko": "RAG(Retrieval‑Augmented Generation) 구현을 처음부터 단계별로 설명하는 레포입니다."
+      "summary_ko": "RAG from scratch는 검색-증강 생성 파이프라인을 직접 구현합니다."
     },
     {
-      "repo": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
+      "repo": "anthropics/courses",
+      "url": "https://github.com/anthropics/courses",
       "desc": "",
-      "stars_today": 62,
-      "lang": "Python",
-      "summary_ko": "Claude 코드 템플릿 컬렉션으로 다양한 언어의 코드 스니펫을 제공합니다."
+      "stars_today": 32,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Anthropic 공식 교육 코스로 LLM 활용법을 체계적으로 배웁니다."
     },
     {
-      "repo": "avenoxai/avenoxbeyin",
-      "url": "https://github.com/avenoxai/avenoxbeyin",
+      "repo": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 51,
-      "lang": "Python",
-      "summary_ko": "AvenoxBeyin은 한국어 AI 모델 학습 및 배포를 위한 오픈소스 프레임워크입니다."
+      "stars_today": 31,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Microsoft AI for Beginners는 AI 입문자를 위한 실습 자료 모음입니다."
     },
     {
-      "repo": "langchain-ai/langgraph",
-      "url": "https://github.com/langchain-ai/langgraph",
+      "repo": "openai/openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
       "desc": "",
-      "stars_today": 49,
-      "lang": "Python",
-      "summary_ko": "LangChain의 최신 그래프 기반 워크플로우 엔진 LangGraph를 소개합니다."
+      "stars_today": 27,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "OpenAI Cookbook은 다양한 활용 예제와 최적화 팁을 정리했습니다."
+    },
+    {
+      "repo": "jpmorganchase/python-training",
+      "url": "https://github.com/jpmorganchase/python-training",
+      "desc": "",
+      "stars_today": 22,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "JPMorgan Chase Python 교육 레포는 금융 데이터 분석에 특화되었습니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "points": 669,
-      "comments": 198,
-      "hn_url": "https://news.ycombinator.com/item?id=50474959",
-      "title_ko": "코웨이 공기청정기 역공학으로 클라우드 탈피",
-      "summary_ko": "클라우드 의존을 없애기 위해 코웨이 공기청정기를 직접 분석·수정한 사례가 주목받는다."
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "points": 581,
+      "comments": 239,
+      "hn_url": "https://news.ycombinator.com/item?id=50499017",
+      "title_ko": "사랑받는 앱들, 여권 정보와 20만 건 이상 사적 메시지 노출",
+      "summary_ko": "여러 인기 앱이 사용자 여권 정보와 200,000개 이상의 개인 메시지를 유출해 보안 우려가 커졌다."
     },
     {
-      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-      "points": 318,
-      "comments": 90,
-      "hn_url": "https://news.ycombinator.com/item?id=50486748",
-      "title_ko": "AI가 괴델 노트북을 해독해 수백 개 정리된 정리 증명 공개",
-      "summary_ko": "AI가 괴델의 손글씨 노트를 디지털화해 수백 개의 증명된 정리를 밝혀 학계 관심을 끈다."
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "points": 430,
+      "comments": 164,
+      "hn_url": "https://news.ycombinator.com/item?id=50496602",
+      "title_ko": "기술 기업, 프라이버시 개념 재정의 시도",
+      "summary_ko": "대형 IT 기업들이 개인정보 보호 방식을 다시 설계하며 새로운 프라이버시 논쟁을 촉발하고 있다."
     },
     {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "points": 208,
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "points": 168,
+      "comments": 93,
+      "hn_url": "https://news.ycombinator.com/item?id=50441444",
+      "title_ko": "생성 AI, 비영어 텍스트에 더 많은 에너지 소모",
+      "summary_ko": "연구 결과, 생성형 AI가 영어가 아닌 언어를 처리할 때 에너지 사용량이 현저히 높아 효율성 문제가 드러났다."
+    },
+    {
+      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "points": 85,
+      "comments": 22,
+      "hn_url": "https://news.ycombinator.com/item?id=50497147",
+      "title_ko": "Show HN: Agweb – 방해 없는 에이전트 전용 브라우저",
+      "summary_ko": "Agweb은 에이전트 작업에 최적화된 가벼운 브라우저로, 사용자의 흐름을 방해하지 않는 설계가 특징이다."
+    },
+    {
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "points": 61,
       "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=50487185",
-      "title_ko": "600번 실험 후 밝혀진 JEPA 세계 모델의 핵심 인사이트",
-      "summary_ko": "600번의 실험을 통해 JEPA 기반 세계 모델의 성능·제한점을 체계적으로 정리했다."
-    },
-    {
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "points": 163,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=50490593",
-      "title_ko": "KORS(캘리포니아) 전 주파수 실시간 방송 및 지상 정지 알림",
-      "summary_ko": "캘리포니아 빅토리아 지역 KORS가 모든 주파수에서 실시간 방송을 중단하고 지상 정지를 선언했다."
-    },
-    {
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "points": 153,
-      "comments": 31,
-      "hn_url": "https://news.ycombinator.com/item?id=50489652",
-      "title_ko": "미국 전 공항 현재 지상 정지 상태",
-      "summary_ko": "전국 모든 공항이 항공기 운항을 중단하고 지상 정지 조치를 시행하고 있다."
-    },
-    {
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "points": 94,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=50488464",
-      "title_ko": "Perplexity Decider v1.3: 학습·평가·활용 사례 소개",
-      "summary_ko": "Perplexity Decider 1.3 버전의 학습 방법, 평가 지표 및 실제 활용 예시가 상세히 공개됐다."
-    },
-    {
-      "title": "Doc-foundry – AI writes Security detection rules, then proves they work",
-      "url": "https://github.com/mjha-arya/DOC-foundry",
-      "points": 5,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50491753",
-      "title_ko": "Doc‑foundry: AI가 보안 탐지 규칙을 작성·검증",
-      "summary_ko": "AI가 자동으로 보안 탐지 규칙을 생성하고, 그 효과를 증명해 보안 엔지니어의 업무를 혁신한다."
-    },
-    {
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "points": 0,
-      "comments": 0,
-      "hn_url": "https://news.ycombinator.com/item?id=50489589",
-      "title_ko": "Autonomous(YC F25), 부자산 관리 AI 에이전트 개발 인재 채용",
-      "summary_ko": "YC F25 스타트업 Autonomous가 개인 자산을 관리하는 AI 에이전트를 구축할 MTS를 모집한다."
+      "hn_url": "https://news.ycombinator.com/item?id=50453901",
+      "title_ko": "Seagate, 새로운 하이브리드 드라이브 출시와 과거 논란 재조명",
+      "summary_ko": "Seagate의 최신 하이브리드 SSD/HDD가 출시됐지만, 기존 제품의 신뢰성과 성능에 대한 의문이 다시 제기되고 있다."
     }
   ],
   "reddit": [
     {
-      "title": "llama.cpp v1.0 is here 🦙",
+      "title": "Hot take: frontier models haven’t actually become much smarter",
       "sub": "LocalLLaMA",
-      "author": "unofficialmerve",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/",
-      "title_ko": "llama.cpp v1.0 출시 🦙",
-      "summary_ko": "경량 LLM 실행 엔진 llama.cpp가 버전 1.0을 공개해 성능과 호환성이 크게 향상되었습니다."
+      "author": "Reasonable_Goat",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
+      "title_ko": "핵심 의견: 최신 프론티어 모델은 실제로 크게 똑똑해지지 않았다",
+      "summary_ko": "Reddit r/LocalLLaMA에서 프론티어 모델의 성능 향상이 기대에 못 미친다는 비판을 다룬 글."
     },
     {
-      "title": "Look what my son gave me!",
-      "sub": "LocalLLaMA",
-      "author": "LankyGuitar6528",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvbcfp/look_what_my_son_gave_me/",
-      "title_ko": "아들이 준 선물",
-      "summary_ko": "사용자가 아들로부터 받은 뜻밖의 아이템을 공유하며 커뮤니티의 호응을 얻고 있습니다."
+      "title": "ICLR 2027 Reviews Discussion [D]",
+      "sub": "MachineLearning",
+      "author": "Beautiful_Baker_2233",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
+      "title_ko": "ICLR 2027 리뷰 토론 [D]",
+      "summary_ko": "Reddit r/MachineLearning에서 ICLR 2027 논문 리뷰와 평가에 대한 활발한 토론이 진행되는 게시물."
     },
     {
-      "title": "Weight Space Programming for Quantization: Nace quants achieve up to 2x better KL divergence for Qwen 9B, 27B, 35B & Flash Next [GGUF]",
+      "title": "Ai Rig finally done and stable, perfect winter heater",
       "sub": "LocalLLaMA",
-      "author": "m4rkGS",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvh4ag/weight_space_programming_for_quantization_nace/",
-      "title_ko": "Weight Space Programming으로 양자화 효율 향상",
-      "summary_ko": "Nace 양자화 기법이 Qwen 9B·27B·35B 모델에서 KL 발산을 최대 2배 개선해 GGUF 포맷에 적용되었습니다."
+      "author": "dazzou5ouh",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
+      "title_ko": "AI 리그 완성 및 안정화, 완벽한 겨울 난방",
+      "summary_ko": "Reddit r/LocalLLaMA에서 AI 리그 구축이 완료돼 겨울철 난방용으로 최적화됐다는 소식을 공유한 글."
     },
     {
-      "title": "Stories coming out about Jensen",
-      "sub": "LocalLLaMA",
-      "author": "Charuru",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuvexw/stories_coming_out_about_jensen/",
-      "title_ko": "젠슨에 관한 이야기들",
-      "summary_ko": "젠슨 황에 대한 다양한 소문과 일화가 레딧 커뮤니티에 퍼지고 있습니다."
+      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+      "sub": "MachineLearning",
+      "author": "No-Lab4175",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
+      "title_ko": "ICLR 2027 초기 리뷰 점수, 대학별 순위 [N]",
+      "summary_ko": "Reddit r/MachineLearning에서 대학별 ICLR 2027 논문 초기 리뷰 점수를 정리해 공개한 게시물."
     },
     {
-      "title": "‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return",
+      "title": "Finally clicked for me: local AI is the future, not cloud AI",
       "sub": "LocalLLaMA",
-      "author": "f1yingbanana",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xuxxmb/bring_back_the_boss_nvidia_employees_petition_for/",
-      "title_ko": "‘THE Boss’ 복귀 청원",
-      "summary_ko": "엔비디아 직원들이 젠슨 황 CEO 복귀를 요구하는 청원을 올려 화제가 되고 있습니다."
+      "author": "Swimming_Beginning24",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
+      "title_ko": "내게 딱 맞는 결론: 로컬 AI가 미래이며 클라우드 AI는 아니다",
+      "summary_ko": "Reddit r/LocalLLaMA에서 로컬 AI의 장점과 클라우드 AI 대비 미래성을 강조한 의견 글."
     },
     {
-      "title": "CXMT almost tripling RAM production from 2025 to 2028",
-      "sub": "LocalLLaMA",
-      "author": "Terminator857",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xvam8o/cxmt_almost_tripling_ram_production_from_2025_to/",
-      "title_ko": "CXMT, 2025~2028 RAM 생산 3배 확대",
-      "summary_ko": "중국 메모리 기업 CXMT가 2025년부터 2028년까지 RAM 생산량을 거의 세 배로 늘릴 계획을 발표했습니다."
+      "title": "ICLR rebuttal [R]",
+      "sub": "MachineLearning",
+      "author": "jackeswin",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
+      "title_ko": "ICLR 반박문 [R]",
+      "summary_ko": "Reddit r/MachineLearning에서 ICLR 논문에 대한 리뷰에 대응하는 반박문을 공유한 게시물."
     }
   ],
   "youtube": [],
   "social": [
     {
-      "title": "All US airports are currently ground stopped",
-      "handle": "@flightradar24",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "note": "HN 153pts · 31 댓글",
-      "title_ko": "미국 모든 공항이 현재 운항 중단",
-      "summary_ko": "플라이트레이다24가 트위터에 올린 글에 따르면 현재 미국 전역의 공항이 모두 운항을 중단한 상태다."
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "handle": "@i",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "note": "HN 494pts · 303 댓글",
+      "title_ko": "SpaceX, 스타십 회수해 15번째 비행 종료",
+      "summary_ko": "SpaceX가 스타십을 성공적으로 회수해 15번째 시험 비행을 마쳤으며, 트위터에서 큰 화제를 모았다."
     }
   ],
   "summary_model": "openai/gpt-oss-120b"
