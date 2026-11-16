@@ -1,183 +1,210 @@
 {
-  "generated_at": "2026-11-14T23:59:54.841459+00:00",
-  "date_label": "2026년 11월 15일 (일)",
+  "generated_at": "2026-11-16T00:03:51.276813+00:00",
+  "date_label": "2026년 11월 16일 (월)",
   "github_trending": [
     {
       "repo": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "desc": "",
-      "stars_today": 673,
+      "stars_today": 717,
       "lang": "TypeScript",
-      "summary_ko": "ChromeDevTools의 최신 개발자 도구 확장으로 디버깅 효율을 크게 향상시킵니다."
+      "summary_ko": "ChromeDevTools의 MCP 플러그인으로 개발자 도구 확장성을 높여 디버깅 효율을 개선합니다."
     },
     {
       "repo": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "desc": "",
-      "stars_today": 556,
+      "stars_today": 706,
       "lang": "Python",
-      "summary_ko": "Claude 기반 트레이딩 전략을 학습하고 자동화하는 예제 모음입니다."
+      "summary_ko": "Claude 기반 트레이딩 스킬 예제로 AI 투자 전략 구현 방법을 보여줍니다."
     },
     {
-      "repo": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "repo": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
       "desc": "",
-      "stars_today": 367,
+      "stars_today": 174,
       "lang": "Python",
-      "summary_ko": "Claude API 활용 예시 코드가 무료로 제공돼 빠른 프로토타입 제작이 가능합니다."
+      "summary_ko": "Claude 코드 템플릿 모음으로 LLM 활용 시 빠른 프로토타입 작성이 가능합니다."
     },
     {
-      "repo": "martin-olivier/airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
+      "repo": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
       "desc": "",
-      "stars_today": 269,
-      "lang": "Rust",
-      "summary_ko": "Airgorah는 클라우드 인프라 자동화를 위한 오픈소스 툴킷입니다."
+      "stars_today": 131,
+      "lang": "Python",
+      "summary_ko": "Claude-Red는 보안 테스트 자동화를 지원하는 레드팀 도구입니다."
     },
     {
-      "repo": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "repo": "bojieli/ai-infra-book",
+      "url": "https://github.com/bojieli/ai-infra-book",
       "desc": "",
-      "stars_today": 137,
+      "stars_today": 127,
       "lang": "Python",
-      "summary_ko": "Claude 플러그인 공식 레포로 다양한 기능 확장을 손쉽게 적용할 수 있습니다."
+      "summary_ko": "AI 인프라 구축 가이드북으로 클라우드·온프레미스 환경을 체계 정리합니다."
+    },
+    {
+      "repo": "anthropics/prompt-eng-interactive-tutorial",
+      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "desc": "",
+      "stars_today": 106,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "프롬프트 엔지니어링을 인터랙티브하게 학습할 수 있는 튜토리얼입니다."
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "desc": "",
+      "stars_today": 99,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "초보자를 위한 마이크로소프트 생성 AI 입문서로 기본 개념을 쉽게 풀이합니다."
     },
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "desc": "",
-      "stars_today": 127,
+      "stars_today": 98,
       "lang": "Python",
-      "summary_ko": "Claude 버그 탐지를 자동화해 개발 품질을 높이는 도구입니다."
+      "summary_ko": "Claude 버그 헌터 도구로 LLM 응답 오류를 자동 탐지·수정합니다."
     },
     {
-      "repo": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 93,
-      "lang": "Python",
-      "summary_ko": "Headroom는 AI 기반 회의 요약 및 액션 아이템 추출 서비스입니다."
-    },
-    {
-      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "desc": "",
-      "stars_today": 66,
-      "lang": "Python",
-      "summary_ko": "Anthropic 사이버보안 스킬셋을 학습해 보안 AI 모델을 구축합니다."
-    },
-    {
-      "repo": "rasbt/LLMs-from-scratch",
-      "url": "https://github.com/rasbt/LLMs-from-scratch",
-      "desc": "",
-      "stars_today": 59,
+      "stars_today": 87,
       "lang": "Jupyter Notebook",
-      "summary_ko": "LLMs를 처음부터 구현하는 단계별 튜토리얼을 제공합니다."
+      "summary_ko": "AirLLM은 경량 LLM 배포를 위한 파이프라인과 관리 툴을 제공합니다."
     },
     {
-      "repo": "0x0funky/agent-sprite-forge",
-      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "repo": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
       "desc": "",
-      "stars_today": 56,
+      "stars_today": 82,
       "lang": "Python",
-      "summary_ko": "Agent Sprite Forge는 게임 에이전트 제작을 위한 스프라이트 엔진입니다."
+      "summary_ko": "FastMCP는 Prefect 기반 워크플로우를 빠르게 구성·운영하게 해줍니다."
     },
     {
-      "repo": "langchain-ai/rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 37,
+      "stars_today": 75,
       "lang": "Jupyter Notebook",
-      "summary_ko": "RAG from scratch는 검색-증강 생성 파이프라인을 직접 구현합니다."
+      "summary_ko": "Claude 요리책 컬렉션으로 다양한 도메인별 프롬프트 예시를 제공합니다."
     },
     {
-      "repo": "anthropics/courses",
-      "url": "https://github.com/anthropics/courses",
+      "repo": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
       "desc": "",
-      "stars_today": 32,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "Anthropic 공식 교육 코스로 LLM 활용법을 체계적으로 배웁니다."
+      "stars_today": 61,
+      "lang": "Python",
+      "summary_ko": "UnsloTh는 메모리 효율 높은 LLM 파인튜닝 라이브러리입니다."
+    },
+    {
+      "repo": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "desc": "",
+      "stars_today": 46,
+      "lang": "Python",
+      "summary_ko": "WrenAI는 데이터베이스 질의를 자연어로 변환해 개발 생산성을 높입니다."
+    },
+    {
+      "repo": "ggml-org/ggml",
+      "url": "https://github.com/ggml-org/ggml",
+      "desc": "",
+      "stars_today": 43,
+      "lang": "C++",
+      "summary_ko": "GGML은 GPU 없이도 고성능 LLM 추론을 가능하게 하는 경량 라이브러리입니다."
     },
     {
       "repo": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "desc": "",
-      "stars_today": 31,
+      "stars_today": 43,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Microsoft AI for Beginners는 AI 입문자를 위한 실습 자료 모음입니다."
-    },
-    {
-      "repo": "openai/openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "desc": "",
-      "stars_today": 27,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "OpenAI Cookbook은 다양한 활용 예제와 최적화 팁을 정리했습니다."
-    },
-    {
-      "repo": "jpmorganchase/python-training",
-      "url": "https://github.com/jpmorganchase/python-training",
-      "desc": "",
-      "stars_today": 22,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "JPMorgan Chase Python 교육 레포는 금융 데이터 분석에 특화되었습니다."
+      "summary_ko": "AI-For-Beginners는 마이크로소프트가 제공하는 AI 학습 로드맵과 실습 자료입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "url": "https://www.crissyfield.de/research/lovable-en/",
-      "points": 581,
-      "comments": 239,
-      "hn_url": "https://news.ycombinator.com/item?id=50499017",
-      "title_ko": "사랑받는 앱들, 여권 정보와 20만 건 이상 사적 메시지 노출",
-      "summary_ko": "여러 인기 앱이 사용자 여권 정보와 200,000개 이상의 개인 메시지를 유출해 보안 우려가 커졌다."
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "points": 1050,
+      "comments": 573,
+      "hn_url": "https://news.ycombinator.com/item?id=50507303",
+      "title_ko": "AI가 만든 모든 코드는 오픈소스여야 한다",
+      "summary_ko": "AI 생성 코드를 공개하면 투명성과 협업을 촉진해 기술 발전에 기여한다."
     },
     {
-      "title": "Tech companies are trying to shift the concept of privacy again",
-      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-      "points": 430,
-      "comments": 164,
-      "hn_url": "https://news.ycombinator.com/item?id=50496602",
-      "title_ko": "기술 기업, 프라이버시 개념 재정의 시도",
-      "summary_ko": "대형 IT 기업들이 개인정보 보호 방식을 다시 설계하며 새로운 프라이버시 논쟁을 촉발하고 있다."
+      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "points": 310,
+      "comments": 157,
+      "hn_url": "https://news.ycombinator.com/item?id=50463399",
+      "title_ko": "Claude Code와 Codex가 3달러 아두이노로 1994년 지프 ECU 역공학 [영상]",
+      "summary_ko": "AI 도구가 저가 아두이노로 오래된 차량 ECU를 분석해 역공학 가능성을 보여준다."
     },
     {
-      "title": "Generative AI uses more energy on non-English text",
-      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-      "points": 168,
-      "comments": 93,
-      "hn_url": "https://news.ycombinator.com/item?id=50441444",
-      "title_ko": "생성 AI, 비영어 텍스트에 더 많은 에너지 소모",
-      "summary_ko": "연구 결과, 생성형 AI가 영어가 아닌 언어를 처리할 때 에너지 사용량이 현저히 높아 효율성 문제가 드러났다."
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+      "points": 190,
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=50506376",
+      "title_ko": "현대 LLM의 위치 임베딩 이해하기",
+      "summary_ko": "위치 임베딩이 어떻게 토큰 순서를 인코딩해 모델 성능을 높이는지 설명한다."
     },
     {
-      "title": "Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "points": 85,
-      "comments": 22,
-      "hn_url": "https://news.ycombinator.com/item?id=50497147",
-      "title_ko": "Show HN: Agweb – 방해 없는 에이전트 전용 브라우저",
-      "summary_ko": "Agweb은 에이전트 작업에 최적화된 가벼운 브라우저로, 사용자의 흐름을 방해하지 않는 설계가 특징이다."
+      "title": "A short explainer on how El Niño works [video]",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "points": 152,
+      "comments": 57,
+      "hn_url": "https://news.ycombinator.com/item?id=50509308",
+      "title_ko": "엘니뇨 작동 원리 간단 설명 [영상]",
+      "summary_ko": "엘니뇨 현상의 기후 메커니즘을 시각적으로 풀어내 초보자도 이해하기 쉽다."
     },
     {
-      "title": "Seagate's new hybrid drive raises some old questions",
-      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-      "points": 61,
-      "comments": 35,
-      "hn_url": "https://news.ycombinator.com/item?id=50453901",
-      "title_ko": "Seagate, 새로운 하이브리드 드라이브 출시와 과거 논란 재조명",
-      "summary_ko": "Seagate의 최신 하이브리드 SSD/HDD가 출시됐지만, 기존 제품의 신뢰성과 성능에 대한 의문이 다시 제기되고 있다."
+      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "points": 142,
+      "comments": 105,
+      "hn_url": "https://news.ycombinator.com/item?id=50509023",
+      "title_ko": "'Birdbrain'은 오해다: 까마귀는 우리보다 빠르게 결정한다",
+      "summary_ko": "새로운 연구가 까마귀의 고속 의사결정 능력을 입증해 인지 과학에 도전한다."
+    },
+    {
+      "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+      "points": 90,
+      "comments": 42,
+      "hn_url": "https://news.ycombinator.com/item?id=50510442",
+      "title_ko": "Vulcan 로켓, 재비행 발사 중 실패… 아마존 위성 40개 손실",
+      "summary_ko": "Vulcan 로켓의 복귀 발사 시도 중 사고가 발생해 아마존 위성 다수가 파괴되었다."
+    },
+    {
+      "title": "Your Agent Will Pick the Hackable One",
+      "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+      "points": 70,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50510799",
+      "title_ko": "당신의 에이전트는 해킹 가능한 대상을 선택할 것이다",
+      "summary_ko": "AI 에이전트가 보안 취약점을 자동 탐색해 가장 쉽게 침투할 수 있는 목표를 찾는다."
+    },
+    {
+      "title": "WebGL Flight Simulator with seed generated terrain",
+      "url": "https://baron.by.dai.studio/",
+      "points": 60,
+      "comments": 9,
+      "hn_url": "https://news.ycombinator.com/item?id=50510296",
+      "title_ko": "시드 기반 지형 생성 웹GL 비행 시뮬레이터",
+      "summary_ko": "WebGL로 구현된 비행 시뮬레이터가 무작위 시드로 실시간 지형을 생성한다."
     }
   ],
   "reddit": [
     {
-      "title": "Hot take: frontier models haven’t actually become much smarter",
+      "title": "I finally succeed the CMP 170HX voltage glitch and get 80GB VRAM + 126sm! !",
       "sub": "LocalLLaMA",
-      "author": "Reasonable_Goat",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwegdi/hot_take_frontier_models_havent_actually_become/",
-      "title_ko": "핵심 의견: 최신 프론티어 모델은 실제로 크게 똑똑해지지 않았다",
-      "summary_ko": "Reddit r/LocalLLaMA에서 프론티어 모델의 성능 향상이 기대에 못 미친다는 비판을 다룬 글."
+      "author": "Yarukiless-cat",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwxzgj/i_finally_succeed_the_cmp_170hx_voltage_glitch/",
+      "title_ko": "CMP 170HX 전압 글리치 성공, 80GB VRAM·126SM 달성",
+      "summary_ko": "레딧 사용자가 CMP 170HX에서 전압 글리치를 성공시켜 80GB VRAM과 126 SM을 확보했음."
     },
     {
       "title": "ICLR 2027 Reviews Discussion [D]",
@@ -185,51 +212,79 @@
       "author": "Beautiful_Baker_2233",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xo6yzo/iclr_2027_reviews_discussion_d/",
       "title_ko": "ICLR 2027 리뷰 토론 [D]",
-      "summary_ko": "Reddit r/MachineLearning에서 ICLR 2027 논문 리뷰와 평가에 대한 활발한 토론이 진행되는 게시물."
+      "summary_ko": "ICLR 2027 논문 리뷰에 대한 의견 교환이 진행되는 레딧 스레드."
     },
     {
-      "title": "Ai Rig finally done and stable, perfect winter heater",
+      "title": "Basalt 0.4.0: More models, still as fast - Qwen 27B up to 770 tok/s on a 5090",
       "sub": "LocalLLaMA",
-      "author": "dazzou5ouh",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwc3m7/ai_rig_finally_done_and_stable_perfect_winter/",
-      "title_ko": "AI 리그 완성 및 안정화, 완벽한 겨울 난방",
-      "summary_ko": "Reddit r/LocalLLaMA에서 AI 리그 구축이 완료돼 겨울철 난방용으로 최적화됐다는 소식을 공유한 글."
+      "author": "jesdga95",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xx1cu9/basalt_040_more_models_still_as_fast_qwen_27b_up/",
+      "title_ko": "Basalt 0.4.0: 모델 추가·속도 유지, Qwen 27B 5090에서 초당 770토큰",
+      "summary_ko": "Basalt 0.4.0이 새 모델을 지원하면서도 빠른 추론을 유지, Qwen 27B가 RTX 5090에서 770 tok/s를 기록함."
     },
     {
-      "title": "ICLR 2027 Initial Review Scores ranked by University [N]",
+      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
       "sub": "MachineLearning",
-      "author": "No-Lab4175",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwcjuq/iclr_2027_initial_review_scores_ranked_by/",
-      "title_ko": "ICLR 2027 초기 리뷰 점수, 대학별 순위 [N]",
-      "summary_ko": "Reddit r/MachineLearning에서 대학별 ICLR 2027 논문 초기 리뷰 점수를 정리해 공개한 게시물."
+      "author": "trungh98",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
+      "title_ko": "[Meta FAIR·NYU] 멀티모달 비전 인코딩 해체: 200개 이상 MLLM 실험 결과 인코더 사전학습은 선택적",
+      "summary_ko": "Meta와 NYU가 200여 개 MLLM을 학습해 비전 인코더 사전학습이 필수가 아니지만 비전 전용 파라미터는 필요함을 입증함."
     },
     {
-      "title": "Finally clicked for me: local AI is the future, not cloud AI",
+      "title": "EUROPA, the EU's open AI model, is aiming for nearly 1 trillion parameters",
       "sub": "LocalLLaMA",
-      "author": "Swimming_Beginning24",
-      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwf8bb/finally_clicked_for_me_local_ai_is_the_future_not/",
-      "title_ko": "내게 딱 맞는 결론: 로컬 AI가 미래이며 클라우드 AI는 아니다",
-      "summary_ko": "Reddit r/LocalLLaMA에서 로컬 AI의 장점과 클라우드 AI 대비 미래성을 강조한 의견 글."
+      "author": "mawcopolow",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1xwr917/europa_the_eus_open_ai_model_is_aiming_for_nearly/",
+      "title_ko": "EUROPA: EU 공개 AI 모델, 파라미터 규모 1조에 근접 목표",
+      "summary_ko": "EU가 개발 중인 오픈 AI 모델 EUROPA가 약 1조 파라미터 규모를 목표로 하고 있어 주목받고 있음."
     },
     {
-      "title": "ICLR rebuttal [R]",
+      "title": "I don't think double-blind review systems work [D]",
       "sub": "MachineLearning",
-      "author": "jackeswin",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw19o8/iclr_rebuttal_r/",
-      "title_ko": "ICLR 반박문 [R]",
-      "summary_ko": "Reddit r/MachineLearning에서 ICLR 논문에 대한 리뷰에 대응하는 반박문을 공유한 게시물."
+      "author": "Temporary_Switch_339",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
+      "title_ko": "이중 맹검 리뷰 시스템은 효과가 없다고 생각한다 [D]",
+      "summary_ko": "레딧에서 이중 맹검 논문 리뷰 제도의 효용성에 대한 비판적 논의가 진행 중이다."
     }
   ],
-  "youtube": [],
-  "social": [
+  "youtube": [
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "handle": "@i",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-      "note": "HN 494pts · 303 댓글",
-      "title_ko": "SpaceX, 스타십 회수해 15번째 비행 종료",
-      "summary_ko": "SpaceX가 스타십을 성공적으로 회수해 15번째 시험 비행을 마쳤으며, 트위터에서 큰 화제를 모았다."
+      "title": "AI Can Do Everything…Except This",
+      "channel": "Two Minute Papers",
+      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+      "published": "2026-11-14",
+      "desc": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help! - Vocals: Carolina Padrón - Drums: Federico Gucciardo - Bass: Phil Gon",
+      "title_ko": "AI는 모든 걸 할 수 있다…하지만 이것은 못한다",
+      "summary_ko": "Two Minute Papers 영상으로 AI가 아직 해결하지 못한 과제를 소개하고 흥미로운 사례를 살펴본다."
+    },
+    {
+      "title": "The Sphere Intersection Puzzle",
+      "channel": "Andrej Karpathy",
+      "url": "https://www.youtube.com/shorts/V_uq3v6xK-4",
+      "published": "2026-10-25",
+      "desc": "Part of a series of monthly puzzles Early view of some other solutions: https://members.3blue1brown.com/posts/solution-to-10-158885046 https://members.3blue1brown.com/posts/solution-to-sum-156593740",
+      "title_ko": "구체 교차 퍼즐",
+      "summary_ko": "Andrej Karpathy가 제시한 구체 교차 퍼즐을 통해 기하학적 사고를 도전하고 풀이를 탐색한다."
+    },
+    {
+      "title": "Burn Water - New Millennium",
+      "channel": "ColdFusion",
+      "url": "https://www.youtube.com/watch?v=91NUxol7JaU",
+      "published": "2026-09-20",
+      "desc": "Burn Water Spotify: https://open.spotify.com/album/2mQkQEgmLxCJC8JpcsiF2T?si=VWFKFxgzSlm4QJW8ahXbDw",
+      "title_ko": "Burn Water - 뉴 밀레니엄",
+      "summary_ko": "ColdFusion 영상에서 ‘Burn Water - New Millennium’ 앨범을 소개하고 Spotify 청취를 권한다."
+    },
+    {
+      "title": "I built a DeepSeek R1 powered VS Code extension…",
+      "channel": "Fireship",
+      "url": "https://www.youtube.com/watch?v=clJCDHml2cA",
+      "published": "2025-01-28",
+      "desc": "Learn how to build a VS Code Extension from scratch. In this fun tutorial, we integrate DeepSeek R1 direction into our editor to build a custom AI assistant. Go Deeper https://fireship.io/courses Related Content: VS Code Extension Template https://code.visualstudio.com/api/get-st",
+      "title_ko": "DeepSeek R1 기반 VS Code 확장 기능을 만들다",
+      "summary_ko": "Fireship 튜토리얼에서 DeepSeek R1을 활용해 맞춤형 AI 어시스턴트 VS Code 확장을 직접 구현한다."
     }
   ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
