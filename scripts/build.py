@@ -129,7 +129,8 @@ for r in DATA.get("youtube", []):
            esc(r.get("url")), YT_SVG, esc(r.get("channel", "")),
            esc(r.get("title_ko") or r.get("title", "")), orig_line(r),
            ('<div class="yt-summary">%s</div>' % esc(summ)) if summ else "",
-           esc(r.get("published", ""))))
+           # 오늘 RSS 를 못 받아 이전에 받아 둔 영상을 이월한 경우 — 날짜는 실제 게시일 그대로
+           esc(r.get("published", "")) + (" · 이전 수집분" if r.get("carried") else "")))
 
 youtube_card = ""
 if yt_rows:

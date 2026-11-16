@@ -38,9 +38,11 @@ It automatically collects from GitHub Trending, Hacker News, Reddit, AI YouTube 
 | **YouTube** | Channel RSS feeds (curated AI/tech channels) | Latest videos from international channels (Two Minute Papers, Lex Fridman, Karpathy, Fireship, etc.) plus Korean channels (Andeul Engineering, Jocoding, TeddyNote, Bbanghyung's Developing Country) |
 | **Trending Social** | X/Twitter links extracted from HN | Trending threads from influencers and researchers |
 
-> **Korean summaries:** Every collected item gets a one-sentence Korean summary from the [Groq](https://console.groq.com) free tier (`GROQ_API_KEY` secret). Free models are retired every few months, so the model name is not hard-coded: each run picks a live model from Groq's model list. If summarization fails, the site still builds with the original text (graceful), and a final `health` job fails — so GitHub emails the owner — **only when a human needs to act** (rejected key, no usable model, or three days in a row without summaries).
+> **Korean summaries:** Every collected item gets a one-sentence Korean summary from the [Groq](https://console.groq.com) free tier (`GROQ_API_KEY` secret). Free models are retired every few months, so the model name is not hard-coded: each run picks a live model from Groq's model list. If summarization fails, the site still builds with the original text (graceful), and a final `health` job fails — so GitHub emails the owner — **only when a human needs to act** (rejected key, no usable model, three days in a row without summaries, or three days in a row with every YouTube channel failing).
 >
 > **Reddit note:** Reddit blocks unauthenticated JSON endpoints and shared CI IPs (403/429), so collection was stabilized with browser headers + public RSS + retries/backoff. If one subreddit is blocked, round-robin merging lets the other sources fill the gap.
+>
+> **YouTube note:** channel RSS feeds often return 404/5xx even for healthy channels (the same feed flips between 200 and 404), so only the failed channels are retried in rounds (about 95 s of waiting at most), and a channel that still fails keeps its previously fetched video, shown with its real publish date and marked as carried over. A bad day no longer empties the section; an alert fires only when every channel fails three days in a row (feed URL/format change suspected). Channels live in `YT_CHANNELS` in `collect.py` as `(channel_id, display name, @handle)`; verify the ID via the canonical URL of the `youtube.com/@handle` page.
 
 ## 🎨 Design System
 
@@ -97,6 +99,7 @@ A. Because Reddit blocks unauthenticated JSON endpoints and shared CI IPs (403/4
 │   ├── collect.py                   # Data collection (GitHub · HN · Reddit · YouTube · social)
 │   ├── summarize.py                 # Adds Korean key summaries (Groq, model auto-selected)
 │   └── build.py                     # Renders data.json → index.html
+├── tests/                           # Network-free unit tests (unittest)
 ├── design-system/
 │   └── ai-daily-trends/MASTER.md    # Applied design system (skill output · source of truth)
 └── .github/workflows/daily.yml      # Daily automated collection · build · deploy
@@ -111,6 +114,7 @@ python3 scripts/collect.py     # Collect the latest data (requires internet)
 python3 scripts/summarize.py   # Add Korean summaries (optional — needs GROQ_API_KEY, see below)
 python3 scripts/build.py       # Generate index.html
 # Open the generated index.html in a browser
+python3 -m unittest discover -s tests   # Tests (no network needed)
 ```
 
 - **The summarization step is optional.** Without a key it's skipped automatically and the build uses the original text. To see summaries locally, set the `GROQ_API_KEY` environment variable (and `GROQ_MODEL` to pin a specific model).

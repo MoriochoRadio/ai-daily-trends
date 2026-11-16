@@ -38,9 +38,11 @@ GitHub Trending · Hacker News · Reddit · AI 유튜브 · 화제의 SNS를 자
 | **YouTube** | 채널 RSS 피드 (큐레이션된 AI/테크 채널) | 해외(Two Minute Papers, Lex Fridman, Karpathy, Fireship 등) + 국내(안될공학, 조코딩, 테디노트, 빵형의 개발도상국) 채널의 최신 영상 |
 | **화제의 SNS** | HN 내 X/Twitter 링크 추출 | 인플루언서·연구자의 화제 스레드 |
 
-> **한국어 요약:** 수집된 모든 항목은 [Groq](https://console.groq.com) 무료 티어로 한국어 1문장 요약을 생성합니다(`GROQ_API_KEY` 시크릿). 무료 모델은 몇 달 단위로 종료되므로 모델 이름을 고정하지 않고, 실행할 때마다 Groq 모델 목록에서 살아 있는 모델을 골라 씁니다. 요약 단계가 실패해도 사이트는 원문으로 정상 빌드되고(graceful), 키 거부·쓸 모델 없음·요약 3일 연속 0건처럼 **사람이 손봐야 할 때만** 마지막 `health` 잡이 실패해 GitHub 실패 메일로 알립니다.
+> **한국어 요약:** 수집된 모든 항목은 [Groq](https://console.groq.com) 무료 티어로 한국어 1문장 요약을 생성합니다(`GROQ_API_KEY` 시크릿). 무료 모델은 몇 달 단위로 종료되므로 모델 이름을 고정하지 않고, 실행할 때마다 Groq 모델 목록에서 살아 있는 모델을 골라 씁니다. 요약 단계가 실패해도 사이트는 원문으로 정상 빌드되고(graceful), 키 거부·쓸 모델 없음·요약 3일 연속 0건·YouTube 전 채널 3일 연속 실패처럼 **사람이 손봐야 할 때만** 마지막 `health` 잡이 실패해 GitHub 실패 메일로 알립니다.
 >
 > **Reddit 참고:** Reddit이 비인증 JSON 엔드포인트와 CI 공유 IP를 차단(403/429)하므로, 브라우저 헤더 + 공개 RSS + 재시도/백오프로 안정화했습니다. 한 서브레딧이 막혀도 라운드로빈 병합으로 다른 소스가 빈 자리를 채웁니다.
+>
+> **YouTube 참고:** 채널 RSS 는 멀쩡한 채널에도 404·5xx 를 자주 돌려주므로(같은 피드가 200↔404 를 오감), 실패한 채널만 라운드마다 다시 시도하고(총 대기 약 95초 이내), 그래도 못 받은 채널은 이전에 받아 둔 영상을 실제 게시일 그대로 "이전 수집분"으로 이월합니다. 그래서 하루 실패로 섹션이 비지 않고, 모든 채널이 3일 연속 실패할 때만(피드 주소·형식 변경 의심) 알림이 갑니다. 채널은 `collect.py` 의 `YT_CHANNELS` 에 `(channel_id, 표시이름, @handle)` 로 적고, ID 는 `youtube.com/@handle` 페이지의 canonical 주소로 확인합니다.
 
 ## 🎨 디자인 시스템
 
@@ -97,6 +99,7 @@ A. Reddit이 비인증 JSON 엔드포인트와 CI 공유 IP를 차단(403/429)�
 │   ├── collect.py                   # 데이터 수집 (GitHub · HN · Reddit · YouTube · SNS)
 │   ├── summarize.py                 # 한국어 핵심 요약 추가 (Groq, 모델 자동 선택)
 │   └── build.py                     # data.json → index.html 렌더링
+├── tests/                           # 네트워크 없는 단위 테스트 (unittest)
 ├── design-system/
 │   └── ai-daily-trends/MASTER.md    # 적용된 디자인 시스템 (스킬 생성물 · Source of Truth)
 └── .github/workflows/daily.yml      # 매일 자동 수집 · 빌드 · 배포
@@ -111,6 +114,7 @@ python3 scripts/collect.py     # 최신 데이터 수집 (인터넷 필요)
 python3 scripts/summarize.py   # 한국어 요약 추가 (선택 — GROQ_API_KEY 필요, 아래 참고)
 python3 scripts/build.py       # index.html 생성
 # 생성된 index.html 을 브라우저로 열기
+python3 -m unittest discover -s tests   # 테스트 (네트워크 불필요)
 ```
 
 - **요약 단계는 선택입니다.** 키가 없으면 자동으로 건너뛰고 원문으로 빌드됩니다. 로컬에서 요약까지 보려면 `GROQ_API_KEY` 환경변수를 지정하세요(특정 모델로 고정하려면 `GROQ_MODEL`).

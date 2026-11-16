@@ -284,6 +284,7 @@ def record_health(summarized, problem, model):
         prev = {}
     streak = 0 if summarized else int(prev.get("summary_zero_streak", 0)) + 1
     HEALTH_PATH.write_text(json.dumps({
+        **prev,   # collect.py 가 남긴 키(youtube_zero_streak 등)는 그대로 둔다
         "summary_zero_streak": streak,
         "last_model": model or prev.get("last_model"),
         "last_problem": problem,

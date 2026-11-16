@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """매일 AI 트렌드를 수집해 data/data.json 으로 저장한다.
-소스: GitHub Trending(스크레이핑), Hacker News(Algolia API), Reddit(공개 RSS), 화제의 SNS(HN의 X 링크).
+소스: GitHub Trending(스크레이핑), Hacker News(Algolia API), Reddit(공개 RSS),
+YouTube(채널 공개 RSS), 화제의 SNS(HN의 X 링크).
 GitHub Actions 러너처럼 외부 네트워크가 열린 환경에서 실행하는 것을 전제로 한다.
 """
-import json, re, html as ih, urllib.request, urllib.error, time, datetime, pathlib
+import json, os, re, html as ih, urllib.request, urllib.error, time, datetime, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (AI-Daily-Trends bot)"}
@@ -119,19 +120,27 @@ def _is_reddit_noise(title, author):
     tl = title.lower()
     return any(k in tl for k in REDDIT_NOISE)
 
+def _get_feed(url, timeout=20):
+    """피드 1회 요청 → (상태, 본문). 네트워크 오류·타임아웃은 상태 0."""
+    try:
+        req = urllib.request.Request(url, headers=RSS_HEADERS)
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.status, r.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as e:
+        return e.code, ""
+    except Exception:
+        return 0, ""
+
 def _fetch_rss(url, retries=3):
     """429(rate limit)면 잠시 쉬었다가 재시도. 실패하면 빈 문자열."""
     for attempt in range(retries):
-        try:
-            req = urllib.request.Request(url, headers=RSS_HEADERS)
-            return urllib.request.urlopen(req, timeout=20).read().decode("utf-8", "replace")
-        except urllib.error.HTTPError as e:
-            if e.code == 429 and attempt < retries - 1:
-                time.sleep(5 * (attempt + 1))
-                continue
-            return ""
-        except Exception:
-            return ""
+        status, body = _get_feed(url)
+        if status == 200:
+            return body
+        if status == 429 and attempt < retries - 1:
+            time.sleep(5 * (attempt + 1))
+            continue
+        return ""
     return ""
 
 def _parse_reddit_feed(body, sub):
@@ -174,49 +183,124 @@ def reddit(limit=6):
     return out
 
 # ---------- YouTube (AI/테크 유명 채널 최신 영상, 공개 RSS) ----------
-# 채널 ID 는 youtube.com/@handle 페이지에서 확인. 새 채널을 넣으려면 (channel_id, 표시이름) 추가.
+# (channel_id, 표시이름, @handle). 새 채널은 youtube.com/@handle 페이지의
+# <link rel="canonical" href=".../channel/UC..."> 로 ID 를 확인해 추가한다.
+# 2026-11-16 전수 확인: 처음 넣을 때(2026-06) 13개 중 8개가 엉뚱한 채널 ID 였다
+# (Karpathy→3Blue1Brown, Fireship→Beyond Fireship, Lex Fridman→Lex Clips, sentdex→Jabrils,
+#  ColdFusion→ColdFusion Music, Yannic→Yannic Out Of Distribution, 조코딩→멋쟁이사자처럼,
+#  빵형의 개발도상국→AI프렌즈). 표시이름과 실제 채널이 어긋나지 않게 handle 을 함께 적어 둔다.
 YT_CHANNELS = [
     # 해외 AI/테크 채널
-    ("UCbfYPyITQ-7l4upoX8nvctg", "Two Minute Papers"),
-    ("UCNJ1Ymd5yFuUPtn21xtRbbw", "AI Explained"),
-    ("UCHmD-oSpV0sNfAUnpYpj8KA", "Yannic Kilcher"),
-    ("UCYO_jab_esuFRV4b17AJtAw", "Andrej Karpathy"),
-    ("UC2Xd-TjJByJyK2w1zNwY0zQ", "Fireship"),
-    ("UCJIfeSCssxSC_Dhc5s7woww", "Lex Fridman"),
-    ("UCQALLeQPoZdZC4JNUboVEUg", "sentdex"),
-    ("UCIgnGlGkVRhd4qNFcEwLL4A", "AI Search"),
-    ("UCGkpFfEMF0eMJlh9xXj2lMw", "ColdFusion"),
+    ("UCbfYPyITQ-7l4upoX8nvctg", "Two Minute Papers", "@TwoMinutePapers"),
+    ("UCNJ1Ymd5yFuUPtn21xtRbbw", "AI Explained", "@aiexplained-official"),
+    ("UCZHmQk67mSJgfCCTn7xBfew", "Yannic Kilcher", "@YannicKilcher"),
+    ("UCXUPKJO5MZQN11PqgIvyuvQ", "Andrej Karpathy", "@AndrejKarpathy"),
+    ("UCsBjURrPoezykLs9EqgamOA", "Fireship", "@Fireship"),
+    ("UCSHZKyawb77ixDdsGog4iWA", "Lex Fridman", "@lexfridman"),
+    ("UCfzlCWGWYyIQ0aLC5w48gBQ", "sentdex", "@sentdex"),
+    ("UCIgnGlGkVRhd4qNFcEwLL4A", "AI Search", "@theAIsearch"),
+    ("UC4QZ_LsYcvcq7qOsOhpAX4A", "ColdFusion", "@ColdFusion"),
     # 한국 AI/테크 채널
-    ("UCeN2YeJcBCRJoXgzF_OU3qw", "안될공학"),
-    ("UCYaDkwVaOhuoe_LuFr3lWkA", "조코딩"),
-    ("UCt2wAAXgm87ACiQnDHQEW6Q", "테디노트"),
-    ("UC2L1DgDMD5pJ-35G47Objfw", "빵형의 개발도상국"),
+    ("UCeN2YeJcBCRJoXgzF_OU3qw", "안될공학", "@unrealtech"),
+    ("UCQNE2JmbasNYbjGAcuBiRRg", "조코딩", "@jocoding"),
+    ("UCt2wAAXgm87ACiQnDHQEW6Q", "테디노트", "@teddynote"),
+    ("UC9PB9nKYqKEx_N3KM-JVTpg", "빵형의 개발도상국", "@bbanghyong"),
 ]
 
-def youtube(limit=9):
-    """각 채널의 최신 영상 1개씩 모아 게시일 기준 최신순으로 정렬해 상위 N개."""
-    vids = []
-    for cid, name in YT_CHANNELS:
-        body = _fetch_rss(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
-        if not body:
+# YouTube 채널 RSS 는 멀쩡한 채널에도 404·5xx 를 자주 돌려준다(2026-10 말부터 심해짐 —
+# 같은 피드가 200 → 404 → 200 으로 오간다). 그래서 실패한 채널만 모아 몇 번 더 돌린다.
+# 라운드 사이를 벌려 YouTube 쪽 일시 장애가 지나가길 기다리고, 총 대기는 이 합계로 묶인다.
+YT_RETRY_STATUSES = {0, 404, 429} | set(range(500, 600))   # 0 = 네트워크 오류/타임아웃
+YT_ROUND_WAITS = (5, 15, 30, 45)   # 1차 시도 뒤 재시도 라운드마다 쉬는 초 (총 95초 이내)
+YT_CARRY_DAYS = 7          # 오늘 못 받은 채널은 이 기간 안에 받아 둔 영상을 대신 싣는다
+YT_ZERO_STREAK_ALERT = 3   # 모든 채널이 실패한 날이 이만큼 이어지면 사람에게 알린다(피드 형식·주소 변경 의심)
+
+def _parse_yt_latest(body, cid, name, today):
+    """채널 피드에서 최신 영상 1개. 형식이 달라 못 읽으면 None."""
+    ent = re.split(r"<entry>", body)[1:2]  # 최신 1개
+    if not ent:
+        return None
+    ent = ent[0]
+    t = re.search(r"<title>(.*?)</title>", ent, re.S)
+    l = re.search(r'<link[^>]*rel="alternate"[^>]*href="([^"]+)"', ent) or \
+        re.search(r'<link[^>]*href="([^"]+)"', ent)
+    p = re.search(r"<published>(.*?)</published>", ent)
+    d = re.search(r"<media:description>(.*?)</media:description>", ent, re.S)
+    if not t or not l:
+        return None
+    desc = ih.unescape(re.sub(r"\s+", " ", d.group(1)).strip())[:280] if d else ""
+    return {"title": ih.unescape(t.group(1).strip()), "channel": name, "channel_id": cid,
+            "url": ih.unescape(l.group(1).strip()),
+            "published": p.group(1)[:10] if p else "", "desc": desc,
+            "fetched": today}   # 실제로 받아 온 날 — 이월 기간 판단용
+
+def _fetch_yt_channels(today, waits=YT_ROUND_WAITS):
+    """채널마다 독립적으로 받아 온다 → ({channel_id: 영상}, {channel_id: 마지막 실패 사유}).
+    1차로 전 채널을 돌고, 재시도할 만한 실패(404·429·5xx·네트워크)만 라운드마다 다시 시도한다."""
+    got, why = {}, {}
+    pending = [(cid, name) for cid, name, _ in YT_CHANNELS]
+    for rnd in range(len(waits) + 1):
+        if rnd:
+            if not pending:
+                break
+            time.sleep(waits[rnd - 1])
+        retry = []
+        for cid, name in pending:
+            status, body = _get_feed(f"https://www.youtube.com/feeds/videos.xml?channel_id={cid}")
+            if status == 200:
+                vid = _parse_yt_latest(body, cid, name, today)
+                if vid:
+                    got[cid] = vid
+                    why.pop(cid, None)
+                else:
+                    why[cid] = "형식"   # 200 인데 못 읽음 — 재시도해도 같으므로 접는다
+                continue
+            why[cid] = str(status or "네트워크")
+            if status in YT_RETRY_STATUSES:
+                retry.append((cid, name))
+        pending = retry
+    return got, why
+
+def _days_between(a, b):
+    try:
+        return (datetime.date.fromisoformat(b) - datetime.date.fromisoformat(a)).days
+    except (TypeError, ValueError):
+        return None
+
+def merge_youtube(got, prev, today, limit=9):
+    """오늘 받은 영상 + 오늘 못 받은 채널의 이전 영상(carried 표시)을 합친다.
+    - 이전 영상은 지금 설정된 channel_id 로 받아 둔 것만 쓴다(옛 엉뚱한 ID 영상은 버림).
+    - 일부라도 받았으면 YT_CARRY_DAYS 안에 받아 둔 것만 이월하고,
+      하나도 못 받은 날엔 기간과 무관하게 이전 영상을 그대로 지킨다(빈 섹션 대신)."""
+    known = {cid for cid, _, _ in YT_CHANNELS}
+    prev_by = {}
+    for v in prev or []:
+        cid = v.get("channel_id") if isinstance(v, dict) else None
+        if cid in known and cid not in got and v.get("url"):
+            if cid not in prev_by or v.get("published", "") > prev_by[cid].get("published", ""):
+                prev_by[cid] = v
+    carried = []
+    for cid, v in prev_by.items():
+        age = _days_between(v.get("fetched"), today)
+        if got and (age is None or age > YT_CARRY_DAYS):
             continue
-        ent = re.split(r"<entry>", body)[1:2]  # 최신 1개
-        if not ent:
-            continue
-        ent = ent[0]
-        t = re.search(r"<title>(.*?)</title>", ent, re.S)
-        l = re.search(r'<link[^>]*rel="alternate"[^>]*href="([^"]+)"', ent) or \
-            re.search(r'<link[^>]*href="([^"]+)"', ent)
-        p = re.search(r"<published>(.*?)</published>", ent)
-        d = re.search(r"<media:description>(.*?)</media:description>", ent, re.S)
-        if not t or not l:
-            continue
-        desc = ih.unescape(re.sub(r"\s+", " ", d.group(1)).strip())[:280] if d else ""
-        vids.append({"title": ih.unescape(t.group(1).strip()), "channel": name,
-                     "url": ih.unescape(l.group(1).strip()),
-                     "published": p.group(1)[:10] if p else "", "desc": desc})
-    vids.sort(key=lambda v: v["published"], reverse=True)
+        carried.append({**v, "carried": True})
+    vids = list(got.values()) + carried
+    vids.sort(key=lambda v: v.get("published", ""), reverse=True)
     return vids[:limit]
+
+def youtube(prev=None, today=None, limit=9):
+    """각 채널의 최신 영상 1개씩 모아 게시일 기준 최신순으로 정렬해 상위 N개.
+    → (영상 목록, 오늘 실제로 받아 온 채널 수)."""
+    today = today or datetime.date.today().isoformat()
+    got, why = _fetch_yt_channels(today)
+    vids = merge_youtube(got, prev, today, limit)
+    names = {cid: name for cid, name, _ in YT_CHANNELS}
+    fails = ", ".join(f"{names[c]}({r})" for c, r in why.items())
+    print(f"  [YouTube] 채널 {len(got)}/{len(YT_CHANNELS)} 수신"
+          + (f" · 실패: {fails}" if fails else "")
+          + f" · 이월 {sum(1 for v in vids if v.get('carried'))}건")
+    return vids, len(got)
 
 # ---------- Social (HN 내 X/Twitter 링크) ----------
 def social_from_hn(limit=3):
@@ -232,25 +316,58 @@ def social_from_hn(limit=3):
                         "note": f"HN {h.get('points',0)}pts · {h.get('num_comments',0)} 댓글"})
     return out[:limit]
 
+DATA_PATH = ROOT / "data" / "data.json"
+HEALTH_PATH = ROOT / "data" / "health.json"
+
+def _load_json(path):
+    try:
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+def emit_alert(message):
+    """워크플로의 health 잡이 읽도록 GITHUB_OUTPUT 에 기록한다 (로컬 실행 시엔 출력만)."""
+    if not message:
+        return
+    print(f"alert={message}")
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write(f"alert={message}\n")
+
+def record_youtube_health(channels_ok):
+    """모든 YouTube 채널이 실패한 연속 일수를 data/health.json 에 남기고(다른 키는 보존),
+    며칠째 이어지면 alert 문구를 돌려준다. 하루이틀 실패는 일시 장애로 보고 알리지 않는다."""
+    health = _load_json(HEALTH_PATH)
+    streak = 0 if channels_ok else int(health.get("youtube_zero_streak", 0)) + 1
+    health["youtube_zero_streak"] = streak
+    HEALTH_PATH.write_text(json.dumps(health, ensure_ascii=False, indent=2), encoding="utf-8")
+    if streak >= YT_ZERO_STREAK_ALERT:
+        return (f"YouTube RSS 가 {streak}일 연속 모든 채널 실패 — 피드 주소·형식 변경 의심, "
+                "Actions 로그의 '[YouTube]' 줄과 collect.py YT_CHANNELS 확인 필요")
+    return ""
+
 def main():
     now = datetime.datetime.now(datetime.timezone.utc)
     kst = now + datetime.timedelta(hours=9)
     wd = ["월", "화", "수", "목", "금", "토", "일"][kst.weekday()]
+    prev = _load_json(DATA_PATH)   # 덮어쓰기 전에 — 오늘 못 받은 YouTube 채널은 이전 영상으로 채운다
+    yt, yt_ok = youtube(prev.get("youtube"), today=kst.date().isoformat())
     data = {
         "generated_at": now.isoformat(),
         "date_label": f"{kst.year}년 {kst.month}월 {kst.day}일 ({wd})",
         "github_trending": github_trending(),
         "hackernews": hacker_news(),
         "reddit": reddit(),
-        "youtube": youtube(),
+        "youtube": yt,
         "social": social_from_hn(),
     }
     (ROOT / "data").mkdir(exist_ok=True)
-    (ROOT / "data" / "data.json").write_text(
-        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    DATA_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"수집 완료: GitHub {len(data['github_trending'])} · "
           f"HN {len(data['hackernews'])} · Reddit {len(data['reddit'])} · "
-          f"YouTube {len(data['youtube'])} · SNS {len(data['social'])}")
+          f"YouTube {len(data['youtube'])}(새로 받은 채널 {yt_ok}) · SNS {len(data['social'])}")
+    emit_alert(record_youtube_health(yt_ok))
 
 if __name__ == "__main__":
     main()
