@@ -1,207 +1,232 @@
 {
-  "generated_at": "2026-11-19T01:55:30.577029+00:00",
-  "date_label": "2026년 11월 19일 (목)",
+  "generated_at": "2026-11-20T01:49:09.170021+00:00",
+  "date_label": "2026년 11월 20일 (금)",
   "github_trending": [
     {
-      "repo": "ethanplusai/sellbird",
-      "url": "https://github.com/ethanplusai/sellbird",
+      "repo": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "desc": "",
-      "stars_today": 237,
+      "stars_today": 1349,
       "lang": "Python",
-      "summary_ko": "AI 기반 판매 자동화 도구 Sellbird는 영업 파이프라인을 효율적으로 관리하고 자동화해 생산성을 높입니다."
-    },
-    {
-      "repo": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "desc": "",
-      "stars_today": 205,
-      "lang": "Python",
-      "summary_ko": "다양한 사전학습 모델을 손쉽게 활용할 수 있는 Hugging Face Transformers 라이브러리"
-    },
-    {
-      "repo": "openai/whisper",
-      "url": "https://github.com/openai/whisper",
-      "desc": "",
-      "stars_today": 197,
-      "lang": "Python",
-      "summary_ko": "오픈소스 음성인식 모델 Whisper는 다국어 지원과 높은 정확도로 음성→텍스트 변환을 가능하게 합니다."
-    },
-    {
-      "repo": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "desc": "",
-      "stars_today": 163,
-      "lang": "Python",
-      "summary_ko": "AI 에이전트 설계와 구현을 다룬 실전 가이드 책으로 개발자에게 실용적 인사이트 제공"
+      "summary_ko": "elementalsouls/Claude-BugHunter: Claude 모델의 버그를 자동 탐지·수정해 신뢰성 향상에 기여합니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 127,
+      "stars_today": 162,
       "lang": "Jupyter Notebook",
-      "summary_ko": "LLM 내부 구조와 활용법을 단계별로 탐구하는 교육 자료로 모델 이해에 도움"
+      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 동작을 단계별로 파헤쳐 학습·실험에 유용한 자료를 제공합니다."
     },
     {
-      "repo": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "repo": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
       "desc": "",
-      "stars_today": 53,
-      "lang": "",
-      "summary_ko": "마인크래프트 MCP 서버 리스트를 모아둔 컬렉션으로 서버 선택에 유용"
+      "stars_today": 84,
+      "lang": "Python",
+      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량 에이전트 프레임워크입니다."
     },
     {
-      "repo": "NirDiamant/GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 49,
+      "stars_today": 71,
       "lang": "Jupyter Notebook",
-      "summary_ko": "생성형 AI 에이전트 구축 예제와 팁을 제공해 빠른 프로토타입 제작 지원"
+      "summary_ko": "lyogavin/airllm: 클라우드 환경에서 LLM을 손쉽게 배포·관리할 수 있는 Airflow 기반 솔루션입니다."
     },
     {
-      "repo": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "repo": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "desc": "",
+      "stars_today": 67,
+      "lang": "Python",
+      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 협업을 위한 표준 인터페이스와 툴킷을 제공합니다."
+    },
+    {
+      "repo": "wshobson/agents",
+      "url": "https://github.com/wshobson/agents",
+      "desc": "",
+      "stars_today": 43,
+      "lang": "Python",
+      "summary_ko": "wshobson/agents: 다양한 AI 에이전트를 손쉽게 연결·실행할 수 있는 오픈소스 플랫폼입니다."
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
       "stars_today": 33,
       "lang": "Jupyter Notebook",
-      "summary_ko": "AI 입문자를 위한 마이크로소프트 교육 코스, 실습 중심 커리큘럼 제공"
+      "summary_ko": "anthropics/claude-cookbooks: Claude 활용 예시와 프롬프트 레시피를 체계적으로 정리한 레포입니다."
     },
     {
-      "repo": "anthropics/prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+      "repo": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
       "desc": "",
-      "stars_today": 30,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "프롬프트 엔지니어링을 인터랙티브하게 학습할 수 있는 튜토리얼로 실전 스킬 강화"
+      "stars_today": 23,
+      "lang": "Python",
+      "summary_ko": "apache/airflow: 워크플로우 스케줄링·관리를 위한 업계 표준 오케스트레이션 툴입니다."
     },
     {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "repo": "patchy631/ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 25,
+      "stars_today": 20,
       "lang": "Jupyter Notebook",
-      "summary_ko": "자기주도 학습 방법론을 정리한 자료로 개발자 성장에 실질적 가이드 제공"
+      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 실무 자료와 도구를 한곳에 모은 커뮤니티 리소스입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "points": 451,
-      "comments": 424,
-      "hn_url": "https://news.ycombinator.com/item?id=50552424",
-      "title_ko": "Gemini 4 Neon",
-      "summary_ko": "Google의 최신 LLM Gemini 4 Neon이 공개돼 성능과 효율성 면에서 주목받고 있습니다."
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "points": 900,
+      "comments": 1787,
+      "hn_url": "https://news.ycombinator.com/item?id=50562754",
+      "title_ko": "Anthropic, 나스닥 상장",
+      "summary_ko": "AI 스타트업 Anthropic이 나스닥에 첫 상장해 투자자들의 큰 관심을 받고 있습니다."
     },
     {
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "points": 451,
-      "comments": 315,
-      "hn_url": "https://news.ycombinator.com/item?id=50548021",
-      "title_ko": "확장 가능한 가격·성능을 갖춘 7가지 신규 모델",
-      "summary_ko": "다양한 워크로드에 맞춰 비용 대비 성능을 최적화한 7개의 새로운 AI 모델이 발표되었습니다."
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "points": 750,
+      "comments": 316,
+      "hn_url": "https://news.ycombinator.com/item?id=50519231",
+      "title_ko": "스팸으로 가득 찬 차고문",
+      "summary_ko": "대량 스팸 메일이 차고문 관련 서비스에 악용돼 보안 위험을 경고하는 사례입니다."
     },
     {
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "points": 360,
-      "comments": 163,
-      "hn_url": "https://news.ycombinator.com/item?id=50547777",
-      "title_ko": "AI 에이전트, KPMG 회계사보다 감사 질문을 더 잘함",
-      "summary_ko": "감사 절차에서 AI 에이전트가 인간 회계사보다 더 정확하고 깊이 있는 질문을 제시한다는 연구 결과가 소개되었습니다."
+      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "points": 385,
+      "comments": 165,
+      "hn_url": "https://news.ycombinator.com/item?id=50556287",
+      "title_ko": "Ruby2ßhell: Rails 사전 인증 원격 코드 실행",
+      "summary_ko": "Rails 기본 설정에 존재하는 취약점으로 사전 인증 없이 원격 코드 실행이 가능해졌습니다."
     },
     {
-      "title": "Genie 4 is now available",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-      "points": 190,
-      "comments": 143,
-      "hn_url": "https://news.ycombinator.com/item?id=50550415",
-      "title_ko": "Genie 4 출시",
-      "summary_ko": "신규 대규모 언어 모델 Genie 4가 공개돼 다양한 응용 분야에서 활용 가능성을 보여줍니다."
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "points": 379,
+      "comments": 178,
+      "hn_url": "https://news.ycombinator.com/item?id=50563148",
+      "title_ko": "Claude, 블랙홀 물리학 두 난제 해결",
+      "summary_ko": "AI 모델 Claude가 블랙홀 열역학과 정보 파라독스 두 문제에 새로운 해답을 제시했습니다."
     },
     {
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "points": 162,
-      "comments": 104,
-      "hn_url": "https://news.ycombinator.com/item?id=50549493",
-      "title_ko": "OpenAI 모델로 반도체 설계 혁신",
-      "summary_ko": "OpenAI 기반 모델을 활용해 칩 설계 자동화와 최적화가 가속화되는 사례가 발표되었습니다."
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "url": "https://thedataexchange.media/pete-warden-moonshine/",
+      "points": 215,
+      "comments": 195,
+      "hn_url": "https://news.ycombinator.com/item?id=50561508",
+      "title_ko": "Pete Warden, 로컬 AI·오픈 모델·음성 인터페이스·하드웨어 미래",
+      "summary_ko": "Pete Warden이 로컬 AI와 오픈 모델, 음성 인터페이스, 하드웨어 발전 방향을 논의했습니다."
     },
     {
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "points": 138,
-      "comments": 41,
-      "hn_url": "https://news.ycombinator.com/item?id=50551046",
-      "title_ko": "DaisyRose-27B",
-      "summary_ko": "27억 파라미터 규모의 DaisyRose-27B 모델이 공개돼 고품질 텍스트 생성 능력을 입증했습니다."
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "points": 200,
+      "comments": 108,
+      "hn_url": "https://news.ycombinator.com/item?id=50564159",
+      "title_ko": "98% 슬롯머신: 유료 광고가 추출세가 된 이유",
+      "summary_ko": "대다수 사용자를 비용 징수 대상으로 만든 유료 광고 생태계의 문제점을 분석합니다."
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-      "points": 65,
-      "comments": 19,
-      "hn_url": "https://news.ycombinator.com/item?id=50554374",
-      "title_ko": "Gemini 4 Neon, Opus 5.5 경쟁 모델로 부상",
-      "summary_ko": "Gemini 4 Neon이 Opus 5.5와 비슷한 성능을 보여 경쟁 구도가 형성되고 있습니다."
+      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
+      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
+      "points": 197,
+      "comments": 141,
+      "hn_url": "https://news.ycombinator.com/item?id=50536950",
+      "title_ko": "오리건 도서관, 듀이 소수점 체계 폐지하고 독서 열기",
+      "summary_ko": "오리건의 한 도서관이 듀이십진분류를 버리고 이용자 중심 프로그램으로 독서 관심을 회복했습니다."
     },
     {
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "points": 62,
-      "comments": 13,
-      "hn_url": "https://news.ycombinator.com/item?id=50553225",
-      "title_ko": "LLM 기반 역공학 지원",
-      "summary_ko": "대형 언어 모델을 이용해 소프트웨어 역공학 과정을 자동화·효율화하는 새로운 접근법이 소개되었습니다."
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
+      "points": 88,
+      "comments": 45,
+      "hn_url": "https://news.ycombinator.com/item?id=50568130",
+      "title_ko": "Gemini 4 Neon, 모델 엔지니어링 지수 1위",
+      "summary_ko": "신형 Gemini 4 Neon이 모델 엔지니어링 지수에서 최고 순위를 차지해 주목받고 있습니다."
     }
   ],
   "reddit": [],
   "youtube": [
     {
-      "title": "GPT보다 디테일 유지를 잘하는 이미지 모델 ㄷㄷ",
-      "channel": "조코딩",
-      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-      "url": "https://www.youtube.com/shorts/Uw-V1FgIbSs",
-      "published": "2026-11-18",
-      "desc": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ VVIP 멤버십 후원 그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다. https://www.youtube.com/",
-      "fetched": "2026-11-19",
-      "title_ko": "디테일 유지에 강한 이미지 모델 소개",
-      "summary_ko": "조코딩이 GPT보다 세밀한 이미지 모델을 소개해 주목받고 있습니다."
-    },
-    {
-      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "title": "DeepMind Just Released The Best Thing AI Ever Did",
       "channel": "Two Minute Papers",
       "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
-      "published": "2026-11-17",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf https://openai.com/index/building-scientific-understanding-with-academic-communities/ 🙏 We would l",
-      "fetched": "2026-11-19",
-      "title_ko": "OpenAI 최신 논문, 혼란을 야기하는 혁신",
-      "summary_ko": "Two Minute Papers가 OpenAI의 최신 연구가 기대와 달리 혼란을 초래한다는 점을 분석합니다."
+      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+      "published": "2026-11-19",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr. Pushmeet Kohl",
+      "fetched": "2026-11-20",
+      "title_ko": "DeepMind, 최고의 AI 성과 발표",
+      "summary_ko": "DeepMind가 AlphaGenome 논문을 공개하며 세포 연구에 AI 활용을 선보여 주목받고 있습니다."
     },
     {
-      "title": "Why Microsoft couldn’t fix its own servers for 36 hours...",
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
+      "channel": "AI Explained",
+      "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "published": "2026-11-19",
+      "desc": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? W",
+      "fetched": "2026-11-20",
+      "title_ko": "Anthropic IPO와 GPT‑6.2 Astra 출시, 더 큰 흐름은?",
+      "summary_ko": "Anthropic이 상장하고 OpenAI의 GPT‑6.2 Astra가 발표됐지만, Gemini 시리즈가 급부상해 눈길을 끕니다."
+    },
+    {
+      "title": "The only software that didn’t break this week...",
       "channel": "Fireship",
       "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "url": "https://www.youtube.com/watch?v=ytmawkPTP24",
-      "published": "2026-11-16",
-      "desc": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free: https://openrouter.ai/?utm_source=fireship&utm_medium=video&utm_campaign=2026-11_dev-sponsorships&utm_content=description Microsoft took ",
-      "fetched": "2026-11-19",
-      "title_ko": "마이크로소프트 서버 장애 36시간 미해결 배경",
-      "summary_ko": "Fireship이 마이크로소프트가 36시간 동안 서버 문제를 해결하지 못한 원인을 짚어줍니다."
+      "url": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
+      "published": "2026-11-19",
+      "desc": "Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/https://jb.gg/JetBrainsAir-in-IDEs Solid 2.0 is the framework's first major release in over five years. Why should you care? Let's dive in. Want more Fireship? 🗞️ Newsletter: https://bytes.dev 🧠 ",
+      "fetched": "2026-11-20",
+      "title_ko": "이번 주에도 끊김 없는 유일한 소프트웨어",
+      "summary_ko": "JetBrains Air를 통해 여러 코딩 에이전트를 하나의 IDE에 통합해 안정적인 개발 환경을 제공합니다."
     },
     {
-      "title": "엔비디아, 리벨리온이 뭉쳤다 | Groq가 있는데도 리벨리온 R200 선택 이유 | NVLink Fusion과 MGX 그리고 리벨리온의 토큰 수출 구상",
+      "title": "GTA 6 and the Biggest Jewelry Thief in US History | Lex Fridman Podcast #505",
+      "channel": "Lex Fridman",
+      "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
+      "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
+      "published": "2026-11-19",
+      "desc": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps kee",
+      "fetched": "2026-11-20",
+      "title_ko": "GTA 6와 미국 최대 보석 절도범 인터뷰",
+      "summary_ko": "Lex Fridman 팟캐스트에서 전설적인 보석 절도범 Larry Lawton이 체포와 복역 이야기를 전합니다."
+    },
+    {
+      "title": "GPT 6.2 Astra is out!",
+      "channel": "AI Search",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "url": "https://www.youtube.com/watch?v=rYsIpPP6QY4",
+      "published": "2026-11-19",
+      "desc": "GPT 6.2 Astra review. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/s/theaisearch-xLXjAo Also see: Gemini Carbon review https://youtu.be/woWo80dPkVk Fable 5.2 review https://youtu.be/S7lpCyZSdJQ Opus 5.5 review h",
+      "fetched": "2026-11-20",
+      "title_ko": "GPT‑6.2 Astra 정식 출시",
+      "summary_ko": "AI Search가 GPT‑6.2 Astra 모델을 리뷰하며 최신 LLM 성능과 활용 가능성을 조명합니다."
+    },
+    {
+      "title": "구글 딥마인드의 숨겨진 이야기… AI 미래는 이렇습니다 | 알파고를 만든 남자는 어떻게 AI 시대의 중심에 섰나 | 데미스 허사비스와 딥마인드 [인피니티 머신 북리뷰]",
       "channel": "안될공학",
       "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-      "url": "https://www.youtube.com/watch?v=YLBR7qz6JPs",
-      "published": "2026-11-16",
-      "desc": "엔비디아와 리벨리온, SK텔레콤이 한국형 소버린 AI 인프라 공동 개발에 나섰습니다. 엔비디아 GPU가 질문을 처리하고 리벨리온 R200이 답변 생성을 맡는 구상입니다. 이미 Groq 3 LPX를 보유한 엔비디아가 왜 한국에서는 리벨리온과 협력하는지 살펴봅니다. 채팅창에서 첫 글자를 기다리는 시간과 답변이 이어지는 속도는 서로 다른 문제입니다. Prefill과 Decode의 차이, 두 장비 사이에 전달해야 하는 KV 캐시를 계약서 질문 사례로 풀어봅니다. H200 GPU 32장을 사용한 A.X-K",
-      "fetched": "2026-11-19",
-      "title_ko": "엔비디아·리벨리온·SK텔레콤, 한국형 AI 인프라 협업",
-      "summary_ko": "엔비디아와 리벨리온이 한국에서 GPU와 R200을 결합한 소버린 AI 인프라를 공동 개발합니다."
+      "url": "https://www.youtube.com/watch?v=Db1WyKSt_dA",
+      "published": "2026-11-19",
+      "desc": "인피니티 머신 도서 구매 링크 - 교보문고 https://bit.ly/4kenEIU - 예스24 https://bit.ly/4t25UCJ - 알라딘 https://bit.ly/48XtN5g * 본 영상은 위즈덤하우스의 지원을 받아 제작되었습니다. 알파고부터 제미나이까지, 지금의 AI 시대는 어떻게 시작됐을까요? 그 중심에는 인간처럼 생각하는 AI를 만들겠다는 꿈을 품은 데미스 허사비스와 딥마인드가 있었습니다. 이들은 게임을 통해 기계가 스스로 배우는 방법을 연구했고, 알파고는 AI의 가능성을 전 ",
+      "fetched": "2026-11-20",
+      "title_ko": "구글 딥마인드 숨은 이야기와 AI 미래",
+      "summary_ko": "‘인피니티 머신’ 도서 리뷰를 통해 딥마인드 창립자와 AI 시대의 흐름을 탐구합니다."
+    },
+    {
+      "title": "컴퓨터에서 키울 수 있는 귀염뽀짝(?) 반려동물",
+      "channel": "조코딩",
+      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "url": "https://www.youtube.com/shorts/7J6YWt5umI4",
+      "published": "2026-11-19",
+      "desc": "저장소: https://github.com/DenisSergeevitch/desktop-fly 조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송",
+      "fetched": "2026-11-20",
+      "title_ko": "컴퓨터에서 키우는 귀여운 반려동물",
+      "summary_ko": "GitHub 프로젝트를 활용해 데스크톱 위에 가상 반려동물을 두고 즐길 수 있는 방법을 소개합니다."
     },
     {
       "title": "The End of an Era: Jensen Huang",
@@ -210,20 +235,9 @@
       "url": "https://www.youtube.com/watch?v=9v4-zTODZWE",
       "published": "2026-11-15",
       "desc": "0:04 — NVIDIA CEO transition press release — https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 0:26 — Guardian: Huang resigns after alleged affairs — https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns 1:07 — NYT: Huang target of Ch",
-      "fetched": "2026-11-19",
-      "title_ko": "엔비디아 CEO 전환과 젠슨 황 사임 소식",
-      "summary_ko": "sentdex가 젠슨 황의 사임과 새로운 CEO 발표가 업계에 미치는 영향을 정리합니다."
-    },
-    {
-      "title": "Gemini Carbon & Hydrogen, realtime voices, new TTS, new 3D generators: AI NEWS",
-      "channel": "AI Search",
-      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
-      "url": "https://www.youtube.com/watch?v=woWo80dPkVk",
-      "published": "2026-11-15",
-      "desc": "HUGE AI NEWS: Gemini 4 Carbon review, Gemini Hydrogen, Minimax Image, Muse Ember, Ernie 5.5. Thanks to our sponsor BytePlus Seedream 5.5. Try it today! Try it today! https://www.byteplus.com/en/contact-us/seedream5-5 #ai #ainews #aitools #aivideo #agi #singularity 00:00 AI news i",
-      "fetched": "2026-11-19",
-      "title_ko": "Gemini Carbon·Hydrogen·실시간 음성·3D 생성 최신 AI 소식",
-      "summary_ko": "AI Search가 Gemini 4 Carbon 리뷰와 새로운 TTS·3D 생성 모델을 한눈에 소개합니다."
+      "fetched": "2026-11-20",
+      "title_ko": "시대의 종말, Jensen Huang",
+      "summary_ko": "NVIDIA CEO 교체와 관련된 논란을 정리하며 Huang의 사임 배경을 살펴봅니다."
     },
     {
       "title": "The NVIDIA Scandal Goes Deeper than You Think",
@@ -232,31 +246,9 @@
       "url": "https://www.youtube.com/watch?v=PptRrzYY61w",
       "published": "2026-11-15",
       "desc": "Jensen Huang took Nvidia from a GPU company to one of the largest companies on the planet, only to have everything crash and burn overnight. What's been reported in the news may not be the full story. In this episode we explore the Nvidia saga from top to bottom. ColdFusion Music",
-      "fetched": "2026-11-19",
-      "title_ko": "엔비디아 스캔들, 알려진 것보다 깊은 문제",
-      "summary_ko": "ColdFusion이 엔비디아 내부 문제와 급격한 주가 하락 배경을 파헤칩니다."
-    },
-    {
-      "title": "에이전트 시대에도 RAG가 필요할까? | AutoRAG Community Meetup 2026 |  현장 스케치🎥",
-      "channel": "테디노트",
-      "channel_id": "UCt2wAAXgm87ACiQnDHQEW6Q",
-      "url": "https://www.youtube.com/watch?v=h0Xpdf9-Hcs",
-      "published": "2026-11-12",
-      "desc": "AI 에이전트가 알아서 찾아주는 시대, RAG는 어떤 역할을 하게 될까요? 2026년 10월 28일 열린 AutoRAG Community Meetup의 현장을 담았습니다. 에이전트 시대의 지식 검색과 문서 파싱, AutoRAG가 그리는 ‘개인용 사서 에이전트’까지. 발표 하이라이트와 인터뷰를 통해 개발자들의 고민과 경험을 만나보세요. 오픈소스를 만들고 사용하는 사람들이 한자리에 모여 나눈 이야기, 그리고 함께 만든 경험과 추억을 전합니다! 🔗 AutoRAG GitHub 바로가기 https://gi",
-      "fetched": "2026-11-19",
-      "title_ko": "에이전트 시대 RAG 필요성, AutoRAG Meetup 2026 현장",
-      "summary_ko": "테디노트가 2026년 AutoRAG 커뮤니티 모임에서 RAG와 에이전트의 역할을 논의합니다."
-    },
-    {
-      "title": "[단편영화] 승인만 하시면 됩니다",
-      "channel": "빵형의 개발도상국",
-      "channel_id": "UC9PB9nKYqKEx_N3KM-JVTpg",
-      "url": "https://www.youtube.com/watch?v=jf5Mitw7vJA",
-      "published": "2026-11-11",
-      "desc": "[승인만 하시면 됩니다] 감독: 빵형 이태희 시놉시스 AI 결재도우미가 올린 안건을 늘 승인만 눌러 온 군청 주무관이, '이용자 0명'인 막차 심야 버스에서 매일 현금 4,200원이 들어온다는 사실을 발견한다. 기획 의도 우리는 \"AI가 결정했다\"는 말을 점점 자주 듣는다. 그러나 AI는 사람이 넣은 데이터로 판단하고, 그 데이터에는 '기록되지 않은 사람들'이 빠져 있다. 이 작품은 거대한 악당 대신, 귀찮아서 0을 입력한 평범한 공무원에게서 문제를 찾는다. 그리고 \"승인만 하시면 됩니다\"라는 말",
-      "fetched": "2026-11-19",
-      "title_ko": "[단편영화] 승인만 하면 됩니다",
-      "summary_ko": "빵형이 AI 결재도우미의 위험성을 풍자한 단편영화로, 승인만 누르는 현실을 비판합니다."
+      "fetched": "2026-11-20",
+      "title_ko": "NVIDIA 스캔들, 생각보다 깊다",
+      "summary_ko": "NVIDIA가 GPU 기업에서 거대 기업으로 성장했지만, 최근 폭락 뒤 숨겨진 진실을 파헤칩니다."
     }
   ],
   "social": [],
