@@ -1,156 +1,200 @@
 {
-  "generated_at": "2026-11-20T01:49:09.170021+00:00",
-  "date_label": "2026년 11월 20일 (금)",
+  "generated_at": "2026-11-21T01:37:29.294359+00:00",
+  "date_label": "2026년 11월 21일 (토)",
   "github_trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "desc": "",
-      "stars_today": 1349,
+      "stars_today": 1622,
       "lang": "Python",
-      "summary_ko": "elementalsouls/Claude-BugHunter: Claude 모델의 버그를 자동 탐지·수정해 신뢰성 향상에 기여합니다."
+      "summary_ko": "elementalsouls/Claude-BugHunter: Claude 모델 버그 탐지를 자동화해 개발 효율을 높이는 도구입니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 162,
+      "stars_today": 161,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 동작을 단계별로 파헤쳐 학습·실험에 유용한 자료를 제공합니다."
-    },
-    {
-      "repo": "SWE-agent/mini-swe-agent",
-      "url": "https://github.com/SWE-agent/mini-swe-agent",
-      "desc": "",
-      "stars_today": 84,
-      "lang": "Python",
-      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량 에이전트 프레임워크입니다."
-    },
-    {
-      "repo": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "desc": "",
-      "stars_today": 71,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm: 클라우드 환경에서 LLM을 손쉽게 배포·관리할 수 있는 Airflow 기반 솔루션입니다."
+      "summary_ko": "Lordog/dive-into-llms: LLM 내부 구조와 동작 원리를 단계별로 설명하는 학습 자료 모음입니다."
     },
     {
       "repo": "agentscope-ai/agentscope",
       "url": "https://github.com/agentscope-ai/agentscope",
       "desc": "",
-      "stars_today": 67,
+      "stars_today": 69,
       "lang": "Python",
-      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 협업을 위한 표준 인터페이스와 툴킷을 제공합니다."
+      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 시스템 구축을 위한 파이썬 프레임워크로, 확장성이 뛰어납니다."
+    },
+    {
+      "repo": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "desc": "",
+      "stars_today": 66,
+      "lang": "Python",
+      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량형 에이전트 구현 예시입니다."
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "",
+      "stars_today": 62,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "lyogavin/airllm: LLM을 이용한 에어플로우 연동 예제로, 워크플로 자동화에 활용됩니다."
     },
     {
       "repo": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "desc": "",
-      "stars_today": 43,
+      "stars_today": 41,
       "lang": "Python",
-      "summary_ko": "wshobson/agents: 다양한 AI 에이전트를 손쉽게 연결·실행할 수 있는 오픈소스 플랫폼입니다."
+      "summary_ko": "wshobson/agents: 다양한 AI 에이전트 샘플을 제공해 빠른 프로토타이핑을 돕는 레포지토리입니다."
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 33,
+      "stars_today": 40,
       "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks: Claude 활용 예시와 프롬프트 레시피를 체계적으로 정리한 레포입니다."
+      "summary_ko": "anthropics/claude-cookbooks: Claude 모델 활용 팁과 프롬프트 레시피를 정리한 실용 가이드입니다."
     },
     {
       "repo": "apache/airflow",
       "url": "https://github.com/apache/airflow",
       "desc": "",
-      "stars_today": 23,
+      "stars_today": 30,
       "lang": "Python",
-      "summary_ko": "apache/airflow: 워크플로우 스케줄링·관리를 위한 업계 표준 오케스트레이션 툴입니다."
+      "summary_ko": "apache/airflow: 워크플로 관리와 스케줄링을 위한 오픈소스 플랫폼으로 산업 표준입니다."
     },
     {
       "repo": "patchy631/ai-engineering-hub",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "desc": "",
-      "stars_today": 20,
+      "stars_today": 22,
       "lang": "Jupyter Notebook",
-      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 실무 자료와 도구를 한곳에 모은 커뮤니티 리소스입니다."
+      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 도구와 베스트프랙티스를 한눈에 정리한 리소스 모음입니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "points": 900,
-      "comments": 1787,
-      "hn_url": "https://news.ycombinator.com/item?id=50562754",
-      "title_ko": "Anthropic, 나스닥 상장",
-      "summary_ko": "AI 스타트업 Anthropic이 나스닥에 첫 상장해 투자자들의 큰 관심을 받고 있습니다."
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "points": 2353,
+      "comments": 1591,
+      "hn_url": "https://news.ycombinator.com/item?id=50574968",
+      "title_ko": "Levent Alpöge, 일반화 리만 가설 증명 주장 (PDF)",
+      "summary_ko": "수학자 Levent Alpöge가 일반화 리만 가설에 대한 증명을 공개해 학계의 큰 관심을 받고 있다."
     },
     {
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "points": 750,
-      "comments": 316,
-      "hn_url": "https://news.ycombinator.com/item?id=50519231",
-      "title_ko": "스팸으로 가득 찬 차고문",
-      "summary_ko": "대량 스팸 메일이 차고문 관련 서비스에 악용돼 보안 위험을 경고하는 사례입니다."
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "points": 625,
+      "comments": 326,
+      "hn_url": "https://news.ycombinator.com/item?id=50572503",
+      "title_ko": "Frostbite: AI가 설계·검증한 새로운 CPU 아키텍처",
+      "summary_ko": "인공지능이 직접 설계·검증한 혁신적인 CPU 구조가 공개돼 하드웨어 개발 패러다임을 바꿀 가능성이 주목된다."
     },
     {
-      "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-      "url": "https://verialabs.com/ruby2shell/",
-      "points": 385,
-      "comments": 165,
-      "hn_url": "https://news.ycombinator.com/item?id=50556287",
-      "title_ko": "Ruby2ßhell: Rails 사전 인증 원격 코드 실행",
-      "summary_ko": "Rails 기본 설정에 존재하는 취약점으로 사전 인증 없이 원격 코드 실행이 가능해졌습니다."
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "points": 622,
+      "comments": 292,
+      "hn_url": "https://news.ycombinator.com/item?id=50572355",
+      "title_ko": "간단히 설명하지 못한다면 이해하지 못한 것이다 (2017)",
+      "summary_ko": "복잡한 개념을 쉽게 풀어 말하지 못하면 진정한 이해가 부족하다는 메시지를 강조한 글이다."
     },
     {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "points": 379,
-      "comments": 178,
-      "hn_url": "https://news.ycombinator.com/item?id=50563148",
-      "title_ko": "Claude, 블랙홀 물리학 두 난제 해결",
-      "summary_ko": "AI 모델 Claude가 블랙홀 열역학과 정보 파라독스 두 문제에 새로운 해답을 제시했습니다."
+      "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "points": 508,
+      "comments": 302,
+      "hn_url": "https://news.ycombinator.com/item?id=50572348",
+      "title_ko": "모바일 OS에서 AI 에이전트 데이터 수집 제한 방안",
+      "summary_ko": "모바일 운영체제에 AI 에이전트가 데이터를 무단 수집하지 못하도록 하는 보안·프라이버시 정책이 논의된다."
     },
     {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "url": "https://thedataexchange.media/pete-warden-moonshine/",
-      "points": 215,
-      "comments": 195,
-      "hn_url": "https://news.ycombinator.com/item?id=50561508",
-      "title_ko": "Pete Warden, 로컬 AI·오픈 모델·음성 인터페이스·하드웨어 미래",
-      "summary_ko": "Pete Warden이 로컬 AI와 오픈 모델, 음성 인터페이스, 하드웨어 발전 방향을 논의했습니다."
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "points": 200,
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "points": 337,
       "comments": 108,
-      "hn_url": "https://news.ycombinator.com/item?id=50564159",
-      "title_ko": "98% 슬롯머신: 유료 광고가 추출세가 된 이유",
-      "summary_ko": "대다수 사용자를 비용 징수 대상으로 만든 유료 광고 생태계의 문제점을 분석합니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50577265",
+      "title_ko": "언어 모델이 스스로 가중치를 재작성할 수 있다",
+      "summary_ko": "대형 언어 모델이 자체 가중치를 수정하며 학습 효율을 높이는 새로운 메커니즘을 제시한다."
     },
     {
-      "title": "An Oregon library ditched Dewey Decimal and got people excited about books again",
-      "url": "https://www.fastcompany.com/91597520/oregon-library-ditched-dewey-decimal-wayfinding-system",
-      "points": 197,
-      "comments": 141,
-      "hn_url": "https://news.ycombinator.com/item?id=50536950",
-      "title_ko": "오리건 도서관, 듀이 소수점 체계 폐지하고 독서 열기",
-      "summary_ko": "오리건의 한 도서관이 듀이십진분류를 버리고 이용자 중심 프로그램으로 독서 관심을 회복했습니다."
+      "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+      "url": "https://kobi.music/research/dettato",
+      "points": 238,
+      "comments": 49,
+      "hn_url": "https://news.ycombinator.com/item?id=50526023",
+      "title_ko": "Show HN: 오디오를 MIDI로 변환하는 모델 60배 효율 개선",
+      "summary_ko": "음성 신호를 MIDI 데이터로 변환하는 모델을 60배 가볍게 만들어 실시간 활용 가능성을 높였다."
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "points": 88,
-      "comments": 45,
-      "hn_url": "https://news.ycombinator.com/item?id=50568130",
-      "title_ko": "Gemini 4 Neon, 모델 엔지니어링 지수 1위",
-      "summary_ko": "신형 Gemini 4 Neon이 모델 엔지니어링 지수에서 최고 순위를 차지해 주목받고 있습니다."
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
+      "points": 111,
+      "comments": 26,
+      "hn_url": "https://news.ycombinator.com/item?id=50583274",
+      "title_ko": "NINLIVE: 나인 인치 네일즈 라이브 아카이브",
+      "summary_ko": "Nine Inch Nails의 공연 기록을 체계적으로 보관·검색할 수 있는 온라인 아카이브 프로젝트다."
+    },
+    {
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "points": 110,
+      "comments": 39,
+      "hn_url": "https://news.ycombinator.com/item?id=50579297",
+      "title_ko": "Vibecoding: 추론 전용 칩 설계",
+      "summary_ko": "AI 추론에 최적화된 전용 칩을 설계하고 구현한 Vibecoding 프로젝트가 주목받고 있다."
     }
   ],
   "reddit": [],
   "youtube": [
+    {
+      "title": "If you’ve deployed anything since 2015, I have bad news...",
+      "channel": "Fireship",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "url": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+      "published": "2026-11-20",
+      "desc": "Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fireship&utm_content=fireship-1 Hackers hijacked 178 major websites through Optimizely, a single Base64 string took over Java",
+      "fetched": "2026-11-21",
+      "title_ko": "2015년 이후 배포한 경우, 나쁜 소식이 있습니다",
+      "summary_ko": "Paper가 실제 HTML·CSS 기반 디자인 캔버스를 제공해 코딩 에이전트를 강화합니다."
+    },
+    {
+      "title": "Gemini 4 Neon is ON FIRE!",
+      "channel": "AI Search",
+      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
+      "url": "https://www.youtube.com/watch?v=3FE-hBh1rsY",
+      "published": "2026-11-20",
+      "desc": "Gemini 4 Neon review. #ai #aitools #ainews #llm #agi #singularity. Thanks to our sponsor Luma. Try it for free https://lumalabs.ai/aisearch-nov2 Also see: GPT 6.2 Astra https://youtu.be/rYsIpPP6QY4 Gemini Carbon review https://youtu.be/woWo80dPkVk Fable 5.2 review https://youtu.b",
+      "fetched": "2026-11-21",
+      "title_ko": "Gemini 4 Neon 리뷰: 화려한 성능",
+      "summary_ko": "Gemini 4 Neon을 시연하며 최신 LLM·AGI 트렌드와 Luma 스폰서 혜택을 소개합니다."
+    },
+    {
+      "title": "Google AdMob AI 기능 데모: 앱 광고 연동과 수익화 관리",
+      "channel": "조코딩",
+      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "url": "https://www.youtube.com/shorts/YDST35uuLHY",
+      "published": "2026-11-20",
+      "desc": "#광고 | 구글의 지원을 받아 제작한 콘텐츠입니다. Google AdMob의 AI 기능 데모를 살펴봤습니다. AI로 앱에 광고를 연동하고 수익화 관리 작업을 돕는 흐름을 소개합니다. ※ 영상에 소개된 AdMob MCP 서버는 출시 예정 기능입니다(Coming soon). 현재 누구나 사용할 수 있는 기능은 아닙니다. 공식 소개: https://blog.google/products/publisher-connections/new-google-admob-tools/ #GoogleAdMob #Global",
+      "fetched": "2026-11-21",
+      "title_ko": "Google AdMob AI 기능 데모: 앱 광고 연동 및 수익화",
+      "summary_ko": "AI 기반 광고 연동·수익 관리 흐름을 시연하고, 곧 출시될 AdMob MCP 서버를 미리 살펴봅니다."
+    },
+    {
+      "title": "RAG의 시작을 바꾸는 VLM: Document Parse 2.0 | AutoRAG Community Meetup 2026 | 최승기 발표📁",
+      "channel": "테디노트",
+      "channel_id": "UCt2wAAXgm87ACiQnDHQEW6Q",
+      "url": "https://www.youtube.com/watch?v=bRzpzqedDSk",
+      "published": "2026-11-20",
+      "desc": "RAG와 AI 에이전트의 기술과 실전 경험을 나눈 자리, AutoRAG Community Meetup 2026의 발표 현장을 전합니다 🔗 AutoRAG GitHub 바로가기 https://github.com/Marker-Inc-Korea/A... #AutoRAG #RAG #AI에이전트 #오픈소스 #개발자 #meetup --- 📍 \"테디노트의 RAG 비법노트\" 랭체인 강의: https://fastcampus.co.kr/data_online_teddy 📘 랭체인 한국어 튜토리얼(무료 전자책): htt",
+      "fetched": "2026-11-21",
+      "title_ko": "RAG 혁신 VLM: Document Parse 2.0 발표",
+      "summary_ko": "AutoRAG 커뮤니티 밋업 2026에서 최승기가 VLM 기반 Document Parse 2.0을 소개합니다."
+    },
     {
       "title": "DeepMind Just Released The Best Thing AI Ever Did",
       "channel": "Two Minute Papers",
@@ -158,9 +202,9 @@
       "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
       "published": "2026-11-19",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr. Pushmeet Kohl",
-      "fetched": "2026-11-20",
+      "fetched": "2026-11-21",
       "title_ko": "DeepMind, 최고의 AI 성과 발표",
-      "summary_ko": "DeepMind가 AlphaGenome 논문을 공개하며 세포 연구에 AI 활용을 선보여 주목받고 있습니다."
+      "summary_ko": "DeepMind가 AlphaGenome 논문을 공개하며 세포 해독 분야에서 획기적 진전을 알렸습니다."
     },
     {
       "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
@@ -169,42 +213,20 @@
       "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
       "published": "2026-11-19",
       "desc": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? W",
-      "fetched": "2026-11-20",
-      "title_ko": "Anthropic IPO와 GPT‑6.2 Astra 출시, 더 큰 흐름은?",
-      "summary_ko": "Anthropic이 상장하고 OpenAI의 GPT‑6.2 Astra가 발표됐지만, Gemini 시리즈가 급부상해 눈길을 끕니다."
+      "fetched": "2026-11-21",
+      "title_ko": "Anthropic IPO·GPT 6.2 Astra·Gemini 경쟁",
+      "summary_ko": "GPT 6.2 Astra가 최고 모델이지만 Gemini 4·4 Carbon·Neon이 급부상하며 시장 판도를 바꿉니다."
     },
     {
-      "title": "The only software that didn’t break this week...",
-      "channel": "Fireship",
-      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "url": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
-      "published": "2026-11-19",
-      "desc": "Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/https://jb.gg/JetBrainsAir-in-IDEs Solid 2.0 is the framework's first major release in over five years. Why should you care? Let's dive in. Want more Fireship? 🗞️ Newsletter: https://bytes.dev 🧠 ",
-      "fetched": "2026-11-20",
-      "title_ko": "이번 주에도 끊김 없는 유일한 소프트웨어",
-      "summary_ko": "JetBrains Air를 통해 여러 코딩 에이전트를 하나의 IDE에 통합해 안정적인 개발 환경을 제공합니다."
-    },
-    {
-      "title": "GTA 6 and the Biggest Jewelry Thief in US History | Lex Fridman Podcast #505",
+      "title": "Larry Lawton: GTA 6, Crime, Jewel Heists, Prison, Mafia, Miami & Money | Lex Fridman Podcast #505",
       "channel": "Lex Fridman",
       "channel_id": "UCSHZKyawb77ixDdsGog4iWA",
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
       "published": "2026-11-19",
       "desc": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps kee",
-      "fetched": "2026-11-20",
-      "title_ko": "GTA 6와 미국 최대 보석 절도범 인터뷰",
-      "summary_ko": "Lex Fridman 팟캐스트에서 전설적인 보석 절도범 Larry Lawton이 체포와 복역 이야기를 전합니다."
-    },
-    {
-      "title": "GPT 6.2 Astra is out!",
-      "channel": "AI Search",
-      "channel_id": "UCIgnGlGkVRhd4qNFcEwLL4A",
-      "url": "https://www.youtube.com/watch?v=rYsIpPP6QY4",
-      "published": "2026-11-19",
-      "desc": "GPT 6.2 Astra review. #ai #ainews #aitools #llm #agi #singularity Thanks to our sponsor Higgsfield. Try it today: https://higgsfield.ai/s/theaisearch-xLXjAo Also see: Gemini Carbon review https://youtu.be/woWo80dPkVk Fable 5.2 review https://youtu.be/S7lpCyZSdJQ Opus 5.5 review h",
-      "fetched": "2026-11-20",
-      "title_ko": "GPT‑6.2 Astra 정식 출시",
-      "summary_ko": "AI Search가 GPT‑6.2 Astra 모델을 리뷰하며 최신 LLM 성능과 활용 가능성을 조명합니다."
+      "fetched": "2026-11-21",
+      "title_ko": "Larry Lawton 인터뷰: GTA 6·범죄·감옥 이야기",
+      "summary_ko": "전설적인 보석 절도범 Larry Lawton이 범죄, 감옥 생활, 그리고 GTA 6에 대해 이야기합니다."
     },
     {
       "title": "구글 딥마인드의 숨겨진 이야기… AI 미래는 이렇습니다 | 알파고를 만든 남자는 어떻게 AI 시대의 중심에 섰나 | 데미스 허사비스와 딥마인드 [인피니티 머신 북리뷰]",
@@ -213,20 +235,9 @@
       "url": "https://www.youtube.com/watch?v=Db1WyKSt_dA",
       "published": "2026-11-19",
       "desc": "인피니티 머신 도서 구매 링크 - 교보문고 https://bit.ly/4kenEIU - 예스24 https://bit.ly/4t25UCJ - 알라딘 https://bit.ly/48XtN5g * 본 영상은 위즈덤하우스의 지원을 받아 제작되었습니다. 알파고부터 제미나이까지, 지금의 AI 시대는 어떻게 시작됐을까요? 그 중심에는 인간처럼 생각하는 AI를 만들겠다는 꿈을 품은 데미스 허사비스와 딥마인드가 있었습니다. 이들은 게임을 통해 기계가 스스로 배우는 방법을 연구했고, 알파고는 AI의 가능성을 전 ",
-      "fetched": "2026-11-20",
-      "title_ko": "구글 딥마인드 숨은 이야기와 AI 미래",
-      "summary_ko": "‘인피니티 머신’ 도서 리뷰를 통해 딥마인드 창립자와 AI 시대의 흐름을 탐구합니다."
-    },
-    {
-      "title": "컴퓨터에서 키울 수 있는 귀염뽀짝(?) 반려동물",
-      "channel": "조코딩",
-      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-      "url": "https://www.youtube.com/shorts/7J6YWt5umI4",
-      "published": "2026-11-19",
-      "desc": "저장소: https://github.com/DenisSergeevitch/desktop-fly 조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ VVIP 멤버십 후원 그림자그림자님, 차딩Chading TV님, Sicongbabe님, 정진균님, Tae hwan Kim님, 시원-r9u님, YCN유림방송",
-      "fetched": "2026-11-20",
-      "title_ko": "컴퓨터에서 키우는 귀여운 반려동물",
-      "summary_ko": "GitHub 프로젝트를 활용해 데스크톱 위에 가상 반려동물을 두고 즐길 수 있는 방법을 소개합니다."
+      "fetched": "2026-11-21",
+      "title_ko": "구글 딥마인드 비하인드 스토리와 AI 미래",
+      "summary_ko": "알파고부터 제미나이까지, 딥마인드 창업자의 AI 시대 주도 이야기를 책 리뷰와 함께 전합니다."
     },
     {
       "title": "The End of an Era: Jensen Huang",
@@ -235,20 +246,9 @@
       "url": "https://www.youtube.com/watch?v=9v4-zTODZWE",
       "published": "2026-11-15",
       "desc": "0:04 — NVIDIA CEO transition press release — https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 0:26 — Guardian: Huang resigns after alleged affairs — https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns 1:07 — NYT: Huang target of Ch",
-      "fetched": "2026-11-20",
-      "title_ko": "시대의 종말, Jensen Huang",
-      "summary_ko": "NVIDIA CEO 교체와 관련된 논란을 정리하며 Huang의 사임 배경을 살펴봅니다."
-    },
-    {
-      "title": "The NVIDIA Scandal Goes Deeper than You Think",
-      "channel": "ColdFusion",
-      "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
-      "url": "https://www.youtube.com/watch?v=PptRrzYY61w",
-      "published": "2026-11-15",
-      "desc": "Jensen Huang took Nvidia from a GPU company to one of the largest companies on the planet, only to have everything crash and burn overnight. What's been reported in the news may not be the full story. In this episode we explore the Nvidia saga from top to bottom. ColdFusion Music",
-      "fetched": "2026-11-20",
-      "title_ko": "NVIDIA 스캔들, 생각보다 깊다",
-      "summary_ko": "NVIDIA가 GPU 기업에서 거대 기업으로 성장했지만, 최근 폭락 뒤 숨겨진 진실을 파헤칩니다."
+      "fetched": "2026-11-21",
+      "title_ko": "NVIDIA CEO 교체와 Jensen Huang 사임",
+      "summary_ko": "NVIDIA CEO 교체 발표와 Huang 사임 소식, 관련 기사와 배경을 정리합니다."
     }
   ],
   "social": [],
