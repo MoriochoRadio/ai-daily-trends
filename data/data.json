@@ -1,70 +1,78 @@
 {
-  "generated_at": "2026-11-23T00:58:57.322184+00:00",
-  "date_label": "2026년 11월 23일 (월)",
+  "generated_at": "2026-11-24T04:52:20.637761+00:00",
+  "date_label": "2026년 11월 24일 (화)",
   "github_trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "desc": "",
-      "stars_today": 1716,
+      "stars_today": 2029,
       "lang": "Python",
-      "summary_ko": "elementalsouls/Claude-BugHunter: Claude 모델의 버그를 자동 탐지·보고하는 도구로, LLM 개발 시 품질 검증에 유용합니다."
+      "summary_ko": "elementalsouls/Claude-BugHunter: Claude 모델 버그를 자동 탐지·수정해 개발 효율을 높이는 도구입니다."
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 123,
+      "stars_today": 225,
       "lang": "Jupyter Notebook",
-      "summary_ko": "lyogavin/airllm: 경량화된 LLM 배포 프레임워크로, 클라우드·에지 환경에서 빠른 추론을 지원합니다."
+      "summary_ko": "lyogavin/airllm: LLM을 손쉽게 배포·관리할 수 있는 경량화된 Airflow 기반 파이프라인입니다."
     },
     {
       "repo": "Lordog/dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 100,
+      "stars_today": 146,
       "lang": "Jupyter Notebook",
-      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 학습 과정을 단계별로 설명하는 교육용 자료집으로, 입문자에게 적합합니다."
-    },
-    {
-      "repo": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "desc": "",
-      "stars_today": 98,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "anthropics/claude-cookbooks: Claude 활용 예시와 프롬프트 레시피를 모아둔 레퍼런스로, 실무 적용을 돕습니다."
+      "summary_ko": "Lordog/dive-into-llms: LLM 구조와 활용법을 단계별로 정리한 입문 가이드 레포지터리입니다."
     },
     {
       "repo": "agentscope-ai/agentscope",
       "url": "https://github.com/agentscope-ai/agentscope",
       "desc": "",
-      "stars_today": 43,
+      "stars_today": 76,
       "lang": "Python",
-      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 시뮬레이션 플랫폼으로, 복합 작업 자동화와 협업 연구에 활용됩니다."
+      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 협업을 위한 프레임워크로, 복잡한 워크플로우를 간소화합니다."
     },
     {
-      "repo": "xiaolai/the-craft-of-selfteaching",
-      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "repo": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 38,
+      "stars_today": 76,
       "lang": "Jupyter Notebook",
-      "summary_ko": "xiaolai/the-craft-of-selfteaching: 자기 주도 학습을 위한 LLM 튜토리얼과 베스트 프랙티스를 제공하는 리포지터리입니다."
-    },
-    {
-      "repo": "SWE-agent/mini-swe-agent",
-      "url": "https://github.com/SWE-agent/mini-swe-agent",
-      "desc": "",
-      "stars_today": 36,
-      "lang": "Python",
-      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량 LLM 에이전트로, 코드 작성·디버깅을 지원합니다."
+      "summary_ko": "anthropics/claude-cookbooks: Claude 활용 예시와 프롬프트 레시피를 모아 실전 적용을 돕는 컬렉션입니다."
     },
     {
       "repo": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "desc": "",
-      "stars_today": 29,
+      "stars_today": 47,
       "lang": "Python",
-      "summary_ko": "wshobson/agents: 다양한 AI 에이전트 구현 예시와 템플릿을 모아둔 컬렉션으로, 빠른 프로토타이핑에 유용합니다."
+      "summary_ko": "wshobson/agents: 다양한 AI 에이전트를 구현·실험할 수 있는 샘플 코드와 튜토리얼을 제공합니다."
+    },
+    {
+      "repo": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "desc": "",
+      "stars_today": 45,
+      "lang": "Python",
+      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량 SWE 에이전트 구현체입니다."
+    },
+    {
+      "repo": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "desc": "",
+      "stars_today": 34,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "xiaolai/the-craft-of-selfteaching: 자기주도 학습 전략과 도구를 정리한 실용적인 가이드북입니다."
+    },
+    {
+      "repo": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
+      "desc": "",
+      "stars_today": 27,
+      "lang": "Python",
+      "summary_ko": "apache/airflow: 워크플로우 스케줄링·모니터링을 위한 오픈소스 플랫폼으로 데이터 파이프라인을 관리합니다."
     },
     {
       "repo": "patchy631/ai-engineering-hub",
@@ -72,76 +80,100 @@
       "desc": "",
       "stars_today": 21,
       "lang": "Jupyter Notebook",
-      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 도구·워크플로우를 정리한 허브로, 프로젝트 관리와 배포에 참고됩니다."
+      "summary_ko": "patchy631/ai-engineering-hub: AI 엔지니어링 전반을 다루는 자료·툴 모음으로 실무 적용을 지원합니다."
     }
   ],
   "hackernews": [
     {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "points": 265,
-      "comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=50599762",
-      "title_ko": "Show HN: LLM 서브에이전트 게임 제작",
-      "summary_ko": "LLM의 서브에이전트 역할을 체험하는 게임을 직접 만들었다는 프로젝트로, AI 에이전트 활용 사례를 보여줍니다."
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "points": 1380,
+      "comments": 768,
+      "hn_url": "https://news.ycombinator.com/item?id=50615308",
+      "title_ko": "다리오, 위험성을 과장해 OSS 모델을 불법화하고 통제 유지",
+      "summary_ko": "다리오가 오픈소스 모델의 위험을 부각시켜 규제와 자신의 통제력을 강화하려는 논란을 다룬 글."
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "points": 171,
-      "comments": 61,
-      "hn_url": "https://news.ycombinator.com/item?id=50603845",
-      "title_ko": "초보자를 위한 Inkling·Qwen·Unsloth 로컬 AI 가이드",
-      "summary_ko": "Inkling, Qwen, Unsloth를 이용해 로컬에서 AI 모델을 실행하고 튜닝하는 방법을 단계별로 안내합니다."
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "points": 1087,
+      "comments": 351,
+      "hn_url": "https://news.ycombinator.com/item?id=50609685",
+      "title_ko": "GLM-5.4: 첫 루프 트랜스포머로 일반화 코딩에 도전",
+      "summary_ko": "새로운 루프 트랜스포머 기반 GLM-5.4가 코딩 작업을 보다 일반적으로 처리하도록 설계되었다."
     },
     {
-      "title": "Agent swarm trying to solve P vs. NP",
-      "url": "https://pequalnp.com/",
-      "points": 90,
-      "comments": 79,
-      "hn_url": "https://news.ycombinator.com/item?id=50604314",
-      "title_ko": "에이전트 스웜으로 P vs. NP 문제 해결 시도",
-      "summary_ko": "다수의 AI 에이전트가 협업해 복잡한 P vs. NP 문제를 탐구하는 실험적 접근을 소개합니다."
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "points": 383,
+      "comments": 287,
+      "hn_url": "https://news.ycombinator.com/item?id=50615481",
+      "title_ko": "Kagi 메일 (공개 베타)",
+      "summary_ko": "프라이버시 중심 이메일 서비스 Kagi Mail이 공개 베타로 출시돼 사용자 테스트를 시작한다."
     },
     {
-      "title": "Agentics: Mushy Software",
-      "url": "https://12gramsofcarbon.com/p/agentics-mushy-software",
-      "points": 38,
-      "comments": 6,
-      "hn_url": "https://news.ycombinator.com/item?id=50556249",
-      "title_ko": "Agentics: Mushy Software",
-      "summary_ko": "에이전트 기반 소프트웨어 개발 플랫폼 ‘Mushy’를 통해 복합 작업 자동화를 시도하는 내용입니다."
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "points": 44,
+      "comments": 4,
+      "hn_url": "https://news.ycombinator.com/item?id=50620328",
+      "title_ko": "잠재적 내성 검사: LLM이 사전 개념 주입을 감지",
+      "summary_ko": "대형 언어 모델이 숨겨진 개념 주입을 스스로 탐지할 수 있는 방법을 제시한다."
     },
     {
-      "title": "Harvard CS 2881R AI Safety",
-      "url": "https://boazbk.github.io/mltheoryseminar/",
-      "points": 33,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=50602153",
-      "title_ko": "Harvard CS 2881R AI 안전 강의",
-      "summary_ko": "하버드 대학의 AI 안전 전공 과목으로, 위험 관리와 윤리적 설계 원칙을 다룹니다."
-    },
-    {
-      "title": "Localcode, open source agentic coding on your Mac with one command",
-      "url": "https://github.com/mjwsolo/localcode",
-      "points": 14,
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
+      "points": 12,
       "comments": 1,
-      "hn_url": "https://news.ycombinator.com/item?id=50604540",
-      "title_ko": "Localcode: 한 줄 명령으로 Mac에서 에이전트 코딩",
-      "summary_ko": "Mac에 단일 명령만으로 오픈소스 에이전트 코딩 환경을 구축해 로컬 개발을 간소화합니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50622854",
+      "title_ko": "Declare: 당신과 AI를 위한 UI 언어",
+      "summary_ko": "Declare는 개발자와 AI가 협업해 UI를 정의하고 생성할 수 있게 하는 새로운 언어이다."
     },
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
-      "points": 9,
-      "comments": 3,
-      "hn_url": "https://news.ycombinator.com/item?id=50605445",
-      "title_ko": "0rwx – Unix 권한에서 영감받은 AI 사용 모델",
-      "summary_ko": "Unix 파일 권한 개념을 차용해 AI 접근과 사용을 제어하는 간단한 모델을 제시합니다."
+      "title": "Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in",
+      "url": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
+      "points": 6,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50623175",
+      "title_ko": "Show HN: Juncts, Claude와 ChatGPT가 연동되는 5앱 DM 인박스",
+      "summary_ko": "Juncts는 다섯 개 앱의 메시지를 하나의 인박스로 통합해 AI 비서와 연동하는 서비스다."
     }
   ],
   "reddit": [],
   "youtube": [
+    {
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "channel": "Two Minute Papers",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "published": "2026-11-23",
+      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 🙏 We would like to thank our generous Patreon supporters who make T",
+      "fetched": "2026-11-24",
+      "title_ko": "Claude AI, 블랙홀 비밀을 풀다",
+      "summary_ko": "Claude가 블랙홀 물리학 논문을 발표해 AI가 복잡한 천체 물리를 탐구한다는 점이 주목됩니다."
+    },
+    {
+      "title": "Opus just lost to the last company you'd expect...",
+      "channel": "Fireship",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k",
+      "published": "2026-11-23",
+      "desc": "Railway is the smoothest way to deploy software: https://railway.com/?referralCode=fireship Google just dropped Gemini 4 Neon, a mid tier model that somehow outscores its own three week old flagship. Let's break it down. Want more Fireship? 🗞️ Newsletter: https://bytes.dev 🧠 Cour",
+      "fetched": "2026-11-24",
+      "title_ko": "Opus, 예상치 못한 경쟁사에 패배",
+      "summary_ko": "Google이 Gemini 4 Neon 모델을 공개해 기존 Opus 대비 높은 성능을 보여주며 시장 판도를 바꿉니다."
+    },
+    {
+      "title": "AI뉴스 - 리만가설 증명됐다, FSD v15, GPT-6.2 Astra, Gemini 4 Neon, Inkling 2 Mini, Qwen4-Max 등",
+      "channel": "조코딩",
+      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "url": "https://www.youtube.com/watch?v=K8y9zyC-jeY",
+      "published": "2026-11-23",
+      "desc": "매주 최신 AI 뉴스를 전달드립니다. 조코딩의 바이브 코딩 1인 창업: https://youtu.be/P3jFI-VpyLg 조코헌트: https://jocohunt.jocoding.io/ 🕖목차 00:00 리만 가설 풀렸다 - 167년 난제를 Claude와 6주 만에 02:49 7대 난제 끝나간다 - 다음은 P = NP 05:13 Claude 블랙홀 물리학 미해결 문제 2개 해결 05:24 GPT-6.2 Astra · Sol 출시 - 악평 07:45 OpenAI API 백그라운드 모드 - 최대 4",
+      "fetched": "2026-11-24",
+      "title_ko": "AI 뉴스 – 리만 가설 증명·FSD v15·GPT‑6.2·Gemini 4 Neon 등",
+      "summary_ko": "리만 가설·Navier‑Stokes 등 수학 난제 해결과 최신 AI 모델 소식이 한 번에 정리됩니다."
+    },
     {
       "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
       "channel": "AI Search",
@@ -149,31 +181,9 @@
       "url": "https://www.youtube.com/watch?v=bj3JTd-ezYg",
       "published": "2026-11-22",
       "desc": "HUGE AI NEWS: Riemann hypothesis & Navier Stokes solved, Gemini 4 Neon, LongCat Avatar, GPT 6.2, Kling 4 Image, SenseNova Loop & more.Thanks to our sponsor Luma. Try it for free https://lumalabs.ai/aisearch-nov #ai #ainews #aitools #aivideo #agi #singularity 00:00 AI news intro 0",
-      "fetched": "2026-11-23",
-      "title_ko": "리만 가설·무강제 Navier‑Stokes 해결·새 GPT·Gemini Neon 등 AI 최신 소식",
-      "summary_ko": "리만 가설·Navier‑Stokes 증명, Gemini 4 Neon, GPT‑6.2 등 최신 AI 소식을 한눈에 정리한 영상입니다."
-    },
-    {
-      "title": "IT뉴스 - 리만가설 증명됐다, GPT-6.2 Astra, Gemini 4 Neon, Inkling 2 Mini, Qwen4-Max, FSD v15 등",
-      "channel": "조코딩",
-      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-      "url": "https://www.youtube.com/watch?v=hMXOsa3eO-8",
-      "published": "2026-11-22",
-      "desc": "IT뉴스 - 리만가설 증명됐다, GPT-6.2 Astra, Gemini 4 Neon, Inkling 2 Mini, Qwen4-Max, FSD v15 등",
-      "fetched": "2026-11-23",
-      "title_ko": "IT뉴스 – 리만 가설 증명·GPT‑6.2 Astra·Gemini 4 Neon·Inkling 2 Mini 등",
-      "summary_ko": "리만 가설 증명, GPT‑6.2 Astra, Gemini 4 Neon 등 최신 기술·AI 소식을 전하는 IT 뉴스 영상입니다."
-    },
-    {
-      "title": "If you’ve deployed anything since 2015, I have bad news...",
-      "channel": "Fireship",
-      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
-      "url": "https://www.youtube.com/watch?v=rMaMe32qQkA",
-      "published": "2026-11-20",
-      "desc": "Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fireship&utm_content=fireship-1 Hackers hijacked 178 major websites through Optimizely, a single Base64 string took over Java",
-      "fetched": "2026-11-23",
-      "title_ko": "2015년 이후 배포한 시스템에 경고… 새로운 코딩 에이전트 도구 소개",
-      "summary_ko": "실제 HTML·CSS 기반 디자인 캔버스를 제공하는 Paper 도구를 소개하며 기존 배포 환경의 위험성을 경고합니다."
+      "fetched": "2026-11-24",
+      "title_ko": "Riemann·Navier‑Stokes 해결·새 GPT·Gemini Neon 등 AI 뉴스",
+      "summary_ko": "리만 가설·Navier‑Stokes 증명과 최신 모델 발표 등 이번 주 AI 분야 핵심 소식을 요약합니다."
     },
     {
       "title": "RAG의 시작을 바꾸는 VLM: Document Parse 2.0 | AutoRAG Community Meetup 2026 | 최승기 발표📁",
@@ -182,20 +192,9 @@
       "url": "https://www.youtube.com/watch?v=bRzpzqedDSk",
       "published": "2026-11-20",
       "desc": "RAG와 AI 에이전트의 기술과 실전 경험을 나눈 자리, AutoRAG Community Meetup 2026의 발표 현장을 전합니다 🔗 AutoRAG GitHub 바로가기 https://github.com/Marker-Inc-Korea/A... #AutoRAG #RAG #AI에이전트 #오픈소스 #개발자 #meetup --- 📍 \"테디노트의 RAG 비법노트\" 랭체인 강의: https://fastcampus.co.kr/data_online_teddy 📘 랭체인 한국어 튜토리얼(무료 전자책): htt",
-      "fetched": "2026-11-23",
-      "title_ko": "RAG 혁신 VLM ‘Document Parse 2.0’ 발표 – AutoRAG 2026 Meetup",
-      "summary_ko": "AutoRAG 커뮤니티 2026 모임에서 최승기가 Document Parse 2.0을 통해 RAG와 AI 에이전트 기술 변화를 설명합니다."
-    },
-    {
-      "title": "DeepMind Just Released The Best Thing AI Ever Did",
-      "channel": "Two Minute Papers",
-      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
-      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
-      "published": "2026-11-19",
-      "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/ Interview with creator Dr. Pushmeet Kohl",
-      "fetched": "2026-11-23",
-      "title_ko": "DeepMind, AI 역대 최고 성과 발표 – AlphaGenome 논문 소개",
-      "summary_ko": "DeepMind가 발표한 AlphaGenome 논문을 통해 세포 해독 기술의 최신 성과와 AI 활용 방안을 살펴봅니다."
+      "fetched": "2026-11-24",
+      "title_ko": "RAG 혁신 VLM: Document Parse 2.0 발표",
+      "summary_ko": "AutoRAG 커뮤니티 2026 밋업에서 최승기가 문서 파싱 최신 버전으로 RAG 흐름을 바꾼다."
     },
     {
       "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
@@ -204,9 +203,9 @@
       "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
       "published": "2026-11-19",
       "desc": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? W",
-      "fetched": "2026-11-23",
-      "title_ko": "Anthropic IPO·GPT‑6.2 Astra 출시·Gemini 4 탄생 등 AI 시장 흐름",
-      "summary_ko": "Anthropic IPO와 GPT‑6.2 Astra 출시 소식 속에서 Gemini 4가 빠르게 성장하고 있음을 조명합니다."
+      "fetched": "2026-11-24",
+      "title_ko": "Anthropic IPO·GPT‑6.2 Astra·Gemini 경쟁",
+      "summary_ko": "Anthropic 상장과 GPT‑6.2 Astra 출시, Gemini 시리즈 급부상 등 AI 시장 큰 흐름을 분석합니다."
     },
     {
       "title": "GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money | Lex Fridman Podcast #505",
@@ -215,9 +214,9 @@
       "url": "https://www.youtube.com/watch?v=v1X9Fqs5a14",
       "published": "2026-11-19",
       "desc": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps kee",
-      "fetched": "2026-11-23",
-      "title_ko": "레전드 보석 절도범 라리 로턴 인터뷰 – 범죄·감옥·마피아 이야기",
-      "summary_ko": "미국 최악의 보석 절도범 라리 로턴이 FBI에 체포되고 감옥 생활을 겪은 이야기를 들려줍니다."
+      "fetched": "2026-11-24",
+      "title_ko": "Lex Fridman 팟캐스트 #505 – 라리 로턴 인터뷰",
+      "summary_ko": "미국 최고의 보석 절도범 라리 로턴이 범죄·감옥·마피아 이야기를 풀어갑니다."
     },
     {
       "title": "구글 딥마인드의 숨겨진 이야기… AI 미래는 이렇습니다 | 알파고를 만든 남자는 어떻게 AI 시대의 중심에 섰나 | 데미스 허사비스와 딥마인드 [인피니티 머신 북리뷰]",
@@ -226,9 +225,9 @@
       "url": "https://www.youtube.com/watch?v=Db1WyKSt_dA",
       "published": "2026-11-19",
       "desc": "인피니티 머신 도서 구매 링크 - 교보문고 https://bit.ly/4kenEIU - 예스24 https://bit.ly/4t25UCJ - 알라딘 https://bit.ly/48XtN5g * 본 영상은 위즈덤하우스의 지원을 받아 제작되었습니다. 알파고부터 제미나이까지, 지금의 AI 시대는 어떻게 시작됐을까요? 그 중심에는 인간처럼 생각하는 AI를 만들겠다는 꿈을 품은 데미스 허사비스와 딥마인드가 있었습니다. 이들은 게임을 통해 기계가 스스로 배우는 방법을 연구했고, 알파고는 AI의 가능성을 전 ",
-      "fetched": "2026-11-23",
-      "title_ko": "구글 딥마인드 비하인드 스토리 – AI 시대를 만든 인물들",
-      "summary_ko": "알파고부터 제미나이까지, 딥마인드 창립자와 AI 발전 과정을 책 리뷰와 함께 소개합니다."
+      "fetched": "2026-11-24",
+      "title_ko": "딥마인드 숨은 이야기와 AI 미래 전망",
+      "summary_ko": "알파고부터 제미나이까지 딥마인드의 역사를 통해 AI 시대가 어떻게 전개됐는지 조명합니다."
     },
     {
       "title": "The End of an Era: Jensen Huang",
@@ -237,11 +236,20 @@
       "url": "https://www.youtube.com/watch?v=9v4-zTODZWE",
       "published": "2026-11-15",
       "desc": "0:04 — NVIDIA CEO transition press release — https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition 0:26 — Guardian: Huang resigns after alleged affairs — https://www.theguardian.com/technology/2026/nov/12/nvidia-ceo-jensen-huang-resigns 1:07 — NYT: Huang target of Ch",
-      "fetched": "2026-11-23",
-      "title_ko": "엔비디아 CEO 교체와 젠슨 황 사임 소식",
-      "summary_ko": "젠슨 황이 사임하고 엔비디아 CEO가 교체된 배경과 관련 보도들을 정리한 영상입니다."
+      "fetched": "2026-11-24",
+      "title_ko": "엔비디아 CEO 교체와 Jensen Huang 퇴임",
+      "summary_ko": "엔비디아 CEO 전환 발표와 Huang 사임 소식이 업계에 미치는 파장을 살펴봅니다."
     }
   ],
-  "social": [],
+  "social": [
+    {
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "handle": "@ylecun",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "note": "HN 1380pts · 768 댓글",
+      "title_ko": "다리오, 위험성 과장해 OSS 모델을 불법화하고 통제 유지 주장",
+      "summary_ko": "@ylecun이 트위터에 올린 글이 OSS 모델을 불법화하려는 위험 과장 논란을 일으켜 주목받고 있다."
+    }
+  ],
   "summary_model": "openai/gpt-oss-120b"
 }
