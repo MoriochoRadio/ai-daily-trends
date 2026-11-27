@@ -1,156 +1,169 @@
 {
-  "generated_at": "2026-11-26T02:56:38.556334+00:00",
-  "date_label": "2026년 11월 26일 (목)",
+  "generated_at": "2026-11-27T02:59:08.014277+00:00",
+  "date_label": "2026년 11월 27일 (금)",
   "github_trending": [
     {
       "repo": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "desc": "",
-      "stars_today": 1652,
+      "stars_today": 1597,
       "lang": "Python",
-      "summary_ko": "Claude-BugHunter는 Claude 모델의 버그를 자동 탐지·보고해 개발 효율을 높이는 도구입니다."
+      "summary_ko": "elementalsouls/Claude-BugHunter: 클로드 모델의 버그를 자동 탐지·수정해 개발 효율을 높이는 도구"
     },
     {
       "repo": "lyogavin/airllm",
       "url": "https://github.com/lyogavin/airllm",
       "desc": "",
-      "stars_today": 85,
+      "stars_today": 71,
       "lang": "Jupyter Notebook",
-      "summary_ko": "airllm은 클라우드·온프레미스 환경에서 LLM을 손쉽게 배포·관리할 수 있게 해주는 라이브러리입니다."
-    },
-    {
-      "repo": "agentscope-ai/agentscope",
-      "url": "https://github.com/agentscope-ai/agentscope",
-      "desc": "",
-      "stars_today": 72,
-      "lang": "Python",
-      "summary_ko": "agentscope는 멀티에이전트 시스템 구축을 위한 파이썬 프레임워크로, 워크플로우 설계가 간편합니다."
+      "summary_ko": "lyogavin/airllm: LLM을 활용한 에어플로우 파이프라인 자동화 프레임워크"
     },
     {
       "repo": "anthropics/claude-cookbooks",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "desc": "",
-      "stars_today": 69,
+      "stars_today": 58,
       "lang": "Jupyter Notebook",
-      "summary_ko": "claude-cookbooks는 Claude용 프롬프트 레시피를 모아 다양한 활용 사례를 제공하는 컬렉션입니다."
+      "summary_ko": "anthropics/claude-cookbooks: 클로드 활용 예시와 프롬프트 레시피를 모아둔 컬렉션"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
+      "repo": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
       "desc": "",
       "stars_today": 56,
-      "lang": "Jupyter Notebook",
-      "summary_ko": "dive-into-llms는 LLM의 원리와 실습 예제를 단계별로 설명해 입문자를 돕는 튜토리얼 레포입니다."
+      "lang": "Python",
+      "summary_ko": "agentscope-ai/agentscope: 멀티에이전트 시스템 구축을 위한 파이썬 라이브러리"
     },
     {
       "repo": "SWE-agent/mini-swe-agent",
       "url": "https://github.com/SWE-agent/mini-swe-agent",
       "desc": "",
-      "stars_today": 29,
+      "stars_today": 43,
       "lang": "Python",
-      "summary_ko": "mini-swe-agent는 소프트웨어 엔지니어링 작업을 자동화하는 경량 AI 에이전트 구현체입니다."
+      "summary_ko": "SWE-agent/mini-swe-agent: 소프트웨어 엔지니어링 작업을 자동화하는 경량 에이전트"
     },
     {
-      "repo": "samuelgursky/davinci-resolve-mcp",
-      "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+      "repo": "Lordog/dive-into-llms",
+      "url": "https://github.com/Lordog/dive-into-llms",
       "desc": "",
-      "stars_today": 27,
-      "lang": "Python",
-      "summary_ko": "davinci-resolve-mcp는 DaVinci Resolve와 외부 프로세스를 연동해 자동화 파이프라인을 구축합니다."
+      "stars_today": 39,
+      "lang": "Jupyter Notebook",
+      "summary_ko": "Lordog/dive-into-llms: LLM 내부 구조와 활용법을 단계별로 설명하는 튜토리얼"
     },
     {
       "repo": "wshobson/agents",
       "url": "https://github.com/wshobson/agents",
       "desc": "",
-      "stars_today": 26,
+      "stars_today": 38,
       "lang": "Python",
-      "summary_ko": "agents는 여러 AI 에이전트 구현 예시와 템플릿을 제공해 빠른 프로토타이핑을 지원합니다."
+      "summary_ko": "wshobson/agents: 다양한 AI 에이전트 구현 예시와 샘플 코드를 제공"
     },
     {
-      "repo": "patchy631/ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "repo": "apache/airflow",
+      "url": "https://github.com/apache/airflow",
       "desc": "",
-      "stars_today": 23,
+      "stars_today": 24,
+      "lang": "Python",
+      "summary_ko": "apache/airflow: 워크플로우 스케줄링·모니터링을 위한 오픈소스 플랫폼"
+    },
+    {
+      "repo": "gepa-ai/gepa",
+      "url": "https://github.com/gepa-ai/gepa",
+      "desc": "",
+      "stars_today": 21,
       "lang": "Jupyter Notebook",
-      "summary_ko": "ai-engineering-hub는 AI 엔지니어링에 필요한 도구·자료·베스트프랙티스를 한곳에 모은 리소스 허브입니다."
+      "summary_ko": "gepa-ai/gepa: 고성능 파이프라인을 위한 GPU 기반 데이터 처리 엔진"
     }
   ],
   "hackernews": [
     {
-      "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "url": "https://github.com/lsernau/grh-lean",
-      "points": 303,
-      "comments": 137,
-      "hn_url": "https://news.ycombinator.com/item?id=50648050",
-      "title_ko": "Anthropic의 GRH Lean 검증 간소화 버전",
-      "summary_ko": "Anthropic이 발표한 GRH Lean 검증을 훨씬 짧게 만든 버전으로, 검증 효율성을 크게 높였습니다."
+      "title": "AI made self-hosting fun again",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "points": 358,
+      "comments": 197,
+      "hn_url": "https://news.ycombinator.com/item?id=50660180",
+      "title_ko": "AI가 셀프 호스팅을 다시 즐겁게 만들다",
+      "summary_ko": "AI 기반 도구가 셀프 호스팅 환경을 간편하게 만들어 개발자 관심을 끈다."
     },
     {
-      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-      "points": 261,
+      "title": "OpenAI may be in cost control mode",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode/",
+      "points": 284,
+      "comments": 285,
+      "hn_url": "https://news.ycombinator.com/item?id=50652527",
+      "title_ko": "OpenAI, 비용 절감 모드에 진입할 가능성",
+      "summary_ko": "OpenAI가 서비스 비용을 억제하기 위해 가격 정책·인프라 조정을 검토 중이다."
+    },
+    {
+      "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+      "points": 259,
+      "comments": 217,
+      "hn_url": "https://news.ycombinator.com/item?id=50653477",
+      "title_ko": "Google, AI 에이전트에 MCP 서버 사용 강제… Gmail 에이전트는 메일 전송 불가",
+      "summary_ko": "Google이 AI 에이전트에 자체 MCP 서버를 쓰게 하면서, Gmail 에이전트는 메일 전송 기능을 제한했다."
+    },
+    {
+      "title": "An algebraic quantization of gravity from the null cone",
+      "url": "https://arxiv.org/abs/2611.34924",
+      "points": 218,
       "comments": 78,
-      "hn_url": "https://news.ycombinator.com/item?id=50601280",
-      "title_ko": "GPT-6.2 Astra, 구글 코딩 골프 기록 최초 돌파",
-      "summary_ko": "GPT-6.2 Astra가 구글 엔지니어들의 코드 골프 기록을 처음으로 능가해 AI 코딩 성능을 입증했습니다."
+      "hn_url": "https://news.ycombinator.com/item?id=50651863",
+      "title_ko": "널 콘을 통한 중력의 대수적 양자화",
+      "summary_ko": "널 콘 구조를 이용해 중력을 대수적으로 양자화하는 새로운 이론적 접근을 제시한다."
     },
     {
-      "title": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
-      "url": "https://jayd.ml/2026/11/14/rockbox-on-yp3.html",
-      "points": 232,
-      "comments": 95,
-      "hn_url": "https://news.ycombinator.com/item?id=50624446",
-      "title_ko": "LLM으로 문서화되지 않은 $9 알리익스프레스 'YP3' MP3 플레이어에 Rockbox 포팅",
-      "summary_ko": "LLM을 활용해 사양이 공개되지 않은 저가 MP3 플레이어에 오픈소스 펌웨어 Rockbox를 성공적으로 이식했습니다."
+      "title": "The USAID Files",
+      "url": "https://reclaimthenet.org/usaid-files",
+      "points": 159,
+      "comments": 181,
+      "hn_url": "https://news.ycombinator.com/item?id=50649040",
+      "title_ko": "USAID 파일들",
+      "summary_ko": "미국 국제 개발청(USAID)의 문서·데이터를 공개해 투명성과 연구에 활용한다."
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "points": 225,
-      "comments": 186,
-      "hn_url": "https://news.ycombinator.com/item?id=50647673",
-      "title_ko": "NYT, 포토그래퍼에게 AI 기능 포함 포토샵 업데이트 금지 경고",
-      "summary_ko": "뉴욕타임스가 사진작가들에게 AI 기능이 추가된 포토샵 업데이트를 하지 말라고 경고해 논란을 일으켰습니다."
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "points": 33,
+      "comments": 13,
+      "hn_url": "https://news.ycombinator.com/item?id=50661218",
+      "title_ko": "AI 에이전트, DeepMind Gemini 실험용 컴퓨팅 일부 제어",
+      "summary_ko": "DeepMind가 Gemini 프로젝트에서 AI 에이전트가 컴퓨팅 자원을 직접 관리하도록 시험하고 있다."
     },
     {
-      "title": "Tell HN: Lots of Ask HNs again",
-      "url": "https://news.ycombinator.com/item?id=50649864",
-      "points": 107,
-      "comments": 47,
-      "hn_url": "https://news.ycombinator.com/item?id=50649864",
-      "title_ko": "Tell HN: 다시 늘어난 Ask HN 게시물들",
-      "summary_ko": "다시 활발해진 Ask HN 게시물들을 알리는 HN 사용자들의 공지글입니다."
-    },
-    {
-      "title": "Britain's ghost stations",
-      "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
-      "points": 101,
-      "comments": 21,
-      "hn_url": "https://news.ycombinator.com/item?id=50645074",
-      "title_ko": "영국의 유령 역들",
-      "summary_ko": "폐쇄되었지만 여전히 남아 있는 영국의 ‘유령 역’들을 소개하는 흥미로운 기사입니다."
-    },
-    {
-      "title": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
-      "url": "https://chszlab.github.io/AgenticAlgorithmEngineering/",
-      "points": 82,
-      "comments": 9,
-      "hn_url": "https://news.ycombinator.com/item?id=50611593",
-      "title_ko": "Show HN: 가설 검증으로 코드를 최적화하는 에이전트 스킬",
-      "summary_ko": "코드 최적화를 위해 반증 가능한 가설을 세우고 실행하는 에이전트 기능을 공개한 프로젝트입니다."
-    },
-    {
-      "title": "Multiagent coding is the future",
-      "url": "https://www.kalzumeus.com/2026/11/25/multiagent-coding-is-the-future/",
-      "points": 46,
-      "comments": 27,
-      "hn_url": "https://news.ycombinator.com/item?id=50645541",
-      "title_ko": "멀티에이전트 코딩이 미래다",
-      "summary_ko": "여러 AI 에이전트가 협업해 코드를 작성·디버깅하는 멀티에이전트 코딩이 향후 개발 흐름이 될 것이라고 주장합니다."
+      "title": "An introduction to uncertainty in machine learning",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "points": 15,
+      "comments": 0,
+      "hn_url": "https://news.ycombinator.com/item?id=50658498",
+      "title_ko": "머신러닝 불확실성 입문",
+      "summary_ko": "머신러닝 모델의 불확실성을 이해하고 평가하는 기본 개념과 방법을 소개한다."
     }
   ],
   "reddit": [],
   "youtube": [
+    {
+      "title": "핵심 인재 줄줄이 떠났는데... 구글 AI 끝났다더니 석 달 만에 1위 탈환 | 제미나이 4 아르곤·카본이 판도를 바꾼 진짜 비결 | TPU 자원 집중, 안티그래비티가 만든 격차",
+      "channel": "안될공학",
+      "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
+      "url": "https://www.youtube.com/watch?v=ldVMaeLgJSE",
+      "published": "2026-11-27",
+      "desc": "지난 5월 구글 I/O에서 예고했던 제미나이 3.5 프로가 출시되지 않고 핵심 인재들마저 회사를 떠나면서, 한때 구글의 AI 위기론이 거세게 일었습니다. 하지만 불과 몇 달 뒤인 가을, 구글은 아르곤을 시작으로 카본, 하이드로젠, 네온을 연달아 선보이며 외부 종합 평가 1위를 탈환했습니다. 이번 영상에서는 여름철 위기설과 가을의 극적인 반전 사이에 구글 내부에서 실제로 어떤 변화가 일어났는지 살펴봅니다. 먼저 구글이 보유한 막대한 TPU 연산 자원이 왜 제때 코딩 모델 개발에 쓰이지 못했는지, 그",
+      "fetched": "2026-11-27",
+      "title_ko": "구글 AI 위기설 뒤 3개월 만에 1위 탈환",
+      "summary_ko": "핵심 인재 이탈과 제품 지연에도 구글이 아르곤·카본 등으로 AI 순위 1위를 회복했다."
+    },
+    {
+      "title": "입모양에 진심인 대기업의 미친 특허",
+      "channel": "조코딩",
+      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "url": "https://www.youtube.com/shorts/dihZHI7UqMc",
+      "published": "2026-11-26",
+      "desc": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ VVIP 멤버십 후원 그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다. https://www.youtube.com/",
+      "fetched": "2026-11-27",
+      "title_ko": "입모양 인식 특허를 낸 대기업",
+      "summary_ko": "대기업이 입모양 분석에 초점을 맞춘 특허를 출원해 눈길을 끈다."
+    },
     {
       "title": "Claude AI’s Biggest Math Breakthrough Has A Problem.",
       "channel": "Two Minute Papers",
@@ -158,9 +171,9 @@
       "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
       "published": "2026-11-25",
       "desc": "❤️ Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers 📝 The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Compression and building in public: https://x.com/altryne/status/2124585496013",
-      "fetched": "2026-11-26",
-      "title_ko": "Claude AI의 획기적 수학 성과에 문제점",
-      "summary_ko": "Claude가 1만 7백만 라인 Lean 코드를 통해 수학 증명을 시도했지만 오류가 발견돼 주목받고 있습니다."
+      "fetched": "2026-11-27",
+      "title_ko": "Claude AI 수학 돌파구의 문제점",
+      "summary_ko": "Claude AI가 큰 수학적 진전을 보였지만 핵심적인 오류가 지적된다."
     },
     {
       "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
@@ -169,31 +182,20 @@
       "url": "https://www.youtube.com/watch?v=Jatwf_XOncE",
       "published": "2026-11-25",
       "desc": "Start a free 14-day CodeRabbit Explain trial, no credit card required: https://coderabbit.link/fireship-012 A 41 day conversation with Claude just spat out 17 million lines of Lean that claim to prove the Riemann Hypothesis, the most famous unsolved problem in math. Let's dive in",
-      "fetched": "2026-11-26",
-      "title_ko": "17백만 라인 AI 코드가 167년 된 수학 문제를 풀다",
-      "summary_ko": "Claude와 41일 대화로 생성된 방대한 Lean 코드가 오래된 수학 난제를 해결하려 시도합니다."
+      "fetched": "2026-11-27",
+      "title_ko": "167년 된 수학 문제, 1700만 라인 코드로 해결",
+      "summary_ko": "Claude와 41일 대화가 1700만 라인 Lean 코드를 생성해 오래된 문제를 증명했다."
     },
     {
-      "title": "Something Strange is Going on With NVIDIA",
+      "title": "The Real Reason NVIDIA’s Board Folded",
       "channel": "ColdFusion",
       "channel_id": "UC4QZ_LsYcvcq7qOsOhpAX4A",
       "url": "https://www.youtube.com/watch?v=UWvObtGg6Rk",
       "published": "2026-11-25",
-      "desc": "https://brilliant.org/coldfusion — Try Brilliant's tutor for free and get 20% off an annual subscription, including gift subscriptions this holiday season! It's 3am and I'm tired. Thanks for watching! ColdFusion Music: https://www.youtube.com/@coldfusionmusic http://burnwater.ban",
-      "fetched": "2026-11-26",
-      "title_ko": "NVIDIA에 이상 현상 감지",
-      "summary_ko": "ColdFusion 영상에서 NVIDIA의 최근 기술·사업 동향에 의문을 제기하며 주목을 끌고 있습니다."
-    },
-    {
-      "title": "더 자연스러워져서 돌아온 공짜 립싱크 AI",
-      "channel": "조코딩",
-      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
-      "url": "https://www.youtube.com/shorts/zJ9rlVhnDAw",
-      "published": "2026-11-25",
-      "desc": "조코딩의 바이브 코딩 1인 창업 책: https://www.yes24.com/product/goods/189855418 AX 컨설팅 및 교육 문의: https://jocodingax.ai 조코헌트: https://jocohunt.jocoding.io/ VVIP 멤버십 후원 그림자그림자님, Sicongbabe님, 정진균님, 시원-r9u님, GomnaStudio님, 천사슥님, bellati272님, happypink81님, kogurean9님 감사드립니다. https://www.youtube.com/",
-      "fetched": "2026-11-26",
-      "title_ko": "자연스러워진 무료 립싱크 AI 돌아옴",
-      "summary_ko": "조코딩이 소개한 최신 립싱크 AI가 개선된 자연스러움으로 무료 제공됩니다."
+      "desc": "https://brilliant.org/coldfusion — Try Brilliant's tutor for free and get 20% off an annual subscription, including gift subscriptions this holiday season! It's 3am and I'm tired. Thanks for watching! ColdFusion Music: https://www.youtube.com/@ColdFusionmusic http://burnwater.ban",
+      "fetched": "2026-11-27",
+      "title_ko": "NVIDIA 이사회 붕괴의 진짜 이유",
+      "summary_ko": "NVIDIA 이사회가 무너지게 된 배경과 내부 갈등을 분석한다."
     },
     {
       "title": "Cleaning the house with LLMs (llm2real)",
@@ -202,20 +204,9 @@
       "url": "https://www.youtube.com/watch?v=DIernxr0JQQ",
       "published": "2026-11-24",
       "desc": "Learn more about Asus' DGX Station: https://asus.click/Sentdex-ASUS-ET900NG3 The robot is from: https://vulcanrobotics.ai/ a live and in-depth look into llm2real! DSV4.1F-1017 running via a robotics harness as a fully generalize-able pipeline for cleaning up the floors of a varie",
-      "fetched": "2026-11-26",
-      "title_ko": "LLM으로 집 청소 로봇 제어 (llm2real)",
-      "summary_ko": "sentdex 영상은 LLM을 활용해 로봇이 실시간으로 집안을 청소하는 시연을 보여줍니다."
-    },
-    {
-      "title": "드론 띄운 줄 알았던 그 화면 … 테슬라 FSD v15가 실시간으로 그린 리얼리티 뷰 | 차 화면을 AI가 실시간으로 다시 그린다",
-      "channel": "안될공학",
-      "channel_id": "UCeN2YeJcBCRJoXgzF_OU3qw",
-      "url": "https://www.youtube.com/watch?v=7_LuK90TURQ",
-      "published": "2026-11-24",
-      "desc": "한국 시간 11월 22일 새벽, 테슬라가 공개한 짧은 영상에는 금문교를 실사처럼 건너는 화면과, 해안도로와 도심을 위에서 내려다본 장면이 이어집니다. 국내에서는 드론을 띄운 줄 알았다는 반응도 나왔지만, 실제로는 차에 실린 컴퓨터가 달리면서 실시간으로 그려 낸 화면입니다. 테슬라는 이 기능을 FSD 버전 15의 리얼리티 뷰라고 부르며, 회색 모형 대신 차의 다음 방향이나 주차 자리 같은 의도까지 함께 보여줍니다. 이 그림은 여러 카메라 정보에서 출발하지만, 카메라가 찍지 못한 빈 자리와 가상 시점",
-      "fetched": "2026-11-26",
-      "title_ko": "테슬라 FSD v15, 실시간 리얼리티 뷰 공개",
-      "summary_ko": "테슬라가 차 내 컴퓨터로 실시간 3D 화면을 그려내는 FSD 버전 15 기능을 선보였습니다."
+      "fetched": "2026-11-27",
+      "title_ko": "LLM으로 집안 청소하기 (llm2real)",
+      "summary_ko": "LLM 기반 로봇이 실제 환경에서 청소 작업을 수행하는 시연을 보여준다."
     },
     {
       "title": "RAG의 시작을 바꾸는 VLM: Document Parse 2.0 | AutoRAG Community Meetup 2026 | 최송기 발표📁",
@@ -224,9 +215,9 @@
       "url": "https://www.youtube.com/watch?v=5HeF1R8J2Us",
       "published": "2026-11-24",
       "desc": "영상에 오류가 있어 수정 후 재업로드합니다. 이미 시청해 주시고 소중한 댓글 남겨 주신 분들께 죄송합니다. 양해 부탁드립니다 🙏 --- RAG와 AI 에이전트의 기술과 실전 경험을 나눈 자리, AutoRAG Community Meetup 2026의 발표 현장을 전합니다 🔗 AutoRAG GitHub 바로가기 https://github.com/Marker-Inc-Korea/A... #AutoRAG #RAG #AI에이전트 #오픈소스 #개발자 #meetup --- 📍 \"테디노트의 RAG 비법노트\" 랭체",
-      "fetched": "2026-11-26",
-      "title_ko": "VLM이 바꾸는 RAG 시작, Document Parse 2.0",
-      "summary_ko": "AutoRAG 커뮤니티 밋업에서 최송기가 VLM 기반 Document Parse 2.0을 발표했습니다."
+      "fetched": "2026-11-27",
+      "title_ko": "RAG 변화를 이끄는 VLM: Document Parse 2.0",
+      "summary_ko": "AutoRAG 2026 발표에서 VLM 기반 Document Parse 2.0이 RAG 흐름을 바꾼다."
     },
     {
       "title": "Riemann solved, unforced Navier-Stokes, realtime waifus, new GPT, Gemini Neon: AI NEWS",
@@ -235,9 +226,9 @@
       "url": "https://www.youtube.com/watch?v=bj3JTd-ezYg",
       "published": "2026-11-22",
       "desc": "HUGE AI NEWS: Riemann hypothesis & Navier Stokes solved, Gemini 4 Neon, LongCat Avatar, GPT 6.2, Kling 4 Image, SenseNova Loop & more.Thanks to our sponsor Luma. Try it for free https://lumalabs.ai/aisearch-nov #ai #ainews #aitools #aivideo #agi #singularity 00:00 AI news intro 0",
-      "fetched": "2026-11-26",
-      "title_ko": "Riemann 가설·Navier‑Stokes 해결 등 AI 최신 소식",
-      "summary_ko": "AI Search는 최근 Riemann 가설·Navier‑Stokes 해결, Gemini Neon 등 주요 뉴스를 정리합니다."
+      "fetched": "2026-11-27",
+      "title_ko": "AI 최신 소식: 리만·나비에스 해결·Gemini Neon 등",
+      "summary_ko": "리만 가설·Navier‑Stokes 해결, Gemini Neon 등 최신 AI 소식을 정리한다."
     },
     {
       "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There’s a Bigger Story",
@@ -246,20 +237,11 @@
       "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
       "published": "2026-11-19",
       "desc": "GPT 6.2 Astra is OpenAI’s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this isn’t quite the main story, is it? W",
-      "fetched": "2026-11-26",
-      "title_ko": "Anthropic IPO·GPT‑6.2 Astra 출시, 더 큰 이야기",
-      "summary_ko": "AI Explained는 Anthropic IPO와 GPT‑6.2 Astra 발표 뒤에 숨은 산업 전환을 분석합니다."
+      "fetched": "2026-11-27",
+      "title_ko": "Anthropic IPO·GPT‑6.2 Astra·Gemini 경쟁",
+      "summary_ko": "Anthropic 상장과 GPT‑6.2 Astra 출시, Gemini의 급부상 등 AI 시장 흐름을 조명한다."
     }
   ],
-  "social": [
-    {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "handle": "@down-to-earth",
-      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
-      "note": "HN 446pts · 110 댓글",
-      "title_ko": "홈디포 저수지에서 스노클링한 사람에게 묻는 몇 가지 질문",
-      "summary_ko": "@down-to-earth 트위터에서 화제가 된 글로, 홈디포 저수지에서 스노클링한 사람에게 여러 궁금증을 제시한다."
-    }
-  ],
+  "social": [],
   "summary_model": "openai/gpt-oss-120b"
 }
